@@ -1,4 +1,4 @@
-[Imgur](https://i.imgur.com/RiXfXp9.png)
+![image](https://user-images.githubusercontent.com/9169633/195195009-23cef4cb-e1ca-4d4b-831c-1f7145e66be3.png)
 
 # The Internet's Best BOOKMRKS, MTHERFCKR!
 
