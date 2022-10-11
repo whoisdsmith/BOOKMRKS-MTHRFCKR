@@ -111,8 +111,8 @@
 - [Switching From Windows to Nix or a Newbie to Linux - 20 Useful Commands for Linux Newbies](https://www.tecmint.com/useful-linux-commands-for-newbies)
 - [The Linux Documentation Project: Guides](https://www.tldp.org/guides.html)
 
-### Mac Apps
-#### OSX
+## Mac Apps
+### OSX
 - [[ Mac Software ] | AppNee Freeware Group.](https://appnee.com/category/mac-software)
 - [All Mac World - MAC Apps One Click Away](https://allmacworld.com/)
 - [Applications macOS - SoftArchive](https://sanet.st/applications/filter/page-1?subcategory%5B0%5D=mac-software)
@@ -167,11 +167,11 @@
 - [‎TextLab 2](https://apps.apple.com/us/app/textlab-2/id1582888285?mt=12)
 - [ueli - A keystroke launcher for Windows and macOS](https://ueli.app/#/)
 - [‎Wunderbucket](https://apps.apple.com/us/app/wunderbucket/id1545630520?mt=12)
-### Mobile Apps
-#### Android
+## Mobile Apps
+### Android
 - [chrisknepper/android-messages-desktop at producthunt](https://github.com/chrisknepper/android-messages-desktop?ref=producthunt)
-#### iOS Apps
-##### iOS Shortcuts
+### iOS Apps
+#### iOS Shortcuts
 - [12 Best Siri Shortcuts and Automations for iPhone Power Users](https://beebom.com/best-siri-shortcuts-automations/)
 - [360000098827 creating triggers on i os](https://support.idevicesinc.com/hc/en-us/articles/360000098827-Creating-Triggers-On-iOS)
 - [5 Inspiring Apple Shortcuts (macOS)](https://medium.com/@richardmoult75/5-more-interesting-mac-shortcuts-to-learn-from-e63c4566e16d)
@@ -279,7 +279,7 @@
 - [Zulip by Kandra Labs, Inc.](https://apps.apple.com/us/app/zulip/id1203036395)
 - [Appscope](https://appsco.pe/)
 - [‎Writemator](https://apps.apple.com/us/app/writemator/id1326574914)
-### OS Other
+## OS Other
 - [CasaOS - A simple, easy-to-use, elegant open-source home cloud system](https://www.casaos.io/)
 - [Front Page](https://reactos.org/)
 - [Haiku Project](https://www.haiku-os.org/)
@@ -290,16 +290,15 @@
 - [System76 - Linux Laptops, Desktops, and Servers](https://system76.com/)
 - [urbit.org](https://urbit.org/)
 - [Your favorite operating systems in one place! | netboot.xyz](https://www.netboot.xyz/)
----
-### Windows Software
-#### Cross Platform
+## Windows Software
+### Cross Platform
 - [Ferdi](https://getferdi.com/)
 - [Phone2 | Second Phone Number for Small Business and Teams](https://www.phone2.io/?ref=producthunt)
 - [Wormhole - Browse & Control phone on PC, Screen Fusion for iOS & Android](https://er.run/)
-#### Customizing OS
+### Customizing OS
 - [Cairo Desktop Environment](https://cairoshell.com/)
 - [Download - AME](https://ameliorated.info/index.html)
-#### Drivers
+### Drivers
 - [DriverHub](https://www.drvhub.net/)
 - [DriverOff.net](https://driveroff.net/)
 - [DriverPack Solution](https://driverpack.io/)
@@ -307,13 +306,12 @@
 - [Semantic](https://semantic.gs/)
 - [Station-drivers](https://www.station-drivers.com/)
 - [TousLesDrivers](https://www.touslesdrivers.com/)
-#### File Management
+### File Management
 - [Automate Data Capture](https://www.docdigitizer.com/)
-#### Mobile & Desktop Tracking Software
+### Mobile & Desktop Tracking Software
 - [Spyrix Personal Monitor. Remote monitoring of computers](https://www.spyrix.com/spyrix-personal-monitor.php)
-#### Software (Free or Open Source)
+### Software (Free or Open Source)
 - [🥇Free Download Windows Software And Games](https://www.download.hr/)
-- [🥇Free Download Windows Software And Games](https://www.download.io/)
 - [AlternativeTo - Social Software Recommendations](http://alternativeto.net/)
 - [App news and reviews, best software downloads and discovery - Softonic](https://en.softonic.com/)
 - [Download Diagnostics Tools for Windows - MajorGeeks](https://www.majorgeeks.com/mg/sortdate/diagnostics.html)
@@ -351,7 +349,7 @@
 - [Sourceforge](https://sourceforge.net/)
 - [TOP 100 Best software for Windows - download free](https://soft.mydiv.org/win/top100.html)
 - [WinTools.Info - Usable Windows Tools](https://www.wintools.info/)
-#### Software Repacks
+### Software Repacks
 - [DIAKOV.NET](https://diakov.net/)
 - [Piratedhub.com](https://piratedhub.com/)
 - [PooShock](https://pooshock.ru/)
@@ -359,7 +357,7 @@
 - [Soft4PC](https://s0ft4pc.com/)
 - [Авторские репаки от ELCHUPACABRA](https://lrepacks.net/)
 - [Скачать Windows через торрент](https://prog-top.net/)
-#### Windows
+### Windows
 - [adi1090x/rofi: A large collection of Rofi based custom Menu, Applets, Launchers & Powermenus.](https://github.com/adi1090x/rofi)
 - [ALL PC World - Free Apps One Click Away](https://allpcworld.com/)
 - [All-in-One Messenger](https://allinone.im/?ref=producthunt)

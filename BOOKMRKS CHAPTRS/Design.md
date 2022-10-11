@@ -291,7 +291,7 @@
 - [YouTube video upload time](https://www.aware-online.com/en/osint-tutorials/youtube-video-upload-time)
 - [youtube-dl](https://rg3.github.io/youtube-dl)
 - [youtube-dl](https://ytdl-org.github.io/youtube-dl/index.html)
-### Pallets
+## Pallets
 - [0to255](https://www.0to255.com/)
 - [100 brilliant color combinations and how to apply them to your designs – Learn](https://www.canva.com/learn/100-color-combinations)
 - [Color](https://color.adobe.com/pt/create)
@@ -301,7 +301,7 @@
 - [Colours](https://webcolourdata.com/)
 - [Colours](https://ww12.webcolourdata.com/)
 - [Www.canva.com](https://www.canva.com/colors/color-palettes)
-### Patterns
+## Patterns
 - [ava7 patterns /// 1899 free seamless background patterns](https://ava7patterns.com/)
 - [Burst](https://burst.shopify.com/textures)
 - [DinPattern – Free seamless patterns](https://www.dinpattern.com/)
@@ -317,13 +317,13 @@
 - [TextureKing](https://www.textureking.com/)
 - [Texturesforfree.com](https://texturesforfree.com/)
 - [Unsplash Backgrounds](https://unsplash.com/backgrounds)
-### Placeholder
+## Placeholder
 - [Fake images please?](https://fakeimg.pl/)
 - [Lorem Picsum](https://picsum.photos/)
 - [lorempixel](https://lorempixel.com/)
 - [Placeholder.pics](https://placeholder.pics/)
 - [Placemat](https://placem.at/)
-### PNGs
+## PNGs
 - [4-Designer | Free PSD,Code,Vector,FLASH,HD Pictures,3D,font,template download](https://4-designer.com/)
 - [Abstract & Fractal Backgrounds » page 28 » Free Download Photoshop Vector Stock image Via Torrent Zippyshare From psdkeys.com](https://psdkeys.com/stock-images/abstract-fractal-backgrounds/page/28)
 - [CleanPNG - HD png images and illustrations. Free unlimited download.](https://www.cleanpng.com/)
@@ -338,7 +338,7 @@
 - [PurePNG | Free transparent CC0 PNG Image Library](https://purepng.com/)
 - [vexels.com](https://www.vexels.com/)
 - [www.pngwing.com/pt](https://www.pngwing.com/pt)
-### Shutterstock
+## Shutterstock
 - [downloader.la](https://downloader.la/)
 - [Find Stock](https://png.is/tool/findstock)
 - [Find Stock](https://nohat.cc/tool/findstock)
@@ -350,7 +350,7 @@
 - [Shutterstock Downloader](https://shutterstock-downloader.beatsnoop.com/)
 - [Stock Photo and Image Portfolio by faestock | Shutterstock](https://www.shutterstock.com/g/faestock)
 - [Stock Photo Downloader](https://tomato.to/)
-### Stock Photos
+## Stock Photos
 - [[FREE] No Watermark Shutterstock Image | BlackHatWorld](https://www.blackhatworld.com/seo/free-no-watermark-shutterstock-image.942245)
 - [1 million free pictures](https://www.1millionfreepictures.com/)
 - [100k_models - Google Drive](https://drive.google.com/drive/folders/1wSy4TVjSvtXeRQ6Zr8W98YbSuZXrZrgY)
@@ -413,13 +413,13 @@
 - [Unsplash](https://unsplash.com/wallpapers/cool/abstract)
 - [Wunderstock.com](https://wunderstock.com/)
 - [www.freestockphotos.com](https://freestockphotos.com/)
-### SVG
+## SVG
 - [Create Customizable, Hi-Def, and Scalable Backgrounds](https://www.svgbackgrounds.com/)
 - [Svgrepo](https://www.svgrepo.com/)
-### Templates
+## Templates
 - [Gift 4 Designer](https://gift4designer.net/)
 - [Templates4share.com - Free Web Templates, Themes and Graphic for Designers](http://templates4share.com/)
-### Vectors
+## Vectors
 - [Blush.design](https://blush.design/)
 - [design.dev](https://design.dev/)
 - [Download Free Vector Art, Images & Vector Graphics](https://www.freevectors.net/)

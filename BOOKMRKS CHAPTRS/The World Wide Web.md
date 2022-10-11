@@ -311,8 +311,8 @@
 - [XRayz Software](https://www.xrayz.co.uk/)
 - [Zapmarks](https://zapmarks.io/)
 - [Zulu](https://tryzulu.com/)
-### Direct Documents
-#### Important Documents
+## Direct Documents
+### Important Documents
 - [Candidate Motivations | How to Sell LTK](https://docs.google.com/document/d/1OJ80nOj5oD4tFCVTmtJdLEs-tHjIWFyW0qzVKhKpMuw/edit#heading=h.q0662onlfax4)
 - [Notes | People Team Meeting](https://docs.google.com/document/d/1Iwo4XPLazcilIl--va0vh5ep3DQLKF2mcfR7VayG7Yg/edit)
 - [Notes | Sourcing School](https://docs.google.com/document/d/1d93qjOAsmLgZjnDRQ64rQ45jJKkluWSjpAnJvBmlcOI/edit)
@@ -454,8 +454,8 @@
 - [Windows Security Monitoring - Policy & Event IDs - Google Sheets](https://docs.google.com/spreadsheets/d/1BhR3cymZ53ZJfJdKAGKszuB-jgsr8GBJBOCJl50WGKE/edit)
 - [Www.data-medics.com](https://www.data-medics.com/recovery/wp-content/uploads/2016/03/Data-Recovery-Procedure.png)
 - [WZxCSTD_9EKkSsDXgVVO6o2LwLBp9BdV1il8KavMyA4.png (1806×932)](https://external-preview.redd.it/WZxCSTD_9EKkSsDXgVVO6o2LwLBp9BdV1il8KavMyA4.png?auto=webp&s=b3c28df99b2ffff8ab5754c5c8d0ea7039d8ed68)
-### Downloads
-#### Archive
+## Downloads
+### Archive
 - [Computer Magazines : Free Texts : Free Download, Borrow and Streaming : Internet Archive](https://archive.org/details/computermagazines)
 - [E-books Collection : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/E-books_432)
 - [FinalBurn Neo ROM set (2022-08-09) : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/2020_01_06_fbn)
@@ -481,7 +481,7 @@
 - [User Account](https://archive.org/details/@kyndigs)
 - [User Account](https://archive.org/details/@manydumpedgames)
 - [User Account](https://archive.org/details/@storage_manager)
-#### CRACKS
+### CRACKS
 - ["DDLSite - Full Downloads: Software, Games, Movies, TV, Music & More!](https://ww16.ddlsite.com/?sub1=20220807-0818-5209-b30b-6701a460d2c5)
 - [» scenerules.org](https://scenerules.org/)
 - [📛 Adblock / Privacy / Antivirus](https://rentry.co/FMHY)
@@ -568,7 +568,7 @@
 - [WebOas.is | WebOasis | The Ultimate Startpage, Homepage, Web Portal!](https://weboasis.app/)
 - [Windows - SoftArchive](https://sanet.st/windows)
 - [Wrldsource](https://www.worldsrc.net/)
-#### Direct Download
+### Direct Download
 - [4HowCrack](https://4howcrack.com/)
 - [AbbasPC](https://abbaspc.net/)
 - [Daani PC](https://www.daanipc.com/)
@@ -580,7 +580,7 @@
 - [Kolompc.com](https://kolompc.com/)
 - [Mutaz.net / Free Programs Download for Windows](https://www.mutaz.net/free-programs)
 - [sanet.st/full](https://sanet.st/full)
-#### Drive
+### Drive
 - [__scraped.txt](https://drive.google.com/file/d/17MB0gCcCMr3QqE_CgJkaxmdXtZk61TdZ/view)
 - [/r/APStudents Resources – Google Drive](https://drive.google.com/open?id=1mPT8O9Nou4udtUQOl0W8dk5JgeRNZHSI)
 - [250_Professional_Fonts_Bundle.zip](https://drive.google.com/file/d/1-aGiDPsve_uOd8XgC3iMaTFrxxc1sgp2/view)
@@ -622,7 +622,7 @@
 - [Udemy - Top Database Bundle- MySQL, PostgreSQL, SQLite3, SQL Server – Google Drive](https://drive.google.com/drive/folders/1rxntNcqQPQPOeIfzE0YL4NEtUncUsrJJ)
 - [Ufos – Google Drive](https://drive.google.com/drive/folders/1vlY512iwG0yrTFE3Hha__lhBZq9zavQE)
 - [‫مسلسلات اجنبية‬‎ – Google Drive](https://drive.google.com/drive/folders/0B19OoIC31UN0eUE4OERjSXYxcUE)
-#### Forums
+### Forums
 - [[H]ard|Forum](https://hardforum.com/)
 - [0Day RedTeam ToolKit | Own it, Pwn it ( Happy Christmas Leaked ) | RaidForums](https://raidforums.com/Thread-0Day-RedTeam-ToolKit-Own-it-Pwn-it-Happy-Christmas-Leaked)
 - [Aiowares.com](https://www.aiowares.com/)
@@ -652,10 +652,10 @@
 - [TotalBlackHat - BlackHat Forums](https://totalblackhat.net/)
 - [Websites and Telegram channels to download books](https://telegra.ph/Websites-and-Telegram-channels-to-download-books-08-04)
 - [Zyberph - Forum](https://www.zyberph.com/)
-#### iOS
+### iOS
 - [Zappfree IPA Library [Download iOS IPA Files, Tweaks and ++ Apps]](https://zappfree.com/ipa-library/)
-#### Media Download
-##### Movies
+### Media Download
+#### Movies
 - [5Movies - Watch FREE Movies Online & TV Series in FULL HD 1080p](https://5movies.fm/)
 - [Best-MovieZ.WS](https://www.best-moviez.ws/)
 - [BFLIX | Watch Movies Free Online](https://www10.bflix.to/home)
@@ -693,7 +693,7 @@
 - [Cloudbox · The Automated Cloud Media Server](https://cloudbox.works/)
 - [Gerbera - A free media server. Stream your media to devices on your home network.](https://gerbera.io/)
 - [iSTock - HD Image Downloader](https://istock.7xm.xyz/)
-#### MEGA
+### MEGA
 - [@lightzcloud - Light TD1 - /](https://td.lightdrive.workers.dev/1:/)
 - [0 byte folder on MEGA](https://mega.nz/folder/k4BhVaBL#R8dm8N_nTP-JdI9RVHcHIg)
 - [0 byte folder on MEGA](https://mega.nz/folder/TDozVaoD#2qK5YTtpg6dmkqye2C2Kfg)
@@ -823,8 +823,8 @@
 - [TheV8iveMind](https://gofile-364e693131.us5.quickconnect.to/sharing/44RkNUcdA)
 - [TheV8iveMind](https://gofile-364e693131.us5.quickconnect.to/sharing/JE6ZAtsFc)
 - [Twilit Grotto -- Esoteric Archives](http://esotericarchives.com/index.html)
-#### Nulled
-##### Wordpress
+### Nulled
+#### Wordpress
 - [#1 WordPress Directory Theme - 2022 Recommended!](https://listingprowp.com/en/)
 - [ACF | Advanced Custom Fields Plugin for WordPress](https://www.advancedcustomfields.com/)
 - [Admin Columns Pro - WordPress Content Management Plugin](https://www.admincolumns.com/)
@@ -992,8 +992,8 @@
 - [Vue File Manager With Laravel V2.2.0.2 Nulled - Your Private Cloud Free Download](https://freecodezilla.net/vue-file-manager-with-laravel-backend)
 - [WordPress Theme, Plugins, PHP Script, HTML Templates - WeaPlay](https://weaplay.com/)
 - [WPLOCKER.COM - GPL LICENSED WORDPRESS THEMES & PLUGINS](https://www.wplocker.com/)
-#### Open Directory Search
-##### Indexes
+### Open Directory Search
+#### Indexes
 - [:: ArchivX.to | Handverlesene Datenbank!](http://archivx.to/)
 - [🔰雨苁ℒ🔰 - 暗网|黑客|极客|渗透测试|专注信息安全|数据泄露|隐私保护](https://w.ddosi.workers.dev/)
 - [Active GitHub Forks](https://techgaun.github.io/active-forks)
@@ -2427,7 +2427,7 @@
 - [Xiph.org :: Test Media](https://media.xiph.org/)
 - [Мобильный шиномонтаж круглосуточно в Кишиневе, Молдова - 24/24](https://sspt.md/biblioteca/carti)
 - [高速公路局-交通資料庫](https://tisvcloud.freeway.gov.tw/)
-#### Premium Link Generaters
+### Premium Link Generaters
 - [ddebrid | Premium Link Generator and Torrent Downloader](https://ddebrid.com/)
 - [Deepbrid - Downloader | Free Premium Link Generator for Uploaded, Rapidgator, Filenext, Wdupload...](https://www.deepbrid.com/service)
 - [Free Premium Link Generator - AnyDebrid](https://anydebrid.com/)
@@ -2435,7 +2435,7 @@
 - [LinkSnappy - Download](https://linksnappy.com/download)
 - [Log in to your account](https://www.cooldebrid.com/)
 - [Welcome To Our Cbox - Premium Link Generator Cbox](https://alemdarleech.net/)
-#### Rentry
+### Rentry
 - [Avira PhantomVPN Infinite Trial iOS Guide (Jailbroken)](https://rentry.co/PhantomVPNiOS)
 - [CLEAN INSTALL MICROSOFT OFFICE](https://rentry.org/CLEAN-INSTALL-MICROSOFT-OFFICE)
 - [Deezer Premium iOS Guide (Jailbroken)](https://rentry.co/deezerpremiumforios)
@@ -2460,7 +2460,7 @@
 - [WinRAR Full Version Guide](https://rentry.co/x3-Rawr)
 - [YouTube Music Premium iOS Guide (Jailbroken)](https://rentry.co/YTMusicGuide)
 - [YouTube Tweaked IPAs](https://rentry.co/YTcrack)
-#### Serials & Keygen
+### Serials & Keygen
 - [crack4windows](https://crack4windows.com/)
 - [Crackinns.com](https://crackinns.com/)
 - [Find Serial Number dot me](https://www.findserialnumber.net/)
@@ -2469,7 +2469,7 @@
 - [Serialms.com](https://serialms.com/)
 - [SerialReactor](https://www.serialreactor.com/)
 - [SerialShack](https://www.serialshack.com/)
-#### Sorted
+### Sorted
 - ["All Free Dumps](https://allfreedumps.com/)
 - [0day rocks!](https://0day.rocks/)
 - [0DayDown | 0 days to follow your information](https://www.0daydown.com/)
@@ -2486,13 +2486,13 @@
 - [FreeDNS - No limits, free of charge, DYNDNS, DNSSEC, TLSA and more. - 1984 Web Hosting](https://1984.hosting/product/freedns)
 - [Just a moment...](https://0day.today/)
 - [Welcome to nginx!](https://140.82.40.215/)
-#### Telegram Channels
+### Telegram Channels
 - [Computer Softwares Games Windows Telegram](https://www.tg-me.com/Computer_Softwares_Games_Windows)
 - [PC CRACKED SOFTWARES Telegram](https://www.tg-me.com/pc_cracked_softwares)
 - [Software Activator Telegram](https://www.tg-me.com/softwareactivator)
 - [Windows Softwares](https://www.tg-me.com/windows_softwares)
 - [Windows Softwares pc Games](https://www.tg-me.com/Windows_Softwares_Pc_Games)
-#### Torrents
+### Torrents
 - [- BabyTorrent : Watch & Download Torrent Movies / TV-Series In HD Torrents For HD Quality - YTS - YIFY MOVIES](https://babytorrent.uno/verify?url=https%3A%2F%2Fbabytorrent.uno)
 - [- BabyTorrent : Watch & Download Torrent Movies / TV-Series In HD Torrents For HD Quality - YTS - YIFY MOVIES](https://babytorrent.uno/)
 - ["ATORRENTS](https://atorrents.com/)
@@ -2511,7 +2511,7 @@
 - [Torrent Search Engine | 1337x.to](https://www.1337x.to/)
 - [Torrent Search Engine | DirtyTorrents.com](https://dirtytorrents.com/)
 - [Zbigz.com - anonymous torrent cloud client #1](https://zbigz.com/)
-#### Warez
+### Warez
 - [DirtyWarez](https://forum.dirtywarez.com/)
 - [DirtyWarez Top 19 Warez Forums](https://dirtywarez.org/cat/forum)
 - [DirtyWarez Top 38 Warez Blogs](https://dirtywarez.org/cat/blog)
@@ -2524,12 +2524,12 @@
 - [Warezlover.xyz](https://warezlover.xyz/)
 - [Warezomen.com](https://warezomen.com/)
 - [WarezSerbia](https://www.warez-serbia.com/)
-### Google
-#### Google Cloud Platform
+## Google
+### Google Cloud Platform
 - [Cloud Computing Services &nbsp;|&nbsp; Google Cloud](https://cloud.google.com/)
 - [Google Dashboard](https://myaccount.google.com/dashboard)
 - [Home – Location – Google Cloud Platform](https://console.cloud.google.com/home/dashboard?project=location-336402)
-#### Google Drive
+### Google Drive
 - [Archive - Google Drive](https://drive.google.com/drive/folders/1UNPHhBJNOUB0c-gFi9toSqirPSi4W99R)
 - [Become a Expert In Java Go Beginner To Advance - Google Drive](https://drive.google.com/drive/folders/1AKga5F6UzHFhvuMPl9zWf6MGxJZfbhac)
 - [Books - Google Drive](https://drive.google.com/drive/folders/1Z30-9EO6B0oEuFHYMKUzzzEO6p82-dYU)
@@ -2539,7 +2539,7 @@
 - [Public Witchcraft Library - Google Drive](https://drive.google.com/drive/folders/1GiMpMOxPnxgcgXn8upkxRqTDRmAiep3y)
 - [Udemy - Top Database Bundle- MySQL, PostgreSQL, SQLite3, SQL Server - Google Drive](https://drive.google.com/drive/folders/1rxntNcqQPQPOeIfzE0YL4NEtUncUsrJJ)
 - [Your In-Depth Guide to Collecting Google Drive Activity Logs in Splunk](https://securityboulevard.com/2020/10/your-in-depth-guide-to-collecting-google-drive-activity-logs-in-splunk/)
-#### Google Drive Shared Indexes
+### Google Drive Shared Indexes
 - [/r/Drivelinks - Google Groups](https://groups.google.com/g/rdrivelinks)
 - [2.roshansmirrordrive.workers.dev](https://2.roshansmirrordrive.workers.dev/)
 - [3.roshansmirror.workers.dev](https://3.roshansmirror.workers.dev/)
@@ -2598,7 +2598,7 @@
 - [创建Google TeamDrive](https://gd.404edu.workers.dev/)
 - [创建Google TeamDrive](https://tv.ssr.workers.dev/)
 - [微软全局子号自助开通](https://tb.mygindex.workers.dev/)
-#### Google Earth
+### Google Earth
 - [Latitude and Longitude of a Point](https://itouchmap.com/?r=latlong)
 - [My Location](https://earth.google.com/earth/d/1UElkquoKONAzXd1xNcbh_KS_YuyzxgkQ)
 - [Digital Asset Manager for Google Drive: Neatly](https://www.useneatly.com/?ref=producthunt)
@@ -2611,7 +2611,7 @@
 - [Interappy - Google Workspace Marketplace](https://workspace.google.com/marketplace/app/interappy/1054213917544)
 - [Kbee - Edit Space](https://dashboard.kbee.app/QXrR7frsKnYjjwRXYDdr/spaces/PUdvdTb9JfhoJ6tyZkiq?p=)
 - [MirrorAce - Upload your files to multiple file hosting sites](https://mirrorace.com/)
-### Links & Lists
+## Links & Lists
 - [#](https://rentry.co/4dqmi#sites-apps-that-need-to-be-tested)
 - [Aviva Directory](https://www.avivadirectory.com/)
 - [awesome-osint/README.md at master · jivoi/awesome-osint](https://github.com/jivoi/awesome-osint/blob/master/README.md)
@@ -2636,8 +2636,8 @@
 - [The Catalogue of Catalogues. The special Catalogues.](http://www.catalog.freeservers.com/catalogue3.htm)
 - [VN Download Links](https://pastebin.com/YTGdpqZL)
 - [Wwwooh](http://wwwahou.etienneozeray.fr/)
-### Plain Text Hosting
-#### Pinboard
+## Plain Text Hosting
+### Pinboard
 - [3rd Party Integrations | Pearltrees](http://www.pearltrees.com/chuzzy/3rd-party-integrations/id14692478)
 - [About · sharedRoutine](http://www.sharedroutine.com/about)
 - [Add and remove alfred:ignore from comments - Share your Workflows - Alfred App Community Forum](http://www.alfredforum.com/topic/213-add-and-remove-alfredignore-from-comments)
@@ -2743,7 +2743,7 @@
 - [snippet.host - minimal text and code snippet hosting](https://snippet.host/)
 - [Try It Online](https://tio.run/)
 - [Ubuntu Pastebin](https://paste.ubuntu.com/)
-### Real Shit
+## Real Shit
 - [- Gained InSite: philosophical things for normal people](https://gainedin.site/)
 - [- Not A Genius: important dumb details](https://notageni.us/)
 - [diyhpluswiki](https://diyhpl.us/wiki/)
@@ -2752,7 +2752,7 @@
 - [fringe.davesource.com/Fringe/Explosives/Black_Books.txt](http://fringe.davesource.com/Fringe/Explosives/Black_Books.txt)
 - [fringe.davesource.com/Fringe/Explosives/Terrorist_Handbook.txt](http://fringe.davesource.com/Fringe/Explosives/Terrorist_Handbook.txt)
 - [the Adequate Life: guides to attain a completely satisfactory lifestyle](https://adequate.life/)
-### Website
+## Website
 - [Admin's Finds](https://weboasis.app/forum/index.php?topic=1809.0)
 - [Ars Technica](https://arstechnica.com/)
 - [Best alternatives | Alternative.app](https://alternative.app/)

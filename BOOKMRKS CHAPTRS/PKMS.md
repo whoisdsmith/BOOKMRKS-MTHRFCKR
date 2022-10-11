@@ -128,15 +128,15 @@
 - [Zengobi Curio](https://zengobi.com/curio/)
 - [Zenkit Hypernotes - Experience a new way of collaborative writing.](https://zenkit.com/en/hypernotes/)
 - [μPad | Take and organise notes for free](https://getmicropad.com/)
-### Communities
+## Communities
 - [PKMS • r/PKMS](https://reddit.com/r/PKMS)
 - [r/Zettelkasten - Let's build a list of Zettelkasten software!](https://www.reddit.com/r/Zettelkasten/comments/flygc4/lets_build_a_list_of_zettelkasten_software/)
-### Glossaries and Dictionaries
+## Glossaries and Dictionaries
 - [AML Glossary of Terms | ACAMS Trending TopicsACAMS Logo_TM_RGB_DarkACAMS Logo_TM_RGB_Dark](https://www.acams.org/en/resources/aml-glossary-of-terms)
 - [Logistics Glossary](https://www.logisticsglossary.com/)
 - [Seconddistrictcourt.nmcourts.gov/glossary-of-legal-](https://seconddistrictcourt.nmcourts.gov/glossary-of-legal-)
 - [Terminology - The Sentry](https://thesentry.org/terminology)
-### Memex
+## Memex
 - [Andrew Louis](https://hyfen.net/)
 - [Building a Memex](https://adrian-philipp.com/notes/building-a-memex/)
 - [Building a Memex | Andrew Louis](https://hyfen.net/memex)
@@ -144,7 +144,7 @@
 - [Keep Ruby Weird 2018 - Using Ruby to build a modern Memex! by Andrew Louis](https://www.youtube.com/watch?v=NTG5UMSQR8E)
 - [memex](https://github.com/dylan-mitchell/memex)
 - [Memex](https://github.com/WorldBrain/Memex)
-### Notetaking
+## Notetaking
 - [Apps/Tomboy - GNOME Wiki!](https://wiki.gnome.org/Apps/Tomboy)
 - [Authorization](https://disk.yandex.com/notes)
 - [Bear App](https://bear.app/)
@@ -176,7 +176,7 @@
 - [Typelink.net](https://typelink.net/)
 - [Using journalctl - The Ultimate Guide To Logging](https://www.loggly.com/ultimate-guide/using-journalctl)
 - [WorkFlowy](https://workflowy.com/)
-### Obsidian
+## Obsidian
 - [[[@bbchase/obsidian resources]] - anagora.org](https://anagora.org/@bbchase/obsidian-resources)
 - [A Guide to Obsidian: Local, Markdown-Powered Networked Notes - SitePoint](https://www.sitepoint.com/obsidian-beginner-guide/)
 - [agreatfool/obsidian-utils: Command line tools to help obsidian stuff](https://github.com/agreatfool/obsidian-utils)

@@ -264,7 +264,7 @@
 - [WarmMachine](https://www.warmmachine.org/)
 - [XML Editor, JSON Editor, Code Generator, Data Integration and Web Services Toolkit](https://www.liquid-technologies.com/)
 - [Zenobase](https://zenobase.com/#/)
-### Facebook
+## Facebook
 - [About Structured Messages (JSON) for Messenger | Facebook Business Help Center](https://www.facebook.com/business/help/1646890868956360)
 - [Analyse your Personal Facebook Data with Python | by emmy adigun | Analytics Vidhya | Medium](https://medium.com/analytics-vidhya/analyse-your-personal-facebook-data-with-python-5d877e556692)
 - [DoubleText - Facebook Messenger and WhatsApp Analyzer](https://app.doubletext.me/messenger?aid=FaNmb6AqNe48GOpIAj3Ij-&ref=producthunt)
@@ -280,10 +280,10 @@
 - [Save the data in plain text files](https://kbroman.org/dataorg/pages/csv_files.html)
 - [View your instagram data in a spreadsheet](https://data.page/instagram-export)
 - [word-cloud](https://freesoft.dev/program/163022608)
-### Financial
+## Financial
 - [Firefly III](https://www.firefly-iii.org/)
 - [ProjectiFi - Simulate your Financial Future. Plan for Financial Independence.](https://projectifi.io/)
-### iOS
+## iOS
 - [【iMessage苹果证书协议版本】软件安装APNSD-AppID配置中创建结构](https://zhuanlan.zhihu.com/p/444459638)
 - [AirMessage - AirMessage is now open source!](https://airmessage.org/blog/airmessage-is-now-open-source)
 - [AllYourTexts](http://www.allyourtexts.com/)
@@ -293,7 +293,7 @@
 - [Searching & Exploring Your iMessage Database with SQL Queries](https://spin.atomicobject.com/2020/05/22/search-imessage-sql/)
 - [Where Are My iMessages Stored On My Mac? Find Your Message History - AppleToolBox](https://appletoolbox.com/qa-where-are-imessage-files-stored/)
 - [ZeeZide GmbH](https://zeezide.de/en/products/past/)
-### Journal
+## Journal
 - [glimpses - A simple and minimal journal app for windows](https://getglimpses.com/)
 - [JournalFlow - Keep a journal in your favorite messaging app.](https://www.journalflow.com/#features)
 - [Life History App](https://lifehistory.app/app/main/upload-files)
@@ -301,7 +301,7 @@
 - [Lifelogging / Quantified Self | Lifestream Blog](http://lifestreamblog.com/lifelogging)
 - [Meta Journal, achievement list](https://www.metajournal.app/?ref=producthunt)
 - [Org Mode - Organize Your Life In Plain Text!](http://doc.norang.ca/org-mode.html)
-### Location History
+## Location History
 - [CSV to GeoJSON converter](https://odileeds.github.io/CSV2GeoJSON/)
 - [Doing more with your Google Location History](https://scarygami.medium.com/doing-more-with-your-google-location-history-a93e0205f0f1)
 - [GeoJSON](https://jsonformatter.org/d4f863)
@@ -315,7 +315,7 @@
 - [Sentinel-hub EO-Browser3](https://apps.sentinel-hub.com/eo-browser/?zoom=9&lat=41.98297&lng=12.48871&themeId=DEFAULT-THEME&toTime=2022-01-18T10%3A54%3A34.408Z)
 - [The Top 1,025 Geolocation Open Source Projects on Github](https://awesomeopensource.com/projects/geolocation)
 - [The Top 146 Gps Location Open Source Projects on Github](https://awesomeopensource.com/projects/gps-location)
-### Text Messages
+## Text Messages
 - [Convert a single Excel file (one text per row) into separate text files. A function in R.](https://gist.github.com/benmarwick/9278490)
 - [Convert each row of a spreadsheet into a .txt or .xml file? | MrExcel Message Board](https://www.mrexcel.com/board/threads/convert-each-row-of-a-spreadsheet-into-a-txt-or-xml-file.593439)
 - [Convert Excel file to Text file](https://python-forum.io/thread-28239.html)
