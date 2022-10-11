@@ -1,4 +1,4 @@
-![[Pasted image 20221011135958.png]]
+https://i.imgur.com/RiXfXp9.png
 
 # The Internet's Best BOOKMRKS, MTHERFCKR!
 
