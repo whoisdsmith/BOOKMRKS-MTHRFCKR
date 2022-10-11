@@ -1,4 +1,4 @@
-https://i.imgur.com/RiXfXp9.png
+[Imgur](https://i.imgur.com/RiXfXp9.png)
 
 # The Internet's Best BOOKMRKS, MTHERFCKR!
 
