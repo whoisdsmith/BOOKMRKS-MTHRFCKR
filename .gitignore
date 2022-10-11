@@ -351,3 +351,4 @@ MigrationBackup/
 
 # Ignore Obsidian dot Files.
 .obsidian
+.obsidian/
