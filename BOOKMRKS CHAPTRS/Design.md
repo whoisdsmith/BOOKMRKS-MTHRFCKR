@@ -1,5 +1,5 @@
-## Design 
-### Design
+# Design
+## Design
 - [Archillect - Archive](https://archillect.com/archive)
 - [Artvee](https://artvee.com/)
 - [Behance](https://www.behance.net/collection/4860923/Free-Fonts)
@@ -12,7 +12,7 @@
 - [Stock Photo and Image Portfolio by Andrew Derr](https://www.shutterstock.com/g/hirohideki)
 - [Stock Photo and Image Portfolio by IRINA SHI](https://www.shutterstock.com/g/IRINA+SHI)
 - [Trello.com](https://trello.com/b/TCIgF8sF/design-br-vip)
-### Fonts
+## Fonts
 - [1001 Fonts](https://www.1001fonts.com/)
 - [1001 Free Fonts](https://www.1001freefonts.com/)
 - [Abstract Fonts](https://www.abstractfonts.com/)
@@ -59,7 +59,7 @@
 - [Vk.com](https://vk.com/topic-50911295_28400542?offset=3040)
 - [wordmark.it](https://wordmark.it/)
 - [Yellow Images Creative Fonts on Yellow Images Creative Fonts](https://yellowimages.com/creative-fonts/all)
-### Icons
+## Icons
 - [css.gg](https://css.gg/)
 - [everyday icons](https://everydayicons.jp/)
 - [Feather.netlify.app](https://feather.netlify.app/)
@@ -84,13 +84,13 @@
 - [System UIcons](https://systemuicons.com/)
 - [Tabler Icons](https://tabler-icons.io/)
 - [Vector Art & Graphics](https://dryicons.com/free-icons)
-### Images
+## Images
 - [Artbreeder](https://artbreeder.com/)
-### Logos
+## Logos
 - [Brands of the World™ | Download vector logos and logotypes](https://www.brandsoftheworld.com/)
 - [Company Logo Downloads - Vector Logos, Arms (AI, EPS, SVG, PNG )](http://www.logoeps.net/)
 - [Logodownload.org](https://logodownload.org/)
-### Mockup's
+## Mockup's
 - [1068+ Most-Popular Free Design Resources to Download (PSD, AI, SVG, PNG) - Medialoot](https://medialoot.com/free-resources)
 - [CreativeBooster](https://creativebooster.net/)
 - [DB Freebies Design Resources from Behance and Dribbble](https://designerly.com/)
@@ -121,11 +121,11 @@
 - [The Mockup Club](https://themockup.club/)
 - [UI Space: PSDs](https://uispace.net/)
 - [Unplast](https://unblast.com/mockups)
-### Multimedia
-#### Graphics
-##### Download Packs
+## Multimedia
+### Graphics
+#### Download Packs
 - [Gift4designer](https://gift4designer.com/)
-##### Stock Footage
+#### Stock Footage
 - [Coverr](https://coverr.co/)
 - [Dareful.com](https://dareful.com/)
 - [Download torrent](https://gw1.torlook.info/videohive)
@@ -193,13 +193,13 @@
 - [Storyboard That: The World's Best FREE Online Storyboard Creator](https://www.storyboardthat.com/)
 - [StudioBinder: Free Shot List & Storyboard Software for Creatives](https://www.studiobinder.com/shot-list-storyboard)
 - [WriterDuet | Professional Screenwriting Software You'll Love](https://writerduet.com/?link=QJF56RRE)
-##### Lighting and Equipment resources
+##### Lighting and Equipment Resources
 - [10 Best Video Equipment Rental Options for Filmmakers](https://www.studiobinder.com/blog/video-equipment-rental)
 - [Home - VER](https://www.ver.com/)
 - [Rent Cameras, Lenses, and Video Gear • LensProToGo](https://www.lensprotogo.com/)
 - [Shooting Solo: A Low Budget Filmmaker's Equipment List](https://www.desktop-documentaries.com/low-budget-filmmakers-equipment-list.html)
 - [Video Equipment Rental | Video Camera Rental | BorrowLenses](https://www.borrowlenses.com/video)
-##### Royalty Free Video and Images and music
+##### Royalty Free Video and Images and Music
 - [Audio Library — Music for content creators](https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA)
 - [Distill](https://www.wedistill.io/)
 - [Download Aerials Stock Footage, Sfx, Texture](https://www.cutestockfootage.com/search/aerials)

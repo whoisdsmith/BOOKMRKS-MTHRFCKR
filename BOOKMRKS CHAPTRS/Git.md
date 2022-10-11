@@ -1,5 +1,5 @@
-## Git 
-### AWESOME
+# Git
+## AWESOME
 - [Awesome Resources | A collection of awesome resources added by many contributors to help others find resources material about different programming langauges and frameworks.](https://shahednasser.github.io/awesome-resources)
 - [Awesome Search](https://awesomelists.top/#/)
 - [awesome-dataviz](https://github.com/fasouto/awesome-dataviz)
@@ -26,7 +26,7 @@
 - [r3mlab/datajournalism-resources](https://github.com/r3mlab/datajournalism-resources/blob/master/README.md)
 - [sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 - [Track your Favorite Github Awesome Repo | Track Awesome List](https://www.trackawesomelist.com/)
-### github-stars
+## Github-stars
 - [awakentrue/simple-resume-vue: Simple universal resume based on Vue](https://github.com/awakentrue/simple-resume-vue)
 - [azedo/raindrop-io-github-starred-repos: Add all of your starred repos to raindrop.io](https://github.com/azedo/raindrop-io-github-starred-repos)
 - [bedimcode/responsive-resume-cv-smith: Responsive Resume Cv Website Using HTML CSS And JavaScript](https://github.com/bedimcode/responsive-resume-cv-smith)
@@ -76,7 +76,7 @@
 - [welovedevs/react-ultimate-resume: 💼 🎨 A modern software developer resume built with React and JSONResume](https://github.com/welovedevs/react-ultimate-resume)
 - [YousufSSyed/Raindrop.io-Scripts: Python scripts to interact with the raindrop.io Bookmarking Service.](https://github.com/YousufSSyed/Raindrop.io-Scripts)
 - [zainaftab44/ResumeMaker: A Resume maker app developed in Vue.js to generate beautiful resumes free-of-cost.](https://github.com/zainaftab44/ResumeMaker)
-### Gitlab
+## Gitlab
 - [GitLab Pages | GitLab](https://docs.gitlab.com/ee/user/project/pages)
 - [.scrpt](https://github.com/acdpnk/.scrpt)
 - [120days](https://github.com/fleshgordo/120days)

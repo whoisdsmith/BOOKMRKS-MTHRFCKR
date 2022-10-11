@@ -1,4 +1,4 @@
-## Awesome Internet Finds
+# Awesome Internet Finds
 - [A Dictionary of Fairies: Hobgoblins, Brownies, Bogies, and Other Supernatural Creatures : Katharine Mary Briggs : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/BriggsKatharineMaryAnEncyclopediaOfFairies/mode/2up)
 - [agentOfChaos/divergence-viewer: Provide a visual hash of the current timeline, useful for theoretical time travellers](https://github.com/agentOfChaos/divergence-viewer)
 - [AI Experiments - Experiments with Google](https://experiments.withgoogle.com/collection/ai)
@@ -64,7 +64,7 @@
 - [WebCull - Ad-Free and Privacy-Focused Bookmark Manager](https://webcull.com/)
 - [What's Hot | The Red Pill Network](https://www.trp.red/feed/hot)
 - [writeup.ai | write fast.](https://writeup.ai/)
-### Jailbreak
+## Jailbreak
 - [[Discussion] List of basic commands for iOS Terminal](https://reddit.com/r/jailbreak/comments/95r4ih/discussion_list_of_basic_commands_for_ios_terminal/)
 - [[IOS reverse common commands] dpkg, lldb, python client, debugserver, socat, SSH, cyscript - Python知识](https://pythonmana.com/2021/07/20210725150522446S.html)
 - [[Tutorial] Apt-get & Aptitude & dpkg](https://www.reddit.com/r/jailbreak/comments/6mgou6/tutorial_aptget_aptitude_dpkg/)
@@ -80,7 +80,7 @@
 - [StackPath](https://www.maketecheasier.com/ultimate-guide-apt-and-apt-get-commands/)
 - [The iPhone Wiki](https://theiphonewiki.com/wiki/Main_Page)
 - [Using apt-get Commands In Linux [Complete Beginners Guide]](https://itsfoss.com/apt-get-linux-guide/)
-### Product Hunt
+## Product Hunt
 - [Blogtiple](https://blogtiple.com/?ref=producthunt)
 - [Calipio 2.0](https://calipio.com/?ref=producthunt)
 - [Cascade.page](https://github.com/kochrt/cascade.page?ref=producthunt)

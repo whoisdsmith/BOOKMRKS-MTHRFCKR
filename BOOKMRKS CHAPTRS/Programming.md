@@ -1,5 +1,5 @@
-## Programming 
-### Code Editors
+# Programming
+## Code Editors
 - [[Preview] README.md - conwnet/github1s - GitHub1s](https://github1s.com/)
 - [A modern, open source code editor that understands web design](https://brackets.io/)
 - [Atom text editor](https://atom.io/)
@@ -13,11 +13,11 @@
 - [The online code editor for web apps. Powered by Visual Studio Code.](https://stackblitz.com/)
 - [The place where your ideas comes true • Skriper](https://skriper.dev/)
 - [Vershd is the Effortless Git GUI](https://vershd.io/?ref=producthunt)
-### Database
+## Database
 - [Free Remote MySQL](https://www.remotemysql.com/)
 - [Navicat Data Modeler | Supreme Database Modeling and Design Tool](https://www.navicat.com/en/products/navicat-data-modeler)
 - [Tour - Topincs](https://www.topincs.com/tour)
-### Developer
+## Developer
 - [Babel · The compiler for next generation JavaScript](https://babeljs.io/repl)
 - [Closure Compiler Service](https://closure-compiler.appspot.com/home)
 - [Dev Fonts](https://devfonts.gafi.dev/)
@@ -30,13 +30,13 @@
 - [NotABug.org: Free code hosting](https://notabug.org/)
 - [Online JavaScript beautifier](https://beautifier.io/)
 - [OS.js](https://www.os-js.org/)
-### Javascript
+## Javascript
 - [CodeSnippet.Run - JavaScript code snippet runner for Web](https://www.codesnippet.run/?ref=producthunt)
-### JSON
+## JSON
 - [JSON Storage & JSON Hosting Service - JSONBin.io](https://jsonbin.io/?ref=producthunt)
 - [JSONPlaceholder - Free Fake REST API](https://jsonplaceholder.typicode.com/)
 - [Smart JSON Editor](http://www.smartjsoneditor.com/)
-### Markdown
+## Markdown
 - ["Markdown - Blot](https://blot.im/how/posts/markdown)
 - [Creating Timelines in Markdown](https://chrisrosser.net/posts/2020/06/05/wwb-5-creating-timelines-in-markdown/)
 - [Deepdwn by billiam](https://billiam.itch.io/deepdwn?ref=producthunt)
@@ -58,7 +58,7 @@
 - [udacity-fsnd/markdown-guide.md at main · br3ndonland/udacity-fsnd](https://github.com/br3ndonland/udacity-fsnd/blob/main/info/markdown-guide.md)
 - [wrighter • wrighting](https://wrighter.vercel.app/wrighting?id=rvv113Je44fSEYCMT0tvz)
 - [Yehez-Markdown-Editor](https://markdown.yehezgun.com/?ref=producthunt)
-### Misc
+## Misc
 - [Add a Timeline to Your Vue.js App](https://thewebdev.info/2020/12/21/add-a-timeline-to-your-vuejs-app/)
 - [Building a Simple timeline React component](https://andresjpulido.medium.com/building-a-simple-timeline-react-component-5a782501fbb5)
 - [Carbon](https://carbon.now.sh/)
@@ -81,11 +81,11 @@
 - [Timeline Vue](https://codesandbox.io/s/n094ypklvl)
 - [Vertical timeline and json](https://processwire.com/talk/topic/5523-vertical-timeline-and-json/)
 - [What are the trending open source and SaaS tools that developers use in 2022?](https://stackshare.io/tools/trending)
-### Python
+## Python
 - [Extracting Song Data From the Spotify API Using Python](https://rsci.app.link/ik6jrRug4lb?_p=c71029c19f1c6df4fc1c87)
 - [Extracting Song Data From the Spotify API Using Python](https://link.medium.com/ik6jrRug4lb)
 - [Nuitka the Python Compiler](https://nuitka.net/)
-### Regex
+## Regex
 - [Debuggex: Online visual regex tester. JavaScript, Python, and PCRE.](https://www.debuggex.com/)
 - [RegEx Library](https://uibakery.io/regex-library)
 - [RegexBuddy: Learn, Create, Understand, Test, Use and Save Regular Expression](https://www.regexbuddy.com/)
@@ -93,10 +93,10 @@
 - [Rubular](https://rubular.com/)
 - [Setup | magic-regexp](https://regexp.dev/getting-started/setup)
 - [Welcome | magic-regexp](https://regexp.dev/)
-### Snippets
+## Snippets
 - [Lepton - A Lean Snippet Manager powered by GitHub Gist](https://hackjutsu.com/Lepton/)
-### Terminal
-#### CLI
+## Terminal
+### CLI
 - [🌈 Awesome CLI Workshoppers | LandOf.Dev](https://landof.dev/awesome/cli-workshoppers)
 - [Automated dependency updates with pull requests - Deps](https://www.dependencies.io/)
 - [awk - remove duplicate lines across multiple txt files - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/686377/remove-duplicate-lines-across-multiple-txt-files)

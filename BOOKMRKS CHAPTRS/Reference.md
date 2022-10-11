@@ -1,5 +1,5 @@
-## Reference 
-### Academic
+# Reference
+## Academic
 - [AcademicIndex](http://www.academicindex.net/)
 - [ArnetMiner - Academic Researcher Social Network Search](http://arnetminer.org/)
 - [BASE](https://www.base-search.net/)
@@ -27,7 +27,7 @@
 - [Temporary Email - Ma Jianjun University Free Education Email](https://mail.mjj.edu.ge/)
 - [The most populer free Temp mail - Fast ✔️ - 10minutesemail](https://10minutesemail.net/)
 - [Zetoc: Homepage](http://zetoc.jisc.ac.uk/)
-### Academic and Grey Literature Research Tools
+## Academic and Grey Literature Research Tools
 - [A-Z Databases](https://guides.uflib.ufl.edu/az.php)
 - [Academic Journals](https://www.academicjournals.org/)
 - [African Journals Online (AJOL)](https://www.ajol.info/)
@@ -48,7 +48,7 @@
 - [Open Access Journals Search Engine (OAJSE) : Social Sciences](https://oajse.com/subjects/social_sciences.html)
 - [Research Guides: Gray Literature: Gray Literature](https://csulb.libguides.com/graylit)
 - [Research.omicsgroup.org](https://research.omicsgroup.org/)
-### Adderall
+## Adderall
 - [“Adderall is Definitely Not a Drug”: Justifications for the Illegal Use of ADHD Stimulants](http://www.tandfonline.com/doi/full/10.3109/10826080902858334)
 - [A randomized double-blind trial of paroxetine and/or dextroamphetamine and problem-focused therapy for attention-deficit/hyperactivity disorder in adults - PubMed](https://pubmed.ncbi.nlm.nih.gov/16669726/)
 - [ADDERALL INDUCED DILATED CARDIOMYOPATHY IN AN ADULT MALE WITH ADHD](https://linkinghub.elsevier.com/retrieve/pii/S0735109721036809)
@@ -100,7 +100,7 @@
 - [Toxicity of amphetamines: an update - PubMed](https://pubmed.ncbi.nlm.nih.gov/22392347/)
 - [Treatment for amphetamine withdrawal](https://doi.wiley.com/10.1002/14651858.CD003021.pub2)
 - [When Brain Stimulation Backfires](https://osf.io/jv9bc)
-### Ancestry Research
+## Ancestry Research
 - [Discover your ancestors](https://www.genesreunited.com/)
 - [Family Search](https://familysearch.org/)
 - [forebears](https://forebears.io/)
@@ -113,7 +113,7 @@
 - [The National Archives](https://www.nationalarchives.gov.uk/)
 - [Thegenealogist.co.uk](https://www.thegenealogist.co.uk/)
 - [Trace your Family Tree Online](https://www.findmypast.com/)
-### Annotation and Highlighting
+## Annotation and Highlighting
 - [Annotate](https://annotate.net/)
 - [Bounce – A fun and easy way to share ideas on a webpage](https://www.bounceapp.com/)
 - [Hypothesis](https://hypothes.is/)
@@ -122,9 +122,9 @@
 - [Skitch | Evernote](https://evernote.com/skitch)
 - [Sum It Up - Summarize and Highlight](https://rachitgulati.com/sum-it-up)
 - [Thepund.it](https://thepund.it/)
-### Audio Books
+## Audio Books
 - [Tokybook.Com - Free Audiobook For Book Lover](https://tokybook.com/)
-### DocArticles
+## DocArticles
 - [750,000+ texts, PDFs, eBooks and images | Higher Intellect](https://preterhuman.net/)
 - [Academia.edu - Share research](https://www.academia.edu/)
 - [Access millions of research paper PDFs in one click](https://paperpanda.app/)
@@ -232,14 +232,14 @@
 - [Zeal - Offline Documentation Browser](https://zealdocs.org/)
 - [Zenk - Security - Repository](https://repo.zenk-security.com/)
 - [Zenodo - Research. Shared.](https://zenodo.org/)
-### Document Checking
+## Document Checking
 - [Database/id-documents.com](http://database/id-documents.com)
 - [Documentchecker.com](https://www.documentchecker.com/)
 - [Ifado.consilium.europa.eu](https://www.ifado.consilium.europa.eu/)
 - [Nidsenter.no](https://www.nidsenter.no/)
 - [Passport Index](https://www.passportindex.org/)
 - [Search | International Court of Justice](https://www.icj-cij.org/en/advanced-search)
-### Ebooks
+## Ebooks
 - [Audio Books Online Download, Free Unabridged Audiobook Torrent on AudioBook Bay (ABB)](https://audiobookbay.fi/)
 - [BookStack](https://www.bookstackapp.com/)
 - [calibre - E-book management](https://calibre-ebook.com/)
@@ -271,7 +271,7 @@
 - [Rave Book Search](https://ravebooksearch.com/#gsc.tab=0)
 - [Read Books Online - Free Novels Online - Novels80](https://novels80.com/)
 - [Z-lib.org](https://z-lib.org/)
-### EDU
+## EDU
 - [1,000+ FREE Online Textbook Library & Learning Resources for All Subjects](https://ivypanda.com/blog/1000-open-textbooks-and-learning-resources-for-all-subjects)
 - [250+ Killer Digital Libraries and Archives | OEDB.org](https://oedb.org/ilibrarian/250-plus-killer-digital-libraries-and-archives)
 - [A Collection of 500+ Philosophy Course Syllabi Organised by Topic - The Daily Idea](https://thedailyidea.org/philosophy-syllabi-collection)
@@ -385,7 +385,7 @@
 - [Wikibooks](https://en.wikibooks.org/)
 - [Wikiversity](https://www.wikiversity.org/)
 - [You are being redirected...](http://www.freebookcentre.net/)
-### Grammer/Spelling/Etc
+## Grammer/Spelling/Etc
 - [Abbreviations and acronyms dictionary](https://www.acronymfinder.com/)
 - [Abbreviations.com](https://www.abbreviations.com/)
 - [American Sign Language ASL Dictionary](https://www.signasl.org/)
@@ -475,9 +475,9 @@
 - [www.lingo2word.com](https://www.lingo2word.com/)
 - [zverok/wikipedia_ql: Query language for efficient data extraction from Wikipedia](https://github.com/zverok/wikipedia_ql)
 - [掌上百科 - PDAWIKI - Powered by Discuz!](https://www.pdawiki.com/forum/)
-### Learning
+## Learning
 - [Video Courses](https://revival.awestruck.workers.dev/0:)
-### Newspaper Sites
+## Newspaper Sites
 - [Archive of newspapers & magazines](https://t.me/newspaper_archive)
 - [BookCrush Newsstand Bot](https://t.me/bookcrushnewsstandbot)
 - [BookCrush: Newsstand](https://t.me/bookcrushnewsstand)
@@ -500,7 +500,7 @@
 - [Where to Find Historical Newspapers Online for each US State](https://www.thoughtco.com/us-historical-newspapers-online-by-state-1422215)
 - [World Newspapers and Magazines on your Finger Tip | World-Newspapers.com](https://world-newspapers.com/)
 - [Газеты на английском/Newspapers English / FR /DE](https://vk.com/engnewspapers)
-### Papers and Journals
+## Papers and Journals
 - [Built for data miners | Sysrev](https://sysrev.com/)
 - [cb2Bib | MOLspaces](https://www.molspaces.com/cb2bib/)
 - [Eigenfactor: Index of Open Access Fees](http://eigenfactor.org/projects/openAccess/oa.php)
@@ -515,7 +515,7 @@
 - [SciRev - Review the scientific review process](http://scirev.org/)
 - [scite: see how research has been cited](http://scite.ai/)
 - [SJR : Scientific Journal Rankings](https://www.scimagojr.com/journalrank.php)
-### PDF Management
+## PDF Management
 - [[OFFICIAL] Cisdem PDF Converter OCR for Mac | OCR Normal and Scanned PDF on Mac](https://www.cisdem.com/pdf-converter-ocr-mac.html)
 - [[OFFICIAL] iSkysoft PDF Editor:The Best PDF Solution](https://pdf.iskysoft.com/)
 - [cleverpdf](https://www.cleverpdf.com/)
@@ -542,7 +542,7 @@
 - [Tracker Software](https://www.tracker-software.com/)
 - [XODO PDF Reader & Annotator](https://xodo.com/)
 - [XpdfReader](https://www.foolabs.com/xpdf/home.html)
-### PDF Sites
+## PDF Sites
 - [Easily explore and research documents as a cookie](https://pdfcookie.com/)
 - [Free Download Books](https://oceanofpdf.com/)
 - [Free PDF Books - Engineering Books Free Download](http://www.freepdfbook.com/)
@@ -561,10 +561,10 @@
 - [site:s3.amazonaws.com filetype:pdf - Google Search](https://www.google.com/search?q=site%3As3.amazonaws.com+%3CSearch+term%3E+filetype%3Apdf)
 - [Tips To Get Start Upload Ideas And Publishing Resources - PDF Free Download - QDOC.TIPS](https://www.edoc.site/)
 - [Write A Book And Publish - PDF Free Download - EPDF.PUB](https://epdf.pub/)
-### Publications
+## Publications
 - [Edocr](https://www.edocr.com/)
 - [Yumpu](https://www.yumpu.com/en)
-### Reference Tools
+## Reference Tools
 - [🎧 Audiobook Speed Calculator ⏳](https://asc.pixelofink.com/)
 - [About MEDLINE® and PubMed®: The Resources Guide](https://www.nlm.nih.gov/bsd/pmresources.html)
 - [Amphetamines](https://www.researchrabbitapp.com/collection/public/467O1W1D6X)

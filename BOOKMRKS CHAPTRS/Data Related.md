@@ -1,6 +1,6 @@
-## Data Related
-### Data Integration and Visualisers
-#### Charts
+# Data Related
+## Data Integration and Visualisers
+### Charts
 - [AnyChart is a lightweight and robust JavaScript charting library](https://www.anychart.com/?utm_source=saashub&utm_medium=marketplace&utm_campaign=saashub)
 - [ApexCharts.js - Open Source JavaScript Charts for your website](https://apexcharts.com/?utm_source=saashub&utm_medium=marketplace&utm_campaign=saashub)
 - [Canopy Charts](https://canopycharts.com/)
@@ -8,11 +8,11 @@
 - [Chartbrew - Your most important metrics in one place](https://chartbrew.com/)
 - [Charts.css](https://chartscss.org/)
 - [CSV2Chart Online - Turn any CSV into a nice looking chart](https://csv2chart.com/)
-#### Dashboards
+### Dashboards
 - [Dashana | Visualize Your Data In Less Than a Minute](https://dashana.com/)
 - [Use a toolkit to build your Excel dashboards 5x faster](https://exceldashboardtemplate.com/)
 - [Webdash](https://webdash.xyz/?ref=producthunt)
-#### Data Analysis
+### Data Analysis
 - [Analytics Tools & Solutions for Your Business - Google Analyticslandscape iconbulb iconrestart iconchecklist iconlandscape iconbulb iconrestart iconchecklist icongoogleads icondata-studio iconoptimize icongoogleads icondata-studio iconoptimize iconGMP_Logo_analyticsGMP_Logo_analytics](https://www.google.com/analytics?gclid=CjwKEAiAh7WkBR)
 - [AWStats](https://www.awstats.org/)
 - [BI & Analytics Software](https://www.zoho.com/reports)
@@ -69,7 +69,7 @@
 - [Weka 3 - Data Mining with Open Source Machine Learning Software in Java](https://www.cs.waikato.ac.nz/ml/weka)
 - [www.exmerg.com](https://www.exmerg.com/)
 - [Yellowfinbi.com](https://www.yellowfinbi.com/)
-#### Data Scrapers
+### Data Scrapers
 - [80legs – Customizable Web Scraping](https://80legs.com/)
 - [Agenty®](https://www.agenty.com/)
 - [API store](https://phantombuster.com/)
@@ -112,7 +112,7 @@
 - [Web Scraping Services for any size business - Fast & Reliable Datarefreshediteyeshopping-cartenvelopequote-leftgithub-altsmile-odollardatabasewechatnewspaper-oline-chartapartmentdatabaselinkedinfacebookpinterestyoutubersstwitterinstagramfacebook-blankrss-blanklinkedin-blankpinterestyoutubetwitterinstagram](https://www.scrapinghub.com/data-services)
 - [Web Scraping Software](https://www.webharvy.com/)
 - [Webrobots.io](https://webrobots.io/)
-#### Database
+### Database
 - [Cascade.io - transform data and trigger actions, without code](https://www.cascade.io/?ref=producthunt)
 - [Draxlr](https://www.draxlr.com/?ref=producthunt)
 - [Google Data Studio Dashboard Creation & Management - Datastryke](https://datastryke.com/?ref=producthunt)
@@ -121,19 +121,19 @@
 - [Prisma Data Platform](https://www.prisma.io/dataplatform)
 - [SchemaCrawler](https://www.schemacrawler.com/)
 - [State of Databases 2022](https://stateofdb.com/)
-#### Graphs
+### Graphs
 - [Datacopia - Data Visualization Reimagined.](https://datacopia.com/#/)
 - [Gephi - The Open Graph Viz Platform](https://gephi.github.io/)
 - [Home](https://rawgraphs.io/)
 - [Koia Data Analysis](https://www.koia.io/intro/index.html)
 - [RAWGraphs 2.0](https://app.rawgraphs.io/)
 - [Visual Mapping Software - Plectica](https://www.plectica.com/)
-#### Plots
+### Plots
 - [CSV Plot - Online CSV plots](https://www.csvplot.com/)
 - [Online Pivot CSV Tool](https://www.convertcsv.com/pivot-csv.htm)
 - [PlotDigitizer: Extract Data from Graph Image Online](https://plotdigitizer.com/)
 - [Plotly: The front end for ML and data science models](https://plotly.com/)
-#### Spreadsheets
+### Spreadsheets
 - [All your live data in a spreadsheet](https://www.actiondesk.io/)
 - [Convert Excel time to UTC time](https://gist.github.com/erikvullings/825283249a5b4617d0f36bcba4fa8be8)
 - [ConvertCSV APIs](https://www.convertcsv.io/?ref=producthunt)
@@ -156,7 +156,7 @@
 - [Tinysheet by Postlight - Digital Product Studio](https://tinysheet.com/)
 - [Vertex42 - Excel Templates, Calendars, Calculators and Spreadsheets](https://www.vertex42.com/)
 - [Visualize data from CSV file in Python](https://www.geeksforgeeks.org/visualize-data-from-csv-file-in-python/amp/)
-#### Timelines
+### Timelines
 - [Timeline Hero](https://timelinehero.app/)
 - [{{fbMetaData.fbTitle}}](https://statpedia.com/)
 - [Activity detail - Open Humans](https://www.openhumans.org/direct-sharing/projects/on-site/lifeline)

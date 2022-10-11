@@ -1,11 +1,11 @@
-## Tools 
-### Activity Logging
+# Tools
+## Activity Logging
 - [arbtt: the automatic, rule-based time tracker](http://arbtt.nomeata.de/)
 - [Dogsheep | dogsheep.github.io](https://dogsheep.github.io/)
 - [Heedy — Heedy 0.4.1-git.1570 documentation](https://heedy.org/)
 - [Python lifelogging Projects (Oct 2021)](https://www.libhunt.com/l/python/topic/lifelogging)
 - [WhatPulse Dashboard](https://whatpulse.org/)
-### AI Systems
+## AI Systems
 - [AISEO - AI writing assistant, AI Copywriting & Content Generator](https://aiseo.ai/?fpr=56897)
 - [Analyzelaw-Contract Analyzer from IntraFind Software AG](https://www.analyzelaw.com/)
 - [Archillect](https://archillect.com/)
@@ -25,13 +25,13 @@
 - [OpenText](https://www.opentext.de/)
 - [Rytr · Best AI Writer, Content Generator & Writing Assistant](https://rytr.me/#pricing)
 - [Write With Transformer](https://transformer.huggingface.co/)
-### API Tools
+## API Tools
 - [API Spyonweb.com](https://api.spyonweb.com/)
 - [Api.c99.nl](https://api.c99.nl/)
 - [Insomnia](https://insomnia.rest/)
 - [Postman.com](https://www.postman.com/)
 - [WHOIS API | WHOIS Lookup API | Domain WHOIS API](https://www.whoxy.com/)
-### Cloud Services
+## Cloud Services
 - [1fichier.com: Cloud Storage](https://1fichier.com/)
 - [BlackHole](https://blackhole.run/)
 - [Catbox](https://catbox.moe/)
@@ -64,8 +64,8 @@
 - [Upload Files - MegaUp](https://megaup.net/)
 - [Welcome to File.AL](https://file.al/?op=login)
 - [Yandex.Disk](https://disk.yandex.com/)
-### Conversion
-#### Online Conversation
+## Conversion
+### Online Conversation
 - [CloudConvert](https://cloudconvert.com/)
 - [CSV to GeoJson](http://www.opengeotools.com/csvToGeoJson.php)
 - [CSV To GeoJSON Converter](https://www.convertcsv.com/csv-to-geojson.htm)

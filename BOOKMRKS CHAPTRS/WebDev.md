@@ -1,5 +1,5 @@
-## WebDev 
-### Backlinks
+# WebDev
+## Backlinks
 - [Alexa](https://www.alexa.com/)
 - [Backlinks Checker Tool](https://www.backlinkwatch.com/)
 - [Blue Backlinks](https://bluebacklinks.com/)
@@ -13,12 +13,12 @@
 - [MoonSearch](https://moonsearch.com/)
 - [Site Explorer by Ahrefs: Competitive Analysis Tool For SEO](https://ahrefs.com/site-explorer)
 - [Wholinks2me.com](https://www.wholinks2me.com/)
-### Cloud
+## Cloud
 - [GronCloud](https://groncloud.com/products?ref=producthunt)
 - [Linode Manager](https://cloud.linode.com/linodes)
 - [Microsoft Azure](https://portal.azure.com/#home)
-### Dashboards
-#### Dashboard Tools
+## Dashboards
+### Dashboard Tools
 - [Analyticsportfolio.com](https://analyticsportfolio.com/)
 - [Bilbeo.com](https://www.bilbeo.com/)
 - [Chartio](https://chartio.com/)
@@ -314,7 +314,7 @@
 - [UpdateKit API v1 • Mike Beasley](https://www.mikebeas.com/updatekit-api/v1)
 #### RSS
 ##### RSS Tools
-##### RSS indexes and Search tools
+##### RSS Indexes and Search Tools
 - [DatoRSS - RSS Search Engine with RESTful API](https://www.datorss.com/)
 - [Feeder](https://feeder.co/discover)
 - [Feedsearch.dev](https://feedsearch.dev/)

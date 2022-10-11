@@ -1,10 +1,10 @@
-## OSINT 
-### AI FACES people and horses
+# OSINT 
+## AI FACES people and horses
 - [Faceapp.com](https://www.faceapp.com/)
 - [Gallery of AI Generated Faces | Generated.photos](https://generated.photos/faces)
 - [This Person Does Not Exist](https://thispersondoesnotexist.com/)
 - [www.thishorsedoesnotexist.com](https://thishorsedoesnotexist.com/)
-### Airplanes, Airports and Flight Trackers
+## Airplanes, Airports and Flight Trackers
 - [360Radar.co.uk](https://360radar.co.uk/)
 - [595 Transportation APIs (2020) | ProgrammableWebAPI Growth Charts, Industry Research & MoreDeveloper How-to's & Live Presentations](https://www.programmableweb.com/category/transportation/api)
 - [Ads-b exchange](https://www.adsbexchange.com/)
@@ -63,29 +63,29 @@
 - [Tracked Aircraft](https://www.planelogger.com/Aircraft)
 - [Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki)
 - [www.airframes.org/](https://www.airframes.org/)
-### Alternatives to Tor
+## Alternatives to Tor
 - [Fetching title...](https://panoramix-project.eu/software)
 - [Freenet](https://freenetproject.org/index.html)
 - [GNUnet](https://gnunet.org/)
 - [Hyperboria](https://hyperboria.net/)
 - [I2P Anonymous Network](https://geti2p.net/en)
 - [The Commotion Wireless Project](https://commotionwireless.net/)
-### Analysing Unique IDs
+## Analysing Unique IDs
 - [analyzeid](https://analyzeid.com/)
 - [Dnslytics.com/reverse-analytics](https://dnslytics.com/reverse-analytics)
 - [Reverse Google Analytics Lookup - MoonSearch](https://moonsearch.com/analytics)
 - [SiteSleuth.io](https://www.sitesleuth.io/)
-### Analyze Text in images (OCR) opitcal character recognition
+## Analyze Text in images (OCR) opitcal character recognition
 - [Visual Geometry Group - University of Oxford](https://www.robots.ox.ac.uk/~vgg/software)
-### Android Emulators
+## Android Emulators
 - [Andyroid Android Emulator](https://www.andyroid.net/)
 - [Bluestacks Android Emulator](https://www.bluestacks.com/)
 - [Leapdroid Android Emulator](https://leapdroid.en.softonic.com/?ex=BB-527.1)
-### Annual Reports
+## Annual Reports
 - [IPAA Annual Report Service](http://www.irsolutions.com/Hardcopy/ipaa)
 - [OrderAnnualReports Annual Report Service](https://www.orderannualreports.com/)
 - [Public Register Annual Report Service](http://prars.com/)
-### Antivirus, Malware, Cleanup
+## Antivirus, Malware, Cleanup
 - [Avast Antivirus Protection](https://www.avast.com/en-us/index#mac)
 - [CCleaner System Cleaner](https://www.ccleaner.com/ccleaner)
 - [Decalage Malware Search](http://decalage.info/en/mwsearch#gsc.tab=0)
@@ -94,17 +94,17 @@
 - [Valkyrie Malware Analysis](https://consumer.valkyrie.comodo.com/)
 - [Vicheck Antivirus Protection](https://www.vicheck.ca/)
 - [VirusTotal Malware Analysis](https://www.virustotal.com/#/home/upload)
-### Authentication
+## Authentication
 - [Google Authenticator App Store Authenticator App](https://itunes.apple.com/us/app/google-authenticator/id388497605)
 - [Google Authenticator Google Play Authenticator App](https://play.google.com/store/apps/details?hl=en&id=com.google.android.apps.authenticator2)
 - [Yubico Yubikey Harware Authenticators](https://www.yubico.com/)
-### Avatars
+## Avatars
 - [Avachara Avatar Creator](https://avachara.com/avatar)
 - [AvatarMaker Avatar Creator](https://avatarmaker.com/)
 - [Cartoonize Avatar Creator](http://www.cartoonize.net/avatar.htm)
 - [Kartunix Avatar Creator](https://www.kartunix.com/)
 - [TheAvatarMaker Avatar Creator](http://www.theavatarmaker.com/)
-### Aviation Assets
+## Aviation Assets
 - [FAA Aircraft Registry](https://www.faa.gov/licenses_certificates/aircraft_certification/aircraft_registry)
 - [FAA Registry Name Search](https://registry.faa.gov/aircraftinquiry/Name_Inquiry.aspx)
 - [FAA Registry N-Number Search](https://registry.faa.gov/aircraftinquiry/NNum_Inquiry.aspx)
@@ -113,16 +113,16 @@
 - [Minnesota DOT N-Number Search](https://dotapp7.dot.state.mn.us/aeroreg-public/lookupAircraft.jsp)
 - [NRD Aviation Radio Frequencies](http://nationalradiodata.com/aviation-airport-scanner-frequencies-home.jsp)
 - [NTSB Aviation Accident Database](https://www.ntsb.gov/_layouts/ntsb.aviation/index.aspx)
-### AWS/Buckets
+## AWS/Buckets
 - [Cloud Object Storage](https://aws.amazon.com/s3)
-### Background Checks
+## Background Checks
 - [Accurint Individual Access Program](http://www.lexisnexis.com/privacy/for-consumers/request-personal-information.aspx)
 - [LexisNexis CourtLink](http://www.lexisnexis.com/en-us/products/courtlink-for-corporate-or-professionals.page)
 - [Tracers Information Specialists, Inc.](http://www.tracersinfo.com/index.php?id=pplsearch)
 - [United States Tax Court: Home](http://ustaxcourt.gov/)
 - [Welcome to LexisNexis Legal & Professional](http://www.lexisnexis.com/en-us/Home.page)
 - [Www.hetheringtongroup.com](http://www.hetheringtongroup.com/)
-### Bank Accounts & Credit Cards
+## Bank Accounts & Credit Cards
 - [Blur Credit Card Privacy Masking](https://dnt.abine.com/#register/?utm_campaign=abine.com&utm_source=home&utm_medium=splitfree)
 - [DC Luhn (Mod10) Algorithm](https://www.dcode.fr/luhn-algorithm)
 - [DFG Luhn (Mod10) Validator](http://www.datafakegenerator.com/valitar.php)
@@ -132,25 +132,25 @@
 - [FreeFormatter CC Number](https://www.freeformatter.com/credit-card-number-generator-validator.html#howToValidate)
 - [PC Luhn (Mod10) Algorithm](https://planetcalc.com/2464)
 - [SM Issuer ID Numbers](https://stevemorse.org/ssn/List_of_Bank_Identification_Numbers.html)
-### Barcodes, QR Codes, UID Codes
+## Barcodes, QR Codes, UID Codes
 - [Barcode Reader](https://online-barcode-reader.inliteresearch.com/)
 - [FreeFormatter QR Code Generator](https://www.freeformatter.com/qr-code-generator.html)
-### Bitcoin
+## Bitcoin
 - [Address Checker Bitcoins](http://addresschecker.eu/)
 - [blockchain.com/explorer](https://www.blockchain.com/explorer)
 - [Blockchair / Bitcoin / Outputs](https://blockchair.com/bitcoin/outputs)
-### BlackHat Sources (darkWeb)
+## BlackHat Sources (darkWeb)
 - [Blkhatjxlrvc5aevqzz5t6kxldayog6jlx5h7glnu44euzongl4fh5ad.onion](http://blkhatjxlrvc5aevqzz5t6kxldayog6jlx5h7glnu44euzongl4fh5ad.onion/)
-### Blogging, forum & other communities
+## Blogging, forum & other communities
 - [Blogger](https://www.blogger.com/)
 - [Medium](http://medium.com/)
 - [Weebly](https://www.weebly.com/?lang=en)
 - [Wordpress](http://wordpress.org/)
-### bookmarks misc onion
+## bookmarks misc onion
 - [http://skhz5s6z5dpjz3flxudesptuc53lsfykjjzk6mwxabssrgqwz6k7cyid.onion/all-tor-sites-in-hidden-wiki.html](http://skhz5s6z5dpjz3flxudesptuc53lsfykjjzk6mwxabssrgqwz6k7cyid.onion/all-tor-sites-in-hidden-wiki.html)
 - [menu](http://cgjzkysxa4ru5rhrtr6rafckhexbisbtxwg2fg743cjumioysmirhdad.onion/bookmarks.html)
 - [Wiki Tor List](http://ub6bby4x2djuerj4i2cbxnzmef566zgb2f7x6iqnu6dzwznxw2tscmqd.onion/)
-### Business Entity Filings
+## Business Entity Filings
 - [Alabama SOS Business Entity Search](https://sos.alabama.gov/government-records/business-entity-records)
 - [Alaska SOS Business Entity Search](https://www.commerce.alaska.gov/web/cbpl)
 - [Arizona SOS Business Entity Search](https://azsos.gov/)
@@ -200,7 +200,7 @@
 - [West Virginia SOS Business Entity Search](https://sos.wv.gov/Pages/default.aspx)
 - [Wisconsin SOS Business Entity Search](https://www.wdfi.org/apps/CorpSearch/Search.aspx)
 - [Wyoming SOS Business Entity Search](https://wyobiz.wy.gov/Business/FilingSearch.aspx)
-### Cars
+## Cars
 - [A Free VIN Decoder Gives You Full Information on Any Used Car](https://www.cardetective.com/vin-decoder)
 - [askMID](https://ownvehicle.askmid.com/)
 - [AutoCheck.com](https://www.autocheck.com/vehiclehistory?siteID=0)
@@ -233,24 +233,24 @@
 - [VINCheck® | National Insurance Crime Bureau](https://www.nicb.org/vincheck)
 - [VinFreeCheck](https://www.vinfreecheck.com/)
 - [www.autowini.com](https://www.autowini.com/)
-### Cell Phone Towers
+## Cell Phone Towers
 - [CellReception Tower Map](http://www.cellreception.com/towers)
-### Civil Court Records
+## Civil Court Records
 - [Florida Court Records Search](https://www.civitekflorida.com/ocrs/county)
 - [FOIA.gov Public Document Requests](https://www.foia.gov/search.html)
 - [JuralIndex Court Records Search](https://www.juralindex.com/)
 - [Justia Dockets Court Records Search](https://dockets.justia.com/)
-### ClearNet Links to DarkWeb
+## ClearNet Links to DarkWeb
 - [150+ Working Dark Web Links – Onion v3 | Darkweb-links.com](https://darkweb-links.com/150-dark-web-links-2021#Search_Engines)
 - [DarkWebWiki.org – Darknet Markets Links](https://darkwebwiki.org/)
-### Commercial registries
+## Commercial registries
 - [European E-Justice](https://e-justice.europa.eu/home.do)
 - [Investigate Dashboard Search](https://investigativedashboard.org/)
-### Communication
+## Communication
 - [Documentation Mailvelope](https://www.mailvelope.com/en/help)
 - [Dutch PGP werking](https://www.nu.nl/internet/3784407/zo-versleutel-je-e-mail-met-pgp.html)
 - [PGP de-encrypting](https://sela.io/pgp)
-### Community Toolsets
+## Community Toolsets
 - [One Tool To Rule Them All YouTube Video (Emilie St. Pierre)](https://www.youtube.com/watch?v=Es3f5TeQy50)
 - [ORCS Classification (WebBreacher)](https://github.com/webbreacher/orcs)
 - [OSINT Resources Directory (I-Intelligence)](https://www.i-intelligence.eu/wp-content/uploads/2018/06/OSINT_Handbook_June-2018_Final.pdf)
@@ -258,7 +258,7 @@
 - [osintpost](https://osintpost.com/osint-tools)
 - [Reporting Tips & Tools (GIJN)](https://helpdesk.gijn.org/support/solutions/articles/14000036502-reporting-tips-and-tools)
 - [YOGA Graph (WebBreacher)](https://yoga.osint.ninja/)
-### Companies
+## Companies
 - [Companies House](https://beta.companieshouse.gov.uk/)
 - [EU National Registries](https://e-justice.europa.eu/content_business_registers_in_member_states-106-de-en.do?member=1)
 - [FinCEN MSB Registrant Search](https://www.fincen.gov/msb-registrant-search)
@@ -267,7 +267,7 @@
 - [Legal Entity Types by Country](https://en.wikipedia.org/wiki/List_of_legal_entity_types_by_country)
 - [Offshore Jurisdictions](https://ioserv.com/en/jurisdictions/jurisdlist)
 - [SEC Company Search](https://www.sec.gov/edgar/searchedgar/companysearch.html)
-### Container and Cargo Tracking
+## Container and Cargo Tracking
 - [AIR CARGO TRACKING](https://cargotracking.utopiax.org/)
 - [BIC: Bureau of International Containers](https://www.bic-code.org/)
 - [Cargoloop.com](https://www.cargoloop.com/)
@@ -286,10 +286,10 @@
 - [Shipping Container Tracking and Tracing](https://www.fleetmon.com/services/container-tracker/search)
 - [Track and Trace](https://www.searates.com/container/tracking)
 - [track-trace](https://www.track-trace.com/)
-### Contribute to OSINT Frameworks
+## Contribute to OSINT Frameworks
 - [lockfale/OSINT-Framework](https://github.com/lockfale/osint-framework)
 - [OSINT Map: A MindMap for Your Investigations](https://webbreacher.com/2018/07/12/osint-map)
-### Conventions & Events
+## Conventions & Events
 - [10x Trade Shows](https://10times.com/tradeshows)
 - [AbsoluteExhibits](https://www.absoluteexhibits.com/top-100-usa-trade-shows)
 - [All Conferences](http://www.allconferences.com/)
@@ -301,7 +301,7 @@
 - [Nimlock](https://www.nimlok.com/upcoming-trade-shows)
 - [The Tradeshow Calendar](http://www.thetradeshowcalendar.com/)
 - [Trade Show News Network](https://www.tsnn.com/)
-### Creating World Clouds
+## Creating World Clouds
 - [Create word clouds – WordItOut](https://worditout.com/word-cloud/create)
 - [Free Word Cloud Generator – ResultsFree Word Cloud Generator – MonkeyLearn](https://monkeylearn.com/word-cloud)
 - [GitHub - jasondavies/d3-cloud: Create word clouds in JavaScript.](https://github.com/jasondavies/d3-cloud)
@@ -313,7 +313,7 @@
 - [wordclouds.com](https://www.wordclouds.com/)
 - [Wordle](https://www.wordle.net/)
 - [WordSift](https://wordsift.org/)
-### Crime & Criminal Records
+## Crime & Criminal Records
 - [ATF Most Wanted](https://www.atf.gov/most-wanted)
 - [BBB ScamTracker](https://www.bbb.org/scamtracker/nebraska)
 - [CourtRecord](https://www.courtrecord.net/)
@@ -335,7 +335,7 @@
 - [Tax Squeal](http://www.taxsqueal.com/)
 - [US DOJ NSOPW](https://www.nsopw.gov/en/search)
 - [US Treasury Financial Crimes Enforcement Network](https://www.fincen.gov/msb-state-selector)
-### Crisis Alerts and Travel Advisory
+## Crisis Alerts and Travel Advisory
 - [| ACT Emergency Services Agency](https://esa.act.gov.au/?fullmap=true)
 - [Acled data](https://acleddata.com/#/dashboard)
 - [Fetching title...](https://www.state.gov/countries-areas)
@@ -346,7 +346,7 @@
 - [RSOE](https://hisz.rsoe.hu/)
 - [Travelmaps.state.gov/TSGMap](https://travelmaps.state.gov/TSGMap)
 - [Water, Peace and Security](https://waterpeacesecurity.org/map)
-### Cryptocurrency & Blockchain
+## Cryptocurrency & Blockchain
 - [Bitcoin For The Befuddled Book](http://file.allitebooks.com/20150723/Bitcoin%20for%20the%20Befuddled.pdf)
 - [BitRef Bitcoin Address Balance Tool](https://bitref.com/)
 - [BlockExplorer Bitcoin Block Explorer](https://blockexplorer.com/)
@@ -358,7 +358,7 @@
 - [Mastering Bitcoin Book](http://file.allitebooks.com/20170829/Mastering%20Bitcoin,%202nd%20Edition.pdf)
 - [MoneroBlocks Monero Block Explorer](https://moneroblocks.info/)
 - [XMRChain Block Explorer](https://xmrchain.net/)
-### Dark Web
+## Dark Web
 - [d ark.fai l: Which darknet sites are online?](https://dark.fail/)
 - [Dargle](https://www.dargle.net/)
 - [Dark Web Map v2 — Hyperion Gray](https://www.hyperiongray.com/dark-web-map)
@@ -395,18 +395,18 @@
 - [TOR Node List](https://www.dan.me.uk/tornodes)
 - [Tor Stack Exchange](https://tor.stackexchange.com/)
 - [Torhiddenwiki.com](https://torhiddenwiki.com/)
-### Darkweb links
+## Darkweb links
 - [DuckDuckGo](https://duckduckgo.com/?t=)
 - [links naar TOR websites](http://hackingnewstutorials.com/huge-list-of-darknet-deep-web-hidden-websites-2017)
 - [reddit.com: Darknet Markets](https://www.reddit.com/r/DarkNetMarkets)
-### Data Breaches & Leaks
+## Data Breaches & Leaks
 - [BreachAlarm](https://breachalarm.com/)
 - [Hashes.org Leaks](https://hashes.org/leaks.php)
 - [Have I Been Sold?](https://haveibeensold.app/)
 - [LeakedSource](https://leakedsource.ru/)
 - [LeakScraper](https://github.com/Acceis/leakScraper)
 - [SpyCloud](https://spycloud.com/)
-### Deans Deep Web
+## Deans Deep Web
 - [answerstedhctbek.tor.onl/questions](http://answerstedhctbek.tor.onl/questions)
 - [Archivecaslytosk.onion](http://archivecaslytosk.onion/)
 - [Daily Dark Web Monitoring Reports from Hunchly](http://darkweb.hunch.ly/)
@@ -421,20 +421,20 @@
 - [tordex7iie7z2wcg.tor.onl/](http://tordex7iie7z2wcg.tor.onl/)
 - [ujnkg4uirpaiqejr.tor.onl/doku.php](http://ujnkg4uirpaiqejr.tor.onl/doku.php)
 - [Underdj5ziov3ic7.onion/](http://underdj5ziov3ic7.onion/)
-### Decrypt Hash
+## Decrypt Hash
 - [HashKiller Online Hash Cracker](https://hashkiller.co.uk/)
-### Digital Forensics (DFIR)
-#### Discord (tools)
+## Digital Forensics (DFIR)
+### Discord (tools)
 - [Index](https://www.leaked.site/index.php?resolver%2Fdiscord.0%2F=)
 - [Search Discord Servers](https://disboard.org/search)
 - [Serverse](https://extraction.team/serverse.html)
-#### e-mail infoz
-##### email/cloud/storage
+### e-mail infoz
+#### email/cloud/storage
 - [https://www.mediafire.com/](https://www.mediafire.com/)
 - [Mega.nz](http://mega.nz/)
 - [Emailcrawlr.com](https://emailcrawlr.com/)
 - [https://emailrep.io/login](https://emailrep.io/login)
-#### Fact Checking and Verification
+### Fact Checking and Verification
 - [A roadmap to the truth | REVEAL](https://revealproject.eu/a-roadmap-to-the-truth)
 - [Africa Check](https://africacheck.org/)
 - [Alt News](https://www.altnews.in/)
@@ -468,11 +468,11 @@
 - [Verificado.mx](https://verificado.mx/)
 - [Verification Handbook: homepage](https://verificationhandbook.com/)
 - [Verify-sy](https://www.verify-sy.com/en)
-#### Fake ID (Darknet)
+### Fake ID (Darknet)
 - [elfq2qefxx6dv3vy.onion/fakeid.php](http://elfq2qefxx6dv3vy.onion/fakeid.php)
 - [https://fakena.me/fake-name/](https://fakena.me/fake-name)
 - [Home Page](https://www.dfir.training/)
-### Discover other OSINT Frameworks
+## Discover other OSINT Frameworks
 - [Boolean Strings Irina Shamaeva](https://booleanstrings.com/)
 - [DiRT Directory](https://dirtdirectory.org/)
 - [i-intelligence Chris Pallaris](https://www.i-intelligence.eu/osint-tools-and-resources-handbook-2018)
@@ -487,11 +487,11 @@
 - [Sprp77 Awesome OSINT Stefanie Proto](https://drive.google.com/drive/folders/0BwyWDQ59jRVGMFp3UnBfeUEzanM)
 - [Toddington Resources](https://www.toddington.com/resources)
 - [Tripwire OSINT tools](https://www.tripwire.com/it-resources)
-### Disk Encryption
+## Disk Encryption
 - [ATA Secure Disk Erase](https://tinyapps.org/docs/wipe_drives_hdparm.html)
 - [FileVault Disk Encryption](https://support.apple.com/en-us/HT204837)
 - [Veracrypt Disk Encryption](https://www.veracrypt.fr/en/Home.html)
-### Disposable Email
+## Disposable Email
 - [10 Minute Mail Disposable Email](https://10minutemail.com/10MinuteMail/index.html?dswid=9138)
 - [Anonymous Disposable Email](https://anonymousemail.me/)
 - [Guerrilla Mail Disposable Email](https://www.guerrillamail.com/)
@@ -502,14 +502,14 @@
 - [MailTester Email Validator](http://www.mailtester.com/)
 - [Tempr Disposable Email](https://tempr.email/)
 - [Volto Disposable Email](https://www.volto.io/)
-### Documenting The Investigation
+## Documenting The Investigation
 - [GetLeftDown Website Grabber](https://sourceforge.net/projects/getleftdown)
-### Documents and Structured Data
+## Documents and Structured Data
 - [FOCA HowTo Article](https://null-byte.wonderhowto.com/how-to/hack-like-pro-extract-metadata-from-websites-using-foca-for-windows-0155076)
 - [SodaPDF OCR Converter](https://www.sodapdf.com/ocr-pdf)
 - [TextCompare Text Comparison Tool](https://text-compare.com/)
 - [WhatTheFont! Font Analyzer](https://www.myfonts.com/WhatTheFont)
-### Domains
+## Domains
 - [CT-Exposer Domain Reconnaisance Tool](https://github.com/chris408/ct-exposer)
 - [CTFR Domain Reconnaisance Tool](https://github.com/UnaPibaGeek/ctfr)
 - [DNSRecon Domain Reconnaisance Tool](https://github.com/darkoperator/dnsrecon)
@@ -521,23 +521,23 @@
 - [W3dt Domain Toolbox](https://w3dt.net/dashboard/welcome)
 - [Whois Domain Reconnaisance Tool](https://www.whois.net/)
 - [Whoisology Domain Reconnaisance Tool](https://whoisology.com/)
-### Downloading
-#### Downloading Videos from Facebook
+## Downloading
+### Downloading Videos from Facebook
 - [Download Videos From](https://www.downloadvideosfrom.com/)
 - [Downloader.com](https://downloader.com/)
 - [Facebook Video Downloader: Download Facebook Videos Online](https://botdownloader.com/facebook-video-downloader)
 - [fbdownloader](https://fbdownloader.net/)
 - [Getfbstuff.com/facebook-private-video-](https://getfbstuff.com/facebook-private-video-)
-#### Downloading Videos from Instagram
+### Downloading Videos from Instagram
 - [Downvids](https://www.downvids.net/)
 - [GitHub - instaloader/instaloader: Download pictures (or videos) along with their captions and other metadata from Instagram.](https://github.com/instaloader/instaloader)
 - [InstaSave](https://instasave.xyz/)
 - [The best Instagram downloader on the net! try it now!](https://www.downloadvideosfrom.com/Instagram.php)
-#### Downloading Videos from Reddit
+### Downloading Videos from Reddit
 - [Downloading.com](https://downloading.com/)
 - [from.com](https://from.com/)
 - [Videos.com](https://videos.com/)
-#### Downloading Videos from Twitter
+### Downloading Videos from Twitter
 - [Keepsaveit.com](https://keepsaveit.com/)
 - [Save The Video - Free Online Video Downloader](https://savethevideo.net/)
 - [SaveFrom.net](https://en.savefrom.net/)
@@ -546,18 +546,18 @@
 - [twitter video downloader](https://twittervideodownloader.com/)
 - [Twitter Video Downloader Online](https://twdown.net/)
 - [Twitter Video Downloader: Download Twitter Videos & GIF Online](https://botdownloader.com/twitter-video-downloader)
-#### Downloading Videos from YouTube
+### Downloading Videos from YouTube
 - [ddownr](https://ddownr.com/)
 - [deturl.com](https://deturl.com/)
 - [Online Video Downloader](https://yoodownload.com/)
 - [YouTube to MP3 Converter](https://youtubetomp3music.com/)
-### Drivers License & Passport
+## Drivers License & Passport
 - [Illinois HP Drivers License Analyzer](http://highprogrammer.com/cgi-bin/uniqueid/dl_il)
 - [Nebraska Drivers License Information Search](https://www.nebraska.gov/dmv/dlrcc/index.cgi)
 - [North Dakota Drivers License Information Search](https://apps.nd.gov/dot/dlts/dlos/requeststatus.htm)
 - [Oklahoma Drivers License Information Search](https://www.ok.gov/idlr/index.php)
 - [Wisconsin HP Drivers License Analyzer](http://highprogrammer.com/cgi-bin/uniqueid)
-### Drones
+## Drones
 - [About – UAS VISION](https://www.uasvision.com/about)
 - [Airdata.com](https://airdata.com/)
 - [Aviation Safety Network ASN Aviation Safety Database (Suspected) drone collisions with aircraft](https://aviation-safety.net/database/issue/drones.php)
@@ -582,7 +582,7 @@
 - [Uavus.org](https://uavus.org/)
 - [Unmanned-aerial.com](https://unmanned-aerial.com/)
 - [Vehicles.html](https://vehicles.html/)
-### Education Networks
+## Education Networks
 - [AllHighSchools Alumni Site](https://www.allhighschools.com/)
 - [AlumniClass Alumni Site](https://www.alumniclass.com/)
 - [AlumniOnline Alumni Site](https://www.alumnionline.org/)
@@ -598,13 +598,13 @@
 - [ThisOldYearbook Yearbook Site](http://www.thisoldyearbook.com/Yearbook_Search.php)
 - [Yearbook.org Yearbook Site](http://www.yearbook.org/alumni-search)
 - [YearbookSearch](http://www.yearbooksearch.org/)
-### Email Scrapers
+## Email Scrapers
 - [Grabby Domain Email Scraper](https://grabby.io/)
-### Email Tracking
+## Email Tracking
 - [EmailIPLeak Leak Tester](http://emailipleak.com/)
 - [IP-Biter Email Tracking Links Generator](https://github.com/damianofalcioni/IP-Biter)
 - [IPAdress Email Address Tracker](https://www.ip-adress.com/trace-email-address)
-### Encrypted Communication
+## Encrypted Communication
 - [AES Crypt File Encryption](https://www.aescrypt.com/)
 - [CryptoCat Encrypted Communication](https://crypto.cat/)
 - [FreeFormatter SHA-256 Generator String Encryptor](https://www.freeformatter.com/sha256-generator.html)
@@ -613,12 +613,12 @@
 - [ProtonMail E2E Encrypted Email](https://protonmail.com/)
 - [Securesha Self-Destructing Encrypted File Share](https://securesha.re/)
 - [Send This File Custom Delivery Encrypted File Share](https://www.sendthisfile.com/)
-### Extracting Files
+## Extracting Files
 - [FOCA](https://www.elevenpaths.com/labstools/foca/index.html)
 - [GitHub - gocaio/goca: Goca Scanner](https://github.com/gocaio/goca)
 - [GitHub - m8r0wn/pymeta: Pymeta will search the web for files on a domain to download and extract metadata. This technique can be used to identify: domains, usernames, software/version numbers and naming conventions.](https://github.com/m8r0wn/pymeta)
 - [Www.softpedia.com/get/Internet/Other-Internet-](https://www.softpedia.com/get/Internet/Other-Internet-)
-### Facebook
+## Facebook
 - [CrowdTangle Video Advanced Search](https://www.crowdtangle.com/videosearch)
 - [DownFacebook Video Downloader Data Extractor](http://www.downfacebook.com/)
 - [Essential Facebook Development Book](http://file.allitebooks.com/20150627/Essential%20Facebook%20Development.pdf)
@@ -631,7 +631,7 @@
 - [PeopleFindThor Advanced Search](https://peoplefindthor.dk/)
 - [QueryFeed Instagram Search](https://queryfeed.net/)
 - [Zesty Advanced Search](http://zesty.ca/facebook)
-### Facial Recognition
+## Facial Recognition
 - [Amazon Rekognition – Video and Image - AWS](https://aws.amazon.com/rekognition)
 - [Betaface API](https://www.betafaceapi.com/)
 - [Face Comparing - Face++ Cognitive Services](https://www.faceplusplus.com/face-comparing)
@@ -644,13 +644,13 @@
 - [Image Recognize](https://imagerecognize.com/)
 - [Kairos Facial Recognition Demos](https://www.kairos.com/demos)
 - [Starbyface.com](https://starbyface.com/)
-### Fake Emailers & Validators
+## Fake Emailers & Validators
 - [sherlock ethx](https://sherlock.ethx.co/?ref=betalist)
 - [verify550](https://app.verify550.com/)
 - [Zmail Fake Emailer](http://zmail.sourceforge.net/)
-### File Conversion & Translation
+## File Conversion & Translation
 - [Zamzar TS to MP4 File Type Converter](https://www.zamzar.com/convert/ts-to-mp4)
-### Finding GIFs and Memes
+## Finding GIFs and Memes
 - [Animal GIFsHotHotHot](https://www.reddit.com/r/AnimalGIFs)
 - [Finding memes. Best Collection of funny finding pictures on iFunny](https://ifunny.co/tags/finding)
 - [Gfycat](https://gfycat.com/)
@@ -662,10 +662,10 @@
 - [Reaction Gifs](https://www.reactiongifs.com/)
 - [Reaction GIFS: Your absurd responses to everything.HotHotHot](https://www.reddit.com/r/reactiongifs)
 - [Search GIFs | Tenor](https://tenor.com/search/search-gifs)
-### Flickr
+## Flickr
 - [Flickr Platform App Store](https://itunes.apple.com/us/app/flickr/id328407587)
-### Forum, Newsgroup and Discussion Board Search Tools
-#### Finding Influencers and Other Social Media Users
+## Forum, Newsgroup and Discussion Board Search Tools
+### Finding Influencers and Other Social Media Users
 - [AspireIQ](https://www.aspireiq.com/)
 - [BuzzSumo](https://buzzsumo.com/)
 - [GroupHigh, A Mavrck Company](https://www.grouphigh.com/)
@@ -679,15 +679,15 @@
 - [Socialhootowl.com](https://socialhootowl.com/)
 - [Upfluence](https://www.upfluence.com/)
 - [Welcome to OpenResty!](https://kred.com/)
-#### Finding Newsletters
+### Finding Newsletters
 - [Letterlist](https://letterlist.com/)
 - [Milled.com](https://milled.com/)
 - [Newsletter Stack](https://newsletterstack.com/)
-#### Instagram
-##### Instagram (GitHub)
+### Instagram
+#### Instagram (GitHub)
 - [GitHub - akurtovic/InstaRaider: Non-API script to download all public photos for any Instagram user](https://github.com/akurtovic/InstaRaider)
 - [Download Instagram Stories and Highlights - StorySaver.net](https://www.storysaver.net/)
-#### IP Grabbers and E-mail Trackers
+### IP Grabbers and E-mail Trackers
 - [Best Free Email Tracking Service](https://www.getnotify.com/)
 - [Blasze IP Logger](https://blasze.tk/)
 - [Email Header Analyzer, RFC822 Parser](https://mxtoolbox.com/emailheaders.aspx)
@@ -699,16 +699,16 @@
 - [Mailtracking.com](https://www.mailtracking.com/)
 - [ReadNotify](https://www.readnotify.com/)
 - [Www.myiptest.com/staticpages/index.php/how-](https://www.myiptest.com/staticpages/index.php/how-)
-#### Markets n such (DarkWeb)
+### Markets n such (DarkWeb)
 - [http://enxx3byspwsdo446jujc52ucy2pf5urdbhqw3kbsfhlfjwmbpj5smdad.onion/dnm/](http://enxx3byspwsdo446jujc52ucy2pf5urdbhqw3kbsfhlfjwmbpj5smdad.onion/dnm)
 - [mlyusr6htlxsyc7t2f4z53wdxh3win7q3qpxcrbam6jf3dmua7tnzuyd.onion/captcha](http://mlyusr6htlxsyc7t2f4z53wdxh3win7q3qpxcrbam6jf3dmua7tnzuyd.onion/captcha)
 - [RAPTOR.life - darknet market directory](https://raptora2y6r3bxmjcd3xglr3tcakc6ezq3omyzbnvwahhpi27l3w4yad.onion.ws/)
-#### Misc
+### Misc
 - [Dux-Soup](https://www.dux-soup.com/)
 - [FREE LinkedIn Xray Search Tool — Recruitment Geek](https://recruitmentgeek.com/tools/linkedin)
 - [LinkedIn X-Ray Search Tool](https://sourcinglab.io/search/linkedin)
 - [LinkedIn Xray Search Tool](https://www.anantha.co.in/linkedin)
-#### MISC Social Media analytics
+### MISC Social Media analytics
 - [Socialblade](https://socialblade.com/)
 - [Create A Forum - Free Forum Directory](https://www.createaforum.com/directory.php)
 - [Delphi Forums](https://www.delphiforums.com/)
@@ -722,7 +722,7 @@
 - [ProBoards](https://www.proboards.com/forum-directory)
 - [XING](https://www.xing.com/communities)
 - [Yahoo! Groups](https://groups.yahoo.com/)
-### General Video Downloaders and Archivers
+## General Video Downloaders and Archivers
 - [Applian Technologies](https://applian.com/)
 - [Downloader-professi/elicpjhcidhpjomhibiffojpinpmmpil.com](http://downloader-professi/elicpjhcidhpjomhibiffojpinpmmpil.com)
 - [DownloadHelper](https://www.downloadhelper.net/)
@@ -734,19 +734,19 @@
 - [VDownloader](https://vdownloader.com/)
 - [Video Vault 0.2](https://www.bravenewtech.org/)
 - [YTD Video Converter for Mac](https://www.ytddownloader.com/macosx)
-### General Webint Tools and Toolkits
+## General Webint Tools and Toolkits
 - [Maltego](https://www.maltego.com/)
 - [Network, DNS, IP & Email Tools](https://network-tools.webwiz.net/)
 - [NirSoft](https://www.nirsoft.net/)
 - [RiskIQ Community](https://community.riskiq.com/)
 - [ViewDNS.info](https://viewdns.info/)
 - [YouGetSignal](https://www.yougetsignal.com/)
-### Geolocation
+## Geolocation
 - [ArcGIS Geolocation and Mapping Platform](https://www.arcgis.com/index.html)
 - [ArcGIS: Learning Geodatabases Book](http://file.allitebooks.com/20150921/Learning%20ArcGIS%20Geodatabases.pdf)
 - [Google Maps APRS](http://aprs.fi/#!lat=43.64250&lng=-79.38720)
 - [IP Address Locator](http://www.ipaddresslocation.org/)
-### Geospatial data/satelite data
+## Geospatial data/satelite data
 - [Airbus Geostore](http://www.intelligence-airbusds.com/geostore)
 - [Apple Maps](https://mapsconnect.apple.com/)
 - [Descartes Labs](https://www.descarteslabs.com/)
@@ -765,30 +765,30 @@
 - [Sentinel](https://sentinel.esa.int/web/sentinel/home)
 - [Unitar](http://www.unitar.org/)
 - [USUG earth Explorer](https://earthexplorer.usgs.gov/)
-### GIT & Github Tools
+## GIT & Github Tools
 - [GitAllSecrets GitHub Reconnaisance Tool](https://github.com/anshumanbh/git-all-secrets)
 - [GitMiner GitHub Reconnaisance Tool](https://github.com/UnkL4b/GitMiner)
 - [RepoSupervisor GitHub Reconnaisance Tool](https://github.com/auth0/repo-supervisor)
 - [TruffleHog GitHub Reconnaisance Tool](https://github.com/dxa4481/truffleHog)
-### Hacking
+## Hacking
 - [Norse Attack Map](http://map.norsecorp.com/#/?geo=eu)
-### Hacking Forums on the Clearnet
-#### Guides
-##### Guides: RU
+## Hacking Forums on the Clearnet
+### Guides
+#### Guides: RU
 - [iPhones.ru](https://www.iphones.ru/)
 - [Telegram боты для пробива инфы | Planworld](https://planworld.ru/ru/telegram/telegram-boty-dlya-probiva-infy.html)
 - [EldritchData](https://eldritchdata.neocities.org/)
-#### Honeypot Data & Statistics
+### Honeypot Data & Statistics
 - [Projecthoneypot.org](https://projecthoneypot.org/)
-#### Image Hosting
+### Image Hosting
 - [BigMIND](https://intelli1.zoolz.com/)
 - [Image.yandex.com](https://image.yandex.com/)
 - [Mga.nz](https://mga.nz/)
 - [Tiny PiX](https://tinypix.top/)
 - [Wampi.ru](https://wampi.ru/)
-#### IMEI Info
+### IMEI Info
 - [IMEI-номер�� :: xinit.ru](https://xinit.ru/imei)
-#### Independent Information about Russian Organizations
+### Independent Information about Russian Organizations
 - [E-ecolog.ru](https://e-ecolog.ru/)
 - [inJust.pro](https://injust.pro/)
 - [rusprofile](https://www.rusprofile.ru/)
@@ -803,26 +803,26 @@
 - [Demon Forums - Advanced Hacking](https://demonforums.net/Forum-Advanced-Hacking)
 - [HACKCRAZE - The Hacking & Security Forum](https://hackcraze.com/)
 - [Sinisterly](https://sinister.ly/)
-### Happn
+## Happn
 - [Happn App Store](https://itunes.apple.com/app/id489185828?mt=8)
 - [Happn Google Play](https://play.google.com/store/apps/details?id=com.ftw_and_co.happn&referrer=adjust_reftag%3DctH8OfFOuzaPw%26utm_source%3DhappnDesktop%26utm_campaign%3DDesktop)
 - [Happn Hacking](https://www.sourcecon.com/hacking-will-happn-sourcing-online-proximity-dating-apps-by-ngsesq)
 - [Happn Platform](https://www.happn.com/en)
-### Hinge
+## Hinge
 - [Hinge App Store](https://itunes.apple.com/us/app/hinge/id595287172?mt=8)
 - [Hinge Google Play](https://play.google.com/store/apps/details?id=co.hinge.app)
-### Identifying Publish Date
+## Identifying Publish Date
 - [Carbondate.cs.odu.edu](https://carbondate.cs.odu.edu/)
 - [Fetching title...](https://github.com/Lazza/Carbon14)
-### Identifying Technologies Behind Websites
+## Identifying Technologies Behind Websites
 - [BuiltWith Technology Lookup](https://builtwith.com/)
 - [Finder](https://finder.app/)
 - [Wappalyzer](https://wappalyzer.com/)
 - [Web technologies used by a site](https://w3techs.com/sites)
 - [What WordPress Theme Is That?](https://whatwpthemeisthat.com/)
 - [What's that site running?](https://sitereport.netcraft.com/)
-### Image Analysis
-#### Image and Photo Editing
+## Image Analysis
+### Image and Photo Editing
 - [AddText](https://addtext.com/)
 - [Affinity](https://affinity.serif.com/)
 - [AliceVision](https://alicevision.org/#meshroom)
@@ -878,16 +878,16 @@
 - [TinyPNG](https://tinypng.com/)
 - [Upscale | Enlarge any image | Sticker Mule](https://www.stickermule.com/upscale)
 - [ZapBG](https://www.zapbg.com/)
-#### Image Editors & Viewers
+### Image Editors & Viewers
 - [Logos Logo Extractor](http://logos.iti.gr/logos)
 - [Lunapic Image Editor](https://www194.lunapic.com/editor)
-#### Image Metadata & Forensics
+### Image Metadata & Forensics
 - [FindExif Metadata Analyzer](http://www.findexif.com/)
 - [izitru](http://www.izitru.com/)
 - [NSFW Image Nudity Detector](https://nsfw.haschek.at/)
 - [Phil Harvey Exif Tool Metadata Editor](http://owl.phy.queensu.ca/~phil/exiftool)
 - [Verexif Metadata Remover](http://www.verexif.com/en)
-#### OCR and Image Translation Tools
+### OCR and Image Translation Tools
 - [Free Online OCR](https://www.newocr.com/)
 - [Free Online OCR](https://www.onlineocr.net/)
 - [GitHub - JaidedAI/EasyOCR: Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai](https://github.com/JaidedAI/EasyOCR)
@@ -898,7 +898,7 @@
 - [SimpleOCR](https://www.simpleocr.com/)
 - [Soda PDF](https://www.free-ocr.com/)
 - [Www.microsoft.com/en-us/p/photo-](https://www.microsoft.com/en-us/p/photo-)
-#### Other Image Processing Tools
+### Other Image Processing Tools
 - [Fetching title...](https://addons.mozilla.org/en-US/firefox/addon/behind)
 - [Image Extractor](https://extract.pics/)
 - [Tropy.org](https://tropy.org/)
@@ -947,45 +947,45 @@
 - [Visual Geometry Group - University of Oxford](https://www.robots.ox.ac.uk/~vgg/software/vic)
 - [WhatWasThere](https://www.whatwasthere.com/)
 - [WHEREISTHEPICTURE.COM](https://whereisthepicture.com/)
-### Information material
+## Information material
 - [14 days running a secret Dark Web pedophile honeypot (and why I now think Tor is the devil) - Geek Slop](http://geekslop.com/2015/catching-pedophiles-running-secret-dark-web-tor-honeypot)
 - [Deep Dot Web](https://www.deepdotweb.com/)
 - [Hackers info](http://www.zone-h.org/?zh=2)
 - [Laat Je Niet Hack Maken](https://laatjeniethackmaken.nl/)
 - [Tails](https://tails.boum.org/index.en.html)
 - [WikiLeaks World Tomorrow](https://worldtomorrow.wikileaks.org/index.html)
-### Instagram
+## Instagram
 - [Buzzweb Instagram Audience Analyzer](https://buzzweb.pro/)
 - [INK361 Instagram Metrics](http://ink361.com/)
-### Instagram Search
+## Instagram Search
 - [Instatagz Instagram Hashtag Search](http://instatagz.com/)
 - [Picgra Instagram User & Hashtag Search](https://picgra.com/search)
 - [Sometag Instagram User & Hashtag Search](https://sometag.org/)
 - [Websta.gram Instagram User & Hashtag Search](https://web.stagram.com/)
-### Interesting websites
+## Interesting websites
 - [/v/darknetmarkets](https://voat.co/v/darknetmarkets)
 - [4chan](http://www.4chan.org/)
 - [Reddit Nederlands](https://www.reddit.com/r/thenetherlands)
 - [Reddit zoekresultaten - 4chan](https://www.reddit.com/r/4chan/search?q=4chan&restrict_sr=on)
 - [tor - Pastebin.com](https://pastebin.com/search?q=tor)
-### International Phone Directories
+## International Phone Directories
 - [Numberway International Directory](https://www.numberway.com/)
-### Investigating Objects and Symbols
+## Investigating Objects and Symbols
 - [What does this symbol mean?](https://www.symbols.com/what-is-this-symbol.php)
-### IPOs and Funding
+## IPOs and Funding
 - [EdgarPro](https://pro.edgar-online.com/)
 - [PLSX Capitalize](https://www.plsx.com/capitalize)
-### Labor Unions
+## Labor Unions
 - [DOL Labor Union Search](https://olms.dol-esa.gov/olpdr)
 - [Unions.Org Labor Union Search](https://unions.org/#directory)
-### Leak Testing
+## Leak Testing
 - [DNSLeak Leak Tester](http://dnsleak.com/)
 - [DNSLeakTest Leak Tester](https://www.dnsleaktest.com/)
 - [IP-Adress Leak Tester](https://www.ip-adress.com/)
 - [IPCheck Leak Tester](http://ip-check.info/?lang=en)
 - [IPv6Leak Leak Tester](http://ipv6leak.com/)
 - [Perfect Privacy CheckIP Leak Tester](https://www.perfect-privacy.com/check-ip)
-### Legal Research Tools and Resources
+## Legal Research Tools and Resources
 - [Acat.act.gov.au](https://acat.act.gov.au/)
 - [Arrests.org](https://arrests.org/)
 - [AsianLII](https://www.asianlii.org/)
@@ -1056,7 +1056,7 @@
 - [www.droit.org/](https://www.droit.org/)
 - [www.worldlii.org/](https://worldlii.org/)
 - [Xhibit.justice.gov.uk](https://xhibit.justice.gov.uk/)
-### Liens & Delinquencies
+## Liens & Delinquencies
 - [Alabama Delinquent Tax Sales](https://revenue.alabama.gov/property-tax/delinquent-search)
 - [Alabama UCC Lien Search](https://sos.alabama.gov/government-records/ucc-records?area=UCC)
 - [Alaska Delinquent Tax Sales](http://dnr.alaska.gov/mlw/landsale)
@@ -1119,17 +1119,17 @@
 - [West Virginia UCC Lien Search](https://apps.wv.gov/sos/ucc)
 - [Wisconsin UCC Lien Search](https://www.wdfi.org/ucc/search)
 - [Wyoming UCC Lien Search](http://ucc.state.wy.us/)
-### Link Analysis Graph Platforms
+## Link Analysis Graph Platforms
 - [Maltego Cyber Weapons Lab YouTube Video](https://www.youtube.com/watch?feature=youtu.be&v=46st98FUf8s)
 - [Neo4j Beginning Neo4j Book](http://file.allitebooks.com/20160202/Beginning%20Neo4j.pdf)
 - [Neo4j Cookbook Book](http://file.allitebooks.com/20150807/Neo4j%20Cookbook.pdf)
 - [Neo4j Essentials Book](http://file.allitebooks.com/20151124/Neo4j%20Essentials.pdf)
 - [Neo4j Graph Data Modeling Book](http://file.allitebooks.com/20150913/Neo4j%20Graph%20Data%20Modeling.pdf)
-### LinkedIn
+## LinkedIn
 - [GatherContacts LinkedIn Employee Name Scraper From Google and Bing Search](https://github.com/clr2of8/GatherContacts)
 - [ScrapedIn LinkedIn Data Scraper w/o API Restrictions](https://github.com/dchrastil/ScrapedIn)
 - [TheEndorser LinkedIn MindMap Tool](https://github.com/eth0izzle/the-endorser)
-### Live Streaming and Webcams
+## Live Streaming and Webcams
 - [Africam.com](https://www.africam.com/)
 - [baywolf88/seeallthethings](https://github.com/baywolf88/seeallthethings)
 - [Bear Cam](https://explore.org/livecams)
@@ -1196,20 +1196,20 @@
 - [WorldWide WebCams by See.Cam](https://see.cam/)
 - [Wunderground](https://www.wunderground.com/)
 - [Wxyzwebcams.com](https://wxyzwebcams.com/)
-### Location Spoofing
+## Location Spoofing
 - [Fake GPS GO Location Spoofer](https://play.google.com/store/apps/details?hl=en&id=com.incorporateapps.fakegps.fre)
 - [GreySec Location Spoofing](https://greysec.net/showthread.php?tid=727)
 - [WHT Google Chrome Location Spoofing](https://null-byte.wonderhowto.com/how-to/track-down-tinder-profile-with-location-spoofing-google-chrome-0182905)
-### Login Sharing
+## Login Sharing
 - [BugMeNot Login Sharing](http://bugmenot.com/)
 - [Lullar Reverse Username Search](http://com.lullar.com/en)
-### MALTEGO and Transforms
+## MALTEGO and Transforms
 - [Official Maltego Documentation](https://docs.paterva.com/en)
 - [Paterva Hub](https://www.paterva.com/web7/about/hub.php)
 - [Paterva Maltego User Guide](https://www.paterva.com/web7/docs/userguides/user_guide.php)
 - [website](http://www.pinkmatter.com/)
 - [Youtube.com Maltego Playlist](https://www.youtube.com/watch?index=1&list=PLC9DB3E7C258CD215&v=sP-Pl_SRQVo)
-### Map Builders & Downloaders
+## Map Builders & Downloaders
 - [AllMapSoft Google Maps Downloader](http://www.allmapsoft.com/gmd)
 - [BatchGeo Multiple Location Mapping Tool](https://www.batchgeo.com/)
 - [Google My Maps Custom Google Map Creation Tool](https://www.google.com/maps/about/mymaps)
@@ -1223,15 +1223,15 @@
 - [StoryMaps Custom Story Map Builder](https://storymaps.arcgis.com/en)
 - [TripGeo Route Directions and Map Creator](http://www.tripgeo.com/Directionsmap.aspx)
 - [Wikimapia Editable Map Viewer](http://wikimapia.org/#lang=en&lat=40.518600&lon=-74.349900&z=12&m=w)
-### Map Image Feature Extraction
+## Map Image Feature Extraction
 - [Robosat Aerial Imagery Feature Extraction](https://github.com/mapbox/robosat)
-### Map Platforms
+## Map Platforms
 - [CoreLogic Property Data Intelligence Platform](https://www.corelogic.com/)
 - [Descartes Labs GeoVisual Search Platform](https://search.descarteslabs.com/?layer=naip_v2_rgb_2014-2015#lat=39.2322531&lng=-100.8544921&zoom=5)
 - [EOS LandViewer Map Platform](https://eos.com/landviewer)
 - [GE-Path for Google Earth 4/12/21](http://www.sgrillo.net/googleearth/gepath.htm)
 - [Grass GIS Map Platform](https://grass.osgeo.org/)
-### Maritime Assets
+## Maritime Assets
 - [AIS Hub](http://www.aishub.net/)
 - [BoatFax Hull ID Number (HIN) Search](https://www.boatfax.com/index.php?Itemid=184&option=com_bfx_checkit)
 - [document.write(document.domain); at Directnic](http://arundale.com/docs/ais/ais_decoder.html)
@@ -1251,11 +1251,11 @@
 - [TrackTrace Bill of Lading Tracking](https://www.track-trace.com/bol)
 - [VesselTracker](https://www.vesseltracker.com/app)
 - [Www.coaa.co.uk/](http://www.coaa.co.uk/)
-### Marketing Spend
+## Marketing Spend
 - [AdForum Ad and Agency Search](https://www.adforum.com/)
 - [Keyword Spy SEO & PPC Analysis](http://www.keywordspy.com/)
 - [Moat Ad Search](https://moat.com/)
-### Media Monitoring
+## Media Monitoring
 - [Agilitypr.com](https://www.agilitypr.com/)
 - [Burrelles.com](https://burrelles.com/)
 - [Criticalmention.com](https://www.criticalmention.com/)
@@ -1274,7 +1274,7 @@
 - [Signal-ai.com](https://www.signal-ai.com/)
 - [TVEyes - Search Broadcast Television and Radio](https://tveyes.com/)
 - [Universal-info.com](https://universal-info.com/)
-### Mergers & Acquisitions
+## Mergers & Acquisitions
 - [Anthony Wayne Business Exchange](https://anthonywayne.com/)
 - [BizBuySell](https://www.bizbuysell.com/)
 - [BizQuest](https://www.bizquest.com/)
@@ -1292,7 +1292,7 @@
 - [USBusinessesForSale](https://us.businessesforsale.com/)
 - [VR Business Brokers](https://www.vrbusinessbrokers.com/)
 - [Zephyr](http://zephyr.bvdinfo.com/version-2018814/List.serv?_CID=3&context=1LY42WBVLZ7AE09)
-### Messaging and Chat Tools
+## Messaging and Chat Tools
 - [Adium](https://adium.im/)
 - [Band](https://band.us/)
 - [Chanty – simple AI-powered business messenger](https://www.chanty.com/)
@@ -1347,12 +1347,12 @@
 - [Workplace.com](https://www.workplace.com/)
 - [Www.kakaocorp.com/service/KakaoTalk](https://www.kakaocorp.com/service/KakaoTalk)
 - [Www.microsoft.com/en-us/microsoft-365/microsoft-](https://www.microsoft.com/en-us/microsoft-365/microsoft-)
-### Middlepoint Locators
+## Middlepoint Locators
 - [Meetways Middlepoint Locator](https://www.meetways.com/)
-### Military Records
+## Military Records
 - [Military Active Duty Status Report](https://scra.dmdc.osd.mil/scra#/single-record)
 - [National Archives](https://www.archives.gov/veterans/military-service-records)
-### Military Research
+## Military Research
 - [Airforce Technology](https://www.airforce-technology.com/)
 - [Allbadges.net](https://allbadges.net/)
 - [Arms Control Wonk – an arms control blog network](https://www.armscontrolwonk.com/)
@@ -1392,7 +1392,7 @@
 - [Tanks-encyclopedia.com](https://tanks-encyclopedia.com/)
 - [Thedefensepost.com](https://www.thedefensepost.com/)
 - [www.defencetalk.com/](https://www.defencetalk.com/)
-### Miscellaneous Dating
+## Miscellaneous Dating
 - [Adult FriendFinder](https://adultfriendfinder.com/go/page/cover?alpo_redirect=1&ip=auto&nats=s0ebzCrOO--pcrid--209799256943--pmt--e--pkw--adult+friend+finder--id--0ebzCrOO--&no_click=1&pid=p634078.subkey000_adult_friend_finder_EM_12)
 - [AffairsClub](http://www.affairsclub.com/)
 - [ALT: Erotic BDSM, Bondage & Fetish](https://alt.com/)
@@ -1478,9 +1478,9 @@
 - [Vervain Global Grindr Triangulation](http://vervainglobal.com/articles/triangulation.html)
 - [WhatsYourPrice](http://whatsyourprice.com/)
 - [Xpress](http://www.xpress.com/)
-### Motorcyle Assets
+## Motorcyle Assets
 - [CycleVIN Motorcyle VIN Search](https://www.cyclevin.com/)
-### Multipurpose OSINT Frameworks
+## Multipurpose OSINT Frameworks
 - [aancw/Belati](https://github.com/aancw/Belati)
 - [evilsocket/xray](https://github.com/evilsocket/xray)
 - [evyatarmeged/Raccoon](https://github.com/evyatarmeged/Raccoon)
@@ -1518,7 +1518,7 @@
 - [laramies/theHarvester](https://github.com/laramies/theHarvester)
 - [michenriksen/aquatone](https://github.com/michenriksen/aquatone)
 - [s0md3v/ReconDog](https://github.com/s0md3v/ReconDog)
-### Network Reconnaisance Frameworks
+## Network Reconnaisance Frameworks
 - [Coffer MAC Address Lookup](http://www.coffer.com/mac_find)
 - [FindIP Network Reconnaisance Tool](http://www.find-ip-address.org/reverse_lookup)
 - [Metasploit: Exploitation & Development Book](http://file.allitebooks.com/20160213/Learning%20Metasploit%20Exploitation%20and%20Development.pdf)
@@ -1528,16 +1528,16 @@
 - [Samy.pl Android Map MAC Address Lookup](http://samy.pl/androidmap)
 - [Shodan Maps](https://maps.shodan.io/)
 - [Wintelguy MAC Address Lookup](https://wintelguy.com/index.pl)
-### Non-Profit Entities
+## Non-Profit Entities
 - [Charity Navigator Search](https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=4529)
 - [IRS Tax Exempt Organization Search](https://apps.irs.gov/app/eos)
-### OK Cupid
+## OK Cupid
 - [OkCupid App Store](https://itunes.apple.com/us/app/okcupid-dating/id338701294)
 - [OkCupid Google Play](https://play.google.com/store/apps/details?id=com.okcupid.okcupid&referrer=utm_source%253Ddesktophome%2526utm_medium%253Dweb)
 - [OkCupid Reddit](https://www.reddit.com/r/OkCupid)
 - [OkCupid SocialCatfish Scams](https://socialcatfish.com/blog/okcupid-scams-everything-about-being-catfished-scams-on-okcupid-com)
 - [OkCupid Using Search Filters YouTube](https://www.youtube.com/watch?v=Qboq-I4PvGc)
-### OPSec Resources
+## OPSec Resources
 - [B3RN3D](http://www.b3rn3d.com/)
 - [CryptoPaper](https://github.com/cryptoseb/CryptoPaper)
 - [DefCon 22: Blinding The Surveillance State](https://www.youtube.com/watch?v=xCH_q-xn760)
@@ -1546,7 +1546,7 @@
 - [OPSec Video: Because Jail is for WUFTPD](https://www.youtube.com/watch?v=9XaYdCdwiWU)
 - [Paranoids Bible](https://paranoidsbible.tumblr.com/library)
 - [Things NOT to Do](https://www.whonix.org/wiki/DoNot)
-### OSHA and Environmental
+## OSHA and Environmental
 - [EPA Cases and Settlements](https://www.epa.gov/enforcement/cases-and-settlements)
 - [EPA Fugitives](https://www.epa.gov/enforcement/epa-fugitives)
 - [OSHA Establishment Search](https://www.osha.gov/pls/imis/establishment.html)
@@ -1554,7 +1554,7 @@
 - [OSHA Searches](https://www.osha.gov/oshstats/index.html)
 - [Pollution Scorecard](http://scorecard.goodguide.com/)
 - [ToxMap](https://toxmap.nlm.nih.gov/toxmap)
-### OSINT Misc
+## OSINT Misc
 - [alumni](https://alumnius.net/)
 - [Antideo - REST API for online intelligence.](https://www.antideo.com/)
 - [Bellingcat’s Online Investigation Toolkit](https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/mobilebasic)
@@ -1608,14 +1608,14 @@
 - [UVRX Social Search](http://www.uvrx.com/social.html)
 - [Virtual Box](https://www.virtualbox.org/)
 - [VirtualBox Images](https://www.osboxes.org/virtualbox-images)
-### OSINT SEARCH
-#### Advanced Search/Multipurpose
+## OSINT SEARCH
+### Advanced Search/Multipurpose
 - [Darkschn4iw2hxvpv2vy2uoxwkvs2padb56t3h4wqztre6upoc5qwgid.onion](https://darkschn4iw2hxvpv2vy2uoxwkvs2padb56t3h4wqztre6upoc5qwgid.onion/)
-#### Bankruptcy Records Search
+### Bankruptcy Records Search
 - [SearchQuarry](http://searchquarry.com/namesearch/bankruptcy-records-lookup)
-#### Blockchain Searches
+### Blockchain Searches
 - [Matbea.net/](http://matbea.net/)
-#### Business Search Sites
+### Business Search Sites
 - [Angieslist](http://www.angieslist.com/)
 - [Bad business google dork](https://www.google.com/search?ei=cPS6W-WpF4SM0wKvuKOACg&gs_l=psy-ab.3...52335.125837..144250...0.0..0.0.0.......32....1j2..gws-wiz.96VJym89q-Y&oq=%22ENTITYNAME%22+AND+marijuana+OR+%7Eembezzelment+OR+corruption+OR+bribery+OR+%7Earrest+OR+bankruptcy+OR+BSA+OR+%7Econviction+OR+%7Ecriminal+OR+fraud+OR+%7Elawsuit+OR+money%2Blaunder+OR+OFAC+OR+Ponzi+OR+%7Eterrorist+OR+%7Eviolation+OR+%7E%22Honorary+Consul%22+OR+%22consul%22+OR+%22Panama+Papers%22&q=%22ENTITYNAME%22+AND+marijuana+OR+%7Eembezzelment+OR+corruption+OR+bribery+OR+%7Earrest+OR+bankruptcy+OR+BSA+OR+%7Econviction+OR+%7Ecriminal+OR+fraud+OR+%7Elawsuit+OR+money%2Blaunder+OR+OFAC+OR+Ponzi+OR+%7Eterrorist+OR+%7Eviolation+OR+%7E%22Honorary+Consul%22+OR+%22consul%22+OR+%22Panama+Papers%22)
 - [BBB: Start with Trust®](http://bbb.com/)
@@ -1631,7 +1631,7 @@
 - [Www.dnb.ca/](http://www.dnb.ca/)
 - [Www.insiderpages.com/](http://www.insiderpages.com/)
 - [Www.leadershipdirectories.com/](http://www.leadershipdirectories.com/)
-#### Company Search Tools
+### Company Search Tools
 - [About CorpWatch](https://www.corpwatch.org/)
 - [Allstocks.com Links](https://www.allstocks.com/links)
 - [AngelList](https://angel.co/)
@@ -1713,7 +1713,7 @@
 - [Www.zoominfo.com/companies-search](https://www.zoominfo.com/companies-search)
 - [Yahoo! Finance](https://finance.yahoo.com/)
 - [Zauba Corp](https://www.zaubacorp.com/)
-#### Coordinate Based Search
+### Coordinate Based Search
 - [Convert Lat/Long To Decimal Coordinate Converter](https://andrew.hedges.name/experiments/convert_lat_long)
 - [IntelTechniques LatLong Tools](https://inteltechniques.com/osint/maps.html)
 - [LatLong Convert Address To Lat/Long](https://www.latlong.net/convert-address-to-lat-long.html)
@@ -1721,7 +1721,7 @@
 - [LatLong Convert Lat/Long To Address](https://www.latlong.net/Show-Latitude-Longitude.html)
 - [LatLong Convert Lat/Long to DMS](https://www.latlong.net/lat-long-dms.html)
 - [LatLong Convert Lat/Long to UTM](https://www.latlong.net/lat-long-utm.html)
-#### Cryptocurrency
+### Cryptocurrency
 - [Addresswatcher.com](https://addresswatcher.com/)
 - [Aware Online - Cryptocurrency tools](https://www.aware-online.com/en/osint-tools/cryptocurrency-tools)
 - [Bitcoin Address Lookup Checker and Alerts - BitcoinWhosWho](https://bitcoinwhoswho.com/)
@@ -1731,7 +1731,7 @@
 - [LiveCoinWatch](https://www.livecoinwatch.com/)
 - [OXT.me](https://oxt.me/)
 - [WalletExplorer](https://www.walletexplorer.com/)
-#### Darkweb
+### Darkweb
 - [Ahmia.fi](https://ahmia.fi/)
 - [Darkwebnews](https://darkwebnews.com/)
 - [Deepweb - Best search engines for Darkweb](https://www.deepweb-sites.com/deep-web-search-engines)
@@ -1742,7 +1742,7 @@
 - [Onions.se (visit via Tor)](https://onions.es/)
 - [Tor66 (visit via Tor)](https://tor66sezptuu2nta.onion/)
 - [Torscan (visit via Tor)](https://www.torscan.io/)
-#### Databreach
+### Databreach
 - [Amibreached.com](https://amibreached.com/)
 - [Burner Mail](https://burnermail.io/resources/data-breach-checker)
 - [CrackStation](https://crackstation.net/)
@@ -1760,7 +1760,7 @@
 - [Weleakinfo.to](https://weleakinfo.to/)
 - [World’s Biggest Data Breaches & Hacks](https://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks)
 - [Xjypo5vzgmo7jca6b322dnqbsdnp3amd24ybx26x5nxbusccjkm4pwid.onion](https://xjypo5vzgmo7jca6b322dnqbsdnp3amd24ybx26x5nxbusccjkm4pwid.onion/)
-#### Email Searches
+### Email Searches
 - [dehashed.com/](https://dehashed.com/)
 - [DNS tools](https://tools.dnsstuff.com/)
 - [Email checker: Searches email via Social Networks](https://www.manycontacts.com/en/mail-check)
@@ -1779,7 +1779,7 @@
 - [Reverse E-mail Lookup Tool - Free Lookup to Find Out Who Sent You That E-mail](https://www.yougetsignal.com/tools/reverse-email-lookup)
 - [Verify Email Address - Email Hippo](https://tools.verifyemailaddress.io/)
 - [Verify Email Address Online - Free Email Verifier](https://verify-email.org/)
-#### Event Search
+### Event Search
 - [Evensi](https://www.evensi.com/)
 - [Eventbrite](https://www.eventbrite.com/)
 - [Events all over the world](https://www.wherevent.com/)
@@ -1788,7 +1788,7 @@
 - [Whatupintown.com](https://whatupintown.com/)
 - [WikiDo.com](https://www.wikido.com/)
 - [www.townscript.com](https://www.townscript.com/)
-#### Exploit Search Engines
+### Exploit Search Engines
 - [CVE](https://cve.mitre.org/)
 - [CVE Details](https://www.cvedetails.com/)
 - [Exploitsearch.com](https://exploitsearch.com/)
@@ -1798,10 +1798,10 @@
 - [The Exploit Database](https://www.exploit-db.com/)
 - [Vulners - Vulnerability Data Base](https://vulners.com/landing)
 - [WPScan Vulnerability Database](https://wpvulndb.com/)
-#### GEOLOCATION
+### GEOLOCATION
 - [Dual Maps](http://data.mashedworld.com/dualmaps/map.htm)
 - [Tools.wmflabs.org](https://tools.wmflabs.org/geohack)
-#### Image Search and Reverse Image Search
+### Image Search and Reverse Image Search
 - [Berify](https://berify.com/)
 - [CameraTrace: Trace A Camera For Free](https://www.cameratrace.com/trace)
 - [CamFind](https://camfindapp.com/)
@@ -1831,12 +1831,12 @@
 - [Twitter.com/search?q=%3Csearchterm](https://twitter.com/search?q=%3Csearchterm)
 - [Visual Geometry Group - University of Oxford](https://www.robots.ox.ac.uk/~vgg/software/vise)
 - [Webdee.pro](https://phototracker.ru/)
-#### International Search Engine
+### International Search Engine
 - [Beaucoup! 2,000+ Search Engines, Indices and Directories](http://www.beaucoup.com/)
 - [Behind the Name](http://www.behindthename.com/)
 - [European Search Engines & Directories](http://www.searchenginesoftheworld.com/search_engines_of_europe)
 - [International Telephone Directories](http://www.infobel.com/en/world)
-#### IoT Search Engines
+### IoT Search Engines
 - [BinaryEdge](https://www.binaryedge.io/)
 - [FOFA Pro](https://fofa.so/)
 - [GitHub - random-robbie/My-Shodan-Scripts: Collection of Scripts for shodan searching stuff.](https://github.com/random-robbie/My-Shodan-Scripts)
@@ -1845,14 +1845,14 @@
 - [Purplepee.co](https://purplepee.co/)
 - [Shodan](https://www.shodan.io/)
 - [thingful](https://www.thingful.net/)
-#### IP Address
+### IP Address
 - [AbuseIPDB - IP address abuse reports - Making the Internet safer, one IP at a time](https://www.abuseipdb.com/)
 - [I2P Search](https://i2psearch.com/)
-#### LEAKS & DECLASSIFIED
+### LEAKS & DECLASSIFIED
 - [CIA World Factbook](https://www.cia.gov/library/publications/the-world-factbook)
 - [The Black Vault - Declassified docs](https://www.theblackvault.com/documentarchive)
 - [WikiLeaks - The Podesta Emails](https://wikileaks.org/podesta-emails)
-#### Logo Search and Identification Tools
+### Logo Search and Identification Tools
 - [Brandfetch](https://brandfetch.io/)
 - [Brandslogo.net](https://brandslogo.net/)
 - [Find Similar Logos](https://compute.vision/brands/index.html)
@@ -1860,14 +1860,14 @@
 - [Instantlogosearch.com](https://instantlogosearch.com/)
 - [logoEPS.com](https://logoeps.com/)
 - [SeekLogo](https://seeklogo.com/)
-#### Name
+### Name
 - [Birth Records](https://search.findmypast.co.uk/search-world-records/england-and-wales-births-1837-2006)
 - [Cubib - Public data Search](https://cubib.com/)
 - [Electoral Rolls - Genes Reunited](https://www.genesreunited.co.uk/articles/world-records/full-list-of-united-kingdom-records/census-land-and-surveys/electoral-rolls)
 - [PeekYou](https://peekyou.com/)
 - [Thenameapp.com](https://thenameapp.com/)
 - [Username Search](https://usersearch.org/index.php)
-#### Onion Search Engines / Links
+### Onion Search Engines / Links
 - [abiko](http://abikoifawyrftqivkhfxiwdjcdzybumpqrbowtudtwhrhpnykfonyzid.onion/)
 - [Ahmia](http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion/)
 - [Dark Eye - profiles on the darknet, pgp keys, reviews](http://darkeyepxw7cuu2cppnjlgqaav6j42gyt43clcn4vjjf7llfyly5cxid.onion/)
@@ -1897,7 +1897,7 @@
 - [Torch: The Original Tor Search Engine](http://torchdeedp3i2jigzjdmfpn5ttjhthh5wbmda2rr3jvqjg5p77c54dqd.onion/search?query=forum)
 - [Torgle - The Dark Web Search Engine](http://iy3544gmoeclh5de6gez2256v6pjh4omhpqdh2wpeeppjtvqmjhkfwad.onion/torgle)
 - [Venusoseaqnafjvzfmrcpcq6g47rhd7sa6nmzvaa4bj5rp6nm5jl7gad.onion](https://venusoseaqnafjvzfmrcpcq6g47rhd7sa6nmzvaa4bj5rp6nm5jl7gad.onion/)
-#### Online Marketplace
+### Online Marketplace
 - [2ehands.be (BE)](https://2ehands.be/)
 - [AdvertentieZoeker (NL)](https://www.advertentiezoeker.nl/)
 - [Craigslist - AllCraigsListSearch](https://allcraigslistsearch.com/)
@@ -1910,7 +1910,7 @@
 - [Marktplaats (NL)](https://marktplaats.nl/)
 - [Quoka.de (DE)](https://quoka.de/)
 - [Speurders (NL)](https://speurders.nl/)
-#### Online Records
+### Online Records
 - [51,000 University of Michigan employee salaries](https://www.mlive.com/news/ann-arbor/2020/12/see-the-2020-salaries-for-all-45000-university-of-michigan-employees.html)
 - [Addresses.com - People Search | Business Search | Reverse Phone Lookup](https://www.addresses.com/)
 - [Advanced Background Checks](https://www.advancedbackgroundchecks.com/)
@@ -2047,7 +2047,7 @@
 - [Yasni (works better outside US)](https://www.yasni.com/)
 - [York County PA 2017 Write in Report](https://b2.caspio.com/dp/0a9210000bece9f2f50642ff9cac)
 - [Zaba Search - Free People Search Engine](https://www.zabasearch.com/)
-#### OSINT/ Hacking
+### OSINT/ Hacking
 - [Amazon Bucket Hacker](https://cse.google.com/cse?cx=018215287813575168593%3Ac17elzg384a)
 - [Amazon Cloud Search Engine](https://cse.google.com/cse?cx=005797772976587943970%3Ag-6ohngosio)
 - [CSE Digital Forensic Search](https://cse.google.com/cse?cx=011905220571137173365%3A7eskxxzhjj8)
@@ -2075,8 +2075,8 @@
 - [Top Level Domains Hacker](https://cse.google.com/cse?cx=013991603413798772546%3Aku75d_g_s6a)
 - [US Government Intel CSE](https://cse.google.com/cse?cx=009049714591083331396%3Ai7cetsiiqru)
 - [WordPress Content Snatcher](https://cse.google.com/cse?cx=011081986282915606282%3Aw8bndhohpi0)
-#### People
-##### Usernames & People Searches
+### People
+#### Usernames & People Searches
 - [Check MX and SPF Records](https://toolbox.googleapps.com/apps/checkmx)
 - [Citadel](http://citadel.pw/)
 - [Clearbit](https://connect.clearbit.com/)
@@ -2216,16 +2216,16 @@
 - [Yellowpages-UAE](https://yellowpages-uae.com/)
 - [YouTube](https://www.youtube.com/)
 - [ZoomInfo](https://www.zoominfo.com/)
-#### Phone Number
+### Phone Number
 - [Phone Validator](https://phonevalidator.com/)
 - [Phonesear.ch](https://phonesear.ch/)
-#### PROPERTY
+### PROPERTY
 - [ColdwellBankerHomes.com](https://www.coldwellbankerhomes.com/)
 - [Homes.com](https://www.homes.com/)
 - [Property](https://www.beenverified.com/property)
 - [RE/MAX](https://www.remax.com/)
 - [Redfin](https://www.redfin.com/)
-#### Russian Social Media/Search ENgines/PhoneNumber Lookup
+### Russian Social Media/Search ENgines/PhoneNumber Lookup
 - [Anon Forum -- Russian](http://commudazrdyhbullltfdy222krfjhoqzizks5ejmocpft3ijtxq5khqd.onion/)
 - [Career.habr.com](https://career.habr.com/)
 - [Gismeteo](https://gismeteo.ru/)
@@ -2243,7 +2243,7 @@
 - [Поиск Mail.Ru](https://go.mail.ru/)
 - [Поиск информации по номеру телефона](https://www.roum.ru/)
 - [Рамблер](https://www.rambler.ru/)
-#### Salary Search
+### Salary Search
 - [Average Salaries](https://www.payscale.com/research/US/Country=United_States/Salary)
 - [Average Salaries by Job and U.S. Location](https://www.simplyhired.com/salaries)
 - [Average Salary in 2019](https://us.experteer.com/salary_calculator)
@@ -2266,7 +2266,7 @@
 - [Scope of Practice Survey | RAPS](https://www.raps.org/careers/salary-calculator)
 - [U.S. Paywizard.org](https://paywizard.org/main/salary/calculator)
 - [WSO Company Database | Wall Street Oasis](https://www.wallstreetoasis.com/wso-company-database/salary)
-#### Search
+### Search
 - [BitClave - Decentralized Search Engine](https://www.bitclave.com/)
 - [Carrot2 Clustering Engine](https://carrot2.org/)
 - [Disconnect Private Search](https://disconnect.me/search)
@@ -2287,13 +2287,13 @@
 - [Topix](http://www.topix.com/search/article?q=)
 - [Wayback](https://www.google.com/url?rct=j&sa=t&source=web&url=https%3A%2F%2Farchive.org%2Fweb%2F&usg=AOvVaw1olZ8IYxs_xjPuf-Ft5fso&ved=2ahUKEwiIq_Pi4Z3tAhWbAp0JHbmSBvwQFjAAegQIARAB)
 - [Wolf](https://www.google.com/url?rct=j&sa=t&source=web&url=https%3A%2F%2Fwww.wolframalpha.com%2Fwidgets%2Fgallery%2Fview.jsp%3Fid%3D1a23efcb39da8db7ca95ea8085d096a1&usg=AOvVaw144840Atqy5hpw-2wCq3-f&ved=2ahUKEwiG99Sn4Z3tAhVQBs0KHZ29DpwQFjAAegQIARAB)
-#### Search Engines
+### Search Engines
 - [Comparethesearchengines.com](https://comparethesearchengines.com/)
 - [Neeva](https://neeva.com/)
 - [OneSearch](https://www.onesearch.com/)
 - [Onion Search Engine](https://eu.onionsearchengine.com/)
 - [Wiki.com](https://www.wiki.com/)
-#### Search engines - General
+### Search engines - General
 - [Candle.to 2/12/21](https://candle.to/)
 - [CLUUZ](http://www.cluuz.com/)
 - [Exalead](http://www.exalead.com/)
@@ -2302,17 +2302,17 @@
 - [Soovle](http://www.soovle.com/)
 - [Sputter](http://www.sputtr.com/)
 - [UVRX](http://www.uvrx.com/)
-#### Search engines - Image search
+### Search engines - Image search
 - [IntelTechniques - Image](https://inteltechniques.com/osint/reverse.image.html)
 - [SmugMug: Protect, Share, Store, and Sell Your Photos](http://www.smugmug.com/)
 - [Webshots](http://webshots.com/)
-#### Search engines - IRC
+### Search engines - IRC
 - [General - Kiwiirc](https://kiwiirc.com/search)
 - [General - Mibbit](http://mibbit.com/)
 - [General - Netsplit](http://irc.netsplit.de/channels)
 - [ICQ - People search](http://icq.com/people)
 - [Skype - Websolver](https://webresolver.nl/)
-#### Search engines - Online marketplaces
+### Search engines - Online marketplaces
 - [Clickooz.com/](http://clickooz.com/)
 - [Craigslist](https://www.craigslist.org/about/sites)
 - [Family friendly and local Classifieds for sale at AmericanListed.com](http://www.americanlisted.com/)
@@ -2322,14 +2322,14 @@
 - [Www.salespider.com](http://www.salespider.com/)
 - [Www.used.ca](http://www.used.ca/)
 - [Www.vendanything.com/](http://www.vendanything.com/)
-#### Search engines - People
+### Search engines - People
 - [Anywho](http://www.anywho.com/)
 - [Melissa Data](http://www.melissadata.com/lookups/index.htm)
 - [Phonebookoftheworld.com](http://phonebookoftheworld.com/whitepages)
 - [public.com](http://public.com/)
 - [Records.com](http://records.com/)
 - [UserSearch.com](http://usersearch.com/)
-#### Search engines - Realestate
+### Search engines - Realestate
 - [Blockshopper (USA)](https://blockshopper.com/)
 - [Funda (NL](http://funda.nl/)
 - [iLocate (NL)](https://www.ilocate.nl/)
@@ -2337,17 +2337,17 @@
 - [Realtor (USA)](https://www.realtor.com/)
 - [Rehold (USA)](https://rehold.com/)
 - [Zoopla (UK)](http://zoopla.co.uk/)
-#### Search/Internet
+### Search/Internet
 - [Goo](http://www.goo.ne.jp/)
 - [W3Snoop.com](http://webboar.com.w3snoop.com/)
 - [Wayback Machine](https://archive.org/web)
 - [WhatIsMyIPAddress.com](http://whatismyipaddress.com/)
-#### SOCIAL MEDIA
-##### CLUBHOUSE
+### SOCIAL MEDIA
+#### CLUBHOUSE
 - [Clubhouse Database](https://clubhousedb.com/)
 - [ClubSearch -- search Clubhouse rooms](https://clubsearch.io/)
 - [Rooms of Clubhouse](https://roomsofclubhouse.com/)
-##### DISCORD
+#### DISCORD
 - [Discord Bots](https://discordbotlist.com/)
 - [Discord Bots](https://top.gg/)
 - [Discord Bots](https://discord.bots.gg/)
@@ -2356,7 +2356,7 @@
 - [Discord Servers Portal](https://www.discordportal.com/)
 - [DiscordOSINT](https://github.com/atoncehussein/DiscordOSINT)
 - [Enlarge Discord avatars](https://discordzoom.com/en)
-##### FACEBOOK
+#### FACEBOOK
 - [Bulk Facebook ID Finder | Seo Tool Station](https://seotoolstation.com/bulk-facebook-id-finder)
 - [Facebook](https://www.facebook.com/)
 - [Facebook - Accessing & Downloading Your Information | Facebook Help Center | Facebook](https://www.facebook.com/help/1701730696756992)
@@ -2376,13 +2376,13 @@
 - [Have I Been Zucked?](https://haveibeenzucked.com/)
 - [Help Center](https://www.facebook.com/help/460711197281324)
 - [StalkFace](https://stalkface.com/en)
-##### FLICKR
+#### FLICKR
 - [Flickr](https://www.flickr.com/)
 - [Flickr Mapping - Flickr Mapping](http://www.mypicsmap.com/)
 - [Flickr: Explore everyone's photos on a Map](https://www.flickr.com/map)
 - [Free Username Search - Lookup any username on UserSherlock.com](http://usersherlock.com/)
 - [idGettr — Find your Flickr ID](https://www.webpagefx.com/tools/idgettr)
-##### INSTAGRAM
+#### INSTAGRAM
 - [(Fixed full size) ZOOM and VIEW Instagram profile picture! | Display Picture view](http://izuum.com/)
 - [Bearpanther.com/instamap](http://bearpanther.com/instamap)
 - [Download & Save Instagram Videos, Pictures, and Posts - Backup your Instagram posts!](https://vibbi.com/instaport)
@@ -2409,7 +2409,7 @@
 - [Tofo.me](https://tofo.me/)
 - [WEBSTA - Instagram Analytics](https://websta.me/)
 - [Worldcam - Search Instagram by location](http://worldc.am/)
-##### LINKEDIN
+#### LINKEDIN
 - [email lookup search string for Linkedin](https://booleanstrings.com/2018/04/25/rapportive-without-gmail-or-chrome)
 - [LinkedIn](https://www.linkedin.com/)
 - [Linkedin - Google Custom Search](https://cse.google.com/cse/publicurl?cx=012951739560700154499%3A8rl_7tkzjgq)
@@ -2424,13 +2424,13 @@
 - [Proxycurl](https://nubela.co/proxycurl)
 - [raven (LinkedIn tool)](https://github.com/0x09AL/raven)
 - [Socilab - LinkedIn Visualization](http://socilab.com/#home)
-##### ONLYFANS
+#### ONLYFANS
 - [OnlyFinder](https://onlyfinder.com/)
 - [Onlysearch.co](https://onlysearch.co/)
 - [Search OnlyFans profiles](https://hubite.com/onlyfans-search)
-##### PINTEREST
+#### PINTEREST
 - [DownAlbum](https://chrome.google.com/webstore/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppok)
-##### REDDIT
+#### REDDIT
 - [Files.pushshift.io/reddit](http://files.pushshift.io/reddit)
 - [Imgur](https://imgur.com/search?q=)
 - [Pholder](https://pholder.com/)
@@ -2451,7 +2451,7 @@
 - [Reditr](http://reditr.com/)
 - [Searcheddit](http://searcheddit.com/)
 - [SocialGrep](https://www.socialgrep.com/search)
-##### SNAPCHAT
+#### SNAPCHAT
 - [About - Snap Map](https://map.snapchat.com/@41.881500,-87.624400,12.00z)
 - [OSINTCurious 10 Minute Tip - Snapchat Map](https://www.youtube.com/watch?v=17yiLinMPpk)
 - [Snapchat](https://www.snapchat.com/create)
@@ -2462,7 +2462,7 @@
 - [snapmap-archiver](https://pypi.org/project/snapmap-archiver)
 - [SnapScraper](https://rhematt.github.io/Snap-Scraper)
 - [Snapvip](https://snapvip.io/)
-##### SOCIAL MISC
+#### SOCIAL MISC
 - [Ask and Answer - ASKfm](https://ask.fm/)
 - [Baidu map, "Kam" you see](http://image.baidu.com/?fr=shitu)
 - [BizSugar](http://www.bizsugar.com/)
@@ -2481,11 +2481,11 @@
 - [VK - Russia](https://vk.com/)
 - [Worldstarhiphop: Breaking News | Music Videos | Entertainment News | Hip Hop News](http://www.worldstarhiphop.com/videos)
 - [YouNow | Live Stream Video Chat | Free Apps on Web, iOS and Android](https://www.younow.com/)
-##### Telegram
+#### Telegram
 - [Tdirectory.me](https://tdirectory.me/)
 - [Telegram Channels](https://telegramchannels.me/)
 - [Telegram Group Link TG](https://www.tg-me.com/)
-##### TELEGRAM
+#### TELEGRAM
 - [Global Telegram Database](https://t.me/s/privatelinks)
 - [Ixgram](https://www.telegramgroup1.com/)
 - [Readergram.com](https://readergram.com/)
@@ -2493,7 +2493,7 @@
 - [Telegram Group: Find Telegram Channels, Bots & Groups](https://www.telegram-group.com/en)
 - [Telegram Search](https://tgstat.ru/en/search)
 - [TelegramDB.org](https://telegramdb.org/)
-##### TIKTOK
+#### TIKTOK
 - [davidteather/TikTok-Api](https://github.com/davidteather/TikTok-Api)
 - [OSINT Investigations on TikTok - SecJuice](https://www.secjuice.com/osint-investigations-on-tiktok)
 - [Sinwindie's TikTok tools](https://github.com/sinwindie/OSINT/blob/master/TikTok/Bookmarklet%20Tools)
@@ -2501,7 +2501,7 @@
 - [TikTok downloader](https://tiktokd.com/)
 - [TikTok video downloader](https://ttdown.org/)
 - [TikTok Web Viewer Online and Analytics](https://vidnice.com/)
-##### TWITTER
+#### TWITTER
 - [All My Tweets - View all your tweets on one page.](https://www.allmytweets.net/)
 - [birdwatcher](https://github.com/michenriksen/birdwatcher)
 - [Botcheck.me](https://botcheck.me/)
@@ -2570,7 +2570,7 @@
 - [Twittertrails.com](http://twittertrails.com/)
 - [Twlets](http://twlets.com/)
 - [twXplorer](https://twxplorer.knightlab.com/)
-##### VKONTAKTE
+#### VKONTAKTE
 - [small tool to retreive vk.com (vkontakte) users hidden metadata (state, access, dates, counts, etc) anonymously (without login)](https://gist.github.com/cryptolok/8a023875b47e20bc5e64ba8e27294261)
 - [ВКонтакте RSS](http://vk-to-rss.appspot.com/)
 - [Поиск людей](https://vk.com/people)
@@ -2827,7 +2827,7 @@
 - [YouTube Location Search](https://mattw.io/youtube-geofind/location)
 - [ꓘamerka 2.0 (aka FIST)](https://github.com/woj-ciech/kamerka)
 
-####  Start.me Resources 
+###  Start.me Resources 
 - [#OSINT Research - start.me](https://start.me/p/rxekAP/osint-research)
 - [01 NCSO - start.me](https://start.me/p/BnrMKd/01-ncso)
 - [1. OSINT Toolset](https://start.me/p/MEw7be/1-osint-toolset)
@@ -2894,13 +2894,13 @@
 - [Verification Toolset Start.me (Julia Bayer)](https://start.me/p/ZGAzN7/verification-toolset)
 - [Whats the first thing to do with start.me troubles?](https://support.start.me/hc/en-us/articles/200160121-Clearing-your-browser-cache)
 ---
-#### WiFi & internet connectivity
+### WiFi & internet connectivity
 - [Find Wi-Fi | Mylnikov GEO](https://find-wifi.mylnikov.org/)
 - [Hotspotsvinden (NL)](http://www.hotspotsvinden.nl/)
 - [Macvendorloopup](https://www.macvendorlookup.com/)
 - [Wigle](https://wigle.net/)
 ---
-### OSINT TOOL SITES
+## OSINT TOOL SITES
 - [Bellingcat](https://www.bellingcat.com/category/resources/how-tos)
 - [Dating apps and hook-up sites for investigators](https://start.me/p/VRxaj5/dating-apps-and-hook-up-sites-for-investigators)
 - [Exposing the Invisible](https://exposingtheinvisible.org/)
@@ -2912,8 +2912,8 @@
 - [The Stoic Approach To OSINT](https://www.secjuice.com/osint-engagement-101)
 - [Week in OSINT – Medium](https://medium.com/week-in-osint)
 
-### OSINT Toolkit
-#### Misc OSINT Tools
+## OSINT Toolkit
+### Misc OSINT Tools
 - [coffeeghost.net/pybat/python_cheatsheet.png](http://coffeeghost.net/pybat/python_cheatsheet.png)
 - [Extramaster.net/tools/gifToCss/](http://extramaster.net/tools/gifToCss)
 - [Github.com/highmeh/pentest_scripts/blob/master/scrape_linkedin.py](http://github.com/highmeh/pentest_scripts/blob/master/scrape_linkedin.py)
@@ -2941,19 +2941,19 @@
 - [Www.scoutzen.com/twitter-lists/search](http://www.scoutzen.com/twitter-lists/search)
 - [Www.slide-downloader.com/#!/](http://www.slide-downloader.com/#!/)
 - [Www.social-searcher.com/social-buzz/](http://www.social-searcher.com/social-buzz)
-#### OSINT extra
+### OSINT extra
 - [Awesome OSINT](https://github.com/Ph055a/awesome_osint)
 - [Bellingcat Resources](https://www.bellingcat.com/category/resources)
 - [Bellingcat Thread](https://twitter.com/trbrtc/status/895734898647945220?lang=en)
 - [Creps Social Media Intel](https://start.me/p/m6MbeM/social-media-intelligence-dashboard)
 - [Reuser OSINT Tools](http://rr.reuser.biz/#company%20informationInternational)
-#### OSINT Focused Browsers
+### OSINT Focused Browsers
 - [OSIRT OSINT Browser](http://osirtbrowser.com/)
 - [Paliscope OSINT Browser](https://www.paliscope.com/)
-#### OSINT Framework in MindMap Format
+### OSINT Framework in MindMap Format
 - [CHROME and FIREFOX Add-Ons (German)](https://atlas.mindmup.com/digintel/digital_intelligence_training_chrome/index.html)
 - [Digital Privacy & Security Ressourcen (German)](https://atlas.mindmup.com/digintel/digital_intelligence_training_security/index.html)
-#### OSINT/OPSEC Community
+### OSINT/OPSEC Community
 - [Bruce Schneier (Schneier on Security)](https://www.schneier.com/)
 - [Eliot Higgins (Bellingcat)](https://www.bellingcat.com/tag/osint)
 - [J Huff (Learn All The Things)](https://www.learnallthethings.net/blog)
@@ -2968,14 +2968,14 @@
 - [fbStalker - OSINT tool for Facebook (python)](https://github.com/milo2012/osintstalker)
 - [ilektrojohn/creepy](https://github.com/ilektrojohn/creepy)
 - [knock - Knock Subdomain Scan](https://code.google.com/p/knock)
-### Password Management
+## Password Management
 - [GiveMeAPassword Password Generator](http://givemeapassword.com/)
 - [KeePass Password Manager](https://keepass.info/)
 - [LastPass Password Manager](https://www.lastpass.com/)
 - [MakeMeAPassword Password Generator](https://makemeapassword.ligos.net/)
 - [Mentalist Wordlist Generator](https://github.com/sc0tfree/mentalist)
 - [Random.org Password Generator](https://www.random.org/passwords)
-### Patents & Copyrights
+## Patents & Copyrights
 - [Copyright Search](http://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?DB=local&PAGE=First)
 - [Espacenet Patent Search](https://worldwide.espacenet.com/advancedSearch?locale=en_EP)
 - [FPO IP Research](http://www.freepatentsonline.com/)
@@ -2983,38 +2983,38 @@
 - [TechTransferCentral](https://techtransfercentral.com/marketplace/ttt)
 - [USPTO](https://www.uspto.gov/trademarks-getting-started/process-overview/state-trademark-information-links)
 - [WIPO Patentscope](http://www.wipo.int/patentscope/en)
-### Pay Telephones
+## Pay Telephones
 - [El Jefe's Payphone Directory](https://www.payphone-directory.org/)
-### Pentesting
+## Pentesting
 - [BlackArch Linux](https://blackarch.org/)
 - [Metasploit](https://www.metasploit.com/)
 - [The Penetration Testing Execution Standard](http://www.pentest-standard.org/index.php/Main_Page)
-### Periscope
+## Periscope
 - [GetXplore Periscope Live Stream Search](http://getxplore.com/)
 - [PeriscopeMap.Live Map Based Viewer](http://www.periscopemap.live/)
-### Phone Area Codes
+## Phone Area Codes
 - [NANPA Area Code Prefix Map](https://www.nationalnanpa.com/area_code_maps/ac_map_static.html)
 - [The Directory Area Code Prefix Locator](http://www.thedirectory.org/pref)
-### Phone Privacy
+## Phone Privacy
 - [Burner Phone Privacy App](https://www.burnerapp.com/)
 - [DoNotCall Registry](https://complaints.donotcall.gov/complaint/complaintcheck.aspx)
 - [Line2 Phone Privacy App](https://www.line2.com/)
 - [Nomorobo Phone Privacy App](https://itunes.apple.com/us/app/nomorobo/id1134727588?mt=8)
 - [Phoner Phone Privacy App](https://phonerapp.com/)
-### Physical Entry & Locks
+## Physical Entry & Locks
 - [BumpMyLock Lock Picking Tools](https://www.bumpmylock.com/)
 - [Keys To The Kingdom Book](https://www.elsevier.com/books/keys-to-the-kingdom/ollam/978-1-59749-983-5)
 - [Lock Picking 101 Lock Picking Forum](https://www.lockpicking101.com/)
 - [Practical Lock Picking Book](https://www.elsevier.com/books/practical-lock-picking/ollam/978-1-59749-989-7)
 - [Toool Lock Picking Association](https://toool.us/)
-### Plenty of Fish
+## Plenty of Fish
 - [POF Dating Advanced Search](https://www.pof.com/register.aspx?id=1)
 - [POF Dating App Store](https://itunes.apple.com/app/apple-store/id389638243?mt=8)
 - [POF Dating Google Play](https://play.google.com/store/apps/details?feature=search_result&hl=en&id=com.pof.android&referrer=utm_source%253Dpofweb_link_1%2526utm_medium%253DCampaignID%3D0)
 - [POF Dating Interest Search](https://www.pof.com/interests/pickling.aspx)
 - [POF Dating Reddit](https://www.reddit.com/r/POF)
 - [POF Dating Username Search](https://www.pof.com/basicusersearch.aspx)
-### Podcasts
+## Podcasts
 - [Anatomypodcasts.com](https://anatomypodcasts.com/)
 - [Antennapod.org](https://antennapod.org/)
 - [BeyondPod](https://www.beyondpod.mobi/)
@@ -3057,7 +3057,7 @@
 - [Tldl.app](https://tldl.app/)
 - [Top Podcast Directories and How to Get in Them](https://theaudacitytopodcast.com/tap069-top-podcast-)
 - [Wearestabl.com](https://www.wearestabl.com/)
-### PR Reputation & Exposure
+## PR Reputation & Exposure
 - [AbsoluteRevenge](http://absolute-revenge.com/)
 - [Beware](https://www.beware.org/)
 - [BishopAccountability](http://www.bishop-accountability.org/priestdb/PriestDBbylastName-A.html)
@@ -3087,11 +3087,11 @@
 - [STDRegistry](http://www.stdregistry.com/)
 - [TheDirty](https://thedirty.com/)
 - [ThePayback](http://thepayback.com/)
-### Professional License
+## Professional License
 - [BBO Professional License Search](https://www.blackbookonline.info/USA-Professional-Licenses.aspx)
 - [BRBPub OLB Directory](http://www.brbpub.com/freeresources/pubrecsitesOccStates.aspx)
 - [PRO Professional License Search](http://publicrecords.onlinesearches.com/Professional-Licenses.htm)
-### Profiling & Social Engineering
+## Profiling & Social Engineering
 - [Chris Hadnagy Phishing Dark Waters Book (A)](https://www.amazon.com/Phishing-Dark-Waters-Offensive-Defensive/dp/1118958470/ref=sr_1_1?ie=UTF8&keywords=phishing+dark+waters&qid=1427900061&s=books&sr=1-1)
 - [Chris Hadnagy Social Engineering: The Science of Human Hacking Book (A)](https://www.amazon.com/gp/product/111943338X/ref=dbs_a_def_rwt_bibl_vppi_i0)
 - [Chris Hadnagy Social-Engineer.com](https://www.social-engineer.com/)
@@ -3105,13 +3105,13 @@
 - [Paul Ekman Unmasking The Face Book (A)](https://www.amazon.com/Unmasking-Face-Recognizing-Emotions-Expressions/dp/1883536367/ref=pd_sim_14_29?_encoding=UTF8&pd_rd_i=1883536367&pd_rd_r=a622b19d-cd4c-11e8-a739-33eb8bfc8d81&pd_rd_w=QflTP&pd_rd_wg=DdTl2&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=18bb0b78-4200-49b9-ac91-f141d61a1780&pf_rd_r=2GWA9DG6VGFW1F4J6CS7&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=2GWA9DG6VGFW1F4J6CS7)
 - [Social Engineer Toolkit](https://github.com/trustedsec/social-engineer-toolkit)
 - [Tone Analyzer Voice Profiler](https://tone-analyzer-demo.ng.bluemix.net/)
-### Property Records
+## Property Records
 - [Missouri - St. Louis County](http://revenue.stlouisco.com/ias)
-### Public Domain Image Databases
+## Public Domain Image Databases
 - [Design Rush Stock Photos](https://www.designrush.com/resources/publicdomainarchive)
 - [Pixnio Stock Photos](https://pixnio.com/)
 - [Snappy Goat Stock Photos](https://snappygoat.com/)
-### Public Transit - Bus
+## Public Transit - Bus
 - [|| Data | UITP ||](https://www.uitp.org/data-statistics)
 - [bart.gov](https://www.bart.gov/)
 - [BPerl NYC SubwayTracker](https://github.com/bperl/subway-tracker)
@@ -3193,24 +3193,24 @@
 - [Vzv.nyc](https://www.vzv.nyc/)
 - [wikiroutes](https://wikiroutes.info/)
 - [Wisconsin Milwaukee Bus Tracker](https://www.ridemcts.com/real-time)
-### QUICK ACCESS to OSINT FRAMEWORK
-#### Analysing E-mail Headers
+## QUICK ACCESS to OSINT FRAMEWORK
+### Analysing E-mail Headers
 - [E-Mail Header Analyzer - Analyze e-mail header lines](https://www.gaijin.at/en/tools/e-mail-header-analyzer)
 - [Email Header Analyzer Tool To Find Spam - WhatIsMyIP.com®](https://www.whatismyip.com/email-header-analyzer)
 - [Show my IP Address](https://mailheader.org/)
-#### Archive/Cache 2/2
+### Archive/Cache 2/2
 - [archive.li](https://archive.li/)
 - [Archives Portal Europe Homepage](http://www.archivesportaleurope.net/)
 - [Confluence](https://webarchive.jira.com/wiki/home)
 - [http://webverse.archive.org/](http://webverse.archive.org/)
-#### Archived/Cached Pages 1/2
+### Archived/Cached Pages 1/2
 - [Chacedviews.com](https://chacedviews.com/)
 - [ReplayWeb.page](https://replayweb.page/)
 - [Stanford Web Archive Portal](https://swap.stanford.edu/)
 - [Webrecorder | Tools](https://webrecorder.net/tools)
 - [Websitation.com](https://websitation.com/)
 - [ウェブ魚拓](https://megalodon.jp/)
-#### Banking and Credit Card Information
+### Banking and Credit Card Information
 - [Bank Account, Sort Code & IBAN Validation and Checker • Loqate, a GBG solution](https://www.loqate.com/en-gb/bank-verification)
 - [BIN](https://www.bincodes.com/)
 - [Check Credit Card Numbers](https://www.validcreditcardnumber.com/)
@@ -3233,16 +3233,16 @@
 - [Vat-lookup.co.uk](https://www.vat-lookup.co.uk/)
 - [VAT-Search.co.uk](https://vat-search.co.uk/)
 - [www2.swift.com/bsl/facelets/bicsearch.faces](https://www2.swift.com/bsl/facelets/bicsearch.faces)
-#### Chrome Osint/Sec Verify extensions
+### Chrome Osint/Sec Verify extensions
 - [EXIF QuickView](https://chrome.google.com/webstore/detail/exif-quickview/kjihpkahhpobojbdnknpelpgmcihnepj/related?hl=en-US)
-#### Chrome Security Extensions
+### Chrome Security Extensions
 - [Click&Clean](https://chrome.google.com/webstore/detail/clickclean/ghgabhipcejejjmhhchfonmamedcbeod?hl=en)
 - [DuckDuckGo Privacy Essentials](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg?hl=en)
 - [Privacy Badger](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp)
 - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en-GB)
 - [Unshorten.link - Chrome Web Store](https://chrome.google.com/webstore/detail/unshortenlink/gbobdaaeaihkghbokihkofcbndhmbdpd?hl=en)
 - [WebRTC Network Limiter](https://chrome.google.com/webstore/detail/webrtc-network-limiter/npeicpdbkakmehahjeeohfdhnlpdklia)
-#### Contact Detail Recovery Apps
+### Contact Detail Recovery Apps
 - [AI Sourcing Tools (Source 10X Faster) | Hiretual](https://hiretual.com/)
 - [AmazingHiring](https://amazinghiring.com/)
 - [Amazinghiring/didkfdopbffjkpolefhpcjkohcpalicd?hl=en.com](http://amazinghiring/didkfdopbffjkpolefhpcjkohcpalicd?hl=en.com)
@@ -3261,12 +3261,12 @@
 - [SeekOut](https://www.seekout.io/)
 - [Swordfishapp](https://www.swordfishapp.com/)
 - [The Best Cross-Platform Contact Manager App](https://www.contactsplus.com/)
-#### Crime Database/Statistics
+### Crime Database/Statistics
 - [Crime trend](https://crime-data-explorer.fr.cloud.gov/pages/explorer/crime/crime-trend)
 - [Database of Legislation](https://sherloc.unodc.org/cld/v3/sherloc/legdb/index.html?lng=en)
 - [Information for Victims in Large Cases](https://www.justice.gov/largecases)
 - [SHERLOC](https://sherloc.unodc.org/cld/v3/sherloc/index.jspx?tmpl=cybrepo)
-#### Currency Conversion
+### Currency Conversion
 - [Currency Converter - MSN Money](https://www.msn.com/en-us/money/tools/currencyconverter)
 - [Currency Converter | Foreign Exchange Rates | OANDA](https://www1.oanda.com/currency/converter)
 - [List of circulating currencies](https://en.wikipedia.org/wiki/List_of_circulating_currencies)
@@ -3274,18 +3274,18 @@
 - [XE Currency Converter](https://www.xe.com/currencyconverter)
 - [X-Rates](https://www.x-rates.com/)
 - [Yahoo Finance](https://finance.yahoo.com/currency-converter)
-#### DarkWeb Linkz
-##### DarkNetemail
+### DarkWeb Linkz
+#### DarkNetemail
 - [cock.li](http://rurcblzhmdk22kttfkel2zduhyu3r6to7knyc7wiorzrx5gw4c3lftad.onion/)
 - [Hxuzjtocnzvv5g2rtg2bhwkcbupmk7rclb6lly3fo4tvqkk5oyrv3nid.onion](http://hxuzjtocnzvv5g2rtg2bhwkcbupmk7rclb6lly3fo4tvqkk5oyrv3nid.onion/)
-##### DarkNetRandom Chat
+#### DarkNetRandom Chat
 - [http://notbumpz34bgbz4yfdigxvd6vzwtxc3zpt5imukgl6bvip2nikdmdaad.onion/rchat/](http://notbumpz34bgbz4yfdigxvd6vzwtxc3zpt5imukgl6bvip2nikdmdaad.onion/rchat)
 - [http://pfpmd7dd5ijt4add2sfi4djsaij4u3ebvnwvyvuj6aeipe2f5llptkid.onion/ui3/](http://pfpmd7dd5ijt4add2sfi4djsaij4u3ebvnwvyvuj6aeipe2f5llptkid.onion/ui3)
 - [jitjatj3qbb42jvik4udcehxpkoidppz3gojslh7jcatuo4hx4xwayid.onion/login.php](http://jitjatj3qbb42jvik4udcehxpkoidppz3gojslh7jcatuo4hx4xwayid.onion/login.php)
-##### darkweb directory links (clearnet)
+#### darkweb directory links (clearnet)
 - [Dark Web Links](https://darkweblinks.com/)
 - [Энтузиаст создал самый полный и самый бесполезный список сайтов даркнета — «Хакер»](https://xakep.ru/2017/05/11/darkweb-index)
-##### Deep Links DIR
+#### Deep Links DIR
 - ["The Safe Onion Links"](https://safeonu4c4xme2kzhuaer4ucm7enrjv23oznzwkz4d4f2wm7cc4ucuid.onion/)
 - [Ableonion Links](http://notbumpz34bgbz4yfdigxvd6vzwtxc3zpt5imukgl6bvip2nikdmdaad.onion/links)
 - [Dark-Catalog](http://catalogxlotjjnu6vyevngf675vu6beefzxw6gd6a3fwgmgznksrqmqd.onion/forums.html)
@@ -3298,21 +3298,21 @@
 - [OnionLand Search](http://3bbad7fauom4d6sgppalyqddsqbf5u5p56b5k5uk2zxsy3d6ey2jobad.onion/)
 - [Tasty Onions - Deep Web Link Directory](http://22tojepqmpah32fkeuurutki7o5bmb45uhmgzdg4l2tk34fkdafgt7id.onion/)
 - [Tor2web.onionsearchengine.com](https://tor2web.onionsearchengine.com/)
-##### Deep Web & Dark Web & Spec
+#### Deep Web & Dark Web & Spec
 - [4chansearch.net/](http://4chansearch.net/)
 - [Airbnb](http://airbnb.com/)
 - [Dual Maps v7: Google Maps, Street View and Bing Maps in an embeddable control](https://www.mapchannels.com/DualMaps.aspx)
 - [The Dru Sjodin National Sex Offender Public Website](http://www.nsopw.gov/)
 - [Www.humantraffickingsearch.net/](http://www.humantraffickingsearch.net/)
 - [Qrtitjevs5nxq6jvrnrjyz5dasi3nbzx24mzmfxnuk2dnzhpphcmgoyd.onion](http://qrtitjevs5nxq6jvrnrjyz5dasi3nbzx24mzmfxnuk2dnzhpphcmgoyd.onion/)
-#### DataBases for Legal Professionals
+### DataBases for Legal Professionals
 - [Martindale](https://www.martindale.com/)
-#### DATALEAK/BREACH ACCESS/CHECKER
+### DATALEAK/BREACH ACCESS/CHECKER
 - [Leak-Lookup](https://leak-lookup.com/databases)
 - [Leakhispano.net](https://leakhispano.net/)
 - [Pastebin dump collection](https://psbdmp.cc/)
 - [Personal Data Leak Checker: Your Email & Data](https://cybernews.com/personal-data-leak-check)
-#### Dating Apps and Sites
+### Dating Apps and Sites
 - [bumble](https://bumble.com/)
 - [Clover.co](https://clover.co/)
 - [Coffee Meets Bagel](https://coffeemeetsbagel.com/)
@@ -3333,18 +3333,18 @@
 - [The League](https://www.theleague.com/)
 - [Tinder](https://tinder.com/)
 - [Zoosk](https://www.zoosk.com/)
-#### Deleting/Sanitizing
+### Deleting/Sanitizing
 - [Darik's Boot And Nuke](https://www.dban.org/)
-#### File Forensics
+### File Forensics
 - [https://quicksand.io/](https://quicksand.io/)
-#### Information on Names and Naming Conventions
+### Information on Names and Naming Conventions
 - [Citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.)
 - [Indian Naming Conventions: Family Names and Given Names](https://learningindia.in/indian-naming-conventions)
 - [Russische Adjektive – RusslandJournal.de](https://www.russlandjournal.de/russisch-lernen/russische-)
 - [S.pdf.com](https://s.pdf.com/)
 - [Surnames.pdf](https://surnames.pdf/)
 - [Uide_uk_2006.pdf](https://uide_uk_2006.pdf/)
-#### Investigating Phone Numbers
+### Investigating Phone Numbers
 - [abc telefonos](https://www.abctelefonos.com/)
 - [Bmobile.in](https://bmobile.in/)
 - [Britishphonebook.com](https://www.britishphonebook.com/)
@@ -3401,11 +3401,11 @@
 - [Wtng.info](https://www.wtng.info/)
 - [Www.anywho.com/reverse-phone-lookup](https://www.anywho.com/reverse-phone-lookup)
 - [Zonzoo](https://zonzoo.nl/)
-#### IP LOGGING
+### IP LOGGING
 - [Canary Tokens - Hosted by Station X](https://whiteclouddrive.com/generate)
 - [Canarytokens](https://canarytokens.org/)
 - [CanaryTokens](https://www.stationx.net/canarytokens)
-#### IP-Domain-DNS-Network-URL
+### IP-Domain-DNS-Network-URL
 - [DNS History](https://completedns.com/dns-history)
 - [domainIQ](https://www.domainiq.com/tools)
 - [https://www.bulkseotools.com](https://www.bulkseotools.com/)
@@ -3414,9 +3414,9 @@
 - [ShadowCrypt - Cyber Intelligence & Online Hacking Tools Provider](https://shadowcrypt.net/)
 - [Whois History](https://osint.sh/whoishistory)
 - [Whois.evtottav.com](https://whois.evtottav.com/)
-#### Language Research Tools
+### Language Research Tools
 - [Ethnologue](https://www.ethnologue.com/)
-#### Leak Tests (Clear Net)
+### Leak Tests (Clear Net)
 - [AmIUnique](https://amiunique.org/fp)
 - [Cloudflare Browser Check | Cloudflare](https://www.cloudflare.com/ssl/encrypted-sni)
 - [Cover Your Tracks](https://coveryourtracks.eff.org/)
@@ -3426,10 +3426,10 @@
 - [Privacy Test & Analyzer: See what information websites know about you](https://privacy.net/analyzer)
 - [What browser? My browser? Is my browser out of date?](https://www.whatismybrowser.com/)
 - [Your IP Address is exposed?! Check IP Address and User Agent Now!](https://www.stupidproxy.com/ip-address-user-agent)
-#### Leak Tests (Dark Net)
+### Leak Tests (Dark Net)
 - [donionsixbjtiohce24abfgsffo2l4tk26qx464zylumgejukfq2vead.onion/test.php](http://donionsixbjtiohce24abfgsffo2l4tk26qx464zylumgejukfq2vead.onion/test.php)
 - [elfq2qefxx6dv3vy.onion/binfo_check_anonymity.php](http://elfq2qefxx6dv3vy.onion/binfo_check_anonymity.php)
-#### Leaked/Breached Databases (CLEARNET)
+### Leaked/Breached Databases (CLEARNET)
 - [All pages](https://ddosecrets.com/wiki/Special:AllPages)
 - [breachdirectory.com/breaches](https://breachdirectory.com/breaches?lang=en)
 - [Cryptome.wikileaks.org](https://cryptome.wikileaks.org/?q=#results)
@@ -3438,7 +3438,7 @@
 - [LeakIX - Reports](https://leakix.net/reports)
 - [Onion.Live](https://onion.live/?q=breached+data)
 - [Search WikiLeaks](https://search.wikileaks.org/?query=)
-#### Lectures, Talks, Presentations and Speeches
+### Lectures, Talks, Presentations and Speeches
 - [Academicearth.org](https://academicearth.org/)
 - [archive.com](https://archive.com/)
 - [Autodesk University](https://au.autodesk.com/)
@@ -3454,10 +3454,10 @@
 - [Talksat.withgoogle.com](https://talksat.withgoogle.com/)
 - [TED](https://www.ted.com/)
 - [The Great Courses®](https://www.thegreatcourses.com/)
-#### Matching E-mails to Social Media Profiles
+### Matching E-mails to Social Media Profiles
 - [Find emails addresses and social profiles in seconds](https://www.orbitly.io/)
 - [GitHub - famavott/osint-scraper: Social Recon](https://github.com/famavott/osint-scraper)
-#### Missing People
+### Missing People
 - [Childrescue.eu](https://www.childrescue.eu/)
 - [Familylinks.icrc.org](https://familylinks.icrc.org/)
 - [Globalmissingkids.org](https://globalmissingkids.org/)
@@ -3475,9 +3475,9 @@
 - [NamUs.gov](https://www.namus.gov/)
 - [Pollyklaas.org](https://www.pollyklaas.org/)
 - [Welcome to the Doe Network](https://www.doenetwork.org/)
-#### Mozilla Firefox Osint/Sec extensions//verification
+### Mozilla Firefox Osint/Sec extensions//verification
 - [RevEye Reverse Image Search – Get this Extension for 🦊 Firefox (en-US)](https://addons.mozilla.org/en-US/firefox/addon/reveye-ris)
-#### News Digest and Discovery Tools
+### News Digest and Discovery Tools
 - [1stHeadlines-Breaking News](https://www.1stheadlines.com/)
 - [Aktuelle News-Charts](https://www.10000flies.de/)
 - [All Patch Locations by State | Patch](https://patch.com/map)
@@ -3530,7 +3530,7 @@
 - [WorldNews](https://wn.com/)
 - [Yahoo! News](https://news.yahoo.com/)
 - [Yetigogo.com](https://yetigogo.com/)
-#### Newspapers and News Directories
+### Newspapers and News Directories
 - [AllYouCanRead](https://www.allyoucanread.com/)
 - [Headlinespot.com](https://www.headlinespot.com/)
 - [Newspaper Directory: DailyEarth](https://dailyearth.com/)
@@ -3542,19 +3542,19 @@
 - [PressReader](https://www.pressreader.com/)
 - [Search U.S. Newspaper Directory, 1690-Present « Chronicling America « Library of Congress](https://chroniclingamerica.loc.gov/search/titles)
 - [W3Newspapers](https://www.w3newspapers.com/)
-#### Non Profit / Charity INFO
+### Non Profit / Charity INFO
 - [Charity Navigator](https://www.charitynavigator.org/)
 - [Exempt Organizations Business Master File Extract (EO BMF) | Internal Revenue Service](https://www.irs.gov/charities-non-profits/exempt-organizations-business-master-file-extract-eo-bmf)
 - [Nonprofit Explorer - ProPublica](https://projects.propublica.org/nonprofits)
 - [SOI Tax Stats - Annual Extract of Tax-Exempt Organization Financial Data | Internal Revenue Service](https://www.irs.gov/statistics/soi-tax-stats-annual-extract-of-tax-exempt-organization-financial-data)
-#### onion forums
-##### Onion Links for checking breached/leaked data
+### onion forums
+#### Onion Links for checking breached/leaked data
 - [FreedomHQ](http://freedomzw5x5tzeit4jgc3gvic3bmecje53hwcoc3nnwe2c3gsukdfid.onion/databases?page=2)
 - [http://ddosxlvzzow7scc7egy75gpke54hgbg2frahxzaw6qq5osnzm7wistid.onion/wiki/Distributed_Denial_of_Secrets](http://ddosxlvzzow7scc7egy75gpke54hgbg2frahxzaw6qq5osnzm7wistid.onion/wiki/Distributed_Denial_of_Secrets)
 - [Instagram - Leaked Password Database (Limited)](http://breachdbsztfykg2fdaq2gnqnxfsbj5d35byz3yzj73hazydk4vq72qd.onion/LeakedPass)
 - [Search Instagram Users Leaked Password Database](http://breachdbsztfykg2fdaq2gnqnxfsbj5d35byz3yzj73hazydk4vq72qd.onion/)
 - [Trashchan public DB dump](http://trashbakket2sfmaqwmvv57dfnmacugvuhwxtxaehcma6ladugfe2cyd.onion/)
-##### Onion links/diurectories cont
+#### Onion links/diurectories cont
 - [2ja7yz5b3owazz76uvs3zjgcobf4ui63afscjc4azlu67khfuy3iq5yd.onion](http://2ja7yz5b3owazz76uvs3zjgcobf4ui63afscjc4azlu67khfuy3iq5yd.onion/)
 - [Bwravzt2xdkc3r3ha6ivyizbtxw4bplohjaswqfe6zlh5tt22eb5iaid.onion](http://bwravzt2xdkc3r3ha6ivyizbtxw4bplohjaswqfe6zlh5tt22eb5iaid.onion/)
 - [Deepxfmkjlils3vd7bru5rrxy3x3lchjgmv3wsgycjfynktmuwgm64qd.onion](http://deepxfmkjlils3vd7bru5rrxy3x3lchjgmv3wsgycjfynktmuwgm64qd.onion/)
@@ -3575,7 +3575,7 @@
 - [Torlinkuqd6ntr57y35m53pitu3qzfdbmhpkqmzn7yunzuwzrxjpmmyd.onion](http://torlinkuqd6ntr57y35m53pitu3qzfdbmhpkqmzn7yunzuwzrxjpmmyd.onion/)
 - [UnderDir](http://underdiriled6lvdfgiw4e5urfofuslnz7ewictzf76h4qb73fxbsxad.onion/)
 - [Wclekwrf2aclunlmuikf2bopusjfv66jlhwtgbiycy5nw524r6ngioid.onion](http://wclekwrf2aclunlmuikf2bopusjfv66jlhwtgbiycy5nw524r6ngioid.onion/)
-##### Onion Pastes/ Notes
+#### Onion Pastes/ Notes
 - [Black Cloud - Image Hosting](http://bcloudwenjxgcxjh6uheyt72a5isimzgg4kv5u74jb2s22y3hzpwh6id.onion/)
 - [BlackHost](https://blackhost7pws76u6vohksdahnm6adf7riukgcmahrwt43wv2drvyxid.onion/?id=pst)
 - [Cryptornetzamrhytcxhr3ekth6vom4ewns7pqxtywfvn5eezxgcqgqd.onion](http://cryptornetzamrhytcxhr3ekth6vom4ewns7pqxtywfvn5eezxgcqgqd.onion/)
@@ -3589,21 +3589,21 @@
 - [http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion/search.php](http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion/search.php)
 - [Suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion](http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion/)
 - [XSS.IS forum on Darkenet](http://xssforolrt4zlzqsvinl5tg3wgx33nc2abrvmrreauvafy4jxqseomad.onion/)
-#### Opt Out ADS/Data
+### Opt Out ADS/Data
 - [Data Privacy and Ethics](https://www.acxiom.com/data-privacy-ethics)
 - [DMAchoice is a mail preference service offered by the ANA.](https://www.dmachoice.org/)
 - [Home - NAI: Network Advertising Initiative](https://www.networkadvertising.org/)
 - [LexisNexis Information Suppression Request](https://optout.lexisnexis.com/)
 - [YourAdChoices.com | Welcome to YourAdChoices.com](https://youradchoices.com/)
-#### OPT OUT data/marketing/advertising etc
+### OPT OUT data/marketing/advertising etc
 - [Privacy - About the DataChevron RightArrow RightPlayPlus](https://www.acxiom.com/about-us/privacy/atd)
-#### Opt-Out First Steps
+### Opt-Out First Steps
 - [Just Delete Me](https://backgroundchecks.org/justdeleteme)
-#### OSINT/Investigating/Forensic Guides/Note-taking
+### OSINT/Investigating/Forensic Guides/Note-taking
 - [HUNCHLY- OSINT Tools: Capturing Evidence & Notetaking - Forensic Notes](https://www.forensicnotes.com/osint-tools#why_fn)
-#### Other (opt-out)
+### Other (opt-out)
 - [My.telegram.org](https://my.telegram.org/)
-#### Patent Research
+### Patent Research
 - [Advanced Patent Search](https://www.google.com/advanced_patent_search)
 - [BPP eRegister](https://mijnoctrooi.rvo.nl/fo-eregister-view)
 - [Common Citation Document (CCD)](https://ccd.fiveipoffices.org/CCD-2.1.6)
@@ -3630,22 +3630,22 @@
 - [WIPO&nbsp;Hague Express](https://www.wipo.int/designdb/hague/en)
 - [Www3.wipo.int/branddb/en](https://www3.wipo.int/branddb/en)
 - [מדינת ישראל](https://www.ilpatsearch.justice.gov.il/UI/mainpage.aspx)
-#### People
+### People
 - [melissa](https://melissa.com/)
 - [Real-Time Public Records Search, SSN Search & Background Checks](https://www.usatrace.com/)
-#### Photo Forensics
+### Photo Forensics
 - [ExifCleaner - FREE Desktop app to clean image metadata](https://exifcleaner.com/)
 - [Exifinfo.org](https://exifinfo.org/)
 - [https://www.freemaptools.com/](https://www.freemaptools.com/)
 - [Image info online](http://linkstore.ru/exif)
-#### Privacy
+### Privacy
 - [GRC&nbsp;|&nbsp;Security Now! Episode Archive](https://www.grc.com/securitynow.htm)
 - [privacytools.io](https://www.privacytools.io/)
-#### Researching Countries
-##### Researching Leaks
-##### Reverse Analytics Google
-##### Russian Forums / links CompanyInfo
-##### Russian Phone numberlookup
+### Researching Countries
+#### Researching Leaks
+#### Reverse Analytics Google
+#### Russian Forums / links CompanyInfo
+#### Russian Phone numberlookup
 - [8call.ru](https://8call.ru/)
 - [Allnum.ru](http://allnum.ru/)
 - [Apertonet.ru](https://apertonet.ru/)
@@ -3695,7 +3695,7 @@
 - [PERSONAL INFRASTRUCTURE](https://start.me/p/nRl9Ya/persinfra)
 - [SOURCES | COMPANY INFORMATION](https://start.me/p/3g0aKK/sources)
 - [SOURCES CTY USA](https://start.me/p/kxMBv9/cnty-usa)
-### Radio & Scanner
+## Radio & Scanner
 - [Bearcat Family Radio Frequency Database](http://www.bearcat1.com/family.htm)
 - [Bearcat Fast Food Radio Frequency Database](http://www.bearcat1.com/fastfood.htm)
 - [Bearcat Military Radio Frequency Database](http://www.bearcat1.com/feds.htm)
@@ -3711,9 +3711,9 @@
 - [Rollanet Scanner Radio Frequency Database](http://www.rollanet.org/~n0klu/Ham_Radio/1000's%20-%20SCANNER%20&%20HAM%20Radio%20Frequencies%20-%20Ebook.pdf)
 - [SDR.hu](http://sdr.hu/)
 - [Www.milscanners.org/](http://www.milscanners.org/)
-### Rail Assets
+## Rail Assets
 - [World By Map Railways](http://world.bymap.org/Railways.html)
-### Railways
+## Railways
 - [【ᐅᐅ】 Trainradar ⋆ Track-Trace.LIVE](https://track-trace.live/trainradar)
 - [Accessible UK Train Timetables](https://traintimes.org.uk/)
 - [Actuele spoorkaart Nederland](https://spoorkaart.mwnn.nl/)
@@ -3759,14 +3759,14 @@
 - [Traze.veridict.com](https://traze.veridict.com/)
 - [Union Pacific](https://www.up.com/index.htm)
 - [Welsh Railways Research Circle](https://wrrc.org.uk/research.php)
-### Reddit
+## Reddit
 - [before reddit | optimize a post](http://beforereddit.herokuapp.com/)
-### Report & Presentation Tools
+## Report & Presentation Tools
 - [Bubbl.us Mind Mapping Tool](https://bubbl.us/)
 - [Prezi Presentation Software](https://prezi.com/)
 - [TheBrain Mind Mapping Tool](https://www.thebrain.com/)
 - [XMind8 Mind Mapping Tool](https://www.xmind.net/xmind8-pro)
-### Requests for User Information: Information for Law Enforcement
+## Requests for User Information: Information for Law Enforcement
 - [Fetching title...](https://www.wechat.com/en/law_enforcement_data_request.html)
 - [Help.pinterest.com/en/article/law-enforcement-guidelines](https://help.pinterest.com/en/article/law-enforcement-guidelines)
 - [Info.publicintelligence.net/MSN-Compliance.pdf](https://info.publicintelligence.net/MSN-Compliance.pdf)
@@ -3775,8 +3775,8 @@
 - [Safety Center](https://www.facebook.com/safety/groups/law/guidelines)
 - [SEARCH | ISP List](https://www.search.org/resources/isp-list)
 - [storage.googleapis.com/snap-inc/privacy/lawenforcement.pdf](https://storage.googleapis.com/snap-inc/privacy/lawenforcement.pdf)
-### Researching
-#### Researching Cyber Threats
+## Researching
+### Researching Cyber Threats
 - [AlienVault Open Threat Exchange](https://otx.alienvault.com/)
 - [Analyse your HTTP response headers](https://securityheaders.com/)
 - [Apility.io](https://apility.io/)
@@ -3840,7 +3840,7 @@
 - [Web Inspector – Website Malware Removal](https://webinspector.com/)
 - [webcookies.org](https://webcookies.org/)
 - [www.websitepulse.com/help/testtools.dbl-test.html](https://www.websitepulse.com/help/testtools.dbl-test.html)
-#### Researching Cybersecurity
+### Researching Cybersecurity
 - [Black Hat](https://www.blackhat.com/)
 - [CIS](https://www.cisecurity.org/)
 - [Cisco Talos Intelligence Group](https://www.talosintelligence.com/)
@@ -3873,13 +3873,13 @@
 - [Stop.Think.Connect.](https://stopthinkconnect.org/)
 - [US-Cert](https://www.us-cert.gov/)
 - [Welcome to SecurityTube.net](https://www.securitytube.net/)
-#### Researching Drug Trade
+### Researching Drug Trade
 - [Drug Policy Alliance](https://www.drugpolicy.org/)
 - [Fetching title...](https://www.rand.org/topics/illegal-drug-trade.html)
 - [Incb.org](https://www.incb.org/)
 - [Streetdrugs.org](https://streetdrugs.org/)
 - [Used-drugs-charts.com](https://used-drugs-charts.com/)
-#### Researching Human Trafficking
+### Researching Human Trafficking
 - [1800runaway.org](https://www.1800runaway.org/)
 - [About Human Trafficking & Modern Slavery - STOP THE TRAFFIK](https://www.stopthetraffik.org/about-human-)
 - [Against-human-trafficking.com](https://against-human-trafficking.com/)
@@ -3929,7 +3929,7 @@
 - [Trends/crime-areas/trafficking-in-human-beings.com](http://trends/crime-areas/trafficking-in-human-beings.com)
 - [Www.acf.hhs.gov/otip](https://www.acf.hhs.gov/otip)
 - [www.notforsalecampaign.org/](https://www.notforsalecampaign.org/)
-#### Researching Money Laundering and Corruption
+### Researching Money Laundering and Corruption
 - [Acfcs.org](https://www.acfcs.org/)
 - [European Anti-Fraud Office | European Commission](https://ec.europa.eu/anti-fraud)
 - [FATF-GAFI.ORG](https://www.fatf-gafi.org/)
@@ -3943,7 +3943,7 @@
 - [Moneytaskforce.com](https://www.moneytaskforce.com/)
 - [Transparency International](https://www.transparency.org/)
 - [UNODC and corruption](https://www.unodc.org/unodc/en/corruption/index.html)
-#### Researching Stolen Items
+### Researching Stolen Items
 - [Artloss](https://www.artloss.com/)
 - [BBB Scam Tracker℠ | Find and Report a Scam | Better Business Bureau](https://www.bbb.org/scamtracker/us)
 - [Datenbank - Securius](https://www.securius.eu/de/datenbank)
@@ -3967,7 +3967,7 @@
 - [Stolenboats.org.uk](https://www.stolenboats.org.uk/)
 - [Thewatchregister.com](https://www.thewatchregister.com/)
 - [Work/Databases/Stolen-Works-of-Art-Database.com](http://work/Databases/Stolen-Works-of-Art-Database.com)
-#### Researching Terrorism, Crime, and Cybersecurity
+### Researching Terrorism, Crime, and Cybersecurity
 - [/crimeandjustice/methodologies/guidetofindingcrimestati.com](http://crimeandjustice/methodologies/guidetofindingcrimestati.com)
 - [Almanac.afpc.org](https://almanac.afpc.org/)
 - [And-resources.com](https://and-resources.com/)
@@ -4049,7 +4049,7 @@
 - [What We Do](https://www.ict.org.il/)
 - [Www.riskadvisory.com/campaigns/terrorism-](https://www.riskadvisory.com/campaigns/terrorism-)
 - [Www.un.org/sc/ctc](https://www.un.org/sc/ctc)
-### Resume & Job Boards
+## Resume & Job Boards
 - [CampusCareerCenter](http://www.campuscareercenter.com/)
 - [CollegeRecruiter](https://www.collegerecruiter.com/)
 - [Dice](https://www.dice.com/)
@@ -4059,18 +4059,18 @@
 - [Indeed Resumes](https://resumes.indeed.com/?co=US&hl=en&rsrdr=1)
 - [SimplyHired](https://www.simplyhired.com/)
 - [Unions.org](https://unions.org/)
-### Reverse Email Search
+## Reverse Email Search
 - [Intellius Reverse Email Search](https://www.intelius.com/email-search-name)
 - [PeopleSmart Reverse Email Search](https://www.peoplesmart.com/email-lookup-search)
 - [SocialCatfish Reverse Email Search](https://socialcatfish.com/reverse-email-address-search)
 - [Spokeo Reverse Email Search](https://www.spokeo.com/email-search)
-### Reverse Image & Facial Recognition Search
+## Reverse Image & Facial Recognition Search
 - [FindFace Image Recognition](https://findface.ru/login)
 - [PicQuery Reverse Image Search](https://www.picquery.com/)
-### Reverse IP Search
+## Reverse IP Search
 - [MxToolbox Reverse IP Search](https://mxtoolbox.com/ReverseLookup.aspx)
 - [ThatsThem Reverse IP Search](https://thatsthem.com/reverse-ip-lookup)
-### Reverse Phone Number Lookup
+## Reverse Phone Number Lookup
 - [Addresses Reverse Phone Lookup](http://www.addresses.com/phone)
 - [Inter800 Reverse Phone Lookup](http://inter800.com/)
 - [IvyCall Reverse Phone Lookup](https://www.ivycall.com/)
@@ -4088,20 +4088,20 @@
 - [Whitepages Reverse Phone Lookup](https://www.whitepages.com/reverse-phone)
 - [Whocalld Reverse Phone Lookup](https://whocalld.com/)
 - [ZabaSearch Reverse Phone Lookup](https://www.zabasearch.com/reverse-phone-lookup)
-### Reverse Username Search
+## Reverse Username Search
 - [SocialCatfish Reverse Username Search](https://socialcatfish.com/reverse-username-search)
-### Road Assets
-#### Road Assets Domestic Plate Search
+## Road Assets
+### Road Assets Domestic Plate Search
 - [Federal Mogul Plate Search](https://www.fmmotorparts.com/fmstorefront/federalmogul/en/USD/catalog/partsFinderLicensePlateLookup)
 - [Florida Stolen Plate Search](http://pas.fdle.state.fl.us/pas/restricted/PAS/StolenPlate.jsf)
 - [PlateRecordsFinder Plate Search](https://recordsfinder.com/plate)
 - [Reverse Genie Plate Search](http://www.reversegenie.com/plate.php)
-#### Road Assets Owners Name Search
+### Road Assets Owners Name Search
 - [AllVehicleData Owners Name Search](http://www.allvehicledata.com/)
 - [Vehicle Sales Owners Name Search](http://vin.place/search.php)
-#### Road Assets Parking & Toll Tickets
+### Road Assets Parking & Toll Tickets
 - [BBO Parking Tickets](https://www.blackbookonline.info/USA-parking-tickets.aspx)
-#### Road Assets VIN Search
+### Road Assets VIN Search
 - [Alabama VIN Search](https://www.alabamainteractive.org/ador_vic)
 - [Arizona VIN Search](https://theftaz.azag.gov/)
 - [Arkansas VIN Search](https://www.ark.org/acic_hotvehiclecheck/hvc)
@@ -4120,29 +4120,29 @@
 - [VehicleHistory VIN Search](https://www.vehiclehistory.com/vehicle/land.php)
 - [VIN Place VIN Search](http://http/vin.place%20.com)
 - [CarsOwners Make & Model Search](https://carsowners.net/)
-### Salary Indexes
+## Salary Indexes
 - [Indeed Salary Index](https://www.indeed.com/salaries?attributionid=&from=headercmplink)
-### Satellite-Level Viewers
+## Satellite-Level Viewers
 - [Corona @ CAST UA Satellite Georeferencing and Imagery System](http://corona.cast.uark.edu/)
 - [ESA EOLi Satellite Imagery Platform](https://earth.esa.int/web/guest/eoli)
 - [KMLMap Satellite Imagery Viewer](http://gokml.net/maps#ll=33.467074,-99.528235&z=10&t=h)
 - [NASA EarthData Satellite Observation Platform](https://search.earthdata.nasa.gov/search)
 - [NASA ZoomEarth Satellite and Aerial Image Viewer (Updated Daily)](https://zoom.earth/#0,0,3z,sat,pm,2018-09-23)
 - [SatDrops Instant Google Earth Viewer/Downloader](http://www.satdrops.com/)
-### Searching within Screenshots
+## Searching within Screenshots
 - [GitHub - mxrch/darkshot: Lightshot scraper on steroids with OCR.](https://github.com/mxrch/darkshot)
 - [GitHub - utkusen/shotlooter: a recon tool that finds sensitive data inside the screenshots uploaded to prnt.sc](https://github.com/utkusen/shotlooter)
 - [Screenotate.com](https://screenotate.com/)
-### Secure Browsing
+## Secure Browsing
 - [Cookie Auto Delete Firefox Addon](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete)
 - [Firefox](https://www.mozilla.org/en-US/firefox/new)
 - [Firefox Fortification Guide](https://greysec.net/showthread.php?tid=842)
 - [HTTPS Everywhere Firefox Addon](https://www.eff.org/https-everywhere)
 - [uBlock Origin Firefox Addon](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin)
-### Secure Erase
+## Secure Erase
 - [BleachBit Secure Disk Erase](https://www.bleachbit.org/)
 - [Eraser Secure Disk Erase](https://eraser.heidi.ie/)
-### Securities
+## Securities
 - [FINRA BrokerCheck Advisor Search](https://brokercheck.finra.org/)
 - [NASAA](http://www.nasaa.org/)
 - [SCAC](http://securities.stanford.edu/)
@@ -4154,7 +4154,7 @@
 - [SEC Info](http://www.secinfo.com/)
 - [SEC Investment Advisor Search](https://adviserinfo.sec.gov/IAPD/Default.aspx)
 - [SEC Research Guide](https://www.sec.gov/oiea/Article/edgarguide.html)
-### Ships
+## Ships
 - [AIS tracker - ship tracking solution](https://en.aistracker.ru/map7.asp)
 - [Ais.boatnerd.com](https://ais.boatnerd.com/)
 - [Ais.sk2hg.se](https://ais.sk2hg.se/)
@@ -4206,7 +4206,7 @@
 - [Vesseltracker.com](https://www.vesseltracker.com/)
 - [Weather Display Live](https://www.rathlinweather.co.uk/AIS)
 - [World Map Transport Routes](https://worldmap.harvard.edu/maps/2892)
-### Skype
+## Skype
 - [CyberHub Email2Skype](https://cyber-hub.net/email2skype.php)
 - [CyberHub IP2Skype](https://cyber-hub.net/ip2skype.php)
 - [CyberHub Skype DB Username Lookup](https://cyber-hub.net/oldip.php)
@@ -4216,21 +4216,21 @@
 - [MostwantedHF IP2Skype](http://mostwantedhf.info/ip2skype.php)
 - [MostwantedHF Skype2Email](http://mostwantedhf.info/skype2email.php)
 - [Skype Platform](https://www.skype.com/en)
-### SnapChat
+## SnapChat
 - [Snapchat Platform App Store](https://itunes.apple.com/us/app/snapchat/id447188370?mt=8)
 - [Snapchat Platform Google Play](https://play.google.com/store/apps/details?hl=en&id=com.snapchat.android)
 - [SnapMap SnapChat Map-Based Viewer Private API](https://github.com/CaliAlec/snap-map-private-api)
 - [SomeSnapCode SnapChat Username Search](https://somesnapcode.com/)
-### Social Media
-#### Social Media & Participatory Mapping
+## Social Media
+### Social Media & Participatory Mapping
 - [Pattrn Participatory Fact Mapping](https://github.com/pattrn-project/pattrn)
 - [En.savefrom.net/1-how-to-download-youtube-video/](http://en.savefrom.net/1-how-to-download-youtube-video)
 - [Facebook Search](https://inteltechniques.com/osint/facebook.html)
 - [Node XL](https://www.smrfoundation.org/nodexl)
 - [Socilab](http://www.socilab.com/)
-### Social Networks
-#### Secure Communication +
-##### Secure email
+## Social Networks
+### Secure Communication +
+#### Secure email
 - [Enigmail - Home](https://www.enigmail.net/index.php/en)
 - [OpenPGP](https://www.openpgp.org/)
 - [Riseup](https://www.riseup.net/)
@@ -4243,7 +4243,7 @@
 - [The most secure collaboration platform · Wire](https://wire.com/en)
 - [Xabber for Web](https://www.xabber.com/web)
 - [XMPP](https://xmpp.org/)
-#### Slang Translators and Resources
+### Slang Translators and Resources
 - [Britishslang.co.uk](https://www.britishslang.co.uk/)
 - [Fetching title...](https://www.banyanstuart.com/slang-glossary)
 - [Gizoogle - Textilizer](https://gizoogle.net/textilizer.php)
@@ -4252,19 +4252,19 @@
 - [The Slang Dictionary](https://slangit.com/)
 - [Transl8it!](https://www.transl8it.com/)
 - [Www.snohd.org/DocumentCenter/View/2516/Drug_](https://www.snohd.org/DocumentCenter/View/2516/Drug_)
-#### Snapchat Tools
+### Snapchat Tools
 - [Ghostdex.app](https://ghostdex.app/)
 - [snapsr.com/](https://snapsr.com/)
 - [Story.snapchat.com](https://story.snapchat.com/)
-#### Social Engineering/Osint Onion Forum
+### Social Engineering/Osint Onion Forum
 - ["social ingenering" :')](http://commudazrdyhbullltfdy222krfjhoqzizks5ejmocpft3ijtxq5khqd.onion/forums/social_ingenering)
-#### Social Media ( reddit, skype, twitter)
+### Social Media ( reddit, skype, twitter)
 - [Botometer by OSoMe](https://botometer.osome.iu.edu/)
 - [https://unionmetrics.com/free-tools/twitter-snapshot-report/](https://unionmetrics.com/free-tools/twitter-snapshot-report)
 - [Removeddit](https://www.removeddit.com/)
 - [Skypeipresolver.net](http://www.skypeipresolver.net/)
 - [Spponbill.io](https://spponbill.io/)
-#### Social Media Tools
+### Social Media Tools
 - [📸 Free Instagram scraper tool - download public profiles · Apify](https://apify.com/jaroslavhejlek/instagram-scraper)
 - [4K Stogram: Laden Sie Instagram Photos & More herunter | 4K Download | 4K Download77EEF0E5-0BD5-4389-9FED-3A516652DCFCEFD94688-37A7-4E25-BF1A-C4F3304D48DA](https://www.4kdownload.com/de/products/product-stogram)
 - [Accountanalysis.app](https://accountanalysis.app/)
@@ -4507,17 +4507,17 @@
 - [X-Ray Pinterest with Boolean search tool | Sourcinglab](https://sourcinglab.io/search/pinterest)
 - [X1](https://www.x1.com/)
 - [YouScan](https://youscan.io/)
-#### Username Check
-##### Telegram
+### Username Check
+#### Telegram
 - [Search.buzz.im](https://search.buzz.im/)
-##### TikTok Tools
+#### TikTok Tools
 - [TikTok Downloader, No Watermark Video Downloader For TikTok](https://ttdownloader.com/)
 - [TikTok Search Engine: Search and Watch TikToks](https://www.searchtiktoks.com/)
-##### Twitter (tools)
+#### Twitter (tools)
 - [Hoaxy: How claims spread online](https://hoaxy.osome.iu.edu/)
 - [OSoMe Network Graph](https://truthy.indiana.edu/tools/networks)
 - [OSoMe Trends](https://truthy.indiana.edu/tools/trends)
-##### Validating E-mails
+#### Validating E-mails
 - [//email/testTo:](https://www.checktls.com/TestReceiver)
 - [#1 FREE Email Validation & Verification Tool - Check Email Addresses](https://b2bsprouts.com/email-validation-tool)
 - [Briteverify.co.uk](https://www.briteverify.co.uk/)
@@ -4611,7 +4611,7 @@
 - [Yelp](https://www.yelp.com/)
 - [Zalo cho máy tính – Windows, Mac, Ubuntu](https://zalo.me/)
 - [豆瓣](https://www.douban.com/)
-### Speech to Text Tools
+## Speech to Text Tools
 - [Braina - Artificial Intelligence Software for Windows](https://www.brainasoft.com/braina)
 - [oTranscribe](https://otranscribe.com/)
 - [Otter Voice Meeting Notes](https://otter.ai/)
@@ -4629,7 +4629,7 @@
 - [Voice Recognition Software](https://e-speaking.com/)
 - [Voicefinger.cozendey.com](https://voicefinger.cozendey.com/)
 - [Watson Speech to Text - Overview | IBM](https://www.ibm.com/cloud/watson-speech-to-text)
-### State and Local Government Contracts
+## State and Local Government Contracts
 - [California Procurement Platform](http://www.bidsync.com/DPX?ac=agencycontlist&foroid=307818)
 - [Hawaii Procurement Platform](https://hands.ehawaii.gov/hands/welcome)
 - [Idaho Procurement Platform](https://purchasing.idaho.gov/information-for-vendors)
@@ -4656,7 +4656,7 @@
 - [Virginia Procurement Platform](https://eva.virginia.gov/index.html)
 - [Washington Procurement Platform](https://des.wa.gov/services/contracting-purchasing/doing-business-state/bid-opportunities)
 - [Wisconsin Procurement Platform](http://wisbuildnet.doa.state.wi.us/(S(bpkilf5wzkgysjajij2kaw2t))/public/bidlist_public.aspx)
-### State Registries of Political Contributions
+## State Registries of Political Contributions
 - [Alabama Political Contributions](http://fcpa.alabamavotes.gov/PublicSite/SearchPages/ContributionSearch.aspx)
 - [Alaska Political Contributions](https://aws.state.ak.us/ApocReports/Campaign)
 - [Arizona Political Contributions](https://azsos.gov/elections/campaign-finance-reporting)
@@ -4711,7 +4711,7 @@
 - [Washington Political Contributions](https://www.pdc.wa.gov/browse/more-ways-to-follow-the-money/advanced-search/view-reports?category=Advanced+Search)
 - [Wisconsin Political Contributions](https://cfis.wi.gov/)
 - [Wyoming Political Contributions](https://www.wycampaignfinance.gov/WYCFWebApplication/GSF_Authentication/Default.aspx)
-### State Registries of Political Lobbyists
+## State Registries of Political Lobbyists
 - [Alabama Lobbyists Search](http://ethics.alabama.gov/search/PublicOfficialEmployeeSearch.aspx)
 - [Alaska Lobbyist Search](https://aws.state.ak.us/ApocReports/Lobbying)
 - [Arkansas Lobbyist Search](https://www.sos.arkansas.gov/elections/financial-disclosure/registered-lobbyists-political-action-committees)
@@ -4757,7 +4757,7 @@
 - [Vermont Lobbyist Search](https://lobbying.sec.state.vt.us/Public/LobbyistRegistration)
 - [Wisconsin Lobbyist Search](https://lobbying.wi.gov/Home/Welcome)
 - [Wyoming Lobbyist Search](https://lobbyist.wyo.gov/Lobbyist/LobbyistSearch.aspx)
-### Stock Images
+## Stock Images
 - [365 Project Made Easy](https://stock.tookapic.com/)
 - [AllTheFreeStock](https://allthefreestock.com/)
 - [CC Search](https://ccsearch.creativecommons.org/)
@@ -4792,10 +4792,10 @@
 - [Undraw](https://undraw.co/)
 - [Uniquely free photos](https://www.reshot.com/)
 - [Unsplash](https://unsplash.com/)
-### Street-Level Viewers
+## Street-Level Viewers
 - [Google Maps Streetview Player Street Level Visualization Tool](http://brianfolts.com/driver)
 - [Hyperlapse Time-Lapsed Viewing of Google Street View](https://github.com/TeehanLax/Hyperlapse.js)
-### Subdomain Enumeration
+## Subdomain Enumeration
 - [aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r)
 - [Fierce - aldeid](https://www.aldeid.com/wiki/Fierce)
 - [GitHub - guelfoweb/knock: Knock Subdomain Scan](https://github.com/guelfoweb/knock)
@@ -4806,15 +4806,15 @@
 - [GitHub - TheRook/subbrute: A DNS meta-query spider that enumerates DNS records, and subdomains.](https://github.com/TheRook/subbrute)
 - [SecurityTrails](https://securitytrails.com/)
 - [Spyse.com/tools/subdomain-finder](https://spyse.com/tools/subdomain-finder)
-### Surveillance Tools
-#### Surveillance Apps & Equipment
+## Surveillance Tools
+### Surveillance Apps & Equipment
 - [AccuTracking](https://secure.accutracking.com/)
 - [Belarc Advisor](http://www.belarc.com/en/products_belarc_advisor)
 - [FindMyKids](https://findmykids.org/en)
 - [KeyKatcher](http://www.keykatcher.com/)
 - [Spyera](https://spyera.com/)
 - [SpyHuman](https://spyhuman.com/)
-#### Surveillance Cover
+### Surveillance Cover
 - [BTN Fake Name Generator](https://www.behindthename.com/random)
 - [ClownFish Voice Changer](https://clownfishvoicechangers.com/)
 - [DFG Fake Identity Generator](http://www.datafakegenerator.com/generador.php)
@@ -4838,7 +4838,7 @@
 - [Granite Island Group](http://www.tscm.com/)
 - [Meco Gov Surplus Equipment](http://www.meco.org/catalog)
 - [Silent Pocket](https://silent-pocket.com/)
-### Text to Speech Tools
+## Text to Speech Tools
 - [Balabolka](https://www.cross-plus-a.com/balabolka.htm)
 - [Captivoice.com](https://www.captivoice.com/)
 - [Festvox: Voice&nbsp;Demos](https://www.festvox.org/voicedemos.html)
@@ -4859,7 +4859,7 @@
 - [Ttsmp3.com](https://ttsmp3.com/)
 - [www.linguatec.de/](https://www.linguatec.de/)
 - [Zabaware - Text-to-Speech Reader](https://www.zabaware.com/reader)
-### Tinder
+## Tinder
 - [Investigating Sexual Crimes in the Tinder Age](https://www.youtube.com/watch?v=m05Btz-hsQk)
 - [LATT Advanced Tinder Capture](https://www.learnallthethings.net/osmosis)
 - [SwipeHelper](https://www.swipehelper.com/)
@@ -4868,23 +4868,23 @@
 - [Tinder Google Play](https://play.google.com/store/apps/details?hl=en&id=com.tinder)
 - [Tinder Select](https://www.businessinsider.com/tinder-select-for-celebs-and-other-vip-users-review-screenshots-walkthrough-2017-6)
 - [Tinder SocialCatfish Scams](https://socialcatfish.com/blog/catfished-tinder-need-know-tinder-scams)
-### Tools
-#### Tools - Android emulators
+## Tools
+### Tools - Android emulators
 - [Bluestacks](https://www.bluestacks.com/nl/index.html)
 - [Genymotion](https://www.genymotion.com/)
 - [Leapdroid](https://leapdroid.en.softonic.com/)
 - [Nox](https://www.bignox.com/)
-#### Tools - Darkweb
+### Tools - Darkweb
 - [Deepdotweb - List of most popular darkmarkets](https://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p)
 - [Hunchly's Darkweb report](https://www.dropbox.com/s/dvm23v5dhoe1cz4/HiddenServices.xlsx?dl=0)
 - [Ichidan (visit via Tor)](http://ichidanv34wrx7m7.onion/)
 - [OnionShare](https://blog.torproject.org/tor-heart-onionshare)
-#### Tools - Images and Documents
+### Tools - Images and Documents
 - [File Extensions](https://www.file-extensions.org/)
 - [InVid - Verify fake videos](http://www.invid-project.eu/tools-and-services/invid-verification-plugin)
 - [Online convert](https://www.online-convert.com/)
 - [SunCallculation](http://suncalc.net/)
-#### Tools - Privacy
+### Tools - Privacy
 - [BrowserLeaks.com](https://browserleaks.com/)
 - [ipleak.net](https://ipleak.net/)
 - [Mijnonlineidentiteit (NL)](https://www.mijnonlineidentiteit.nl/social-media-privacy-instellingen)
@@ -4897,21 +4897,21 @@
 - [Terms of Service; Didn't Read](https://tosdr.org/)
 - [TwoFactorAuthentication](https://twofactorauth.org/)
 - [What's my User Agent?](http://www.whatsmyua.info/)
-#### Tools - Social Media
+### Tools - Social Media
 - [General - Meetfranz](https://meetfranz.com/)
 - [Instagram - Filtergram](https://filtergram.app/)
 - [Instagram - Instadp.site](https://instadp.site/)
 - [Instagram - SaveIG](https://saveig.com/)
 - [Telegram - Save history](https://github.com/pigpagnet/save-telegram-chat-history)
 - [Twitter - TwiMap](https://twimap.com/)
-#### Tools - Translation/Language
+### Tools - Translation/Language
 - [FlockWatch](https://github.com/sjacks26/FlockWatch)
 - [Cyberbullying.org/report](https://cyberbullying.org/report)
 - [Datacentrumgids (Benelux)](https://www.datacentrumgids.nl/)
 - [Gethuman (USA)](http://gethuman.com/)
 - [Meldknop.nl - report abuse (NL)](https://meldknop.nl/)
 - [Veiliginternetten.nl (NL)](https://veiliginternette.nl/)
-### TOR & Dark Web
+## TOR & Dark Web
 - [Book: Dark Web](http://file.allitebooks.com/20151027/Dark%20Web-%20Exploring%20and%20Data%20Mining%20the%20Dark%20Side%20of%20the%20Web.pdf)
 - [Cock.li TOR Email](https://cock.li/)
 - [Core.Onion](http://eqt5g4fuenphqinx.onion/)
@@ -4924,7 +4924,7 @@
 - [Tor Network Status](https://torstatus.blutmagie.de/)
 - [Tor: Documentation](https://www.torproject.org/docs/documentation.html.en)
 - [TorMessenger](https://trac.torproject.org/projects/tor/wiki/doc/TorMessenger#Downloads)
-### Trademarks and Servicemarks
+## Trademarks and Servicemarks
 - [Alabama Trademark & Servicemark Search](https://sos.alabama.gov/government-records/trademark-records)
 - [Alaska Trademark & Servicemark Search](https://www.commerce.alaska.gov/web/cbpl/corporations/trademarkregistration.aspx)
 - [Arizona Trademark & Servicemark Search](https://apps.azsos.gov/apps/tntp/se.html)
@@ -4946,7 +4946,7 @@
 - [Tennessee Trademark & Servicemark Search](https://tnbear.tn.gov/TM/TMSearch.aspx)
 - [Utah Trademark & Servicemark Search](https://secure.utah.gov/account/log-in.html)
 - [Wisconsin Trademark & Servicemark Search](https://www.wdfi.org/apps/TrademarkSearch/Search.aspx)
-### Traffic Cameras
+## Traffic Cameras
 - [Alabama Traffic Cameras](https://algotraffic.com/)
 - [Alaska Traffic Cameras](http://roadweather.alaska.gov/iways/roadweather/forms/AreaSelectForm.html)
 - [California Traffic Cameras](http://www.dot.ca.gov/video/index.html)
@@ -4983,25 +4983,25 @@
 - [Washington DC Traffic Cameras](http://app.ddot.dc.gov/)
 - [Wisconsin Traffic Cameras](https://511wi.gov/map#:Alerts)
 - [Wyoming Traffic Cameras](https://map.wyoroad.info/wtimap/index.html)
-### Twitter
-#### Twitter API
+## Twitter
+### Twitter API
 - [Teach Yourself the Twitter API in 24 Hours Book](http://file.allitebooks.com/20150627/Sams%20Teach%20Yourself%20the%20Twitter%20API%20in%2024%20Hours.pdf)
 - [Twitter API Up & Running Book](http://file.allitebooks.com/20150627/Twitter%20API%20Up%20and%20Running.pdf)
 - [Twitter Developer Platform and API](https://developer.twitter.com/)
-#### Twitter Downloaders
+### Twitter Downloaders
 - [Twint Twitter Non-API Scraper and Downloader](https://github.com/twintproject/twint)
-#### Twitter Map-Based Viewers
+### Twitter Map-Based Viewers
 - [GeoTweet Twitter Map-Based Track and Trace Viewer](http://geotweet.altervista.org/)
 - [Lazqa Twitter Map-Based Viewer](http://www.lazqa.com/)
 - [NowTweets Twitter Map-Based Viewer](http://nowtweets.com/)
 - [OneMillionTweetMap Twitter Map-Based Viewer](https://onemilliontweetmap.com/?center=25.505%2C-0.09&cluster=1&hashtag1=&hashtag2=&hashtagBattle=0&heatmap=0&search=&sun=0&timeRange=0&timeRange=25&timeSelector=0&timeStep=0&zoom=2)
-#### Twitter Metrics
+### Twitter Metrics
 - [Twazzup Twitter Metrics](http://www.twazzup.com/)
 - [TweetReach Twitter Metrics](https://tweetreach.com/)
-#### Twitter Network and Tweet Visualizers
+### Twitter Network and Tweet Visualizers
 - [Mentionmapp Analytics Twitter Network Visualizer](https://mentionmapp.com/#tool)
 - [Treeverse Twitter Chrome Extension Tweet Visualizer](https://github.com/paulgb/Treeverse)
-#### Twitter Search
+### Twitter Search
 - [MyTwitterID Twitter ID Search](http://mytwitterid.com/)
 - [TweetTunnel Twitter Search](https://tweettunnel.com/)
 - [TwitterBirthday Twitter DOB Search](http://twbirthday.com/)
@@ -5011,23 +5011,23 @@
 - [TweetVacuum Twitter Chrome Extension Timeline Downloader](https://github.com/T3hUb3rK1tten/TweetVacuum)
 - [Twitter Platform App Store](https://itunes.apple.com/us/app/twitter/id333903271)
 - [Twitter Platform Google Store](https://play.google.com/store/apps/details?hl=en&id=com.twitter.android)
-### URL
-#### URL Expanders
+## URL
+### URL Expanders
 - [GetLinkInfo URL Expander](http://www.getlinkinfo.com/)
 - [Unshorten.it URL Expander](https://unshorten.it/)
 - [Unshorten.Link URL Expander](https://unshorten.link/)
 - [URLex URL Expander](http://urlex.org/)
 - [Where Does This Link Go URL Expander](http://wheredoesthislinkgo.com/)
-#### URL Shorteners
+### URL Shorteners
 - [Bit.Do URL Shortener](http://bit.do/)
 - [Bitly URL Shortener](https://bitly.com/)
 - [TinyURL URL Shortener](https://tinyurl.com/)
-#### URL Variance Detection
+### URL Variance Detection
 - [URLcrazy URL Variant Detector](https://www.morningstarsecurity.com/research/urlcrazy)
-### Video Downloaders
+## Video Downloaders
 - [DreDown Video Downloader](https://www.dredown.com/)
 - [TubeOffline Video Converters](https://www.tubeoffline.com/download-YouTube-MP3-videos.php)
-### Video Editors and Converters
+## Video Editors and Converters
 - [[OFFICIAL] Wondershare Filmora](https://filmora.wondershare.com/)
 - [#1 Online Video Editor - Edit Videos for Free](https://www.kizoa.com/Video-Editor)
 - [#1 Online Video Editor — Start Editing Videos Free](https://www.wevideo.com/)
@@ -5062,7 +5062,7 @@
 - [VideoStudio 2019](https://www.videostudiopro.com/)
 - [Wideo](https://wideo.co/)
 - [Www.microsoft.com/en-us/store/p/movie-maker-](https://www.microsoft.com/en-us/store/p/movie-maker-)
-### Video Search and Reverse Video Search
+## Video Search and Reverse Video Search
 - [Altcensored.com](https://altcensored.com/)
 - [Americanarchive.org](https://americanarchive.org/)
 - [AOL On](https://on.aol.com/)
@@ -5100,12 +5100,12 @@
 - [Yahoo Video Search](https://video.search.yahoo.com/)
 - [Yes-Oke Video Search Engine](https://yesoke.com/)
 - [YIVSTER](https://yivster.com/)
-### Virtual Machines
+## Virtual Machines
 - [Download Windows virtual machines](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms)
 - [OracleVM VirtualBox Virtual Machine](https://www.virtualbox.org/wiki/Downloads)
 - [VMware Virtual Machine](https://www.vmware.com/)
-### Virtual Numbers
-#### Steam Profile's
+## Virtual Numbers
+### Steam Profile's
 - [backpack.tf](https://backpack.tf/)
 - [Bazaar.tf](http://bazaar.t.com/)
 - [CSGO Exchange](http://csgo.exchange/)
@@ -5126,7 +5126,7 @@
 - [Steamladder.com](https://steamladder.com/)
 - [SteamRep » Home](https://steamrep.com/)
 - [steamspy](https://steamspy.com/)
-#### telegrambots
+### telegrambots
 - [Clerkinfobot.com](http://clerkinfobot.com/)
 - [Phone_avito_bot.com](http://phone_avito_bot.com/)
 - [Ssb_russian_probiv_bot.com](http://ssb_russian_probiv_bot.com/)
@@ -5140,14 +5140,14 @@
 - [Vkfindface_bot.com](http://vkfindface_bot.com/)
 - [Whoisdombot.com](http://whoisdombot.com/)
 - [Приложение TELEGRAM AVinfoBot](http://avinfobot.com/)
-#### Text Transliteration
+### Text Transliteration
 - [Arabic Converter](https://mylanguages.org/arabic_romanization.php)
 - [Arabic Transliteration - Online Romanization - Latin Script - LEXILOGOS](https://www.lexilogos.com/keyboard/arabic_latin.htm)
 - [M.com.com](http://m.com.com/)
 - [Transliterating Arabic to English in One Step](https://stevemorse.org/arabic/ara2eng.html)
 - [Universal online Cyrillic decoder - recover your texts](https://2cyr.com/decode?lang=en)
-#### Threat Hunting
-##### Threat Intelligence
+### Threat Hunting
+#### Threat Intelligence
 - [Interactive Online Malware Analysis Sandbox - ANY.RUN](https://app.any.run/)
 - [Opswat.](https://metadefender.opswat.com/?lang=en)
 - [packettotal.com](https://packettotal.com/)
@@ -5158,7 +5158,7 @@
 - [Search - urlscan.io](https://urlscan.io/search#*)
 - [Software || Cisco Talos Intelligence Group](https://talosintelligence.com/software)
 - [VX Vault](http://vxvault.net/ViriList.php)
-#### Tools - OSINT
+### Tools - OSINT
 - [101+ OSINT resources](https://i-sight.com/resources/101-osint-resources-for-investigators)
 - [AnswerThePublic](https://answerthepublic.com/)
 - [Browsershots](http://browsershots.org/)
@@ -5188,17 +5188,17 @@
 - [Spiderfoot](http://spiderfoot.net/)
 - [UK OSINT - helpfull tools](http://www.uk-osint.net/)
 - [Visualize your investigation](https://vis.occrp.org/)
-#### torrent (onion)
-##### Software - Privacy (onion)
+### torrent (onion)
+#### Software - Privacy (onion)
 - [correcthorse.pw (clearnet version) http://correct2qlofpg4tjz5m7zh73lxtl7xrt2eqj27m6vzoyoqyw4d4pgyd.onion/](http://correct2qlofpg4tjz5m7zh73lxtl7xrt2eqj27m6vzoyoqyw4d4pgyd.onion/)
 - [OnionShare - OpenSource tool for secure and anonymous sharing of files. Hosting & chatting through Tor](http://lldan5gahapx5k7iafb3s4ikijc4ni7gx5iywdflkba5y2ezyg6sjgyd.onion/)
 - [QUBES OS](http://qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion/)
 - [Secure Password Generator](http://password2fofn6xamqgltp6il66zg3smsr2426qlmvucjufkpbbazmad.onion/cgi-bin/generator.cgi)
 - [Whonix](http://www.dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/)
-##### TORRENT/IP Data
+#### TORRENT/IP Data
 - [Torrent downloads and distributions for IP 54.74.208.197](https://iknowwhatyoudownload.com/)
 - [Piratebayo3klnzokct3wt5yyxb2vpebbuyjl7m623iaxmqhsd52coid.onion](http://piratebayo3klnzokct3wt5yyxb2vpebbuyjl7m623iaxmqhsd52coid.onion/)
-#### Translation and Language Tools
+### Translation and Language Tools
 - [Apertium](https://www.apertium.org/)
 - [BAB.la](https://en.bab.la/)
 - [Babelfish](https://www.babelfish.com/)
@@ -5247,16 +5247,16 @@
 - [www.microsoft.com/en-us/translator](https://www.microsoft.com/en-us/translator)
 - [WWW.TRANSLATE.EU](https://www.translate.eu/)
 - [Yandex Translate](https://translate.yandex.ru/)
-#### Trending/Impact/Information/Story Detection
+### Trending/Impact/Information/Story Detection
 - [Invid.weblyzard.com](https://invid.weblyzard.com/)
-#### Validation/Fact Checking\
+### Validation/Fact Checking\
 - [Fact Check Tools](https://toolbox.google.com/factcheck/explorer)
 - [Hoaxy: How claims spread online](https://hoaxy.osome.iu.edu/faq.php)
-#### Vehicle Identification (license plates)
+### Vehicle Identification (license plates)
 - [Platesmania.com](http://platesmania.com/)
-#### visuals
-##### Business Search
-##### Working with Hashtags
+### visuals
+#### Business Search
+#### Working with Hashtags
 - [All Hashtag](https://www.all-hashtag.com/)
 - [Best-hashtags.com](https://best-hashtags.com/)
 - [Hashtaghub.herokuapp.com](https://hashtaghub.herokuapp.com/)
@@ -5270,9 +5270,9 @@
 - [Tagdef](https://tagdef.com/)
 - [Tagsfinder.com](https://www.tagsfinder.com/)
 - [Thehashtagdirectory.com](https://www.thehashtagdirectory.com/)
-##### Yandex | Cyrillic
-##### Youtube (tools) / VIDEO
-##### Videos (onion)
+#### Yandex | Cyrillic
+#### Youtube (tools) / VIDEO
+#### Videos (onion)
 - [INVIDEIOUS](http://c7hqkpkpemu6e7emz5b4vyz7idjgdvgaaa3dyimmeojqbgpea3xqjoid.onion/feed/popular)
 - [TubeOffline](https://www.tubeoffline.com/)
 - [Yandex Search Operators - Quick Reference](http://help.yandex.com/search?id=1113759)
@@ -5287,7 +5287,7 @@
 - [Voyant Tools](https://voyant-tools.org/)
 - [TextNow](https://textnow.com/)
 - [Voice](https://voice.google.com/)
-### Voter Records & Registration
+## Voter Records & Registration
 - [Alabama Voter Search](https://www.alabamainteractive.org/sos/voter/voterWelcome.action)
 - [Indiana Voter Search](https://indianavoters.in.gov/)
 - [Massachusetts Voter Search](https://www.sec.state.ma.us/VoterRegistrationSearch/MyVoterRegStatus.aspx)
@@ -5305,7 +5305,7 @@
 - [VoterRecords](https://voterrecords.com/)
 - [Washington Voter Search](https://weiapplets.sos.wa.gov/MyVote#/login)
 - [Wisconsin Voter Search](https://myvote.wi.gov/en-us/RegisterToVote)
-### WARN Notices
+## WARN Notices
 - [Alabama WARN Notice List](http://www.madeinalabama.com/warn-list)
 - [Alaska WARN Notice List](http://jobs.alaska.gov/RR/WARN_notices.htm)
 - [California WARN Notice List](https://www.edd.ca.gov/Jobs_and_Training/Layoff_Services_WARN.htm#ListingofWARNNotices)
@@ -5336,7 +5336,7 @@
 - [Washington WARN Notice List](https://fortress.wa.gov/esd/file/warn/Public/SearchWARN.aspx)
 - [West Virginia WARN Notice List](http://workforcewv.org/public-information/warn-notices/current-warn-notices.html)
 - [Wisconsin WARN Notice List](https://dwd.wisconsin.gov/dislocatedworker/warn)
-### Web Intelligence
+## Web Intelligence
 - [:Hexillion](https://hexillion.com/)
 - [.edu Whois Look up](https://net.educause.edu/whois.htm)
 - [Accesscheck.thenetmonitor.org](https://accesscheck.thenetmonitor.org/)
@@ -5413,21 +5413,21 @@
 - [Whois lookup – find out who owns that domain!](https://www.networksolutions.com/whois)
 - [Whois. DomainTools](https://whois.domaintools.com/)
 - [Your New Favorite Domain Registrar](https://iwantmyname.com/)
-### Webcams
+## Webcams
 - [SurveillanceUnderSurveillance](https://kamba4.crux.uberspace.de/)
 - [Unsecured IP Camera List](https://reolink.com/unsecured-ip-camera-list)
 - [WorldWebcams](http://world-webcams.nsspot.net/?m=Webcam_map)
-### WhatsApp
+## WhatsApp
 - [FakeWhats WhatsApp Messenger Fake Chat Generator](http://www.fakewhats.com/generator)
 - [WhatsApp Messenger Platform App Store](https://itunes.apple.com/us/app/whatsapp-messenger/id310633997)
 - [WhatsApp Messenger Platform Google Play](https://play.google.com/store/apps/details?hl=en_US&id=com.whatsapp)
 - [WhatsFoto WhatsApp Messenger Chrome Extension Photo Downloader](https://github.com/zoutepopcorn/whatsfoto)
-### WiFi Networks
+## WiFi Networks
 - [Avast WiFi Locator](https://www.avast.com/en-in/wifi-finder)
 - [WiFi Finder Connect WiFi Locator](https://itunes.apple.com/us/app/wifi-finder-freeinternet/id1011519183?ign-mpt=uo%3D8&mt=8)
 - [WiFi Finder+Map WiFi Locator](https://itunes.apple.com/us/app/map-wifi-wi-fifinder/id946365975?ign-mpt=uo%3D8&mt=8)
 - [WiFox WiFi Password Share](https://itunes.apple.com/us/app/wifox/id1130542083?mt=8)
-### Wifi Search
+## Wifi Search
 - [Fetching title...](https://foxnomad.com/2016/04/26/map-wireless-)
 - [Instabridge.com](https://instabridge.com/)
 - [Internet/id1011519183?mt=8&ign-mpt=uo%3D8.com](http://internet/id1011519183?ign-mpt=uo%3D8.com&mt=8)
@@ -5438,7 +5438,7 @@
 - [Wifispc.com](https://wifispc.com/)
 - [Wiman](https://www.wiman.me/)
 - [XFINITY® WiFi by Comcast](https://wifi.xfinity.com/)
-### Working with Radio
+## Working with Radio
 - [2015/05/default_frequencies_for_motorola_business_rad.com](http://0.0.7.223/05/default_frequencies_for_motorola_business_rad.com)
 - [AccuRadio](https://www.accuradio.com/)
 - [AntennaSearch](https://www.antennasearch.com/)
@@ -5484,8 +5484,8 @@
 - [The DXZone](https://www.dxzone.com/)
 - [TuneIn](https://tunein.com/)
 - [vTuner Internet Radio](https://www.vtuner.com/)
-### YouTube
-#### YouTube Tools
+## YouTube
+### YouTube Tools
 - [Anilyzer.com](https://anilyzer.com/)
 - [Annotate.tv](https://annotate.tv/)
 - [Bookmark It - Happy Developers](https://bookmark-it.happydevelopers.co/)
@@ -5523,6 +5523,6 @@
 - [YouTube Comment Scraper](http://ytcomments.klostermann.ca/)
 - [YouTube Live](https://www.youtube.com/live)
 - [YouTube Videos Near Me](http://ctrlq.org/youtube)
-### Zip Codes
+## Zip Codes
 - [Melissa Property Viewer Zip Code Search](https://www.melissa.com/lookups/propertyviewer.asp)
 - [US Naviguide Zip Code Map](http://www.usnaviguide.com/)
