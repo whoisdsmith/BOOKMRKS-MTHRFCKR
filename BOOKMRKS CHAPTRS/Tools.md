@@ -1,11 +1,11 @@
-# Tools
-## Activity Logging
+## Tools 
+### Activity Logging
 - [arbtt: the automatic, rule-based time tracker](http://arbtt.nomeata.de/)
 - [Dogsheep | dogsheep.github.io](https://dogsheep.github.io/)
 - [Heedy — Heedy 0.4.1-git.1570 documentation](https://heedy.org/)
 - [Python lifelogging Projects (Oct 2021)](https://www.libhunt.com/l/python/topic/lifelogging)
 - [WhatPulse Dashboard](https://whatpulse.org/)
-## AI Systems
+### AI Systems
 - [AISEO - AI writing assistant, AI Copywriting & Content Generator](https://aiseo.ai/?fpr=56897)
 - [Analyzelaw-Contract Analyzer from IntraFind Software AG](https://www.analyzelaw.com/)
 - [Archillect](https://archillect.com/)
@@ -25,13 +25,13 @@
 - [OpenText](https://www.opentext.de/)
 - [Rytr · Best AI Writer, Content Generator & Writing Assistant](https://rytr.me/#pricing)
 - [Write With Transformer](https://transformer.huggingface.co/)
-## API Tools
+### API Tools
 - [API Spyonweb.com](https://api.spyonweb.com/)
 - [Api.c99.nl](https://api.c99.nl/)
 - [Insomnia](https://insomnia.rest/)
 - [Postman.com](https://www.postman.com/)
 - [WHOIS API | WHOIS Lookup API | Domain WHOIS API](https://www.whoxy.com/)
-## Cloud Services
+### Cloud Services
 - [1fichier.com: Cloud Storage](https://1fichier.com/)
 - [BlackHole](https://blackhole.run/)
 - [Catbox](https://catbox.moe/)
@@ -64,8 +64,8 @@
 - [Upload Files - MegaUp](https://megaup.net/)
 - [Welcome to File.AL](https://file.al/?op=login)
 - [Yandex.Disk](https://disk.yandex.com/)
-## Conversion
-### Online Conversation
+### Conversion
+#### Online Conversation
 - [CloudConvert](https://cloudconvert.com/)
 - [CSV to GeoJson](http://www.opengeotools.com/csvToGeoJson.php)
 - [CSV To GeoJSON Converter](https://www.convertcsv.com/csv-to-geojson.htm)
@@ -79,7 +79,7 @@
 - [Scoop](https://word2cleanhtml.com/)
 - [Free File Converter Online](https://anyconv.com/)
 - [Online GIS/CAD Data Converter | SHP, KML, KMZ, TAB, CSV, ...](https://mygeodata.cloud/converter/)
-## Data Visualization
+### Data Visualization
 - [422 South OSIT](https://422.com/)
 - [CodePlex Archive](https://archive.codeplex.com/?p=nodexl)
 - [Danger Zone](https://hackernoon.com/osint-tool-for-visualizing-relationships-between-domains-ips-and-email-addresses-94377aa1f20a)
@@ -110,7 +110,7 @@
 - [Visual.ly](https://visual.ly/)
 - [Vizualize.me](https://vizualize.me/)
 - [yEd Graph Editor](https://www.yworks.com/products/yed)
-## Digital Forensics
+### Digital Forensics
 - [5 Tools to Detect Digitally Altered Images](https://medium.com/@raebaker/5-tools-to-detect-digitally-altered-images-719db4015b5d)
 - [Exifdata](https://exifdata.com/)
 - [ExifTool](https://www.sno.phy.queensu.ca/~phil/exiftool)
@@ -119,7 +119,7 @@
 - [hatlord/Spiderpig](https://github.com/hatlord/Spiderpig)
 - [InVid](https://www.invid-project.eu/)
 - [IRFANVIEW](https://www.irfanview.com/)
-## Generators
+### Generators
 - [BoredHumans.com - Fun AI Programs You Can Use Online](https://boredhumans.com/)
 - [Chaoticshiny.com](https://chaoticshiny.com/)
 - [Cool Generator List - Name, Number, Word, Text, Font, Color, Credit Card Generator](https://www.coolgenerator.com/)
@@ -142,7 +142,7 @@
 - [This X Does Not Exist](https://thisxdoesnotexist.com/)
 - [Upmasked](https://gmailnator.com/)
 - [www.minirandom.com](https://minirandom.com/)
-## GItHub Tools
+### GItHub Tools
 - [am0nt31r0/OSINT-Search](https://github.com/am0nt31r0/OSINT-Search)
 - [chrismaddalena/ODIN](https://github.com/chrismaddalena/ODIN)
 - [DevOtter - Free Tools for Developers](https://devotter.com/)
@@ -154,9 +154,9 @@
 - [SOsintOps/Argos](https://github.com/SOsintOps/Argos)
 - [Thewhiteh4t.github.io](https://thewhiteh4t.github.io/)
 - [Tools - Martin Vigo](https://www.martinvigo.com/tools)
-## Health
+### Health
 - [dreamingechoes/awesome-mental-health: A curated list of awesome articles, websites and resources about mental health in the software industry.](https://github.com/dreamingechoes/awesome-mental-health)
-## HTML
+### HTML
 - [Convert CSV to Bookmarks HTML](https://csv-to-bookmarks.glitch.me/)
 - [DocToolHub](https://doctoolhub.com/)
 - [Extract hyperlinks in from an URL or an HTML source code](https://online-free-tools.com/en/extract_url_from_web_page_source)
@@ -165,10 +165,10 @@
 - [HTML Link Extractor To Scrape URL From Web Page Web Tools](https://tools.fromdev.com/html-link-extractor.html)
 - [HTML minifier](https://kangax.github.io/html-minifier/)
 - [Online Tool to Extract Links from any Web Page | HackerTarget.com](https://hackertarget.com/extract-links/)
-## Java
+### Java
 - [Important JavaScript Loops You Need to Know | Edureka](https://www.google.com/amp/s/www.edureka.co/blog/javascript-loops/amp/)
 - [JSCompress - The JavaScript Compression Tool](https://jscompress.com/)
-## JSON
+### JSON
 - [CSVJSON - CSVJSON](https://csvjson.com/)
 - [JSON Formatter](https://jsonformatter.curiousconcept.com/)
 - [JSON to CSV Converter | Online Tool](https://data.page/json/csv)
@@ -176,27 +176,27 @@
 - [Online JSON Viewer](https://jsonviewer.stack.hu/)
 - [Project Open Data Dashboard](https://dashboard.data.gov/merge)
 - [SlothTools - Utility Pipeline for Text & JSON](https://sloth.sellersew.com/)
-## Keyword Discovery & Text Analysis
+### Keyword Discovery & Text Analysis
 - [Companies | Ubersuggest](http://ubersuggest.org/)
 - [Keywords | Google Keyword Tool](https://ads.google.com/home/tools/keyword-planner)
 - [Keywords | Keyword Discovery](http://www.keyworddiscovery.com/)
 - [Keywords | Text Analyzer](https://www.online-utility.org/text/analyzer.jsp)
 - [Keywords | Word Tracker](https://www.wordtracker.com/)
 - [Keywords | WordCount](http://www.writewords.org.uk/word_count.asp)
-## Markdown Tools
+### Markdown Tools
 - [Convert HTML to MD online for free - AnyConv](https://anyconv.com/html-to-md-converter/)
 - [HTML to Markdown Converter](https://products.aspose.app/html/conversion/html-to-md)
 - [Online Markdown Editor - Dillinger, the Last Markdown Editor ever.](https://dillinger.io/)
 - [PDF to Markdown](https://pdf2md.morethan.io/)
 - [RedditToMarkdown](https://farnots.github.io/RedditToMarkdown/)
-## Media
+### Media
 - [Hugin.Sourceforge.net](https://hugin.sourceforge.net/)
 - [JPG.to](https://jpg.to/)
 - [lew.la](https://lew.la/)
 - [OBS Studio is an open source video recorder and streaming app for Windows, Linux and macOS - gHacks Tech News](https://www.ghacks.net/2019/10/10/obs-studio-open-source-video-recorder-and-streaming-app-for-windows-linux-and-macos)
 - [Plans & Pricing](https://sonix.ai/pricing)
 - [youtube-dl](https://ytdl.actionsack.com/)
-## Misc
+### Misc
 - [Best XML Viewer Online](https://jsonformatter.org/xml-viewer)
 - [Big Number Calculator](https://defuse.ca/big-number-calculator.htm)
 - [Epoch Converter - Unix Timestamp Converter](https://www.epochconverter.com/)
@@ -206,7 +206,7 @@
 - [Melobytes.com - Music inspiration apps](https://melobytes.com/en)
 - [Meta](https://miraheze.org/)
 - [Project Jupyter (Jupyter Notebook)](https://jupyter.org/)
-## Multiple
+### Multiple
 - [Dans Tools](https://www.danstools.com/)
 - [DiffNow - Compare Files, URLs, and Clipboard Contents Online](https://diffnow.com/compare-clips)
 - [DocToolHub - DocToolHub is a curated directory of 600+ tools and resources for technical documentat...](https://34.234.149.126/)
@@ -214,11 +214,11 @@
 - [OpenDesktop.org](https://www.opendesktop.org/)
 - [Other Tools - Online tools that just need one day](https://commentpicker.com/other-tools.php)
 - [Tools Epieos](https://tools.epieos.com/)
-## PDF
+### PDF
 - [Ardbark](https://ardbark.com/)
 - [iLovePDF | Online PDF tools for PDF lovers](https://www.ilovepdf.com/)
 - [Screenshots](https://junrrein.github.io/pdfslicer)
-## Productivity
+### Productivity
 - [Airborn.io](https://www.airborn.io/)
 - [archive.is](https://archive.is/)
 - [Cryptpad.fr](https://cryptpad.fr/)
@@ -233,7 +233,7 @@
 - [Tor2web: Browse the Tor Onion Services](https://www.tor2web.org/)
 - [Upload | Disroot](https://disroot.org/en/services/upload)
 - [Wayback Machine](https://web.archive.org/)
-## Spreadsheet
+### Spreadsheet
 - [Best Online tool to Convert CSV to Multi Line Data](https://codebeautify.org/csv-to-multi-line-converter)
 - [Convert CSV to HTML Table - Table Convert Online](https://tableconvert.com/csv-to-html)
 - [Create LaTeX tables online – TablesGenerator.com](https://www.tablesgenerator.com/)
@@ -242,8 +242,8 @@
 - [Online CSV To Fixed Width TEXT converter](https://www.becsv.com/csv-txt.php)
 - [Table Convert Online - Make it easier to work with tables](https://tableconvert.com/)
 - [XLSX to CSV | CloudConvert](https://cloudconvert.com/xlsx-to-csv)
-## Text
-### ASCII
+### Text
+#### ASCII
 - [ASCII Tree Generator](https://ascii-tree-generator.com/)
 - [AsciiDocLIVE](https://asciidoclive.com/edit/scratch/2)
 - [Convert Text To Ascii Format Recipes](https://www.tfrecipes.com/convert-text-to-ascii-format)
@@ -287,10 +287,10 @@
 - [Translatetheweb.com](https://www.translatetheweb.com/)
 - [trinker/textclean: Tools for cleaning and normalizing text data](https://github.com/trinker/textclean)
 - [Web Align Toolkit](http://phraseotext.univ-grenoble-alpes.fr/webAlignToolkit/index.php)
-## Timeline
+### Timeline
 - [Markwhen](https://markwhen.com/)
 - [Timeline Explorer Guide - AboutDFIR](https://aboutdfir.com/toolsandartifacts/windows/timeline-explorer)
-## Tools
+### Tools
 - [123apps – Free Web Apps](https://123apps.com/)
 - [7 Tools for Building an Infographic in an Afternoon (Design Skills or Not)](https://blog.bufferapp.com/infographic-makers)
 - [Advanced File Analysis System | Valkyrie](https://valkyrie.comodo.com/get_info?sha1=%25s)
@@ -315,11 +315,11 @@
 - [Snagit Einfache Bildschirmaufnahme und Videoaufzeichnung](https://www.techsmith.de/snagit.html)
 - [xBlog: How to Take Screenshots of Webpages from the Command Line - Boolean World](https://www.booleanworld.com/take-screenshots-webpages-command-line)
 - [XMind - Mind Mapping Software](https://www.xmind.net/de)
-## Upload
+### Upload
 - [CyberDrop – An Uncensored Filehosting Service](https://cyberdrop.me/)
-## Viewers
+### Viewers
 - [SQLite Viewer](http://inloop.github.io/sqlite-viewer)
-## Writing
+### Writing
 - [Demo – InferKit](https://app.inferkit.com/demo)
 - [EleutherAI - text generation testing UI](https://6b.eleuther.ai/)
 - [English Tools.org - Tools for learning English](https://www.englishtools.org/en)

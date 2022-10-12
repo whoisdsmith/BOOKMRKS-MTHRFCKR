@@ -1,6 +1,6 @@
-# Data Related
-## Data Integration and Visualisers
-### Charts
+## Data Related
+### Data Integration and Visualisers
+#### Charts
 - [AnyChart is a lightweight and robust JavaScript charting library](https://www.anychart.com/?utm_source=saashub&utm_medium=marketplace&utm_campaign=saashub)
 - [ApexCharts.js - Open Source JavaScript Charts for your website](https://apexcharts.com/?utm_source=saashub&utm_medium=marketplace&utm_campaign=saashub)
 - [Canopy Charts](https://canopycharts.com/)
@@ -8,11 +8,11 @@
 - [Chartbrew - Your most important metrics in one place](https://chartbrew.com/)
 - [Charts.css](https://chartscss.org/)
 - [CSV2Chart Online - Turn any CSV into a nice looking chart](https://csv2chart.com/)
-### Dashboards
+#### Dashboards
 - [Dashana | Visualize Your Data In Less Than a Minute](https://dashana.com/)
 - [Use a toolkit to build your Excel dashboards 5x faster](https://exceldashboardtemplate.com/)
 - [Webdash](https://webdash.xyz/?ref=producthunt)
-### Data Analysis
+#### Data Analysis
 - [Analytics Tools & Solutions for Your Business - Google Analyticslandscape iconbulb iconrestart iconchecklist iconlandscape iconbulb iconrestart iconchecklist icongoogleads icondata-studio iconoptimize icongoogleads icondata-studio iconoptimize iconGMP_Logo_analyticsGMP_Logo_analytics](https://www.google.com/analytics?gclid=CjwKEAiAh7WkBR)
 - [AWStats](https://www.awstats.org/)
 - [BI & Analytics Software](https://www.zoho.com/reports)
@@ -69,7 +69,7 @@
 - [Weka 3 - Data Mining with Open Source Machine Learning Software in Java](https://www.cs.waikato.ac.nz/ml/weka)
 - [www.exmerg.com](https://www.exmerg.com/)
 - [Yellowfinbi.com](https://www.yellowfinbi.com/)
-### Data Scrapers
+#### Data Scrapers
 - [80legs – Customizable Web Scraping](https://80legs.com/)
 - [Agenty®](https://www.agenty.com/)
 - [API store](https://phantombuster.com/)
@@ -112,7 +112,7 @@
 - [Web Scraping Services for any size business - Fast & Reliable Datarefreshediteyeshopping-cartenvelopequote-leftgithub-altsmile-odollardatabasewechatnewspaper-oline-chartapartmentdatabaselinkedinfacebookpinterestyoutubersstwitterinstagramfacebook-blankrss-blanklinkedin-blankpinterestyoutubetwitterinstagram](https://www.scrapinghub.com/data-services)
 - [Web Scraping Software](https://www.webharvy.com/)
 - [Webrobots.io](https://webrobots.io/)
-### Database
+#### Database
 - [Cascade.io - transform data and trigger actions, without code](https://www.cascade.io/?ref=producthunt)
 - [Draxlr](https://www.draxlr.com/?ref=producthunt)
 - [Google Data Studio Dashboard Creation & Management - Datastryke](https://datastryke.com/?ref=producthunt)
@@ -121,19 +121,19 @@
 - [Prisma Data Platform](https://www.prisma.io/dataplatform)
 - [SchemaCrawler](https://www.schemacrawler.com/)
 - [State of Databases 2022](https://stateofdb.com/)
-### Graphs
+#### Graphs
 - [Datacopia - Data Visualization Reimagined.](https://datacopia.com/#/)
 - [Gephi - The Open Graph Viz Platform](https://gephi.github.io/)
 - [Home](https://rawgraphs.io/)
 - [Koia Data Analysis](https://www.koia.io/intro/index.html)
 - [RAWGraphs 2.0](https://app.rawgraphs.io/)
 - [Visual Mapping Software - Plectica](https://www.plectica.com/)
-### Plots
+#### Plots
 - [CSV Plot - Online CSV plots](https://www.csvplot.com/)
 - [Online Pivot CSV Tool](https://www.convertcsv.com/pivot-csv.htm)
 - [PlotDigitizer: Extract Data from Graph Image Online](https://plotdigitizer.com/)
 - [Plotly: The front end for ML and data science models](https://plotly.com/)
-### Spreadsheets
+#### Spreadsheets
 - [All your live data in a spreadsheet](https://www.actiondesk.io/)
 - [Convert Excel time to UTC time](https://gist.github.com/erikvullings/825283249a5b4617d0f36bcba4fa8be8)
 - [ConvertCSV APIs](https://www.convertcsv.io/?ref=producthunt)
@@ -156,7 +156,7 @@
 - [Tinysheet by Postlight - Digital Product Studio](https://tinysheet.com/)
 - [Vertex42 - Excel Templates, Calendars, Calculators and Spreadsheets](https://www.vertex42.com/)
 - [Visualize data from CSV file in Python](https://www.geeksforgeeks.org/visualize-data-from-csv-file-in-python/amp/)
-### Timelines
+#### Timelines
 - [Timeline Hero](https://timelinehero.app/)
 - [{{fbMetaData.fbTitle}}](https://statpedia.com/)
 - [Activity detail - Open Humans](https://www.openhumans.org/direct-sharing/projects/on-site/lifeline)
@@ -264,7 +264,7 @@
 - [WarmMachine](https://www.warmmachine.org/)
 - [XML Editor, JSON Editor, Code Generator, Data Integration and Web Services Toolkit](https://www.liquid-technologies.com/)
 - [Zenobase](https://zenobase.com/#/)
-## Facebook
+### Facebook
 - [About Structured Messages (JSON) for Messenger | Facebook Business Help Center](https://www.facebook.com/business/help/1646890868956360)
 - [Analyse your Personal Facebook Data with Python | by emmy adigun | Analytics Vidhya | Medium](https://medium.com/analytics-vidhya/analyse-your-personal-facebook-data-with-python-5d877e556692)
 - [DoubleText - Facebook Messenger and WhatsApp Analyzer](https://app.doubletext.me/messenger?aid=FaNmb6AqNe48GOpIAj3Ij-&ref=producthunt)
@@ -280,10 +280,10 @@
 - [Save the data in plain text files](https://kbroman.org/dataorg/pages/csv_files.html)
 - [View your instagram data in a spreadsheet](https://data.page/instagram-export)
 - [word-cloud](https://freesoft.dev/program/163022608)
-## Financial
+### Financial
 - [Firefly III](https://www.firefly-iii.org/)
 - [ProjectiFi - Simulate your Financial Future. Plan for Financial Independence.](https://projectifi.io/)
-## iOS
+### iOS
 - [【iMessage苹果证书协议版本】软件安装APNSD-AppID配置中创建结构](https://zhuanlan.zhihu.com/p/444459638)
 - [AirMessage - AirMessage is now open source!](https://airmessage.org/blog/airmessage-is-now-open-source)
 - [AllYourTexts](http://www.allyourtexts.com/)
@@ -293,7 +293,7 @@
 - [Searching & Exploring Your iMessage Database with SQL Queries](https://spin.atomicobject.com/2020/05/22/search-imessage-sql/)
 - [Where Are My iMessages Stored On My Mac? Find Your Message History - AppleToolBox](https://appletoolbox.com/qa-where-are-imessage-files-stored/)
 - [ZeeZide GmbH](https://zeezide.de/en/products/past/)
-## Journal
+### Journal
 - [glimpses - A simple and minimal journal app for windows](https://getglimpses.com/)
 - [JournalFlow - Keep a journal in your favorite messaging app.](https://www.journalflow.com/#features)
 - [Life History App](https://lifehistory.app/app/main/upload-files)
@@ -301,7 +301,7 @@
 - [Lifelogging / Quantified Self | Lifestream Blog](http://lifestreamblog.com/lifelogging)
 - [Meta Journal, achievement list](https://www.metajournal.app/?ref=producthunt)
 - [Org Mode - Organize Your Life In Plain Text!](http://doc.norang.ca/org-mode.html)
-## Location History
+### Location History
 - [CSV to GeoJSON converter](https://odileeds.github.io/CSV2GeoJSON/)
 - [Doing more with your Google Location History](https://scarygami.medium.com/doing-more-with-your-google-location-history-a93e0205f0f1)
 - [GeoJSON](https://jsonformatter.org/d4f863)
@@ -315,7 +315,7 @@
 - [Sentinel-hub EO-Browser3](https://apps.sentinel-hub.com/eo-browser/?zoom=9&lat=41.98297&lng=12.48871&themeId=DEFAULT-THEME&toTime=2022-01-18T10%3A54%3A34.408Z)
 - [The Top 1,025 Geolocation Open Source Projects on Github](https://awesomeopensource.com/projects/geolocation)
 - [The Top 146 Gps Location Open Source Projects on Github](https://awesomeopensource.com/projects/gps-location)
-## Text Messages
+### Text Messages
 - [Convert a single Excel file (one text per row) into separate text files. A function in R.](https://gist.github.com/benmarwick/9278490)
 - [Convert each row of a spreadsheet into a .txt or .xml file? | MrExcel Message Board](https://www.mrexcel.com/board/threads/convert-each-row-of-a-spreadsheet-into-a-txt-or-xml-file.593439)
 - [Convert Excel file to Text file](https://python-forum.io/thread-28239.html)

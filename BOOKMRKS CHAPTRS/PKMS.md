@@ -1,10 +1,10 @@
-# PKMS
-## Acronyms and Abbreviations
+## PKMS 
+### Acronyms and Abbreviations
 - [Abbreviations and Acronyms](https://abbreviations.yourdictionary.com/)
 - [Acronyms.silmaril.ie](https://acronyms.silmaril.ie/)
 - [TheFreeDictionary.com](https://acronyms.thefreedictionary.com/)
-## Apps
-### Cross-Platform
+### Apps
+#### Cross-Platform
 - [acreom — IDE for your workflow](https://acreom.com/)
 - [Anytype Community](https://community.anytype.io/)
 - [AppFlowy.IO](https://www.appflowy.io/)
@@ -18,10 +18,10 @@
 - [Roam Research – A note taking tool for networked thought.](https://roamresearch.com/)
 - [TiddlyWiki — a non-linear personal web notebook](https://tiddlywiki.com/)
 - [Zim - a desktop wiki](https://www.zim-wiki.org/?utm_source=saashub&utm_medium=marketplace&utm_campaign=saashub)
-### Docker
+#### Docker
 - [Gist - Data becomes knowledge](https://www.gistapp.com/?ref=producthunt)
 - [Hello from Personal Management System | Personal Management System](https://volmarg.github.io/)
-### iOS
+#### iOS
 - [‎Kase: Your Personal Database](https://apps.apple.com/us/app/kase-your-personal-database/id1481308987)
 - [‎KnowledgeBase Builder](https://apps.apple.com/us/app/knowledgebase-builder/id1448579863)
 - [mindlib - Your personal mind library](https://mindlib.de/)
@@ -29,16 +29,16 @@
 - [Note Garden](https://notegarden.web.app/)
 - [‎Quine 2](https://apps.apple.com/us/app/quine-2/id1450128957)
 - [Relanote | List](https://app.relanote.com/platform/notes-list)
-### Linux
+#### Linux
 - [Focalboard: Open source alternative to Trello, Asana, and Notion](https://www.focalboard.com/)
-### MacOS
+#### MacOS
 - [A Markdown Editor for the 21st Century](https://www.zettlr.com/)
 - [Agenda - Date-focused Note Taking.](https://agenda.com/)
 - [cryo file manager](https://cryonet.io/?ref=producthunt)
 - [Note taking and mind mapping combined in one app](https://brainio.com/#/)
 - [Notenik Home](https://notenik.app/)
 - [Tinderbox: The Tool For Notes](http://www.eastgate.com/Tinderbox/index.html)
-### Online
+#### Online
 - [Academicons](https://jpswalsh.github.io/academicons/)
 - [Apps with 'Knowledge Management' feature](https://alternativeto.net/feature/knowledge-management/)
 - [Authorea](https://www.authorea.com/)
@@ -72,7 +72,7 @@
 - [Wavebox](https://wavebox.io/)
 - [wizdom.ai - intelligence for everyone](https://www.wizdom.ai/)
 - [You need a wiki](https://youneedawiki.com/app)
-### Packages
+#### Packages
 - [Argdown](https://argdown.org/)
 - [cotoami/cotoami: Cotoami is a platform where people can weave a large network of wisdom from tiny ideas.](https://github.com/cotoami/cotoami#flow-timeline-and-stock-structured-content)
 - [Index - Archivy](https://archivy.github.io/)
@@ -83,11 +83,11 @@
 - [Personal Knowledge Base with Vimwiki](https://www.rockyourcode.com/personal-knowledge-base-with-vimwiki/)
 - [Screenshot tour · zadam/trilium Wiki · GitHub](https://github.com/zadam/trilium/wiki/Screenshot-tour)
 - [Wiki.js](https://js.wiki/?utm_source=saashub&utm_medium=marketplace&utm_campaign=saashub)
-### VS Code
+#### VS Code
 - [Dendron](https://www.dendron.so//)
 - [Foam](https://foambubble.github.io/foam)
 - [Foam - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=foam.foam-vscode)
-### Windows
+#### Windows
 - [MyInfo Note Taking & Personal Information Manager](https://www.myinfoapp.com/)
 - [A Markdown Editor for the 21st Century - Zettlr](https://zettlr.com/)
 - [ABLE | Dive into learning, spark insights, find your perfect flow](https://able.ac/)
@@ -128,15 +128,15 @@
 - [Zengobi Curio](https://zengobi.com/curio/)
 - [Zenkit Hypernotes - Experience a new way of collaborative writing.](https://zenkit.com/en/hypernotes/)
 - [μPad | Take and organise notes for free](https://getmicropad.com/)
-## Communities
+### Communities
 - [PKMS • r/PKMS](https://reddit.com/r/PKMS)
 - [r/Zettelkasten - Let's build a list of Zettelkasten software!](https://www.reddit.com/r/Zettelkasten/comments/flygc4/lets_build_a_list_of_zettelkasten_software/)
-## Glossaries and Dictionaries
+### Glossaries and Dictionaries
 - [AML Glossary of Terms | ACAMS Trending TopicsACAMS Logo_TM_RGB_DarkACAMS Logo_TM_RGB_Dark](https://www.acams.org/en/resources/aml-glossary-of-terms)
 - [Logistics Glossary](https://www.logisticsglossary.com/)
 - [Seconddistrictcourt.nmcourts.gov/glossary-of-legal-](https://seconddistrictcourt.nmcourts.gov/glossary-of-legal-)
 - [Terminology - The Sentry](https://thesentry.org/terminology)
-## Memex
+### Memex
 - [Andrew Louis](https://hyfen.net/)
 - [Building a Memex](https://adrian-philipp.com/notes/building-a-memex/)
 - [Building a Memex | Andrew Louis](https://hyfen.net/memex)
@@ -144,7 +144,7 @@
 - [Keep Ruby Weird 2018 - Using Ruby to build a modern Memex! by Andrew Louis](https://www.youtube.com/watch?v=NTG5UMSQR8E)
 - [memex](https://github.com/dylan-mitchell/memex)
 - [Memex](https://github.com/WorldBrain/Memex)
-## Notetaking
+### Notetaking
 - [Apps/Tomboy - GNOME Wiki!](https://wiki.gnome.org/Apps/Tomboy)
 - [Authorization](https://disk.yandex.com/notes)
 - [Bear App](https://bear.app/)
@@ -176,7 +176,7 @@
 - [Typelink.net](https://typelink.net/)
 - [Using journalctl - The Ultimate Guide To Logging](https://www.loggly.com/ultimate-guide/using-journalctl)
 - [WorkFlowy](https://workflowy.com/)
-## Obsidian
+### Obsidian
 - [[[@bbchase/obsidian resources]] - anagora.org](https://anagora.org/@bbchase/obsidian-resources)
 - [A Guide to Obsidian: Local, Markdown-Powered Networked Notes - SitePoint](https://www.sitepoint.com/obsidian-beginner-guide/)
 - [agreatfool/obsidian-utils: Command line tools to help obsidian stuff](https://github.com/agreatfool/obsidian-utils)

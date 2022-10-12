@@ -1,5 +1,5 @@
-# WebDev
-## Backlinks
+## WebDev 
+### Backlinks
 - [Alexa](https://www.alexa.com/)
 - [Backlinks Checker Tool](https://www.backlinkwatch.com/)
 - [Blue Backlinks](https://bluebacklinks.com/)
@@ -13,12 +13,12 @@
 - [MoonSearch](https://moonsearch.com/)
 - [Site Explorer by Ahrefs: Competitive Analysis Tool For SEO](https://ahrefs.com/site-explorer)
 - [Wholinks2me.com](https://www.wholinks2me.com/)
-## Cloud
+### Cloud
 - [GronCloud](https://groncloud.com/products?ref=producthunt)
 - [Linode Manager](https://cloud.linode.com/linodes)
 - [Microsoft Azure](https://portal.azure.com/#home)
-## Dashboards
-### Dashboard Tools
+### Dashboards
+#### Dashboard Tools
 - [Analyticsportfolio.com](https://analyticsportfolio.com/)
 - [Bilbeo.com](https://www.bilbeo.com/)
 - [Chartio](https://chartio.com/)
@@ -47,7 +47,7 @@
 - [Stacer - Linux System Optimizer & Monitoring](https://oguzhaninan.github.io/Stacer-Web/)
 - [tomershvueli/homepage: A simple, standalone, self-hosted PHP page that is your window to your server and the web.](https://github.com/tomershvueli/homepage)
 - [Yooooomi/your_spotify: Self hosted Spotify tracking dashboard](https://github.com/Yooooomi/your_spotify)
-## Finding SSL Certificates
+### Finding SSL Certificates
 - [Amar- · GitHub](https://github.com/amar-)
 - [Ates.com](https://ates.com/)
 - [Cert Spotter API](https://sslmate.com/certspotter/api)
@@ -57,7 +57,7 @@
 - [Internet-Wide Scan Data Repository](https://scans.io/)
 - [Opendata.rapid7.com](https://opendata.rapid7.com/)
 - [Spyse.com/tools/ssl-lookup](https://spyse.com/tools/ssl-lookup)
-## Host-Domains
+### Host-Domains
 - ["Boomla Website Builder](https://boomla.com/)
 - [2 letter Domain Names](https://catechgory.com/)
 - [Awardspace.com](https://www.awardspace.com/)
@@ -103,7 +103,7 @@
 - [WebsiteHydra - Website Hosting Solutions by Secure Dragon LLC.](https://websitehydra.com/)
 - [Weebly](https://weebly.com/)
 - [x10hosting - Free Web hosting Web Hosting For The Masses](https://x10hosting.com/#features)
-## HTML & CSS
+### HTML & CSS
 - [A react component to display event in a vertical timeline format](https://reactjsexample.com/a-react-component-to-display-event-in-a-vertical-timeline-format/)
 - [Amino: Live CSS Editor](https://aminoeditor.com/)
 - [Building a Vertical Timeline With CSS and a Touch of JavaScript](https://webdesign.tutsplus.com/tutorials/building-a-vertical-timeline-with-css-and-a-touch-of-javascript--cms-26528)
@@ -126,8 +126,8 @@
 - [Web developer tools](https://mothereff.in/)
 - [Web Editing Software for Better Development and UX - Froala](https://froala.com/wysiwyg-editor)
 - [Web Editing Software for Better Development and UX - Froala](https://froala.com/)
-## HTTP
-### APIs
+### HTTP
+#### APIs
 - [1998code/isitdownorjustme-API at producthunt](https://github.com/1998code/isitdownorjustme-API?ref=producthunt)
 - [API Directory | ProgrammableWeb](https://www.programmableweb.com/apis/directory)
 - [Automate APIs integrations⎮Meta-API](https://www.meta-api.io/?ref=producthunt)
@@ -153,7 +153,7 @@
 - [The Public APIs List, a curated list for the public web Apis](https://apislist.com/?ref=producthunt)
 - [Web API | Spotify for Developers](https://developer.spotify.com/documentation/web-api/)
 - [Youtube to Mp3 Converter Api](https://api.vevioz.com/)
-### Automation
+#### Automation
 - [42wim/matterbridge: bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)](https://github.com/42wim/matterbridge)
 - [A Global Leader in Intelligent Automation & RPA | Automation Anywhere](https://www.automationanywhere.com/)
 - [Abhishek says...](https://integrately.com/?ref=pxwtps)
@@ -235,7 +235,7 @@
 - [Zenaton | Workflow Builder for Developers.](https://zenaton.com/)
 - [zenphi - Google Workflow Made Easy - Google Workspace Automation](https://zenphi.com/)
 - [zzBots - Integrate Your Apps & Automate Your Business with Our Easy to Customize Bots!](https://www.zzbots.com/)
-### IFTTT
+#### IFTTT
 - [Activity - IFTTT](https://ifttt.com/join)
 - [Activity - IFTTT](https://ifttt.com/activity)
 - [Archived Applets - IFTTT](https://ifttt.com/join?psu_=1)
@@ -256,7 +256,7 @@
 - [Shortcut to read and format multiple IFTTT notifications containing URLs](https://talk.automators.fm/t/shortcut-to-read-and-format-multiple-ifttt-notifications-containing-urls/3825)
 - [Super IFTTT Applet Finder](https://cse.google.com/cse?cx=000501358716561852263%3Axzfiqchwcj8)
 - [trashhalo/obsidian-webhooks: Connect obsidian to the internet of things via webhooks](https://github.com/trashhalo/obsidian-webhooks)
-### Resources
+#### Resources
 - [#ifttt - npm search](https://www.npmjs.com/search?q=%23ifttt)
 - [#IFTTT hashtag on Twitter](https://twitter.com/hashtag/IFTTT?src=hashtag_click)
 - [#Obsidian hashtag on Twitter](https://twitter.com/hashtag/Obsidian?src=hashtag_click)
@@ -312,9 +312,9 @@
 - [Tools](https://toolboxpro.app/tools)
 - [UpdateKit API for Shortcuts (@UpdateKit)](https://twitter.com/UpdateKit)
 - [UpdateKit API v1 • Mike Beasley](https://www.mikebeas.com/updatekit-api/v1)
-### RSS
-#### RSS Tools
-#### RSS Indexes and Search Tools
+#### RSS
+##### RSS Tools
+##### RSS indexes and Search tools
 - [DatoRSS - RSS Search Engine with RESTful API](https://www.datorss.com/)
 - [Feeder](https://feeder.co/discover)
 - [Feedsearch.dev](https://feedsearch.dev/)
@@ -324,7 +324,7 @@
 - [RSS Search Engine and RSS Feed Reader](https://www.rsssearchhub.com/)
 - [Social Media | RSSHub](https://docs.rsshub.app/en/social-media.html)
 - [Wingee.com](https://www.wingee.com/)
-#### RSS Readers
+##### RSS Readers
 - [★ Reeder](https://reederapp.com/)
 - [BazQux Reader](https://bazqux.com/)
 - [Cappuccinoapp.com](https://cappuccinoapp.com/)
@@ -420,7 +420,7 @@
 - [Top 100 World News RSS Feeds](https://blog.feedspot.com/world_news_rss_feeds)
 - [Under Construction](https://monitorss.xyz/)
 - [XML RSS](https://www.w3schools.com/xml/xml_rss.asp)
-### Webhooks
+#### Webhooks
 - [Hookdoo Homepage](https://hookdoo.com/)
 - [Introduction - Discord Webhooks Guide](https://birdie0.github.io/discord-webhooks-guide/)
 - ["Smart Connected Experiences - Olisto Brands](https://olisto.com/)
@@ -446,15 +446,15 @@
 - [See all services - IFTTT](https://ifttt.com/explore/services)
 - [six-ddc/plow: A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying](https://github.com/six-ddc/plow)
 - [Social.downornot.com](https://social.downornot.com/)
-## Indexing-WebCrawling
+### Indexing-WebCrawling
 - [Rob Hammond: SEO & Digital Marketer](https://robhammond.co/)
 - [SEO Tools | Rob Hammond](https://robhammond.co/tools)
-## Inspiration
+### Inspiration
 - [Arwes](https://arwes.dev/)
 - [HUD - Bootstrap 5 Admin Template](https://themeforest.net/item/hud-bootstrap-5-admin-template/34000752)
 - [Silhouette Dead Mans Skull Day Dead Stock Illustration 1840789102](https://www.shutterstock.com/image-illustration/silhouette-dead-mans-skull-day-dia-1840789102)
 - [Xterm.js](https://xtermjs.org/)
-## Self-Hosted
+### Self-Hosted
 - ["aaPanel - Free and Open source Hosting control panel. One-click LAMP/LEMP.](https://www.aapanel.com/new/index.html)
 - [aaPanel - Free and Open source Hosting control panel. One-click LAMP/LEMP.](https://www.aapanel.com/)
 - [actionsflow/actionsflow: The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions](https://github.com/actionsflow/actionsflow)
@@ -471,7 +471,7 @@
 - [Staticman](https://staticman.net/)
 - [WikiSuite | Software](https://wikisuite.org/Software)
 - [With YunoHost, you can easily manage a server for your friends, association or enterprise. Learn more • YunoHost](https://yunohost.org/#/?ref=producthunt)
-## SEO Tools
+### SEO Tools
 - [Ahrefs](https://ahrefs.com/)
 - [Bing](https://www.bing.com/toolbox/webmaster)
 - [ClearWebStats.com](https://www.clearwebstats.com/)
@@ -497,7 +497,7 @@
 - [Website Review Tool & SEO Checker](https://www.woorank.com/)
 - [Website value calculator and web information](https://websiteoutlook.com/)
 - [World's Best SEO Tools and Free Search Software - MozMozSearchResourcesMenuicon-closeSearchMoz](https://moz.com/free-seo-tools)
-## Server
+### Server
 - [amnuts/opcache-gui: A clean, effective and responsive interface for Zend OPcache](https://github.com/amnuts/opcache-gui)
 - [Appwrite - Open-Source End-to-End Backend Server](https://appwrite.io/)
 - [Cloud IDE - PaizaCloud - Just 3 seconds to start Cloud IDE](https://paiza.cloud/en/)
@@ -534,9 +534,9 @@
 - [Spin up your own blazing fast WordPress server in minutes with SpinupWP](https://spinupwp.com/)
 - [Varnish HTTP Cache — Varnish HTTP Cache](https://varnish-cache.org/)
 - [Vesta Control Panel — Features](https://www.vestacp.com/features/)
-## Site Mapping Tools
+### Site Mapping Tools
 - [Free Visual Sitemap Generator & XML Sitemap Creator | Octopus.do](https://octopus.do/sitemap/resource/generator)
-## Web Animation
+### Web Animation
 - [All Animation CSS3](https://all-animation.github.io/)
 - [Animate | Keyframes.app](https://keyframes.app/animate/)
 - [Animista - CSS Animations on Demand](https://animista.net/)
@@ -553,8 +553,8 @@
 - [Micron.JS - a [μ] microInteraction Library](https://webkul.github.io/micron/)
 - [Obnoxious.css](https://tholman.com/obnoxious/)
 - [SVG Artista - SVG Drawing Animation Generator](https://svgartista.net/)
-## Website
-### Landing Page
+### Website
+#### Landing Page
 - [5179 Landing Page Design Inspiration - Lapa Ninja](https://www.lapa.ninja/)
 - [Build a World of Audio for your Audience | Trinity Audio | Tel Aviv](https://www.trinityaudio.ai/)
 - [Daftpage V2](https://daftpage.com/)
@@ -565,7 +565,7 @@
 - [The Best Landing Page Examples For Design Inspiration - SaaS Landing Page](https://saaslandingpage.com/)
 - [Uisual: Free Landing Page Templates for Startups](https://uisual.com/)
 - [Web3 Landing Pages Examples](https://www.web3landingpages.com/)
-### Static Sites
+#### Static Sites
 - [Benrobo/baaymax at producthunt](https://github.com/benrobo/baaymax?ref=producthunt)
 - [Build optimized websites quickly, focus on your content | Docusaurus](https://docusaurus.io/)
 - [charludo/barely: barely is a lightweight, but highly extensible static site generator written in pure python.](https://github.com/charludo/barely)
@@ -582,9 +582,9 @@
 - [Surge](https://surge.sh/)
 - [txti - Fast web pages for everybody](http://txti.es/)
 - [Zola](https://www.getzola.org/)
-### Status Page
+#### Status Page
 - [Instatus - Get a quick & beautiful status page!](https://instatus.com/)
-### Wordpress Builds
+#### Wordpress Builds
 - [1098+ Free Bootstrap HTML5 CSS3 Website Templates | High Quality Bootstrap Theme](https://themewagon.com/theme-price/free)
 - [AWSM - One Page CV / Resume & Personal Portfolio WordPress Theme](https://themeforest.net/item/awsm-simple-personal-portfolio-wordpress-theme/4641441?ref=webdesigndev)
 - [Download - Mantiq](https://wpmantiq.com/download/)
@@ -730,8 +730,8 @@
 - [x10hosting - Free Web hosting Web Hosting For The Masses](https://x10hosting.com/)
 - [ZeroNet: Decentralized websites using Bitcoin cryptography and the BitTorrent network](https://zeronet.io/)
 - [Zeroqode is a Platform with No-Code App Templates, Courses, Plugins, etc.](https://zeroqode.com/)
-## Website Monitoring
-### Monitoring
+### Website Monitoring
+#### Monitoring
 - [6 Self-hosted Light-weight Tools to Monitor Servers](https://geekflare.com/self-hosted-server-monitoring)
 - [Better Stack](https://betterstack.com/)
 - [Check server: Check host - online website monitoring](https://check-host.net/)
