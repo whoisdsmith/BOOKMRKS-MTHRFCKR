@@ -2,7 +2,7 @@
 ---
 ---
 
-- [[#Computer and OS Related|Computer and OS Related]]
+- [#Computer and OS Related|Computer and OS Related]
 	- [[#Computer and OS Related#File Organization|File Organization]]
 	- [[#Computer and OS Related#Hackintosh|Hackintosh]]
 	- [[#Computer and OS Related#Hard Drives|Hard Drives]]
