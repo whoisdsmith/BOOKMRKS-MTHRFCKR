@@ -2,23 +2,7 @@
 ---
 ---
 
-- [[#PKMS|PKMS]]
-	- [[#PKMS#Acronyms and Abbreviations|Acronyms and Abbreviations]]
-	- [[#PKMS#Apps|Apps]]
-		- [[#Apps#Cross-Platform|Cross-Platform]]
-		- [[#Apps#Docker|Docker]]
-		- [[#Apps#iOS|iOS]]
-		- [[#Apps#Linux|Linux]]
-		- [[#Apps#MacOS|MacOS]]
-		- [[#Apps#Online|Online]]
-		- [[#Apps#Packages|Packages]]
-		- [[#Apps#VS Code|VS Code]]
-		- [[#Apps#Windows|Windows]]
-	- [[#PKMS#Communities|Communities]]
-	- [[#PKMS#Glossaries and Dictionaries|Glossaries and Dictionaries]]
-	- [[#PKMS#Memex|Memex]]
-	- [[#PKMS#Notetaking|Notetaking]]
-	- [[#PKMS#Obsidian|Obsidian]]
+
 
 ---
 

@@ -2,30 +2,7 @@
 ---
 ---
 
-- [[#Computer and OS Related|Computer and OS Related]]
-	- [[#Computer and OS Related#File Organization|File Organization]]
-	- [[#Computer and OS Related#Hackintosh|Hackintosh]]
-	- [[#Computer and OS Related#Hard Drives|Hard Drives]]
-	- [[#Computer and OS Related#Jailbreak|Jailbreak]]
-	- [[#Computer and OS Related#Linux|Linux]]
-		- [[#Linux#Distros|Distros]]
-		- [[#Linux#Linux Training|Linux Training]]
-	- [[#Computer and OS Related#Mac Apps|Mac Apps]]
-		- [[#Mac Apps#OSX|OSX]]
-	- [[#Computer and OS Related#Mobile Apps|Mobile Apps]]
-		- [[#Mobile Apps#Android|Android]]
-		- [[#Mobile Apps#iOS Apps|iOS Apps]]
-			- [[#iOS Apps#iOS Shortcuts|iOS Shortcuts]]
-	- [[#Computer and OS Related#OS Other|OS Other]]
-	- [[#Computer and OS Related#Windows Software|Windows Software]]
-		- [[#Windows Software#Cross Platform|Cross Platform]]
-		- [[#Windows Software#Customizing OS|Customizing OS]]
-		- [[#Windows Software#Drivers|Drivers]]
-		- [[#Windows Software#File Management|File Management]]
-		- [[#Windows Software#Mobile & Desktop Tracking Software|Mobile & Desktop Tracking Software]]
-		- [[#Windows Software#Software (Free or Open Source)|Software (Free or Open Source)]]
-		- [[#Windows Software#Software repacks|Software repacks]]
-		- [[#Windows Software#Windows|Windows]]
+
 
 ---
 

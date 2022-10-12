@@ -2,36 +2,7 @@
 ---
 ---
 
-- [[#Tools|Tools]]
-	- [[#Tools#Activity Logging|Activity Logging]]
-	- [[#Tools#AI Systems|AI Systems]]
-	- [[#Tools#API Tools|API Tools]]
-	- [[#Tools#Cloud Services|Cloud Services]]
-	- [[#Tools#Conversion|Conversion]]
-		- [[#Conversion#Online Conversation|Online Conversation]]
-	- [[#Tools#Data Visualization|Data Visualization]]
-	- [[#Tools#Digital Forensics|Digital Forensics]]
-	- [[#Tools#Generators|Generators]]
-	- [[#Tools#GItHub Tools|GItHub Tools]]
-	- [[#Tools#Health|Health]]
-	- [[#Tools#HTML|HTML]]
-	- [[#Tools#Java|Java]]
-	- [[#Tools#JSON|JSON]]
-	- [[#Tools#Keyword Discovery & Text Analysis|Keyword Discovery & Text Analysis]]
-	- [[#Tools#Markdown Tools|Markdown Tools]]
-	- [[#Tools#Media|Media]]
-	- [[#Tools#Misc|Misc]]
-	- [[#Tools#Multiple|Multiple]]
-	- [[#Tools#PDF|PDF]]
-	- [[#Tools#Productivity|Productivity]]
-	- [[#Tools#Spreadsheet|Spreadsheet]]
-	- [[#Tools#Text|Text]]
-		- [[#Text#ASCII|ASCII]]
-	- [[#Tools#Timeline|Timeline]]
-	- [[#Tools#Tools|Tools]]
-	- [[#Tools#Upload|Upload]]
-	- [[#Tools#Viewers|Viewers]]
-	- [[#Tools#Writing|Writing]]
+
 
 ---
 

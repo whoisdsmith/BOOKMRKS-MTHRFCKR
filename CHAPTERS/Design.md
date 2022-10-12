@@ -2,42 +2,7 @@
 ---
 ---
 
-- [[#Design|Design]]
-	- [[#Design#Design|Design]]
-	- [[#Design#Fonts|Fonts]]
-	- [[#Design#Icons|Icons]]
-	- [[#Design#Images|Images]]
-	- [[#Design#Logos|Logos]]
-	- [[#Design#Mockup's|Mockup's]]
-	- [[#Design#Multimedia|Multimedia]]
-		- [[#Multimedia#Graphics|Graphics]]
-			- [[#Graphics#Download Packs|Download Packs]]
-			- [[#Graphics#Stock Footage|Stock Footage]]
-		- [[#Multimedia#Photoshop|Photoshop]]
-		- [[#Multimedia#Resources|Resources]]
-			- [[#Resources#Design Resources|Design Resources]]
-			- [[#Resources#Graphics Resources|Graphics Resources]]
-		- [[#Multimedia#Video Resource Toolbox|Video Resource Toolbox]]
-			- [[#Video Resource Toolbox#AE|AE]]
-			- [[#Video Resource Toolbox#Film Writing Software|Film Writing Software]]
-			- [[#Video Resource Toolbox#Lighting and Equipment resources|Lighting and Equipment resources]]
-			- [[#Video Resource Toolbox#Royalty Free Video and Images and music|Royalty Free Video and Images and music]]
-			- [[#Video Resource Toolbox#Shooting and Editing Tools|Shooting and Editing Tools]]
-			- [[#Video Resource Toolbox#SourceCon Blogs|SourceCon Blogs]]
-			- [[#Video Resource Toolbox#Tutorials & YouTube Channels|Tutorials & YouTube Channels]]
-			- [[#Video Resource Toolbox#Video Editing Communities and Forums|Video Editing Communities and Forums]]
-			- [[#Video Resource Toolbox#Video Hosting Platforms|Video Hosting Platforms]]
-			- [[#Video Resource Toolbox#Webcam|Webcam]]
-			- [[#Video Resource Toolbox#YouTube|YouTube]]
-	- [[#Design#Pallets|Pallets]]
-	- [[#Design#Patterns|Patterns]]
-	- [[#Design#Placeholder|Placeholder]]
-	- [[#Design#PNGs|PNGs]]
-	- [[#Design#Shutterstock|Shutterstock]]
-	- [[#Design#Stock Photos|Stock Photos]]
-	- [[#Design#SVG|SVG]]
-	- [[#Design#Templates|Templates]]
-	- [[#Design#Vectors|Vectors]]
+
 
 ---
 

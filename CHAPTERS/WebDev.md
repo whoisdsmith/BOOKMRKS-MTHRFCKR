@@ -2,38 +2,7 @@
 ---
 ---
 
-- [[#WebDev|WebDev]]
-	- [[#WebDev#Backlinks|Backlinks]]
-	- [[#WebDev#Cloud|Cloud]]
-	- [[#WebDev#Dashboards|Dashboards]]
-		- [[#Dashboards#Dashboard Tools|Dashboard Tools]]
-	- [[#WebDev#Finding SSL Certificates|Finding SSL Certificates]]
-	- [[#WebDev#Host-Domains|Host-Domains]]
-	- [[#WebDev#HTML & CSS|HTML & CSS]]
-	- [[#WebDev#HTTP|HTTP]]
-		- [[#HTTP#APIs|APIs]]
-		- [[#HTTP#Automation|Automation]]
-		- [[#HTTP#IFTTT|IFTTT]]
-		- [[#HTTP#Resources|Resources]]
-		- [[#HTTP#RSS|RSS]]
-			- [[#RSS#RSS Tools|RSS Tools]]
-			- [[#RSS#RSS indexes and Search tools|RSS indexes and Search tools]]
-			- [[#RSS#RSS Readers|RSS Readers]]
-		- [[#HTTP#Webhooks|Webhooks]]
-	- [[#WebDev#Indexing-WebCrawling|Indexing-WebCrawling]]
-	- [[#WebDev#Inspiration|Inspiration]]
-	- [[#WebDev#Self-Hosted|Self-Hosted]]
-	- [[#WebDev#SEO Tools|SEO Tools]]
-	- [[#WebDev#Server|Server]]
-	- [[#WebDev#Site Mapping Tools|Site Mapping Tools]]
-	- [[#WebDev#Web Animation|Web Animation]]
-	- [[#WebDev#Website|Website]]
-		- [[#Website#Landing Page|Landing Page]]
-		- [[#Website#Static Sites|Static Sites]]
-		- [[#Website#Status Page|Status Page]]
-		- [[#Website#Wordpress Builds|Wordpress Builds]]
-	- [[#WebDev#Website Monitoring|Website Monitoring]]
-		- [[#Website Monitoring#Monitoring|Monitoring]]
+
 
 ---
 

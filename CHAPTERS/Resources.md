@@ -2,15 +2,7 @@
 ---
 ---
 
-- [[#Resources|Resources]]
-	- [[#Resources#Dev Design|Dev Design]]
-	- [[#Resources#Dev Resources|Dev Resources]]
-	- [[#Resources#Dev Tools|Dev Tools]]
-	- [[#Resources#Dev Web|Dev Web]]
-	- [[#Resources#How-To's and Continious Learning|How-To's and Continious Learning]]
-		- [[#How-To's and Continious Learning#Cheetsheet|Cheetsheet]]
-		- [[#How-To's and Continious Learning#Git|Git]]
-	- [[#Resources#WP Resources|WP Resources]]
+
 
 ---
 

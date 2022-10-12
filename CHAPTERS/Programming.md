@@ -3,23 +3,7 @@
 ---
 ---
 
-- [[#Programming|Programming]]
-	- [[#Programming#Code Editors|Code Editors]]
-	- [[#Programming#Database|Database]]
-	- [[#Programming#Developer|Developer]]
-	- [[#Programming#Git|Git]]
-		- [[#Git#AWESOME|AWESOME]]
-		- [[#Git#github-stars|github-stars]]
-		- [[#Git#Gitlab|Gitlab]]
-	- [[#Programming#Javascript|Javascript]]
-	- [[#Programming#JSON|JSON]]
-	- [[#Programming#Markdown|Markdown]]
-	- [[#Programming#Misc|Misc]]
-	- [[#Programming#Python|Python]]
-	- [[#Programming#Regex|Regex]]
-	- [[#Programming#Snippets|Snippets]]
-	- [[#Programming#Terminal|Terminal]]
-		- [[#Terminal#CLI|CLI]]
+
 
 ---
 

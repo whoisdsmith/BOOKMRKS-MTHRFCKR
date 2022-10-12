@@ -2,23 +2,7 @@
 ---
 ---
 
-- [[#Data Related|Data Related]]
-	- [[#Data Related#Data Integration and Visualisers|Data Integration and Visualisers]]
-		- [[#Data Integration and Visualisers#Charts|Charts]]
-		- [[#Data Integration and Visualisers#Dashboards|Dashboards]]
-		- [[#Data Integration and Visualisers#Data Analysis|Data Analysis]]
-		- [[#Data Integration and Visualisers#Data Scrapers|Data Scrapers]]
-		- [[#Data Integration and Visualisers#Database|Database]]
-		- [[#Data Integration and Visualisers#Graphs|Graphs]]
-		- [[#Data Integration and Visualisers#Plots|Plots]]
-		- [[#Data Integration and Visualisers#Spreadsheets|Spreadsheets]]
-		- [[#Data Integration and Visualisers#Timelines|Timelines]]
-	- [[#Data Related#Facebook|Facebook]]
-	- [[#Data Related#Financial|Financial]]
-	- [[#Data Related#iOS|iOS]]
-	- [[#Data Related#Journal|Journal]]
-	- [[#Data Related#Location History|Location History]]
-	- [[#Data Related#Text Messages|Text Messages]]
+
 
 ---
 

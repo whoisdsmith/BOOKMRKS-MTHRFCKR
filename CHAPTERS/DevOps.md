@@ -2,14 +2,7 @@
 ---
 ---
 
-- [[#DevOps|DevOps]]
-	- [[#DevOps#Apps|Apps]]
-	- [[#DevOps#Audio|Audio]]
-	- [[#DevOps#Cloud Dev|Cloud Dev]]
-	- [[#DevOps#Decentralized|Decentralized]]
-	- [[#DevOps#Deployment|Deployment]]
-	- [[#DevOps#Search|Search]]
-	- [[#DevOps#Tools|Tools]]
+
 
 ---
 

@@ -2,25 +2,7 @@
 ---
 ---
 
-- [[#Reference|Reference]]
-	- [[#Reference#Academic|Academic]]
-	- [[#Reference#Academic and Grey Literature Research Tools|Academic and Grey Literature Research Tools]]
-	- [[#Reference#Adderall|Adderall]]
-	- [[#Reference#Ancestry Research|Ancestry Research]]
-	- [[#Reference#Annotation and Highlighting|Annotation and Highlighting]]
-	- [[#Reference#Audio Books|Audio Books]]
-	- [[#Reference#DocArticles|DocArticles]]
-	- [[#Reference#Document Checking|Document Checking]]
-	- [[#Reference#Ebooks|Ebooks]]
-	- [[#Reference#EDU|EDU]]
-	- [[#Reference#Grammer/Spelling/Etc|Grammer/Spelling/Etc]]
-	- [[#Reference#Learning|Learning]]
-	- [[#Reference#Newspaper Sites|Newspaper Sites]]
-	- [[#Reference#Papers and Journals|Papers and Journals]]
-	- [[#Reference#PDF Management|PDF Management]]
-	- [[#Reference#PDF Sites|PDF Sites]]
-	- [[#Reference#Publications|Publications]]
-	- [[#Reference#Reference Tools|Reference Tools]]
+
 
 ---
 
