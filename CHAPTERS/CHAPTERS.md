@@ -1,5 +1,3 @@
-![Pasted image 20221011135958](Pasted%20image%2020221011135958.png)
-
 # TOC
 ---
 
