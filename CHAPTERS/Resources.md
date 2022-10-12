@@ -1,5 +1,24 @@
-## Resources 
-### Dev Design
+# TOC
+---
+---
+
+- [[#Resources|Resources]]
+	- [[#Resources#Dev Design|Dev Design]]
+	- [[#Resources#Dev Resources|Dev Resources]]
+	- [[#Resources#Dev Tools|Dev Tools]]
+	- [[#Resources#Dev Web|Dev Web]]
+	- [[#Resources#How-To's and Continious Learning|How-To's and Continious Learning]]
+		- [[#How-To's and Continious Learning#Cheetsheet|Cheetsheet]]
+		- [[#How-To's and Continious Learning#Git|Git]]
+	- [[#Resources#WP Resources|WP Resources]]
+
+---
+
+# Resources
+
+---
+
+## Dev Design
 - [Ai generative art tools](https://pharmapsychotic.com/tools.html)
 - [Coverview - Creating cover images for your blogs is now super easy](https://coverview.vercel.app/editor)
 - [DEVICON | All programming languages and developme…](https://devicon.dev/?ref=freeStuffDev)
@@ -15,7 +34,7 @@
 - [Slickr - Try the most powerful cover image designer for hashnode blog](https://slickr.vercel.app/)
 - [The Favicon Finder](https://besticon.herokuapp.com/)
 - [The ultimate favicon generator - Favic-o-Matic](https://favicomatic.com/)
-### Dev Resources
+## Dev Resources
 - [Bookmarklets](https://www.gbasil.dev/bookmarklets)
 - [Codetote](https://www.codetote.com/?ref=producthunt)
 - [Curated list of resources for developers, designers, and web makers. | Notedlinks](https://www.notedlinks.com/?ref=producthunt)
@@ -30,7 +49,7 @@
 - [Web Hosting Discussion Forums, Tutorials, Reviews & Services](https://forumweb.hosting/)
 - [WebdevHome /](https://webdevhome.github.io/)
 - [ZEEF.com](https://zeef.com/)
-### Dev Tools
+## Dev Tools
 - [Convert Date Time Format in Bulk](https://online-free-tools.com/en/convert_date_time_change_format)
 - [Create your link page · 0ls.me](https://0ls.me/)
 - [Dashboard](https://www.fetoolkit.io/dashboard)
@@ -42,7 +61,7 @@
 - [IT Tools - Handy online tools for developers](https://it-tools.tech/)
 - [No-Signup Tools](https://www.nosignup.tools/)
 - [The best developer tools - Console](https://console.dev/tools?ref=producthunt)
-### Dev Web
+## Dev Web
 - [✨ Your best Front-End Tool ✨](https://frontendchecklist.io/)
 - [Ant Design Landing Page - Ant Design Landing Templates and Specifications](https://landing.ant.design/)
 - [Discover The Best Free Tools For Startup Founders - Startups.fyi](https://www.startups.fyi/?ref=producthunt)
@@ -57,8 +76,8 @@
 - [Webdesign assistant tools for beginners and professionals.](https://webdesign-assistant.com/)
 - [what devs need - Curated Developer Tools](https://whatdevsneed.com/)
 - [xWebTools - Free Online Web Tools for Webmasters, Web Developers, Web Development, and daily uses.](https://www.xwebtools.com/)
-### How-To's and Continious Learning
-#### Cheetsheet
+## How-To's and Continious Learning
+### Cheetsheet
 - [1541 Programming Cheat Sheets - Cheatography.com: Cheat Sheets For Every Occasion](https://cheatography.com/programming/)
 - [Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/)
 - [Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell](https://www.bigocheatsheet.com/)
@@ -67,7 +86,7 @@
 - [Devhints — TL;DR for developer documentation](https://devhints.io/)
 - [OverAPI.com | Collecting all the cheat sheets](https://overapi.com/)
 - [Syntax highlighting](https://rentry.co/langs)
-#### Git
+### Git
 - [Git - Downloading Package](https://git-scm.com/download/mac)
 - [A Beginner’s Guide to Git — How to Start and Create your First Repository](https://www.freecodecamp.org/news/a-beginners-guide-to-git-how-to-create-your-first-github-project-c3ff53f56861/)
 - [A Framework meant for the exploitation of iOS devices. | PythonRepo](https://pythonrepo.com/repo/0x1CA3-iPwn)
@@ -122,7 +141,7 @@
 - [Using AsciiDoc and Asciidoctor to write documentation - Tutorial](https://www.vogella.com/tutorials/AsciiDoc/article.html)
 - [Want to learn about git and GitHub in a more fun way?](https://dev.to/)
 - [Where Vim Came From](https://twobithistory.org/2018/08/05/where-vim-came-from.html)
-### WP Resources
+## WP Resources
 - [(1) WP Webcreator | Facebook](https://www.facebook.com/wpwebcreator)
 - [#1 Ecommerce Website Builder: Create an Ecommerce Site | Elementor](https://elementor.com/features/ecommerce/)
 - [💬1 - Elementor Elements Demo | Essential Addons for Elementor](https://essential-addons.com/elementor/demos/)

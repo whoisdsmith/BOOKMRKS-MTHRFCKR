@@ -1,741 +1,741 @@
-![[Pasted image 20221011135958.png]]
+![Pasted image 20221011135958](Pasted%20image%2020221011135958.png)
 
 # TOC
 ---
 -----
 
-- [[#Computer and OS Related|Computer and OS Related]]
-	- [[#Computer and OS Related#File Organization|File Organization]]
-	- [[#Computer and OS Related#Hackintosh|Hackintosh]]
-	- [[#Computer and OS Related#Hard Drives|Hard Drives]]
-	- [[#Computer and OS Related#Jailbreak|Jailbreak]]
-	- [[#Computer and OS Related#Linux|Linux]]
-		- [[#Linux#Distros|Distros]]
-		- [[#Linux#Linux Training|Linux Training]]
-	- [[#Computer and OS Related#Mac Apps|Mac Apps]]
-		- [[#Mac Apps#OSX|OSX]]
-	- [[#Computer and OS Related#Mobile Apps|Mobile Apps]]
-		- [[#Mobile Apps#Android|Android]]
-		- [[#Mobile Apps#iOS Apps|iOS Apps]]
-			- [[#iOS Apps#iOS Shortcuts|iOS Shortcuts]]
-	- [[#Computer and OS Related#OS Other|OS Other]]
-	- [[#Computer and OS Related#Windows Software|Windows Software]]
-		- [[#Windows Software#Cross Platform|Cross Platform]]
-		- [[#Windows Software#Customizing OS|Customizing OS]]
-		- [[#Windows Software#Drivers|Drivers]]
-		- [[#Windows Software#File Management|File Management]]
-		- [[#Windows Software#Mobile & Desktop Tracking Software|Mobile & Desktop Tracking Software]]
-		- [[#Windows Software#Software (Free or Open Source)|Software (Free or Open Source)]]
-		- [[#Windows Software#Software repacks|Software repacks]]
-		- [[#Windows Software#Windows|Windows]]
-- [[#Content|Content]]
-	- [[#Content#Communities|Communities]]
-		- [[#Communities#Dev.to|Dev.to]]
-		- [[#Communities#Discord|Discord]]
-		- [[#Communities#Telegram|Telegram]]
-		- [[#Communities#Twitter|Twitter]]
-	- [[#Content#Content Blogs, RSS and Feeds|Content Blogs, RSS and Feeds]]
-		- [[#Content Blogs, RSS and Feeds#Blogs|Blogs]]
-			- [[#Blogs#Adderall|Adderall]]
-			- [[#Blogs#Data|Data]]
-			- [[#Blogs#Dev-Sites|Dev-Sites]]
-			- [[#Blogs#Medium Blogs|Medium Blogs]]
-			- [[#Blogs#OSINT Blogs|OSINT Blogs]]
-		- [[#Content Blogs, RSS and Feeds#Create Blog|Create Blog]]
-		- [[#Content Blogs, RSS and Feeds#Forums|Forums]]
-		- [[#Content Blogs, RSS and Feeds#People To Follow|People To Follow]]
-		- [[#Content Blogs, RSS and Feeds#Podcasts|Podcasts]]
-	- [[#Content#Social Media|Social Media]]
-		- [[#Social Media#Instagram|Instagram]]
-		- [[#Social Media#Reddit|Reddit]]
-- [[#Design|Design]]
-	- [[#Design#Design|Design]]
-	- [[#Design#Fonts|Fonts]]
-	- [[#Design#Icons|Icons]]
-	- [[#Design#Images|Images]]
-	- [[#Design#Logos|Logos]]
-	- [[#Design#Mockup's|Mockup's]]
-	- [[#Design#Multimedia|Multimedia]]
-		- [[#Multimedia#Graphics|Graphics]]
-			- [[#Graphics#Download Packs|Download Packs]]
-			- [[#Graphics#Stock Footage|Stock Footage]]
-		- [[#Multimedia#Photoshop|Photoshop]]
-		- [[#Multimedia#Resources|Resources]]
-			- [[#Resources#Design Resources|Design Resources]]
-			- [[#Resources#Graphics Resources|Graphics Resources]]
-		- [[#Multimedia#Video Resource Toolbox|Video Resource Toolbox]]
-			- [[#Video Resource Toolbox#AE|AE]]
-			- [[#Video Resource Toolbox#Film Writing Software|Film Writing Software]]
-			- [[#Video Resource Toolbox#Lighting and Equipment resources|Lighting and Equipment resources]]
-			- [[#Video Resource Toolbox#Royalty Free Video and Images and music|Royalty Free Video and Images and music]]
-			- [[#Video Resource Toolbox#Shooting and Editing Tools|Shooting and Editing Tools]]
-			- [[#Video Resource Toolbox#SourceCon Blogs|SourceCon Blogs]]
-			- [[#Video Resource Toolbox#Tutorials & YouTube Channels|Tutorials & YouTube Channels]]
-			- [[#Video Resource Toolbox#Video Editing Communities and Forums|Video Editing Communities and Forums]]
-			- [[#Video Resource Toolbox#Video Hosting Platforms|Video Hosting Platforms]]
-			- [[#Video Resource Toolbox#Webcam|Webcam]]
-			- [[#Video Resource Toolbox#YouTube|YouTube]]
-	- [[#Design#Pallets|Pallets]]
-	- [[#Design#Patterns|Patterns]]
-	- [[#Design#Placeholder|Placeholder]]
-	- [[#Design#PNGs|PNGs]]
-	- [[#Design#Shutterstock|Shutterstock]]
-	- [[#Design#Stock Photos|Stock Photos]]
-	- [[#Design#SVG|SVG]]
-	- [[#Design#Templates|Templates]]
-	- [[#Design#Vectors|Vectors]]
-- [[#DevOps|DevOps]]
-	- [[#DevOps#Apps|Apps]]
-	- [[#DevOps#Audio|Audio]]
-	- [[#DevOps#Cloud Dev|Cloud Dev]]
-	- [[#DevOps#Decentralized|Decentralized]]
-	- [[#DevOps#Deployment|Deployment]]
-	- [[#DevOps#Search|Search]]
-	- [[#DevOps#Tools|Tools]]
-- [[#Music|Music]]
-	- [[#Music#Music DL|Music DL]]
-	- [[#Music#Pro Audio|Pro Audio]]
-		- [[#Pro Audio#Audio-FX|Audio-FX]]
-- [[#OSINT|OSINT]]
-	- [[#OSINT#AI FACES people and horses|AI FACES people and horses]]
-	- [[#OSINT#Airplanes, Airports and Flight Trackers|Airplanes, Airports and Flight Trackers]]
-	- [[#OSINT#Alternatives to Tor|Alternatives to Tor]]
-	- [[#OSINT#Analysing Unique IDs|Analysing Unique IDs]]
-	- [[#OSINT#Analyze Text in images (OCR) opitcal character recognition|Analyze Text in images (OCR) opitcal character recognition]]
-	- [[#OSINT#Android Emulators|Android Emulators]]
-	- [[#OSINT#Annual Reports|Annual Reports]]
-	- [[#OSINT#Antivirus, Malware, Cleanup|Antivirus, Malware, Cleanup]]
-	- [[#OSINT#Authentication|Authentication]]
-	- [[#OSINT#Avatars|Avatars]]
-	- [[#OSINT#Aviation Assets|Aviation Assets]]
-	- [[#OSINT#AWS/Buckets|AWS/Buckets]]
-	- [[#OSINT#Background Checks|Background Checks]]
-	- [[#OSINT#Bank Accounts & Credit Cards|Bank Accounts & Credit Cards]]
-	- [[#OSINT#Barcodes, QR Codes, UID Codes|Barcodes, QR Codes, UID Codes]]
-	- [[#OSINT#Bitcoin|Bitcoin]]
-	- [[#OSINT#BlackHat Sources (darkWeb)|BlackHat Sources (darkWeb)]]
-	- [[#OSINT#Blogging, forum & other communities|Blogging, forum & other communities]]
-	- [[#OSINT#bookmarks misc onion|bookmarks misc onion]]
-	- [[#OSINT#Business Entity Filings|Business Entity Filings]]
-	- [[#OSINT#Cars|Cars]]
-	- [[#OSINT#Cell Phone Towers|Cell Phone Towers]]
-	- [[#OSINT#Civil Court Records|Civil Court Records]]
-	- [[#OSINT#ClearNet Links to DarkWeb|ClearNet Links to DarkWeb]]
-	- [[#OSINT#Commercial registries|Commercial registries]]
-	- [[#OSINT#Communication|Communication]]
-	- [[#OSINT#Community Toolsets|Community Toolsets]]
-	- [[#OSINT#Companies|Companies]]
-	- [[#OSINT#Container and Cargo Tracking|Container and Cargo Tracking]]
-	- [[#OSINT#Contribute to OSINT Frameworks|Contribute to OSINT Frameworks]]
-	- [[#OSINT#Conventions & Events|Conventions & Events]]
-	- [[#OSINT#Creating World Clouds|Creating World Clouds]]
-	- [[#OSINT#Crime & Criminal Records|Crime & Criminal Records]]
-	- [[#OSINT#Crisis Alerts and Travel Advisory|Crisis Alerts and Travel Advisory]]
-	- [[#OSINT#Cryptocurrency & Blockchain|Cryptocurrency & Blockchain]]
-	- [[#OSINT#Dark Web|Dark Web]]
-	- [[#OSINT#Darkweb links|Darkweb links]]
-	- [[#OSINT#Data Breaches & Leaks|Data Breaches & Leaks]]
-	- [[#OSINT#Deans Deep Web|Deans Deep Web]]
-	- [[#OSINT#Decrypt Hash|Decrypt Hash]]
-	- [[#OSINT#Digital Forensics (DFIR)|Digital Forensics (DFIR)]]
-		- [[#Digital Forensics (DFIR)#Discord (tools)|Discord (tools)]]
-		- [[#Digital Forensics (DFIR)#e-mail infoz|e-mail infoz]]
-			- [[#e-mail infoz#email/cloud/storage|email/cloud/storage]]
-		- [[#Digital Forensics (DFIR)#Fact Checking and Verification|Fact Checking and Verification]]
-		- [[#Digital Forensics (DFIR)#Fake ID (Darknet)|Fake ID (Darknet)]]
-	- [[#OSINT#Discover other OSINT Frameworks|Discover other OSINT Frameworks]]
-	- [[#OSINT#Disk Encryption|Disk Encryption]]
-	- [[#OSINT#Disposable Email|Disposable Email]]
-	- [[#OSINT#Documenting The Investigation|Documenting The Investigation]]
-	- [[#OSINT#Documents and Structured Data|Documents and Structured Data]]
-	- [[#OSINT#Domains|Domains]]
-	- [[#OSINT#Downloading|Downloading]]
-		- [[#Downloading#Downloading Videos from Facebook|Downloading Videos from Facebook]]
-		- [[#Downloading#Downloading Videos from Instagram|Downloading Videos from Instagram]]
-		- [[#Downloading#Downloading Videos from Reddit|Downloading Videos from Reddit]]
-		- [[#Downloading#Downloading Videos from Twitter|Downloading Videos from Twitter]]
-		- [[#Downloading#Downloading Videos from YouTube|Downloading Videos from YouTube]]
-	- [[#OSINT#Drivers License & Passport|Drivers License & Passport]]
-	- [[#OSINT#Drones|Drones]]
-	- [[#OSINT#Education Networks|Education Networks]]
-	- [[#OSINT#Email Scrapers|Email Scrapers]]
-	- [[#OSINT#Email Tracking|Email Tracking]]
-	- [[#OSINT#Encrypted Communication|Encrypted Communication]]
-	- [[#OSINT#Extracting Files|Extracting Files]]
-	- [[#OSINT#Facebook|Facebook]]
-	- [[#OSINT#Facial Recognition|Facial Recognition]]
-	- [[#OSINT#Fake Emailers & Validators|Fake Emailers & Validators]]
-	- [[#OSINT#File Conversion & Translation|File Conversion & Translation]]
-	- [[#OSINT#Finding GIFs and Memes|Finding GIFs and Memes]]
-	- [[#OSINT#Flickr|Flickr]]
-	- [[#OSINT#Forum, Newsgroup and Discussion Board Search Tools|Forum, Newsgroup and Discussion Board Search Tools]]
-		- [[#Forum, Newsgroup and Discussion Board Search Tools#Finding Influencers and Other Social Media Users|Finding Influencers and Other Social Media Users]]
-		- [[#Forum, Newsgroup and Discussion Board Search Tools#Finding Newsletters|Finding Newsletters]]
-		- [[#Forum, Newsgroup and Discussion Board Search Tools#Instagram|Instagram]]
-			- [[#Instagram#Instagram (GitHub)|Instagram (GitHub)]]
-		- [[#Forum, Newsgroup and Discussion Board Search Tools#IP Grabbers and E-mail Trackers|IP Grabbers and E-mail Trackers]]
-		- [[#Forum, Newsgroup and Discussion Board Search Tools#Markets n such (DarkWeb)|Markets n such (DarkWeb)]]
-		- [[#Forum, Newsgroup and Discussion Board Search Tools#Misc|Misc]]
-		- [[#Forum, Newsgroup and Discussion Board Search Tools#MISC Social Media analytics|MISC Social Media analytics]]
-	- [[#OSINT#General Video Downloaders and Archivers|General Video Downloaders and Archivers]]
-	- [[#OSINT#General Webint Tools and Toolkits|General Webint Tools and Toolkits]]
-	- [[#OSINT#Geolocation|Geolocation]]
-	- [[#OSINT#Geospatial data/satelite data|Geospatial data/satelite data]]
-	- [[#OSINT#GIT & Github Tools|GIT & Github Tools]]
-	- [[#OSINT#Hacking|Hacking]]
-	- [[#OSINT#Hacking Forums on the Clearnet|Hacking Forums on the Clearnet]]
-		- [[#Hacking Forums on the Clearnet#Guides|Guides]]
-			- [[#Guides#Guides: RU|Guides: RU]]
-		- [[#Hacking Forums on the Clearnet#Honeypot Data & Statistics|Honeypot Data & Statistics]]
-		- [[#Hacking Forums on the Clearnet#Image Hosting|Image Hosting]]
-		- [[#Hacking Forums on the Clearnet#IMEI Info|IMEI Info]]
-		- [[#Hacking Forums on the Clearnet#Independent Information about Russian Organizations|Independent Information about Russian Organizations]]
-	- [[#OSINT#Happn|Happn]]
-	- [[#OSINT#Hinge|Hinge]]
-	- [[#OSINT#Identifying Publish Date|Identifying Publish Date]]
-	- [[#OSINT#Identifying Technologies Behind Websites|Identifying Technologies Behind Websites]]
-	- [[#OSINT#Image Analysis|Image Analysis]]
-		- [[#Image Analysis#Image and Photo Editing|Image and Photo Editing]]
-		- [[#Image Analysis#Image Editors & Viewers|Image Editors & Viewers]]
-		- [[#Image Analysis#Image Metadata & Forensics|Image Metadata & Forensics]]
-		- [[#Image Analysis#OCR and Image Translation Tools|OCR and Image Translation Tools]]
-		- [[#Image Analysis#Other Image Processing Tools|Other Image Processing Tools]]
-	- [[#OSINT#Information material|Information material]]
-	- [[#OSINT#Instagram|Instagram]]
-	- [[#OSINT#Instagram Search|Instagram Search]]
-	- [[#OSINT#Interesting websites|Interesting websites]]
-	- [[#OSINT#International Phone Directories|International Phone Directories]]
-	- [[#OSINT#Investigating Objects and Symbols|Investigating Objects and Symbols]]
-	- [[#OSINT#IPOs and Funding|IPOs and Funding]]
-	- [[#OSINT#Labor Unions|Labor Unions]]
-	- [[#OSINT#Leak Testing|Leak Testing]]
-	- [[#OSINT#Legal Research Tools and Resources|Legal Research Tools and Resources]]
-	- [[#OSINT#Liens & Delinquencies|Liens & Delinquencies]]
-	- [[#OSINT#Link Analysis Graph Platforms|Link Analysis Graph Platforms]]
-	- [[#OSINT#LinkedIn|LinkedIn]]
-	- [[#OSINT#Live Streaming and Webcams|Live Streaming and Webcams]]
-	- [[#OSINT#Location Spoofing|Location Spoofing]]
-	- [[#OSINT#Login Sharing|Login Sharing]]
-	- [[#OSINT#MALTEGO and Transforms|MALTEGO and Transforms]]
-	- [[#OSINT#Map Builders & Downloaders|Map Builders & Downloaders]]
-	- [[#OSINT#Map Image Feature Extraction|Map Image Feature Extraction]]
-	- [[#OSINT#Map Platforms|Map Platforms]]
-	- [[#OSINT#Maritime Assets|Maritime Assets]]
-	- [[#OSINT#Marketing Spend|Marketing Spend]]
-	- [[#OSINT#Media Monitoring|Media Monitoring]]
-	- [[#OSINT#Mergers & Acquisitions|Mergers & Acquisitions]]
-	- [[#OSINT#Messaging and Chat Tools|Messaging and Chat Tools]]
-	- [[#OSINT#Middlepoint Locators|Middlepoint Locators]]
-	- [[#OSINT#Military Records|Military Records]]
-	- [[#OSINT#Military Research|Military Research]]
-	- [[#OSINT#Miscellaneous Dating|Miscellaneous Dating]]
-	- [[#OSINT#Motorcyle Assets|Motorcyle Assets]]
-	- [[#OSINT#Multipurpose OSINT Frameworks|Multipurpose OSINT Frameworks]]
-	- [[#OSINT#Network Reconnaisance Frameworks|Network Reconnaisance Frameworks]]
-	- [[#OSINT#Non-Profit Entities|Non-Profit Entities]]
-	- [[#OSINT#OK Cupid|OK Cupid]]
-	- [[#OSINT#OPSec Resources|OPSec Resources]]
-	- [[#OSINT#OSHA and Environmental|OSHA and Environmental]]
-	- [[#OSINT#OSINT Misc|OSINT Misc]]
-	- [[#OSINT#OSINT SEARCH|OSINT SEARCH]]
-		- [[#OSINT SEARCH#Advanced Search/Multipurpose|Advanced Search/Multipurpose]]
-		- [[#OSINT SEARCH#Bankruptcy Records Search|Bankruptcy Records Search]]
-		- [[#OSINT SEARCH#Blockchain Searches|Blockchain Searches]]
-		- [[#OSINT SEARCH#Business Search Sites|Business Search Sites]]
-		- [[#OSINT SEARCH#Company Search Tools|Company Search Tools]]
-		- [[#OSINT SEARCH#Coordinate Based Search|Coordinate Based Search]]
-		- [[#OSINT SEARCH#Cryptocurrency|Cryptocurrency]]
-		- [[#OSINT SEARCH#Darkweb|Darkweb]]
-		- [[#OSINT SEARCH#Databreach|Databreach]]
-		- [[#OSINT SEARCH#Email Searches|Email Searches]]
-		- [[#OSINT SEARCH#Event Search|Event Search]]
-		- [[#OSINT SEARCH#Exploit Search Engines|Exploit Search Engines]]
-		- [[#OSINT SEARCH#GEOLOCATION|GEOLOCATION]]
-		- [[#OSINT SEARCH#Image Search and Reverse Image Search|Image Search and Reverse Image Search]]
-		- [[#OSINT SEARCH#International Search Engine|International Search Engine]]
-		- [[#OSINT SEARCH#IoT Search Engines|IoT Search Engines]]
-		- [[#OSINT SEARCH#IP Address|IP Address]]
-		- [[#OSINT SEARCH#LEAKS & DECLASSIFIED|LEAKS & DECLASSIFIED]]
-		- [[#OSINT SEARCH#Logo Search and Identification Tools|Logo Search and Identification Tools]]
-		- [[#OSINT SEARCH#Name|Name]]
-		- [[#OSINT SEARCH#Onion Search Engines / Links|Onion Search Engines / Links]]
-		- [[#OSINT SEARCH#Online Marketplace|Online Marketplace]]
-		- [[#OSINT SEARCH#Online Records|Online Records]]
-		- [[#OSINT SEARCH#OSINT/ Hacking|OSINT/ Hacking]]
-		- [[#OSINT SEARCH#People|People]]
-			- [[#People#Usernames & People Searches|Usernames & People Searches]]
-		- [[#OSINT SEARCH#Phone Number|Phone Number]]
-		- [[#OSINT SEARCH#PROPERTY|PROPERTY]]
-		- [[#OSINT SEARCH#Russian Social Media/Search ENgines/PhoneNumber Lookup|Russian Social Media/Search ENgines/PhoneNumber Lookup]]
-		- [[#OSINT SEARCH#Salary Search|Salary Search]]
-		- [[#OSINT SEARCH#Search|Search]]
-		- [[#OSINT SEARCH#Search Engines|Search Engines]]
-		- [[#OSINT SEARCH#Search engines - General|Search engines - General]]
-		- [[#OSINT SEARCH#Search engines - Image search|Search engines - Image search]]
-		- [[#OSINT SEARCH#Search engines - IRC|Search engines - IRC]]
-		- [[#OSINT SEARCH#Search engines - Online marketplaces|Search engines - Online marketplaces]]
-		- [[#OSINT SEARCH#Search engines - People|Search engines - People]]
-		- [[#OSINT SEARCH#Search engines - Realestate|Search engines - Realestate]]
-		- [[#OSINT SEARCH#Search/Internet|Search/Internet]]
-		- [[#OSINT SEARCH#SOCIAL MEDIA|SOCIAL MEDIA]]
-			- [[#SOCIAL MEDIA#CLUBHOUSE|CLUBHOUSE]]
-			- [[#SOCIAL MEDIA#DISCORD|DISCORD]]
-			- [[#SOCIAL MEDIA#FACEBOOK|FACEBOOK]]
-			- [[#SOCIAL MEDIA#FLICKR|FLICKR]]
-			- [[#SOCIAL MEDIA#INSTAGRAM|INSTAGRAM]]
-			- [[#SOCIAL MEDIA#LINKEDIN|LINKEDIN]]
-			- [[#SOCIAL MEDIA#ONLYFANS|ONLYFANS]]
-			- [[#SOCIAL MEDIA#PINTEREST|PINTEREST]]
-			- [[#SOCIAL MEDIA#REDDIT|REDDIT]]
-			- [[#SOCIAL MEDIA#SNAPCHAT|SNAPCHAT]]
-			- [[#SOCIAL MEDIA#SOCIAL MISC|SOCIAL MISC]]
-			- [[#SOCIAL MEDIA#Telegram|Telegram]]
-			- [[#SOCIAL MEDIA#TELEGRAM|TELEGRAM]]
-			- [[#SOCIAL MEDIA#TIKTOK|TIKTOK]]
-			- [[#SOCIAL MEDIA#TWITTER|TWITTER]]
-			- [[#SOCIAL MEDIA#VKONTAKTE|VKONTAKTE]]
-		- [[#OSINT SEARCH#Start.me Resources|Start.me Resources]]
-		- [[#OSINT SEARCH#WiFi & internet connectivity|WiFi & internet connectivity]]
-	- [[#OSINT#OSINT TOOL SITES|OSINT TOOL SITES]]
-	- [[#OSINT#OSINT Toolkit|OSINT Toolkit]]
-		- [[#OSINT Toolkit#Misc OSINT Tools|Misc OSINT Tools]]
-		- [[#OSINT Toolkit#OSINT extra|OSINT extra]]
-		- [[#OSINT Toolkit#OSINT Focused Browsers|OSINT Focused Browsers]]
-		- [[#OSINT Toolkit#OSINT Framework in MindMap Format|OSINT Framework in MindMap Format]]
-		- [[#OSINT Toolkit#OSINT/OPSEC Community|OSINT/OPSEC Community]]
-	- [[#OSINT#Password Management|Password Management]]
-	- [[#OSINT#Patents & Copyrights|Patents & Copyrights]]
-	- [[#OSINT#Pay Telephones|Pay Telephones]]
-	- [[#OSINT#Pentesting|Pentesting]]
-	- [[#OSINT#Periscope|Periscope]]
-	- [[#OSINT#Phone Area Codes|Phone Area Codes]]
-	- [[#OSINT#Phone Privacy|Phone Privacy]]
-	- [[#OSINT#Physical Entry & Locks|Physical Entry & Locks]]
-	- [[#OSINT#Plenty of Fish|Plenty of Fish]]
-	- [[#OSINT#Podcasts|Podcasts]]
-	- [[#OSINT#PR Reputation & Exposure|PR Reputation & Exposure]]
-	- [[#OSINT#Professional License|Professional License]]
-	- [[#OSINT#Profiling & Social Engineering|Profiling & Social Engineering]]
-	- [[#OSINT#Property Records|Property Records]]
-	- [[#OSINT#Public Domain Image Databases|Public Domain Image Databases]]
-	- [[#OSINT#Public Transit - Bus|Public Transit - Bus]]
-	- [[#OSINT#QUICK ACCESS to OSINT FRAMEWORK|QUICK ACCESS to OSINT FRAMEWORK]]
-		- [[#QUICK ACCESS to OSINT FRAMEWORK#Analysing E-mail Headers|Analysing E-mail Headers]]
-		- [[#QUICK ACCESS to OSINT FRAMEWORK#Archive/Cache 2/2|Archive/Cache 2/2]]
-		- [[#QUICK ACCESS to OSINT FRAMEWORK#Archived/Cached Pages 1/2|Archived/Cached Pages 1/2]]
-		- [[#QUICK ACCESS to OSINT FRAMEWORK#Banking and Credit Card Information|Banking and Credit Card Information]]
-		- [[#QUICK ACCESS to OSINT FRAMEWORK#Chrome Osint/Sec Verify extensions|Chrome Osint/Sec Verify extensions]]
-		- [[#QUICK ACCESS to OSINT FRAMEWORK#Chrome Security Extensions|Chrome Security Extensions]]
-		- [[#QUICK ACCESS to OSINT FRAMEWORK#Contact Detail Recovery Apps|Contact Detail Recovery Apps]]
-		- [[#QUICK ACCESS to OSINT FRAMEWORK#Crime Database/Statistics|Crime Database/Statistics]]
-		- [[#QUICK ACCESS to OSINT FRAMEWORK#Currency Conversion|Currency Conversion]]
-		- [[#QUICK ACCESS to OSINT FRAMEWORK#DarkWeb Linkz|DarkWeb Linkz]]
-			- [[#DarkWeb Linkz#DarkNetemail|DarkNetemail]]
-			- [[#DarkWeb Linkz#DarkNetRandom Chat|DarkNetRandom Chat]]
-			- [[#DarkWeb Linkz#darkweb directory links (clearnet)|darkweb directory links (clearnet)]]
-			- [[#DarkWeb Linkz#Deep Links DIR|Deep Links DIR]]
-			- [[#DarkWeb Linkz#Deep Web & Dark Web & Spec|Deep Web & Dark Web & Spec]]
-		- [[#QUICK ACCESS to OSINT FRAMEWORK#DataBases for Legal Professionals|DataBases for Legal Professionals]]
-		- [[#QUICK ACCESS to OSINT FRAMEWORK#DATALEAK/BREACH ACCESS/CHECKER|DATALEAK/BREACH ACCESS/CHECKER]]
-		- [[#QUICK ACCESS to OSINT FRAMEWORK#Dating Apps and Sites|Dating Apps and Sites]]
-		- [[#QUICK ACCESS to OSINT FRAMEWORK#Deleting/Sanitizing|Deleting/Sanitizing]]
-		- [[#QUICK ACCESS to OSINT FRAMEWORK#File Forensics|File Forensics]]
-		- [[#QUICK ACCESS to OSINT FRAMEWORK#Information on Names and Naming Conventions|Information on Names and Naming Conventions]]
-		- [[#QUICK ACCESS to OSINT FRAMEWORK#Investigating Phone Numbers|Investigating Phone Numbers]]
-		- [[#QUICK ACCESS to OSINT FRAMEWORK#IP LOGGING|IP LOGGING]]
-		- [[#QUICK ACCESS to OSINT FRAMEWORK#IP-Domain-DNS-Network-URL|IP-Domain-DNS-Network-URL]]
-		- [[#QUICK ACCESS to OSINT FRAMEWORK#Language Research Tools|Language Research Tools]]
-		- [[#QUICK ACCESS to OSINT FRAMEWORK#Leak Tests (Clear Net)|Leak Tests (Clear Net)]]
-		- [[#QUICK ACCESS to OSINT FRAMEWORK#Leak Tests (Dark Net)|Leak Tests (Dark Net)]]
-		- [[#QUICK ACCESS to OSINT FRAMEWORK#Leaked/Breached Databases (CLEARNET)|Leaked/Breached Databases (CLEARNET)]]
-		- [[#QUICK ACCESS to OSINT FRAMEWORK#Lectures, Talks, Presentations and Speeches|Lectures, Talks, Presentations and Speeches]]
-		- [[#QUICK ACCESS to OSINT FRAMEWORK#Matching E-mails to Social Media Profiles|Matching E-mails to Social Media Profiles]]
-		- [[#QUICK ACCESS to OSINT FRAMEWORK#Missing People|Missing People]]
-		- [[#QUICK ACCESS to OSINT FRAMEWORK#Mozilla Firefox Osint/Sec extensions//verification|Mozilla Firefox Osint/Sec extensions//verification]]
-		- [[#QUICK ACCESS to OSINT FRAMEWORK#News Digest and Discovery Tools|News Digest and Discovery Tools]]
-		- [[#QUICK ACCESS to OSINT FRAMEWORK#Newspapers and News Directories|Newspapers and News Directories]]
-		- [[#QUICK ACCESS to OSINT FRAMEWORK#Non Profit / Charity INFO|Non Profit / Charity INFO]]
-		- [[#QUICK ACCESS to OSINT FRAMEWORK#onion forums|onion forums]]
-			- [[#onion forums#Onion Links for checking breached/leaked data|Onion Links for checking breached/leaked data]]
-			- [[#onion forums#Onion links/diurectories cont|Onion links/diurectories cont]]
-			- [[#onion forums#Onion Pastes/ Notes|Onion Pastes/ Notes]]
-		- [[#QUICK ACCESS to OSINT FRAMEWORK#Opt Out ADS/Data|Opt Out ADS/Data]]
-		- [[#QUICK ACCESS to OSINT FRAMEWORK#OPT OUT data/marketing/advertising etc|OPT OUT data/marketing/advertising etc]]
-		- [[#QUICK ACCESS to OSINT FRAMEWORK#Opt-Out First Steps|Opt-Out First Steps]]
-		- [[#QUICK ACCESS to OSINT FRAMEWORK#OSINT/Investigating/Forensic Guides/Note-taking|OSINT/Investigating/Forensic Guides/Note-taking]]
-		- [[#QUICK ACCESS to OSINT FRAMEWORK#Other (opt-out)|Other (opt-out)]]
-		- [[#QUICK ACCESS to OSINT FRAMEWORK#Patent Research|Patent Research]]
-		- [[#QUICK ACCESS to OSINT FRAMEWORK#People|People]]
-		- [[#QUICK ACCESS to OSINT FRAMEWORK#Photo Forensics|Photo Forensics]]
-		- [[#QUICK ACCESS to OSINT FRAMEWORK#Privacy|Privacy]]
-		- [[#QUICK ACCESS to OSINT FRAMEWORK#Researching Countries|Researching Countries]]
-			- [[#Researching Countries#Researching Leaks|Researching Leaks]]
-			- [[#Researching Countries#Reverse Analytics Google|Reverse Analytics Google]]
-			- [[#Researching Countries#Russian Forums / links CompanyInfo|Russian Forums / links CompanyInfo]]
-			- [[#Researching Countries#Russian Phone numberlookup|Russian Phone numberlookup]]
-	- [[#OSINT#Radio & Scanner|Radio & Scanner]]
-	- [[#OSINT#Rail Assets|Rail Assets]]
-	- [[#OSINT#Railways|Railways]]
-	- [[#OSINT#Reddit|Reddit]]
-	- [[#OSINT#Report & Presentation Tools|Report & Presentation Tools]]
-	- [[#OSINT#Requests for User Information: Information for Law Enforcement|Requests for User Information: Information for Law Enforcement]]
-	- [[#OSINT#Researching|Researching]]
-		- [[#Researching#Researching Cyber Threats|Researching Cyber Threats]]
-		- [[#Researching#Researching Cybersecurity|Researching Cybersecurity]]
-		- [[#Researching#Researching Drug Trade|Researching Drug Trade]]
-		- [[#Researching#Researching Human Trafficking|Researching Human Trafficking]]
-		- [[#Researching#Researching Money Laundering and Corruption|Researching Money Laundering and Corruption]]
-		- [[#Researching#Researching Stolen Items|Researching Stolen Items]]
-		- [[#Researching#Researching Terrorism, Crime, and Cybersecurity|Researching Terrorism, Crime, and Cybersecurity]]
-	- [[#OSINT#Resume & Job Boards|Resume & Job Boards]]
-	- [[#OSINT#Reverse Email Search|Reverse Email Search]]
-	- [[#OSINT#Reverse Image & Facial Recognition Search|Reverse Image & Facial Recognition Search]]
-	- [[#OSINT#Reverse IP Search|Reverse IP Search]]
-	- [[#OSINT#Reverse Phone Number Lookup|Reverse Phone Number Lookup]]
-	- [[#OSINT#Reverse Username Search|Reverse Username Search]]
-	- [[#OSINT#Road Assets|Road Assets]]
-		- [[#Road Assets#Road Assets Domestic Plate Search|Road Assets Domestic Plate Search]]
-		- [[#Road Assets#Road Assets Owners Name Search|Road Assets Owners Name Search]]
-		- [[#Road Assets#Road Assets Parking & Toll Tickets|Road Assets Parking & Toll Tickets]]
-		- [[#Road Assets#Road Assets VIN Search|Road Assets VIN Search]]
-	- [[#OSINT#Salary Indexes|Salary Indexes]]
-	- [[#OSINT#Satellite-Level Viewers|Satellite-Level Viewers]]
-	- [[#OSINT#Searching within Screenshots|Searching within Screenshots]]
-	- [[#OSINT#Secure Browsing|Secure Browsing]]
-	- [[#OSINT#Secure Erase|Secure Erase]]
-	- [[#OSINT#Securities|Securities]]
-	- [[#OSINT#Ships|Ships]]
-	- [[#OSINT#Skype|Skype]]
-	- [[#OSINT#SnapChat|SnapChat]]
-	- [[#OSINT#Social Media|Social Media]]
-		- [[#Social Media#Social Media & Participatory Mapping|Social Media & Participatory Mapping]]
-	- [[#OSINT#Social Networks|Social Networks]]
-		- [[#Social Networks#Secure Communication +|Secure Communication +]]
-			- [[#Secure Communication +#Secure email|Secure email]]
-		- [[#Social Networks#Slang Translators and Resources|Slang Translators and Resources]]
-		- [[#Social Networks#Snapchat Tools|Snapchat Tools]]
-		- [[#Social Networks#Social Engineering/Osint Onion Forum|Social Engineering/Osint Onion Forum]]
-		- [[#Social Networks#Social Media ( reddit, skype, twitter)|Social Media ( reddit, skype, twitter)]]
-		- [[#Social Networks#Social Media Tools|Social Media Tools]]
-		- [[#Social Networks#Username Check|Username Check]]
-			- [[#Username Check#Telegram|Telegram]]
-			- [[#Username Check#TikTok Tools|TikTok Tools]]
-			- [[#Username Check#Twitter (tools)|Twitter (tools)]]
-			- [[#Username Check#Validating E-mails|Validating E-mails]]
-	- [[#OSINT#Speech to Text Tools|Speech to Text Tools]]
-	- [[#OSINT#State and Local Government Contracts|State and Local Government Contracts]]
-	- [[#OSINT#State Registries of Political Contributions|State Registries of Political Contributions]]
-	- [[#OSINT#State Registries of Political Lobbyists|State Registries of Political Lobbyists]]
-	- [[#OSINT#Stock Images|Stock Images]]
-	- [[#OSINT#Street-Level Viewers|Street-Level Viewers]]
-	- [[#OSINT#Subdomain Enumeration|Subdomain Enumeration]]
-	- [[#OSINT#Surveillance Tools|Surveillance Tools]]
-		- [[#Surveillance Tools#Surveillance Apps & Equipment|Surveillance Apps & Equipment]]
-		- [[#Surveillance Tools#Surveillance Cover|Surveillance Cover]]
-	- [[#OSINT#Text to Speech Tools|Text to Speech Tools]]
-	- [[#OSINT#Tinder|Tinder]]
-	- [[#OSINT#Tools|Tools]]
-		- [[#Tools#Tools - Android emulators|Tools - Android emulators]]
-		- [[#Tools#Tools - Darkweb|Tools - Darkweb]]
-		- [[#Tools#Tools - Images and Documents|Tools - Images and Documents]]
-		- [[#Tools#Tools - Privacy|Tools - Privacy]]
-		- [[#Tools#Tools - Social Media|Tools - Social Media]]
-		- [[#Tools#Tools - Translation/Language|Tools - Translation/Language]]
-	- [[#OSINT#TOR & Dark Web|TOR & Dark Web]]
-	- [[#OSINT#Trademarks and Servicemarks|Trademarks and Servicemarks]]
-	- [[#OSINT#Traffic Cameras|Traffic Cameras]]
-	- [[#OSINT#Twitter|Twitter]]
-		- [[#Twitter#Twitter API|Twitter API]]
-		- [[#Twitter#Twitter Downloaders|Twitter Downloaders]]
-		- [[#Twitter#Twitter Map-Based Viewers|Twitter Map-Based Viewers]]
-		- [[#Twitter#Twitter Metrics|Twitter Metrics]]
-		- [[#Twitter#Twitter Network and Tweet Visualizers|Twitter Network and Tweet Visualizers]]
-		- [[#Twitter#Twitter Search|Twitter Search]]
-	- [[#OSINT#URL|URL]]
-		- [[#URL#URL Expanders|URL Expanders]]
-		- [[#URL#URL Shorteners|URL Shorteners]]
-		- [[#URL#URL Variance Detection|URL Variance Detection]]
-	- [[#OSINT#Video Downloaders|Video Downloaders]]
-	- [[#OSINT#Video Editors and Converters|Video Editors and Converters]]
-	- [[#OSINT#Video Search and Reverse Video Search|Video Search and Reverse Video Search]]
-	- [[#OSINT#Virtual Machines|Virtual Machines]]
-	- [[#OSINT#Virtual Numbers|Virtual Numbers]]
-		- [[#Virtual Numbers#Steam Profile's|Steam Profile's]]
-		- [[#Virtual Numbers#telegrambots|telegrambots]]
-		- [[#Virtual Numbers#Text Transliteration|Text Transliteration]]
-		- [[#Virtual Numbers#Threat Hunting|Threat Hunting]]
-			- [[#Threat Hunting#Threat Intelligence|Threat Intelligence]]
-		- [[#Virtual Numbers#Tools - OSINT|Tools - OSINT]]
-		- [[#Virtual Numbers#torrent (onion)|torrent (onion)]]
-			- [[#torrent (onion)#Software - Privacy (onion)|Software - Privacy (onion)]]
-			- [[#torrent (onion)#TORRENT/IP Data|TORRENT/IP Data]]
-		- [[#Virtual Numbers#Translation and Language Tools|Translation and Language Tools]]
-		- [[#Virtual Numbers#Trending/Impact/Information/Story Detection|Trending/Impact/Information/Story Detection]]
-		- [[#Virtual Numbers#Validation/Fact Checking\|Validation/Fact Checking\]]
-		- [[#Virtual Numbers#Vehicle Identification (license plates)|Vehicle Identification (license plates)]]
-		- [[#Virtual Numbers#visuals|visuals]]
-			- [[#visuals#Business Search|Business Search]]
-			- [[#visuals#Working with Hashtags|Working with Hashtags]]
-			- [[#visuals#Yandex | Cyrillic|Yandex | Cyrillic]]
-			- [[#visuals#Youtube (tools) / VIDEO|Youtube (tools) / VIDEO]]
-			- [[#visuals#Videos (onion)|Videos (onion)]]
-	- [[#OSINT#Voter Records & Registration|Voter Records & Registration]]
-	- [[#OSINT#WARN Notices|WARN Notices]]
-	- [[#OSINT#Web Intelligence|Web Intelligence]]
-	- [[#OSINT#Webcams|Webcams]]
-	- [[#OSINT#WhatsApp|WhatsApp]]
-	- [[#OSINT#WiFi Networks|WiFi Networks]]
-	- [[#OSINT#Wifi Search|Wifi Search]]
-	- [[#OSINT#Working with Radio|Working with Radio]]
-	- [[#OSINT#YouTube|YouTube]]
-		- [[#YouTube#YouTube Tools|YouTube Tools]]
-	- [[#OSINT#Zip Codes|Zip Codes]]
-- [[#PKMS|PKMS]]
-	- [[#PKMS#Acronyms and Abbreviations|Acronyms and Abbreviations]]
-	- [[#PKMS#Apps|Apps]]
-		- [[#Apps#Cross-Platform|Cross-Platform]]
-		- [[#Apps#Docker|Docker]]
-		- [[#Apps#iOS|iOS]]
-		- [[#Apps#Linux|Linux]]
-		- [[#Apps#MacOS|MacOS]]
-		- [[#Apps#Online|Online]]
-		- [[#Apps#Packages|Packages]]
-		- [[#Apps#VS Code|VS Code]]
-		- [[#Apps#Windows|Windows]]
-	- [[#PKMS#Communities|Communities]]
-	- [[#PKMS#Glossaries and Dictionaries|Glossaries and Dictionaries]]
-	- [[#PKMS#Memex|Memex]]
-	- [[#PKMS#Notetaking|Notetaking]]
-	- [[#PKMS#Obsidian|Obsidian]]
-- [[#Programming|Programming]]
-	- [[#Programming#Code Editors|Code Editors]]
-	- [[#Programming#Database|Database]]
-	- [[#Programming#Developer|Developer]]
-	- [[#Programming#Git|Git]]
-		- [[#Git#AWESOME|AWESOME]]
-		- [[#Git#github-stars|github-stars]]
-		- [[#Git#Gitlab|Gitlab]]
-	- [[#Programming#Javascript|Javascript]]
-	- [[#Programming#JSON|JSON]]
-	- [[#Programming#Markdown|Markdown]]
-	- [[#Programming#Misc|Misc]]
-	- [[#Programming#Python|Python]]
-	- [[#Programming#Regex|Regex]]
-	- [[#Programming#Snippets|Snippets]]
-	- [[#Programming#Terminal|Terminal]]
-		- [[#Terminal#CLI|CLI]]
-- [[#Data Related|Data Related]]
-	- [[#Data Related#Data Integration and Visualisers|Data Integration and Visualisers]]
-		- [[#Data Integration and Visualisers#Charts|Charts]]
-		- [[#Data Integration and Visualisers#Dashboards|Dashboards]]
-		- [[#Data Integration and Visualisers#Data Analysis|Data Analysis]]
-		- [[#Data Integration and Visualisers#Data Scrapers|Data Scrapers]]
-		- [[#Data Integration and Visualisers#Database|Database]]
-		- [[#Data Integration and Visualisers#Graphs|Graphs]]
-		- [[#Data Integration and Visualisers#Plots|Plots]]
-		- [[#Data Integration and Visualisers#Spreadsheets|Spreadsheets]]
-		- [[#Data Integration and Visualisers#Timelines|Timelines]]
-	- [[#Data Related#Facebook|Facebook]]
-	- [[#Data Related#Financial|Financial]]
-	- [[#Data Related#iOS|iOS]]
-	- [[#Data Related#Journal|Journal]]
-	- [[#Data Related#Location History|Location History]]
-	- [[#Data Related#Text Messages|Text Messages]]
-- [[#Reference|Reference]]
-	- [[#Reference#Academic|Academic]]
-	- [[#Reference#Academic and Grey Literature Research Tools|Academic and Grey Literature Research Tools]]
-	- [[#Reference#Adderall|Adderall]]
-	- [[#Reference#Ancestry Research|Ancestry Research]]
-	- [[#Reference#Annotation and Highlighting|Annotation and Highlighting]]
-	- [[#Reference#Audio Books|Audio Books]]
-	- [[#Reference#DocArticles|DocArticles]]
-	- [[#Reference#Document Checking|Document Checking]]
-	- [[#Reference#Ebooks|Ebooks]]
-	- [[#Reference#EDU|EDU]]
-	- [[#Reference#Grammer/Spelling/Etc|Grammer/Spelling/Etc]]
-	- [[#Reference#Learning|Learning]]
-	- [[#Reference#Newspaper Sites|Newspaper Sites]]
-	- [[#Reference#Papers and Journals|Papers and Journals]]
-	- [[#Reference#PDF Management|PDF Management]]
-	- [[#Reference#PDF Sites|PDF Sites]]
-	- [[#Reference#Publications|Publications]]
-	- [[#Reference#Reference Tools|Reference Tools]]
-- [[#Resources|Resources]]
-	- [[#Resources#Dev Design|Dev Design]]
-	- [[#Resources#Dev Resources|Dev Resources]]
-	- [[#Resources#Dev Tools|Dev Tools]]
-	- [[#Resources#Dev Web|Dev Web]]
-	- [[#Resources#How-To's and Continious Learning|How-To's and Continious Learning]]
-		- [[#How-To's and Continious Learning#Cheetsheet|Cheetsheet]]
-		- [[#How-To's and Continious Learning#Git|Git]]
-	- [[#Resources#WP Resources|WP Resources]]
-- [[#Search Engines|Search Engines]]
-	- [[#Search Engines#Address and Contact Information Search|Address and Contact Information Search]]
-	- [[#Search Engines#Advanced Searching|Advanced Searching]]
-	- [[#Search Engines#Analytics|Analytics]]
-	- [[#Search Engines#Apps|Apps]]
-	- [[#Search Engines#Archived Pages|Archived Pages]]
-	- [[#Search Engines#Audio|Audio]]
-	- [[#Search Engines#Awesome Hacking Search Engines|Awesome Hacking Search Engines]]
-	- [[#Search Engines#Blog|Blog]]
-	- [[#Search Engines#Code & Repository Search|Code & Repository Search]]
-		- [[#Code & Repository Search#C0D3BL0CK Custom Search Engines|C0D3BL0CK Custom Search Engines]]
-		- [[#Code & Repository Search#Code & Dev & Tech|Code & Dev & Tech]]
-	- [[#Search Engines#Custom-Search-Engines|Custom-Search-Engines]]
-	- [[#Search Engines#CV and Resume Search|CV and Resume Search]]
-	- [[#Search Engines#Decentralised Search Engines|Decentralised Search Engines]]
-	- [[#Search Engines#Direct Download|Direct Download]]
-	- [[#Search Engines#Documents|Documents]]
-	- [[#Search Engines#E-mail Search|E-mail Search]]
-	- [[#Search Engines#Expert Search|Expert Search]]
-	- [[#Search Engines#Files|Files]]
-		- [[#Files#FTP & File Search|FTP & File Search]]
-	- [[#Search Engines#Finding Data and Statistics|Finding Data and Statistics]]
-	- [[#Search Engines#General|General]]
-	- [[#Search Engines#Google Custom Search|Google Custom Search]]
-	- [[#Search Engines#Image|Image]]
-	- [[#Search Engines#Infomation|Infomation]]
-	- [[#Search Engines#Maps|Maps]]
-	- [[#Search Engines#Medical Search Engines|Medical Search Engines]]
-	- [[#Search Engines#Meta|Meta]]
-	- [[#Search Engines#Misc|Misc]]
-	- [[#Search Engines#More Custom Search Engines|More Custom Search Engines]]
-	- [[#Search Engines#Open DB, Directories, and Services Search|Open DB, Directories, and Services Search]]
-	- [[#Search Engines#OS-Software|OS-Software]]
-	- [[#Search Engines#Pastebin|Pastebin]]
-	- [[#Search Engines#People Search Tools|People Search Tools]]
-	- [[#Search Engines#Public Records|Public Records]]
-	- [[#Search Engines#Search Engines|Search Engines]]
-	- [[#Search Engines#Search Hacks|Search Hacks]]
-	- [[#Search Engines#Search Strings|Search Strings]]
-	- [[#Search Engines#Search Terms Expertise|Search Terms Expertise]]
-	- [[#Search Engines#Search Tools|Search Tools]]
-	- [[#Search Engines#SEO Search Engines|SEO Search Engines]]
-	- [[#Search Engines#Similiar Sites|Similiar Sites]]
-	- [[#Search Engines#Specialized|Specialized]]
-	- [[#Search Engines#Specialty Search Engines|Specialty Search Engines]]
-	- [[#Search Engines#Technology|Technology]]
-	- [[#Search Engines#Tools|Tools]]
-	- [[#Search Engines#Torrents|Torrents]]
-	- [[#Search Engines#UNIFIED SEARCH|UNIFIED SEARCH]]
-	- [[#Search Engines#Video|Video]]
-		- [[#Video#YouTube|YouTube]]
-	- [[#Search Engines#Working with Document Metadata|Working with Document Metadata]]
-- [[#The World Wide Web|The World Wide Web]]
-	- [[#The World Wide Web#Adblock-Paywalls|Adblock-Paywalls]]
-	- [[#The World Wide Web#Awesome Internet Finds|Awesome Internet Finds]]
-	- [[#The World Wide Web#Browser|Browser]]
-		- [[#Browser#Bookmarks|Bookmarks]]
-			- [[#Bookmarks#Start pages|Start pages]]
-		- [[#Browser#Browser Extensions|Browser Extensions]]
-			- [[#Browser Extensions#BrainTool|BrainTool]]
-			- [[#Browser Extensions#BrainTool|BrainTool]]
-			- [[#Browser Extensions#Complementary Tools|Complementary Tools]]
-			- [[#Browser Extensions#Contributions|Contributions]]
-			- [[#Browser Extensions#Resource|Resource]]
-			- [[#Browser Extensions#emacs and org-mode|emacs and org-mode]]
-			- [[#Browser Extensions#Personal Productivity|Personal Productivity]]
-			- [[#Browser Extensions#To Read|To Read]]
-			- [[#Browser Extensions#Chrome|Chrome]]
-			- [[#Browser Extensions#Firefox|Firefox]]
-		- [[#Browser#Browser History|Browser History]]
-		- [[#Browser#Links & URLs|Links & URLs]]
-	- [[#The World Wide Web#Direct Documents|Direct Documents]]
-		- [[#Direct Documents#Important Documents|Important Documents]]
-	- [[#The World Wide Web#Divolt|Divolt]]
-	- [[#The World Wide Web#Downloads|Downloads]]
-		- [[#Downloads#archive|archive]]
-		- [[#Downloads#CRACKS|CRACKS]]
-		- [[#Downloads#Direct Download|Direct Download]]
-		- [[#Downloads#Drive|Drive]]
-		- [[#Downloads#Forums|Forums]]
-		- [[#Downloads#iOS|iOS]]
-		- [[#Downloads#Media Download|Media Download]]
-			- [[#Media Download#Movies|Movies]]
-		- [[#Downloads#MEGA|MEGA]]
-		- [[#Downloads#Nulled|Nulled]]
-			- [[#Nulled#Wordpress|Wordpress]]
-		- [[#Downloads#Open Directory Search|Open Directory Search]]
-			- [[#Open Directory Search#Indexes|Indexes]]
-		- [[#Downloads#Premium Link Generaters|Premium Link Generaters]]
-		- [[#Downloads#Rentry|Rentry]]
-		- [[#Downloads#Serials & Keygen|Serials & Keygen]]
-		- [[#Downloads#Sorted|Sorted]]
-		- [[#Downloads#Telegram channels|Telegram channels]]
-		- [[#Downloads#Torrents|Torrents]]
-		- [[#Downloads#Warez|Warez]]
-	- [[#The World Wide Web#Google|Google]]
-		- [[#Google#Google Cloud Platform|Google Cloud Platform]]
-		- [[#Google#Google Drive|Google Drive]]
-		- [[#Google#Google Drive Shared Indexes|Google Drive Shared Indexes]]
-		- [[#Google#Google Earth|Google Earth]]
-	- [[#The World Wide Web#Links & Lists|Links & Lists]]
-	- [[#The World Wide Web#Pinboard|Pinboard]]
-	- [[#The World Wide Web#Product Hunt|Product Hunt]]
-	- [[#The World Wide Web#Real Shit|Real Shit]]
-	- [[#The World Wide Web#Website|Website]]
-- [[#Tools|Tools]]
-	- [[#Tools#Activity Logging|Activity Logging]]
-	- [[#Tools#AI Systems|AI Systems]]
-	- [[#Tools#API Tools|API Tools]]
-	- [[#Tools#Cloud Services|Cloud Services]]
-	- [[#Tools#Conversion|Conversion]]
-		- [[#Conversion#Online Conversation|Online Conversation]]
-	- [[#Tools#Data Visualization|Data Visualization]]
-	- [[#Tools#Digital Forensics|Digital Forensics]]
-	- [[#Tools#Generators|Generators]]
-	- [[#Tools#GItHub Tools|GItHub Tools]]
-	- [[#Tools#Health|Health]]
-	- [[#Tools#HTML|HTML]]
-	- [[#Tools#Java|Java]]
-	- [[#Tools#JSON|JSON]]
-	- [[#Tools#Keyword Discovery & Text Analysis|Keyword Discovery & Text Analysis]]
-	- [[#Tools#Markdown Tools|Markdown Tools]]
-	- [[#Tools#Media|Media]]
-	- [[#Tools#Misc|Misc]]
-	- [[#Tools#Multiple|Multiple]]
-	- [[#Tools#PDF|PDF]]
-	- [[#Tools#Productivity|Productivity]]
-	- [[#Tools#Spreadsheet|Spreadsheet]]
-	- [[#Tools#Text|Text]]
-		- [[#Text#ASCII|ASCII]]
-	- [[#Tools#Timeline|Timeline]]
-	- [[#Tools#Tools|Tools]]
-	- [[#Tools#Upload|Upload]]
-	- [[#Tools#Viewers|Viewers]]
-	- [[#Tools#Writing|Writing]]
-- [[#WebDev|WebDev]]
-	- [[#WebDev#Backlinks|Backlinks]]
-	- [[#WebDev#Cloud|Cloud]]
-	- [[#WebDev#Dashboards|Dashboards]]
-		- [[#Dashboards#Dashboard Tools|Dashboard Tools]]
-	- [[#WebDev#Finding SSL Certificates|Finding SSL Certificates]]
-	- [[#WebDev#Host-Domains|Host-Domains]]
-	- [[#WebDev#HTML & CSS|HTML & CSS]]
-	- [[#WebDev#HTTP|HTTP]]
-		- [[#HTTP#APIs|APIs]]
-		- [[#HTTP#Automation|Automation]]
-		- [[#HTTP#IFTTT|IFTTT]]
-		- [[#HTTP#Resources|Resources]]
-		- [[#HTTP#RSS|RSS]]
-			- [[#RSS#RSS Tools|RSS Tools]]
-			- [[#RSS#RSS indexes and Search tools|RSS indexes and Search tools]]
-			- [[#RSS#RSS Readers|RSS Readers]]
-		- [[#HTTP#Webhooks|Webhooks]]
-	- [[#WebDev#Indexing-WebCrawling|Indexing-WebCrawling]]
-	- [[#WebDev#Inspiration|Inspiration]]
-	- [[#WebDev#Self-Hosted|Self-Hosted]]
-	- [[#WebDev#SEO Tools|SEO Tools]]
-	- [[#WebDev#Server|Server]]
-	- [[#WebDev#Site Mapping Tools|Site Mapping Tools]]
-	- [[#WebDev#Web Animation|Web Animation]]
-	- [[#WebDev#Website|Website]]
-		- [[#Website#Landing Page|Landing Page]]
-		- [[#Website#Static Sites|Static Sites]]
-		- [[#Website#Status Page|Status Page]]
-		- [[#Website#Wordpress Builds|Wordpress Builds]]
-	- [[#WebDev#Website Monitoring|Website Monitoring]]
-		- [[#Website Monitoring#Monitoring|Monitoring]]
+- [Computer and OS Related](#Computer%20and%20OS%20Related)
+	- [](#Computer%20and%20OS%20Related#Computer%20and%20OS%20Related#File%20Organization%7CFile%20Organization)
+	- [](#Computer%20and%20OS%20Related#Computer%20and%20OS%20Related#Hackintosh%7CHackintosh)
+	- [](#Computer%20and%20OS%20Related#Computer%20and%20OS%20Related#Hard%20Drives%7CHard%20Drives)
+	- [](#Computer%20and%20OS%20Related#Computer%20and%20OS%20Related#Jailbreak%7CJailbreak)
+	- [](#Computer%20and%20OS%20Related#Computer%20and%20OS%20Related#Linux%7CLinux)
+		- [](#Linux#Linux#Distros%7CDistros)
+		- [](#Linux#Linux#Linux%20Training%7CLinux%20Training)
+	- [](#Computer%20and%20OS%20Related#Computer%20and%20OS%20Related#Mac%20Apps%7CMac%20Apps)
+		- [](#Mac%20Apps#Mac%20Apps#OSX%7COSX)
+	- [](#Computer%20and%20OS%20Related#Computer%20and%20OS%20Related#Mobile%20Apps%7CMobile%20Apps)
+		- [](#Mobile%20Apps#Mobile%20Apps#Android%7CAndroid)
+		- [](#Mobile%20Apps#Mobile%20Apps#iOS%20Apps%7CiOS%20Apps)
+			- [](#iOS%20Apps#iOS%20Apps#iOS%20Shortcuts%7CiOS%20Shortcuts)
+	- [](#Computer%20and%20OS%20Related#Computer%20and%20OS%20Related#OS%20Other%7COS%20Other)
+	- [](#Computer%20and%20OS%20Related#Computer%20and%20OS%20Related#Windows%20Software%7CWindows%20Software)
+		- [](#Windows%20Software#Windows%20Software#Cross%20Platform%7CCross%20Platform)
+		- [](#Windows%20Software#Windows%20Software#Customizing%20OS%7CCustomizing%20OS)
+		- [](#Windows%20Software#Windows%20Software#Drivers%7CDrivers)
+		- [](#Windows%20Software#Windows%20Software#File%20Management%7CFile%20Management)
+		- [](#Windows%20Software#Windows%20Software#Mobile%20&%20Desktop%20Tracking%20Software%7CMobile%20&%20Desktop%20Tracking%20Software)
+		- [](#Windows%20Software#Windows%20Software#Software%20(Free%20or%20Open%20Source)%7CSoftware%20(Free%20or%20Open%20Source))
+		- [](#Windows%20Software#Windows%20Software#Software%20repacks%7CSoftware%20repacks)
+		- [](#Windows%20Software#Windows%20Software#Windows%7CWindows)
+- [Content](#Content)
+	- [](#Content#Content#Communities%7CCommunities)
+		- [](#Communities#Communities#Dev.to%7CDev.to)
+		- [](#Communities#Communities#Discord%7CDiscord)
+		- [](#Communities#Communities#Telegram%7CTelegram)
+		- [](#Communities#Communities#Twitter%7CTwitter)
+	- [](#Content#Content#Content%20Blogs,%20RSS%20and%20Feeds%7CContent%20Blogs,%20RSS%20and%20Feeds)
+		- [](#Content%20Blogs,%20RSS%20and%20Feeds#Content%20Blogs,%20RSS%20and%20Feeds#Blogs%7CBlogs)
+			- [](#Blogs#Blogs#Adderall%7CAdderall)
+			- [](#Blogs#Blogs#Data%7CData)
+			- [](#Blogs#Blogs#Dev-Sites%7CDev-Sites)
+			- [](#Blogs#Blogs#Medium%20Blogs%7CMedium%20Blogs)
+			- [](#Blogs#Blogs#OSINT%20Blogs%7COSINT%20Blogs)
+		- [](#Content%20Blogs,%20RSS%20and%20Feeds#Content%20Blogs,%20RSS%20and%20Feeds#Create%20Blog%7CCreate%20Blog)
+		- [](#Content%20Blogs,%20RSS%20and%20Feeds#Content%20Blogs,%20RSS%20and%20Feeds#Forums%7CForums)
+		- [](#Content%20Blogs,%20RSS%20and%20Feeds#Content%20Blogs,%20RSS%20and%20Feeds#People%20To%20Follow%7CPeople%20To%20Follow)
+		- [](#Content%20Blogs,%20RSS%20and%20Feeds#Content%20Blogs,%20RSS%20and%20Feeds#Podcasts%7CPodcasts)
+	- [](#Content#Content#Social%20Media%7CSocial%20Media)
+		- [](#Social%20Media#Social%20Media#Instagram%7CInstagram)
+		- [](#Social%20Media#Social%20Media#Reddit%7CReddit)
+- [Design](#Design)
+	- [](#Design#Design#Design%7CDesign)
+	- [](#Design#Design#Fonts%7CFonts)
+	- [](#Design#Design#Icons%7CIcons)
+	- [](#Design#Design#Images%7CImages)
+	- [](#Design#Design#Logos%7CLogos)
+	- [](#Design#Design#Mockup's%7CMockup's)
+	- [](#Design#Design#Multimedia%7CMultimedia)
+		- [](#Multimedia#Multimedia#Graphics%7CGraphics)
+			- [](#Graphics#Graphics#Download%20Packs%7CDownload%20Packs)
+			- [](#Graphics#Graphics#Stock%20Footage%7CStock%20Footage)
+		- [](#Multimedia#Multimedia#Photoshop%7CPhotoshop)
+		- [](#Multimedia#Multimedia#Resources%7CResources)
+			- [](#Resources#Resources#Design%20Resources%7CDesign%20Resources)
+			- [](#Resources#Resources#Graphics%20Resources%7CGraphics%20Resources)
+		- [](#Multimedia#Multimedia#Video%20Resource%20Toolbox%7CVideo%20Resource%20Toolbox)
+			- [](#Video%20Resource%20Toolbox#Video%20Resource%20Toolbox#AE%7CAE)
+			- [](#Video%20Resource%20Toolbox#Video%20Resource%20Toolbox#Film%20Writing%20Software%7CFilm%20Writing%20Software)
+			- [](#Video%20Resource%20Toolbox#Video%20Resource%20Toolbox#Lighting%20and%20Equipment%20resources%7CLighting%20and%20Equipment%20resources)
+			- [](#Video%20Resource%20Toolbox#Video%20Resource%20Toolbox#Royalty%20Free%20Video%20and%20Images%20and%20music%7CRoyalty%20Free%20Video%20and%20Images%20and%20music)
+			- [](#Video%20Resource%20Toolbox#Video%20Resource%20Toolbox#Shooting%20and%20Editing%20Tools%7CShooting%20and%20Editing%20Tools)
+			- [](#Video%20Resource%20Toolbox#Video%20Resource%20Toolbox#SourceCon%20Blogs%7CSourceCon%20Blogs)
+			- [](#Video%20Resource%20Toolbox#Video%20Resource%20Toolbox#Tutorials%20&%20YouTube%20Channels%7CTutorials%20&%20YouTube%20Channels)
+			- [](#Video%20Resource%20Toolbox#Video%20Resource%20Toolbox#Video%20Editing%20Communities%20and%20Forums%7CVideo%20Editing%20Communities%20and%20Forums)
+			- [](#Video%20Resource%20Toolbox#Video%20Resource%20Toolbox#Video%20Hosting%20Platforms%7CVideo%20Hosting%20Platforms)
+			- [](#Video%20Resource%20Toolbox#Video%20Resource%20Toolbox#Webcam%7CWebcam)
+			- [](#Video%20Resource%20Toolbox#Video%20Resource%20Toolbox#YouTube%7CYouTube)
+	- [](#Design#Design#Pallets%7CPallets)
+	- [](#Design#Design#Patterns%7CPatterns)
+	- [](#Design#Design#Placeholder%7CPlaceholder)
+	- [](#Design#Design#PNGs%7CPNGs)
+	- [](#Design#Design#Shutterstock%7CShutterstock)
+	- [](#Design#Design#Stock%20Photos%7CStock%20Photos)
+	- [](#Design#Design#SVG%7CSVG)
+	- [](#Design#Design#Templates%7CTemplates)
+	- [](#Design#Design#Vectors%7CVectors)
+- [DevOps](#DevOps)
+	- [](#DevOps#DevOps#Apps%7CApps)
+	- [](#DevOps#DevOps#Audio%7CAudio)
+	- [](#DevOps#DevOps#Cloud%20Dev%7CCloud%20Dev)
+	- [](#DevOps#DevOps#Decentralized%7CDecentralized)
+	- [](#DevOps#DevOps#Deployment%7CDeployment)
+	- [](#DevOps#DevOps#Search%7CSearch)
+	- [](#DevOps#DevOps#Tools%7CTools)
+- [Music](#Music)
+	- [](#Music#Music#Music%20DL%7CMusic%20DL)
+	- [](#Music#Music#Pro%20Audio%7CPro%20Audio)
+		- [](#Pro%20Audio#Pro%20Audio#Audio-FX%7CAudio-FX)
+- [OSINT](#OSINT)
+	- [](#OSINT#OSINT#AI%20FACES%20people%20and%20horses%7CAI%20FACES%20people%20and%20horses)
+	- [](#OSINT#OSINT#Airplanes,%20Airports%20and%20Flight%20Trackers%7CAirplanes,%20Airports%20and%20Flight%20Trackers)
+	- [](#OSINT#OSINT#Alternatives%20to%20Tor%7CAlternatives%20to%20Tor)
+	- [](#OSINT#OSINT#Analysing%20Unique%20IDs%7CAnalysing%20Unique%20IDs)
+	- [](#OSINT#OSINT#Analyze%20Text%20in%20images%20(OCR)%20opitcal%20character%20recognition%7CAnalyze%20Text%20in%20images%20(OCR)%20opitcal%20character%20recognition)
+	- [](#OSINT#OSINT#Android%20Emulators%7CAndroid%20Emulators)
+	- [](#OSINT#OSINT#Annual%20Reports%7CAnnual%20Reports)
+	- [](#OSINT#OSINT#Antivirus,%20Malware,%20Cleanup%7CAntivirus,%20Malware,%20Cleanup)
+	- [](#OSINT#OSINT#Authentication%7CAuthentication)
+	- [](#OSINT#OSINT#Avatars%7CAvatars)
+	- [](#OSINT#OSINT#Aviation%20Assets%7CAviation%20Assets)
+	- [](#OSINT#OSINT#AWS/Buckets%7CAWS/Buckets)
+	- [](#OSINT#OSINT#Background%20Checks%7CBackground%20Checks)
+	- [](#OSINT#OSINT#Bank%20Accounts%20&%20Credit%20Cards%7CBank%20Accounts%20&%20Credit%20Cards)
+	- [](#OSINT#OSINT#Barcodes,%20QR%20Codes,%20UID%20Codes%7CBarcodes,%20QR%20Codes,%20UID%20Codes)
+	- [](#OSINT#OSINT#Bitcoin%7CBitcoin)
+	- [](#OSINT#OSINT#BlackHat%20Sources%20(darkWeb)%7CBlackHat%20Sources%20(darkWeb))
+	- [](#OSINT#OSINT#Blogging,%20forum%20&%20other%20communities%7CBlogging,%20forum%20&%20other%20communities)
+	- [](#OSINT#OSINT#bookmarks%20misc%20onion%7Cbookmarks%20misc%20onion)
+	- [](#OSINT#OSINT#Business%20Entity%20Filings%7CBusiness%20Entity%20Filings)
+	- [](#OSINT#OSINT#Cars%7CCars)
+	- [](#OSINT#OSINT#Cell%20Phone%20Towers%7CCell%20Phone%20Towers)
+	- [](#OSINT#OSINT#Civil%20Court%20Records%7CCivil%20Court%20Records)
+	- [](#OSINT#OSINT#ClearNet%20Links%20to%20DarkWeb%7CClearNet%20Links%20to%20DarkWeb)
+	- [](#OSINT#OSINT#Commercial%20registries%7CCommercial%20registries)
+	- [](#OSINT#OSINT#Communication%7CCommunication)
+	- [](#OSINT#OSINT#Community%20Toolsets%7CCommunity%20Toolsets)
+	- [](#OSINT#OSINT#Companies%7CCompanies)
+	- [](#OSINT#OSINT#Container%20and%20Cargo%20Tracking%7CContainer%20and%20Cargo%20Tracking)
+	- [](#OSINT#OSINT#Contribute%20to%20OSINT%20Frameworks%7CContribute%20to%20OSINT%20Frameworks)
+	- [](#OSINT#OSINT#Conventions%20&%20Events%7CConventions%20&%20Events)
+	- [](#OSINT#OSINT#Creating%20World%20Clouds%7CCreating%20World%20Clouds)
+	- [](#OSINT#OSINT#Crime%20&%20Criminal%20Records%7CCrime%20&%20Criminal%20Records)
+	- [](#OSINT#OSINT#Crisis%20Alerts%20and%20Travel%20Advisory%7CCrisis%20Alerts%20and%20Travel%20Advisory)
+	- [](#OSINT#OSINT#Cryptocurrency%20&%20Blockchain%7CCryptocurrency%20&%20Blockchain)
+	- [](#OSINT#OSINT#Dark%20Web%7CDark%20Web)
+	- [](#OSINT#OSINT#Darkweb%20links%7CDarkweb%20links)
+	- [](#OSINT#OSINT#Data%20Breaches%20&%20Leaks%7CData%20Breaches%20&%20Leaks)
+	- [](#OSINT#OSINT#Deans%20Deep%20Web%7CDeans%20Deep%20Web)
+	- [](#OSINT#OSINT#Decrypt%20Hash%7CDecrypt%20Hash)
+	- [](#OSINT#OSINT#Digital%20Forensics%20(DFIR)%7CDigital%20Forensics%20(DFIR))
+		- [](#Digital%20Forensics%20(DFIR)#Digital%20Forensics%20(DFIR)#Discord%20(tools)%7CDiscord%20(tools))
+		- [](#Digital%20Forensics%20(DFIR)#Digital%20Forensics%20(DFIR)#e-mail%20infoz%7Ce-mail%20infoz)
+			- [](#e-mail%20infoz#e-mail%20infoz#email/cloud/storage%7Cemail/cloud/storage)
+		- [](#Digital%20Forensics%20(DFIR)#Digital%20Forensics%20(DFIR)#Fact%20Checking%20and%20Verification%7CFact%20Checking%20and%20Verification)
+		- [](#Digital%20Forensics%20(DFIR)#Digital%20Forensics%20(DFIR)#Fake%20ID%20(Darknet)%7CFake%20ID%20(Darknet))
+	- [](#OSINT#OSINT#Discover%20other%20OSINT%20Frameworks%7CDiscover%20other%20OSINT%20Frameworks)
+	- [](#OSINT#OSINT#Disk%20Encryption%7CDisk%20Encryption)
+	- [](#OSINT#OSINT#Disposable%20Email%7CDisposable%20Email)
+	- [](#OSINT#OSINT#Documenting%20The%20Investigation%7CDocumenting%20The%20Investigation)
+	- [](#OSINT#OSINT#Documents%20and%20Structured%20Data%7CDocuments%20and%20Structured%20Data)
+	- [](#OSINT#OSINT#Domains%7CDomains)
+	- [](#OSINT#OSINT#Downloading%7CDownloading)
+		- [](#Downloading#Downloading#Downloading%20Videos%20from%20Facebook%7CDownloading%20Videos%20from%20Facebook)
+		- [](#Downloading#Downloading#Downloading%20Videos%20from%20Instagram%7CDownloading%20Videos%20from%20Instagram)
+		- [](#Downloading#Downloading#Downloading%20Videos%20from%20Reddit%7CDownloading%20Videos%20from%20Reddit)
+		- [](#Downloading#Downloading#Downloading%20Videos%20from%20Twitter%7CDownloading%20Videos%20from%20Twitter)
+		- [](#Downloading#Downloading#Downloading%20Videos%20from%20YouTube%7CDownloading%20Videos%20from%20YouTube)
+	- [](#OSINT#OSINT#Drivers%20License%20&%20Passport%7CDrivers%20License%20&%20Passport)
+	- [](#OSINT#OSINT#Drones%7CDrones)
+	- [](#OSINT#OSINT#Education%20Networks%7CEducation%20Networks)
+	- [](#OSINT#OSINT#Email%20Scrapers%7CEmail%20Scrapers)
+	- [](#OSINT#OSINT#Email%20Tracking%7CEmail%20Tracking)
+	- [](#OSINT#OSINT#Encrypted%20Communication%7CEncrypted%20Communication)
+	- [](#OSINT#OSINT#Extracting%20Files%7CExtracting%20Files)
+	- [](#OSINT#OSINT#Facebook%7CFacebook)
+	- [](#OSINT#OSINT#Facial%20Recognition%7CFacial%20Recognition)
+	- [](#OSINT#OSINT#Fake%20Emailers%20&%20Validators%7CFake%20Emailers%20&%20Validators)
+	- [](#OSINT#OSINT#File%20Conversion%20&%20Translation%7CFile%20Conversion%20&%20Translation)
+	- [](#OSINT#OSINT#Finding%20GIFs%20and%20Memes%7CFinding%20GIFs%20and%20Memes)
+	- [](#OSINT#OSINT#Flickr%7CFlickr)
+	- [](#OSINT#OSINT#Forum,%20Newsgroup%20and%20Discussion%20Board%20Search%20Tools%7CForum,%20Newsgroup%20and%20Discussion%20Board%20Search%20Tools)
+		- [](#Forum,%20Newsgroup%20and%20Discussion%20Board%20Search%20Tools#Forum,%20Newsgroup%20and%20Discussion%20Board%20Search%20Tools#Finding%20Influencers%20and%20Other%20Social%20Media%20Users%7CFinding%20Influencers%20and%20Other%20Social%20Media%20Users)
+		- [](#Forum,%20Newsgroup%20and%20Discussion%20Board%20Search%20Tools#Forum,%20Newsgroup%20and%20Discussion%20Board%20Search%20Tools#Finding%20Newsletters%7CFinding%20Newsletters)
+		- [](#Forum,%20Newsgroup%20and%20Discussion%20Board%20Search%20Tools#Forum,%20Newsgroup%20and%20Discussion%20Board%20Search%20Tools#Instagram%7CInstagram)
+			- [](#Instagram#Instagram#Instagram%20(GitHub)%7CInstagram%20(GitHub))
+		- [](#Forum,%20Newsgroup%20and%20Discussion%20Board%20Search%20Tools#Forum,%20Newsgroup%20and%20Discussion%20Board%20Search%20Tools#IP%20Grabbers%20and%20E-mail%20Trackers%7CIP%20Grabbers%20and%20E-mail%20Trackers)
+		- [](#Forum,%20Newsgroup%20and%20Discussion%20Board%20Search%20Tools#Forum,%20Newsgroup%20and%20Discussion%20Board%20Search%20Tools#Markets%20n%20such%20(DarkWeb)%7CMarkets%20n%20such%20(DarkWeb))
+		- [](#Forum,%20Newsgroup%20and%20Discussion%20Board%20Search%20Tools#Forum,%20Newsgroup%20and%20Discussion%20Board%20Search%20Tools#Misc%7CMisc)
+		- [](#Forum,%20Newsgroup%20and%20Discussion%20Board%20Search%20Tools#Forum,%20Newsgroup%20and%20Discussion%20Board%20Search%20Tools#MISC%20Social%20Media%20analytics%7CMISC%20Social%20Media%20analytics)
+	- [](#OSINT#OSINT#General%20Video%20Downloaders%20and%20Archivers%7CGeneral%20Video%20Downloaders%20and%20Archivers)
+	- [](#OSINT#OSINT#General%20Webint%20Tools%20and%20Toolkits%7CGeneral%20Webint%20Tools%20and%20Toolkits)
+	- [](#OSINT#OSINT#Geolocation%7CGeolocation)
+	- [](#OSINT#OSINT#Geospatial%20data/satelite%20data%7CGeospatial%20data/satelite%20data)
+	- [](#OSINT#OSINT#GIT%20&%20Github%20Tools%7CGIT%20&%20Github%20Tools)
+	- [](#OSINT#OSINT#Hacking%7CHacking)
+	- [](#OSINT#OSINT#Hacking%20Forums%20on%20the%20Clearnet%7CHacking%20Forums%20on%20the%20Clearnet)
+		- [](#Hacking%20Forums%20on%20the%20Clearnet#Hacking%20Forums%20on%20the%20Clearnet#Guides%7CGuides)
+			- [](#Guides#Guides#Guides:%20RU%7CGuides:%20RU)
+		- [](#Hacking%20Forums%20on%20the%20Clearnet#Hacking%20Forums%20on%20the%20Clearnet#Honeypot%20Data%20&%20Statistics%7CHoneypot%20Data%20&%20Statistics)
+		- [](#Hacking%20Forums%20on%20the%20Clearnet#Hacking%20Forums%20on%20the%20Clearnet#Image%20Hosting%7CImage%20Hosting)
+		- [](#Hacking%20Forums%20on%20the%20Clearnet#Hacking%20Forums%20on%20the%20Clearnet#IMEI%20Info%7CIMEI%20Info)
+		- [](#Hacking%20Forums%20on%20the%20Clearnet#Hacking%20Forums%20on%20the%20Clearnet#Independent%20Information%20about%20Russian%20Organizations%7CIndependent%20Information%20about%20Russian%20Organizations)
+	- [](#OSINT#OSINT#Happn%7CHappn)
+	- [](#OSINT#OSINT#Hinge%7CHinge)
+	- [](#OSINT#OSINT#Identifying%20Publish%20Date%7CIdentifying%20Publish%20Date)
+	- [](#OSINT#OSINT#Identifying%20Technologies%20Behind%20Websites%7CIdentifying%20Technologies%20Behind%20Websites)
+	- [](#OSINT#OSINT#Image%20Analysis%7CImage%20Analysis)
+		- [](#Image%20Analysis#Image%20Analysis#Image%20and%20Photo%20Editing%7CImage%20and%20Photo%20Editing)
+		- [](#Image%20Analysis#Image%20Analysis#Image%20Editors%20&%20Viewers%7CImage%20Editors%20&%20Viewers)
+		- [](#Image%20Analysis#Image%20Analysis#Image%20Metadata%20&%20Forensics%7CImage%20Metadata%20&%20Forensics)
+		- [](#Image%20Analysis#Image%20Analysis#OCR%20and%20Image%20Translation%20Tools%7COCR%20and%20Image%20Translation%20Tools)
+		- [](#Image%20Analysis#Image%20Analysis#Other%20Image%20Processing%20Tools%7COther%20Image%20Processing%20Tools)
+	- [](#OSINT#OSINT#Information%20material%7CInformation%20material)
+	- [](#OSINT#OSINT#Instagram%7CInstagram)
+	- [](#OSINT#OSINT#Instagram%20Search%7CInstagram%20Search)
+	- [](#OSINT#OSINT#Interesting%20websites%7CInteresting%20websites)
+	- [](#OSINT#OSINT#International%20Phone%20Directories%7CInternational%20Phone%20Directories)
+	- [](#OSINT#OSINT#Investigating%20Objects%20and%20Symbols%7CInvestigating%20Objects%20and%20Symbols)
+	- [](#OSINT#OSINT#IPOs%20and%20Funding%7CIPOs%20and%20Funding)
+	- [](#OSINT#OSINT#Labor%20Unions%7CLabor%20Unions)
+	- [](#OSINT#OSINT#Leak%20Testing%7CLeak%20Testing)
+	- [](#OSINT#OSINT#Legal%20Research%20Tools%20and%20Resources%7CLegal%20Research%20Tools%20and%20Resources)
+	- [](#OSINT#OSINT#Liens%20&%20Delinquencies%7CLiens%20&%20Delinquencies)
+	- [](#OSINT#OSINT#Link%20Analysis%20Graph%20Platforms%7CLink%20Analysis%20Graph%20Platforms)
+	- [](#OSINT#OSINT#LinkedIn%7CLinkedIn)
+	- [](#OSINT#OSINT#Live%20Streaming%20and%20Webcams%7CLive%20Streaming%20and%20Webcams)
+	- [](#OSINT#OSINT#Location%20Spoofing%7CLocation%20Spoofing)
+	- [](#OSINT#OSINT#Login%20Sharing%7CLogin%20Sharing)
+	- [](#OSINT#OSINT#MALTEGO%20and%20Transforms%7CMALTEGO%20and%20Transforms)
+	- [](#OSINT#OSINT#Map%20Builders%20&%20Downloaders%7CMap%20Builders%20&%20Downloaders)
+	- [](#OSINT#OSINT#Map%20Image%20Feature%20Extraction%7CMap%20Image%20Feature%20Extraction)
+	- [](#OSINT#OSINT#Map%20Platforms%7CMap%20Platforms)
+	- [](#OSINT#OSINT#Maritime%20Assets%7CMaritime%20Assets)
+	- [](#OSINT#OSINT#Marketing%20Spend%7CMarketing%20Spend)
+	- [](#OSINT#OSINT#Media%20Monitoring%7CMedia%20Monitoring)
+	- [](#OSINT#OSINT#Mergers%20&%20Acquisitions%7CMergers%20&%20Acquisitions)
+	- [](#OSINT#OSINT#Messaging%20and%20Chat%20Tools%7CMessaging%20and%20Chat%20Tools)
+	- [](#OSINT#OSINT#Middlepoint%20Locators%7CMiddlepoint%20Locators)
+	- [](#OSINT#OSINT#Military%20Records%7CMilitary%20Records)
+	- [](#OSINT#OSINT#Military%20Research%7CMilitary%20Research)
+	- [](#OSINT#OSINT#Miscellaneous%20Dating%7CMiscellaneous%20Dating)
+	- [](#OSINT#OSINT#Motorcyle%20Assets%7CMotorcyle%20Assets)
+	- [](#OSINT#OSINT#Multipurpose%20OSINT%20Frameworks%7CMultipurpose%20OSINT%20Frameworks)
+	- [](#OSINT#OSINT#Network%20Reconnaisance%20Frameworks%7CNetwork%20Reconnaisance%20Frameworks)
+	- [](#OSINT#OSINT#Non-Profit%20Entities%7CNon-Profit%20Entities)
+	- [](#OSINT#OSINT#OK%20Cupid%7COK%20Cupid)
+	- [](#OSINT#OSINT#OPSec%20Resources%7COPSec%20Resources)
+	- [](#OSINT#OSINT#OSHA%20and%20Environmental%7COSHA%20and%20Environmental)
+	- [](#OSINT#OSINT#OSINT%20Misc%7COSINT%20Misc)
+	- [](#OSINT#OSINT#OSINT%20SEARCH%7COSINT%20SEARCH)
+		- [](#OSINT%20SEARCH#OSINT%20SEARCH#Advanced%20Search/Multipurpose%7CAdvanced%20Search/Multipurpose)
+		- [](#OSINT%20SEARCH#OSINT%20SEARCH#Bankruptcy%20Records%20Search%7CBankruptcy%20Records%20Search)
+		- [](#OSINT%20SEARCH#OSINT%20SEARCH#Blockchain%20Searches%7CBlockchain%20Searches)
+		- [](#OSINT%20SEARCH#OSINT%20SEARCH#Business%20Search%20Sites%7CBusiness%20Search%20Sites)
+		- [](#OSINT%20SEARCH#OSINT%20SEARCH#Company%20Search%20Tools%7CCompany%20Search%20Tools)
+		- [](#OSINT%20SEARCH#OSINT%20SEARCH#Coordinate%20Based%20Search%7CCoordinate%20Based%20Search)
+		- [](#OSINT%20SEARCH#OSINT%20SEARCH#Cryptocurrency%7CCryptocurrency)
+		- [](#OSINT%20SEARCH#OSINT%20SEARCH#Darkweb%7CDarkweb)
+		- [](#OSINT%20SEARCH#OSINT%20SEARCH#Databreach%7CDatabreach)
+		- [](#OSINT%20SEARCH#OSINT%20SEARCH#Email%20Searches%7CEmail%20Searches)
+		- [](#OSINT%20SEARCH#OSINT%20SEARCH#Event%20Search%7CEvent%20Search)
+		- [](#OSINT%20SEARCH#OSINT%20SEARCH#Exploit%20Search%20Engines%7CExploit%20Search%20Engines)
+		- [](#OSINT%20SEARCH#OSINT%20SEARCH#GEOLOCATION%7CGEOLOCATION)
+		- [](#OSINT%20SEARCH#OSINT%20SEARCH#Image%20Search%20and%20Reverse%20Image%20Search%7CImage%20Search%20and%20Reverse%20Image%20Search)
+		- [](#OSINT%20SEARCH#OSINT%20SEARCH#International%20Search%20Engine%7CInternational%20Search%20Engine)
+		- [](#OSINT%20SEARCH#OSINT%20SEARCH#IoT%20Search%20Engines%7CIoT%20Search%20Engines)
+		- [](#OSINT%20SEARCH#OSINT%20SEARCH#IP%20Address%7CIP%20Address)
+		- [](#OSINT%20SEARCH#OSINT%20SEARCH#LEAKS%20&%20DECLASSIFIED%7CLEAKS%20&%20DECLASSIFIED)
+		- [](#OSINT%20SEARCH#OSINT%20SEARCH#Logo%20Search%20and%20Identification%20Tools%7CLogo%20Search%20and%20Identification%20Tools)
+		- [](#OSINT%20SEARCH#OSINT%20SEARCH#Name%7CName)
+		- [](#OSINT%20SEARCH#OSINT%20SEARCH#Onion%20Search%20Engines%20/%20Links%7COnion%20Search%20Engines%20/%20Links)
+		- [](#OSINT%20SEARCH#OSINT%20SEARCH#Online%20Marketplace%7COnline%20Marketplace)
+		- [](#OSINT%20SEARCH#OSINT%20SEARCH#Online%20Records%7COnline%20Records)
+		- [](#OSINT%20SEARCH#OSINT%20SEARCH#OSINT/%20Hacking%7COSINT/%20Hacking)
+		- [](#OSINT%20SEARCH#OSINT%20SEARCH#People%7CPeople)
+			- [](#People#People#Usernames%20&%20People%20Searches%7CUsernames%20&%20People%20Searches)
+		- [](#OSINT%20SEARCH#OSINT%20SEARCH#Phone%20Number%7CPhone%20Number)
+		- [](#OSINT%20SEARCH#OSINT%20SEARCH#PROPERTY%7CPROPERTY)
+		- [](#OSINT%20SEARCH#OSINT%20SEARCH#Russian%20Social%20Media/Search%20ENgines/PhoneNumber%20Lookup%7CRussian%20Social%20Media/Search%20ENgines/PhoneNumber%20Lookup)
+		- [](#OSINT%20SEARCH#OSINT%20SEARCH#Salary%20Search%7CSalary%20Search)
+		- [](#OSINT%20SEARCH#OSINT%20SEARCH#Search%7CSearch)
+		- [](#OSINT%20SEARCH#OSINT%20SEARCH#Search%20Engines%7CSearch%20Engines)
+		- [](#OSINT%20SEARCH#OSINT%20SEARCH#Search%20engines%20-%20General%7CSearch%20engines%20-%20General)
+		- [](#OSINT%20SEARCH#OSINT%20SEARCH#Search%20engines%20-%20Image%20search%7CSearch%20engines%20-%20Image%20search)
+		- [](#OSINT%20SEARCH#OSINT%20SEARCH#Search%20engines%20-%20IRC%7CSearch%20engines%20-%20IRC)
+		- [](#OSINT%20SEARCH#OSINT%20SEARCH#Search%20engines%20-%20Online%20marketplaces%7CSearch%20engines%20-%20Online%20marketplaces)
+		- [](#OSINT%20SEARCH#OSINT%20SEARCH#Search%20engines%20-%20People%7CSearch%20engines%20-%20People)
+		- [](#OSINT%20SEARCH#OSINT%20SEARCH#Search%20engines%20-%20Realestate%7CSearch%20engines%20-%20Realestate)
+		- [](#OSINT%20SEARCH#OSINT%20SEARCH#Search/Internet%7CSearch/Internet)
+		- [](#OSINT%20SEARCH#OSINT%20SEARCH#SOCIAL%20MEDIA%7CSOCIAL%20MEDIA)
+			- [](#SOCIAL%20MEDIA#SOCIAL%20MEDIA#CLUBHOUSE%7CCLUBHOUSE)
+			- [](#SOCIAL%20MEDIA#SOCIAL%20MEDIA#DISCORD%7CDISCORD)
+			- [](#SOCIAL%20MEDIA#SOCIAL%20MEDIA#FACEBOOK%7CFACEBOOK)
+			- [](#SOCIAL%20MEDIA#SOCIAL%20MEDIA#FLICKR%7CFLICKR)
+			- [](#SOCIAL%20MEDIA#SOCIAL%20MEDIA#INSTAGRAM%7CINSTAGRAM)
+			- [](#SOCIAL%20MEDIA#SOCIAL%20MEDIA#LINKEDIN%7CLINKEDIN)
+			- [](#SOCIAL%20MEDIA#SOCIAL%20MEDIA#ONLYFANS%7CONLYFANS)
+			- [](#SOCIAL%20MEDIA#SOCIAL%20MEDIA#PINTEREST%7CPINTEREST)
+			- [](#SOCIAL%20MEDIA#SOCIAL%20MEDIA#REDDIT%7CREDDIT)
+			- [](#SOCIAL%20MEDIA#SOCIAL%20MEDIA#SNAPCHAT%7CSNAPCHAT)
+			- [](#SOCIAL%20MEDIA#SOCIAL%20MEDIA#SOCIAL%20MISC%7CSOCIAL%20MISC)
+			- [](#SOCIAL%20MEDIA#SOCIAL%20MEDIA#Telegram%7CTelegram)
+			- [](#SOCIAL%20MEDIA#SOCIAL%20MEDIA#TELEGRAM%7CTELEGRAM)
+			- [](#SOCIAL%20MEDIA#SOCIAL%20MEDIA#TIKTOK%7CTIKTOK)
+			- [](#SOCIAL%20MEDIA#SOCIAL%20MEDIA#TWITTER%7CTWITTER)
+			- [](#SOCIAL%20MEDIA#SOCIAL%20MEDIA#VKONTAKTE%7CVKONTAKTE)
+		- [](#OSINT%20SEARCH#OSINT%20SEARCH#Start.me%20Resources%7CStart.me%20Resources)
+		- [](#OSINT%20SEARCH#OSINT%20SEARCH#WiFi%20&%20internet%20connectivity%7CWiFi%20&%20internet%20connectivity)
+	- [](#OSINT#OSINT#OSINT%20TOOL%20SITES%7COSINT%20TOOL%20SITES)
+	- [](#OSINT#OSINT#OSINT%20Toolkit%7COSINT%20Toolkit)
+		- [](#OSINT%20Toolkit#OSINT%20Toolkit#Misc%20OSINT%20Tools%7CMisc%20OSINT%20Tools)
+		- [](#OSINT%20Toolkit#OSINT%20Toolkit#OSINT%20extra%7COSINT%20extra)
+		- [](#OSINT%20Toolkit#OSINT%20Toolkit#OSINT%20Focused%20Browsers%7COSINT%20Focused%20Browsers)
+		- [](#OSINT%20Toolkit#OSINT%20Toolkit#OSINT%20Framework%20in%20MindMap%20Format%7COSINT%20Framework%20in%20MindMap%20Format)
+		- [](#OSINT%20Toolkit#OSINT%20Toolkit#OSINT/OPSEC%20Community%7COSINT/OPSEC%20Community)
+	- [](#OSINT#OSINT#Password%20Management%7CPassword%20Management)
+	- [](#OSINT#OSINT#Patents%20&%20Copyrights%7CPatents%20&%20Copyrights)
+	- [](#OSINT#OSINT#Pay%20Telephones%7CPay%20Telephones)
+	- [](#OSINT#OSINT#Pentesting%7CPentesting)
+	- [](#OSINT#OSINT#Periscope%7CPeriscope)
+	- [](#OSINT#OSINT#Phone%20Area%20Codes%7CPhone%20Area%20Codes)
+	- [](#OSINT#OSINT#Phone%20Privacy%7CPhone%20Privacy)
+	- [](#OSINT#OSINT#Physical%20Entry%20&%20Locks%7CPhysical%20Entry%20&%20Locks)
+	- [](#OSINT#OSINT#Plenty%20of%20Fish%7CPlenty%20of%20Fish)
+	- [](#OSINT#OSINT#Podcasts%7CPodcasts)
+	- [](#OSINT#OSINT#PR%20Reputation%20&%20Exposure%7CPR%20Reputation%20&%20Exposure)
+	- [](#OSINT#OSINT#Professional%20License%7CProfessional%20License)
+	- [](#OSINT#OSINT#Profiling%20&%20Social%20Engineering%7CProfiling%20&%20Social%20Engineering)
+	- [](#OSINT#OSINT#Property%20Records%7CProperty%20Records)
+	- [](#OSINT#OSINT#Public%20Domain%20Image%20Databases%7CPublic%20Domain%20Image%20Databases)
+	- [](#OSINT#OSINT#Public%20Transit%20-%20Bus%7CPublic%20Transit%20-%20Bus)
+	- [](#OSINT#OSINT#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK%7CQUICK%20ACCESS%20to%20OSINT%20FRAMEWORK)
+		- [](#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#Analysing%20E-mail%20Headers%7CAnalysing%20E-mail%20Headers)
+		- [](#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#Archive/Cache%202/2%7CArchive/Cache%202/2)
+		- [](#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#Archived/Cached%20Pages%201/2%7CArchived/Cached%20Pages%201/2)
+		- [](#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#Banking%20and%20Credit%20Card%20Information%7CBanking%20and%20Credit%20Card%20Information)
+		- [](#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#Chrome%20Osint/Sec%20Verify%20extensions%7CChrome%20Osint/Sec%20Verify%20extensions)
+		- [](#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#Chrome%20Security%20Extensions%7CChrome%20Security%20Extensions)
+		- [](#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#Contact%20Detail%20Recovery%20Apps%7CContact%20Detail%20Recovery%20Apps)
+		- [](#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#Crime%20Database/Statistics%7CCrime%20Database/Statistics)
+		- [](#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#Currency%20Conversion%7CCurrency%20Conversion)
+		- [](#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#DarkWeb%20Linkz%7CDarkWeb%20Linkz)
+			- [](#DarkWeb%20Linkz#DarkWeb%20Linkz#DarkNetemail%7CDarkNetemail)
+			- [](#DarkWeb%20Linkz#DarkWeb%20Linkz#DarkNetRandom%20Chat%7CDarkNetRandom%20Chat)
+			- [](#DarkWeb%20Linkz#DarkWeb%20Linkz#darkweb%20directory%20links%20(clearnet)%7Cdarkweb%20directory%20links%20(clearnet))
+			- [](#DarkWeb%20Linkz#DarkWeb%20Linkz#Deep%20Links%20DIR%7CDeep%20Links%20DIR)
+			- [](#DarkWeb%20Linkz#DarkWeb%20Linkz#Deep%20Web%20&%20Dark%20Web%20&%20Spec%7CDeep%20Web%20&%20Dark%20Web%20&%20Spec)
+		- [](#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#DataBases%20for%20Legal%20Professionals%7CDataBases%20for%20Legal%20Professionals)
+		- [](#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#DATALEAK/BREACH%20ACCESS/CHECKER%7CDATALEAK/BREACH%20ACCESS/CHECKER)
+		- [](#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#Dating%20Apps%20and%20Sites%7CDating%20Apps%20and%20Sites)
+		- [](#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#Deleting/Sanitizing%7CDeleting/Sanitizing)
+		- [](#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#File%20Forensics%7CFile%20Forensics)
+		- [](#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#Information%20on%20Names%20and%20Naming%20Conventions%7CInformation%20on%20Names%20and%20Naming%20Conventions)
+		- [](#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#Investigating%20Phone%20Numbers%7CInvestigating%20Phone%20Numbers)
+		- [](#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#IP%20LOGGING%7CIP%20LOGGING)
+		- [](#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#IP-Domain-DNS-Network-URL%7CIP-Domain-DNS-Network-URL)
+		- [](#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#Language%20Research%20Tools%7CLanguage%20Research%20Tools)
+		- [](#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#Leak%20Tests%20(Clear%20Net)%7CLeak%20Tests%20(Clear%20Net))
+		- [](#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#Leak%20Tests%20(Dark%20Net)%7CLeak%20Tests%20(Dark%20Net))
+		- [](#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#Leaked/Breached%20Databases%20(CLEARNET)%7CLeaked/Breached%20Databases%20(CLEARNET))
+		- [](#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#Lectures,%20Talks,%20Presentations%20and%20Speeches%7CLectures,%20Talks,%20Presentations%20and%20Speeches)
+		- [](#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#Matching%20E-mails%20to%20Social%20Media%20Profiles%7CMatching%20E-mails%20to%20Social%20Media%20Profiles)
+		- [](#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#Missing%20People%7CMissing%20People)
+		- [](#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#Mozilla%20Firefox%20Osint/Sec%20extensions//verification%7CMozilla%20Firefox%20Osint/Sec%20extensions//verification)
+		- [](#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#News%20Digest%20and%20Discovery%20Tools%7CNews%20Digest%20and%20Discovery%20Tools)
+		- [](#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#Newspapers%20and%20News%20Directories%7CNewspapers%20and%20News%20Directories)
+		- [](#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#Non%20Profit%20/%20Charity%20INFO%7CNon%20Profit%20/%20Charity%20INFO)
+		- [](#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#onion%20forums%7Conion%20forums)
+			- [](#onion%20forums#onion%20forums#Onion%20Links%20for%20checking%20breached/leaked%20data%7COnion%20Links%20for%20checking%20breached/leaked%20data)
+			- [](#onion%20forums#onion%20forums#Onion%20links/diurectories%20cont%7COnion%20links/diurectories%20cont)
+			- [](#onion%20forums#onion%20forums#Onion%20Pastes/%20Notes%7COnion%20Pastes/%20Notes)
+		- [](#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#Opt%20Out%20ADS/Data%7COpt%20Out%20ADS/Data)
+		- [](#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#OPT%20OUT%20data/marketing/advertising%20etc%7COPT%20OUT%20data/marketing/advertising%20etc)
+		- [](#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#Opt-Out%20First%20Steps%7COpt-Out%20First%20Steps)
+		- [](#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#OSINT/Investigating/Forensic%20Guides/Note-taking%7COSINT/Investigating/Forensic%20Guides/Note-taking)
+		- [](#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#Other%20(opt-out)%7COther%20(opt-out))
+		- [](#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#Patent%20Research%7CPatent%20Research)
+		- [](#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#People%7CPeople)
+		- [](#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#Photo%20Forensics%7CPhoto%20Forensics)
+		- [](#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#Privacy%7CPrivacy)
+		- [](#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK#Researching%20Countries%7CResearching%20Countries)
+			- [](#Researching%20Countries#Researching%20Countries#Researching%20Leaks%7CResearching%20Leaks)
+			- [](#Researching%20Countries#Researching%20Countries#Reverse%20Analytics%20Google%7CReverse%20Analytics%20Google)
+			- [](#Researching%20Countries#Researching%20Countries#Russian%20Forums%20/%20links%20CompanyInfo%7CRussian%20Forums%20/%20links%20CompanyInfo)
+			- [](#Researching%20Countries#Researching%20Countries#Russian%20Phone%20numberlookup%7CRussian%20Phone%20numberlookup)
+	- [](#OSINT#OSINT#Radio%20&%20Scanner%7CRadio%20&%20Scanner)
+	- [](#OSINT#OSINT#Rail%20Assets%7CRail%20Assets)
+	- [](#OSINT#OSINT#Railways%7CRailways)
+	- [](#OSINT#OSINT#Reddit%7CReddit)
+	- [](#OSINT#OSINT#Report%20&%20Presentation%20Tools%7CReport%20&%20Presentation%20Tools)
+	- [](#OSINT#OSINT#Requests%20for%20User%20Information:%20Information%20for%20Law%20Enforcement%7CRequests%20for%20User%20Information:%20Information%20for%20Law%20Enforcement)
+	- [](#OSINT#OSINT#Researching%7CResearching)
+		- [](#Researching#Researching#Researching%20Cyber%20Threats%7CResearching%20Cyber%20Threats)
+		- [](#Researching#Researching#Researching%20Cybersecurity%7CResearching%20Cybersecurity)
+		- [](#Researching#Researching#Researching%20Drug%20Trade%7CResearching%20Drug%20Trade)
+		- [](#Researching#Researching#Researching%20Human%20Trafficking%7CResearching%20Human%20Trafficking)
+		- [](#Researching#Researching#Researching%20Money%20Laundering%20and%20Corruption%7CResearching%20Money%20Laundering%20and%20Corruption)
+		- [](#Researching#Researching#Researching%20Stolen%20Items%7CResearching%20Stolen%20Items)
+		- [](#Researching#Researching#Researching%20Terrorism,%20Crime,%20and%20Cybersecurity%7CResearching%20Terrorism,%20Crime,%20and%20Cybersecurity)
+	- [](#OSINT#OSINT#Resume%20&%20Job%20Boards%7CResume%20&%20Job%20Boards)
+	- [](#OSINT#OSINT#Reverse%20Email%20Search%7CReverse%20Email%20Search)
+	- [](#OSINT#OSINT#Reverse%20Image%20&%20Facial%20Recognition%20Search%7CReverse%20Image%20&%20Facial%20Recognition%20Search)
+	- [](#OSINT#OSINT#Reverse%20IP%20Search%7CReverse%20IP%20Search)
+	- [](#OSINT#OSINT#Reverse%20Phone%20Number%20Lookup%7CReverse%20Phone%20Number%20Lookup)
+	- [](#OSINT#OSINT#Reverse%20Username%20Search%7CReverse%20Username%20Search)
+	- [](#OSINT#OSINT#Road%20Assets%7CRoad%20Assets)
+		- [](#Road%20Assets#Road%20Assets#Road%20Assets%20Domestic%20Plate%20Search%7CRoad%20Assets%20Domestic%20Plate%20Search)
+		- [](#Road%20Assets#Road%20Assets#Road%20Assets%20Owners%20Name%20Search%7CRoad%20Assets%20Owners%20Name%20Search)
+		- [](#Road%20Assets#Road%20Assets#Road%20Assets%20Parking%20&%20Toll%20Tickets%7CRoad%20Assets%20Parking%20&%20Toll%20Tickets)
+		- [](#Road%20Assets#Road%20Assets#Road%20Assets%20VIN%20Search%7CRoad%20Assets%20VIN%20Search)
+	- [](#OSINT#OSINT#Salary%20Indexes%7CSalary%20Indexes)
+	- [](#OSINT#OSINT#Satellite-Level%20Viewers%7CSatellite-Level%20Viewers)
+	- [](#OSINT#OSINT#Searching%20within%20Screenshots%7CSearching%20within%20Screenshots)
+	- [](#OSINT#OSINT#Secure%20Browsing%7CSecure%20Browsing)
+	- [](#OSINT#OSINT#Secure%20Erase%7CSecure%20Erase)
+	- [](#OSINT#OSINT#Securities%7CSecurities)
+	- [](#OSINT#OSINT#Ships%7CShips)
+	- [](#OSINT#OSINT#Skype%7CSkype)
+	- [](#OSINT#OSINT#SnapChat%7CSnapChat)
+	- [](#OSINT#OSINT#Social%20Media%7CSocial%20Media)
+		- [](#Social%20Media#Social%20Media#Social%20Media%20&%20Participatory%20Mapping%7CSocial%20Media%20&%20Participatory%20Mapping)
+	- [](#OSINT#OSINT#Social%20Networks%7CSocial%20Networks)
+		- [](#Social%20Networks#Social%20Networks#Secure%20Communication%20+%7CSecure%20Communication%20+)
+			- [](#Secure%20Communication%20+#Secure%20Communication%20+#Secure%20email%7CSecure%20email)
+		- [](#Social%20Networks#Social%20Networks#Slang%20Translators%20and%20Resources%7CSlang%20Translators%20and%20Resources)
+		- [](#Social%20Networks#Social%20Networks#Snapchat%20Tools%7CSnapchat%20Tools)
+		- [](#Social%20Networks#Social%20Networks#Social%20Engineering/Osint%20Onion%20Forum%7CSocial%20Engineering/Osint%20Onion%20Forum)
+		- [](#Social%20Networks#Social%20Networks#Social%20Media%20(%20reddit,%20skype,%20twitter)%7CSocial%20Media%20(%20reddit,%20skype,%20twitter))
+		- [](#Social%20Networks#Social%20Networks#Social%20Media%20Tools%7CSocial%20Media%20Tools)
+		- [](#Social%20Networks#Social%20Networks#Username%20Check%7CUsername%20Check)
+			- [](#Username%20Check#Username%20Check#Telegram%7CTelegram)
+			- [](#Username%20Check#Username%20Check#TikTok%20Tools%7CTikTok%20Tools)
+			- [](#Username%20Check#Username%20Check#Twitter%20(tools)%7CTwitter%20(tools))
+			- [](#Username%20Check#Username%20Check#Validating%20E-mails%7CValidating%20E-mails)
+	- [](#OSINT#OSINT#Speech%20to%20Text%20Tools%7CSpeech%20to%20Text%20Tools)
+	- [](#OSINT#OSINT#State%20and%20Local%20Government%20Contracts%7CState%20and%20Local%20Government%20Contracts)
+	- [](#OSINT#OSINT#State%20Registries%20of%20Political%20Contributions%7CState%20Registries%20of%20Political%20Contributions)
+	- [](#OSINT#OSINT#State%20Registries%20of%20Political%20Lobbyists%7CState%20Registries%20of%20Political%20Lobbyists)
+	- [](#OSINT#OSINT#Stock%20Images%7CStock%20Images)
+	- [](#OSINT#OSINT#Street-Level%20Viewers%7CStreet-Level%20Viewers)
+	- [](#OSINT#OSINT#Subdomain%20Enumeration%7CSubdomain%20Enumeration)
+	- [](#OSINT#OSINT#Surveillance%20Tools%7CSurveillance%20Tools)
+		- [](#Surveillance%20Tools#Surveillance%20Tools#Surveillance%20Apps%20&%20Equipment%7CSurveillance%20Apps%20&%20Equipment)
+		- [](#Surveillance%20Tools#Surveillance%20Tools#Surveillance%20Cover%7CSurveillance%20Cover)
+	- [](#OSINT#OSINT#Text%20to%20Speech%20Tools%7CText%20to%20Speech%20Tools)
+	- [](#OSINT#OSINT#Tinder%7CTinder)
+	- [](#OSINT#OSINT#Tools%7CTools)
+		- [](#Tools#Tools#Tools%20-%20Android%20emulators%7CTools%20-%20Android%20emulators)
+		- [](#Tools#Tools#Tools%20-%20Darkweb%7CTools%20-%20Darkweb)
+		- [](#Tools#Tools#Tools%20-%20Images%20and%20Documents%7CTools%20-%20Images%20and%20Documents)
+		- [](#Tools#Tools#Tools%20-%20Privacy%7CTools%20-%20Privacy)
+		- [](#Tools#Tools#Tools%20-%20Social%20Media%7CTools%20-%20Social%20Media)
+		- [](#Tools#Tools#Tools%20-%20Translation/Language%7CTools%20-%20Translation/Language)
+	- [](#OSINT#OSINT#TOR%20&%20Dark%20Web%7CTOR%20&%20Dark%20Web)
+	- [](#OSINT#OSINT#Trademarks%20and%20Servicemarks%7CTrademarks%20and%20Servicemarks)
+	- [](#OSINT#OSINT#Traffic%20Cameras%7CTraffic%20Cameras)
+	- [](#OSINT#OSINT#Twitter%7CTwitter)
+		- [](#Twitter#Twitter#Twitter%20API%7CTwitter%20API)
+		- [](#Twitter#Twitter#Twitter%20Downloaders%7CTwitter%20Downloaders)
+		- [](#Twitter#Twitter#Twitter%20Map-Based%20Viewers%7CTwitter%20Map-Based%20Viewers)
+		- [](#Twitter#Twitter#Twitter%20Metrics%7CTwitter%20Metrics)
+		- [](#Twitter#Twitter#Twitter%20Network%20and%20Tweet%20Visualizers%7CTwitter%20Network%20and%20Tweet%20Visualizers)
+		- [](#Twitter#Twitter#Twitter%20Search%7CTwitter%20Search)
+	- [](#OSINT#OSINT#URL%7CURL)
+		- [](#URL#URL#URL%20Expanders%7CURL%20Expanders)
+		- [](#URL#URL#URL%20Shorteners%7CURL%20Shorteners)
+		- [](#URL#URL#URL%20Variance%20Detection%7CURL%20Variance%20Detection)
+	- [](#OSINT#OSINT#Video%20Downloaders%7CVideo%20Downloaders)
+	- [](#OSINT#OSINT#Video%20Editors%20and%20Converters%7CVideo%20Editors%20and%20Converters)
+	- [](#OSINT#OSINT#Video%20Search%20and%20Reverse%20Video%20Search%7CVideo%20Search%20and%20Reverse%20Video%20Search)
+	- [](#OSINT#OSINT#Virtual%20Machines%7CVirtual%20Machines)
+	- [](#OSINT#OSINT#Virtual%20Numbers%7CVirtual%20Numbers)
+		- [](#Virtual%20Numbers#Virtual%20Numbers#Steam%20Profile's%7CSteam%20Profile's)
+		- [](#Virtual%20Numbers#Virtual%20Numbers#telegrambots%7Ctelegrambots)
+		- [](#Virtual%20Numbers#Virtual%20Numbers#Text%20Transliteration%7CText%20Transliteration)
+		- [](#Virtual%20Numbers#Virtual%20Numbers#Threat%20Hunting%7CThreat%20Hunting)
+			- [](#Threat%20Hunting#Threat%20Hunting#Threat%20Intelligence%7CThreat%20Intelligence)
+		- [](#Virtual%20Numbers#Virtual%20Numbers#Tools%20-%20OSINT%7CTools%20-%20OSINT)
+		- [](#Virtual%20Numbers#Virtual%20Numbers#torrent%20(onion)%7Ctorrent%20(onion))
+			- [](#torrent%20(onion)#torrent%20(onion)#Software%20-%20Privacy%20(onion)%7CSoftware%20-%20Privacy%20(onion))
+			- [](#torrent%20(onion)#torrent%20(onion)#TORRENT/IP%20Data%7CTORRENT/IP%20Data)
+		- [](#Virtual%20Numbers#Virtual%20Numbers#Translation%20and%20Language%20Tools%7CTranslation%20and%20Language%20Tools)
+		- [](#Virtual%20Numbers#Virtual%20Numbers#Trending/Impact/Information/Story%20Detection%7CTrending/Impact/Information/Story%20Detection)
+		- [](#Virtual%20Numbers#Virtual%20Numbers#Validation/Fact%20Checking%5C%7CValidation/Fact%20Checking%5C)
+		- [](#Virtual%20Numbers#Virtual%20Numbers#Vehicle%20Identification%20(license%20plates)%7CVehicle%20Identification%20(license%20plates))
+		- [](#Virtual%20Numbers#Virtual%20Numbers#visuals%7Cvisuals)
+			- [](#visuals#visuals#Business%20Search%7CBusiness%20Search)
+			- [](#visuals#visuals#Working%20with%20Hashtags%7CWorking%20with%20Hashtags)
+			- [](#visuals#visuals#Yandex%20%7C%20Cyrillic%7CYandex%20%7C%20Cyrillic)
+			- [](#visuals#visuals#Youtube%20(tools)%20/%20VIDEO%7CYoutube%20(tools)%20/%20VIDEO)
+			- [](#visuals#visuals#Videos%20(onion)%7CVideos%20(onion))
+	- [](#OSINT#OSINT#Voter%20Records%20&%20Registration%7CVoter%20Records%20&%20Registration)
+	- [](#OSINT#OSINT#WARN%20Notices%7CWARN%20Notices)
+	- [](#OSINT#OSINT#Web%20Intelligence%7CWeb%20Intelligence)
+	- [](#OSINT#OSINT#Webcams%7CWebcams)
+	- [](#OSINT#OSINT#WhatsApp%7CWhatsApp)
+	- [](#OSINT#OSINT#WiFi%20Networks%7CWiFi%20Networks)
+	- [](#OSINT#OSINT#Wifi%20Search%7CWifi%20Search)
+	- [](#OSINT#OSINT#Working%20with%20Radio%7CWorking%20with%20Radio)
+	- [](#OSINT#OSINT#YouTube%7CYouTube)
+		- [](#YouTube#YouTube#YouTube%20Tools%7CYouTube%20Tools)
+	- [](#OSINT#OSINT#Zip%20Codes%7CZip%20Codes)
+- [PKMS](#PKMS)
+	- [](#PKMS#PKMS#Acronyms%20and%20Abbreviations%7CAcronyms%20and%20Abbreviations)
+	- [](#PKMS#PKMS#Apps%7CApps)
+		- [](#Apps#Apps#Cross-Platform%7CCross-Platform)
+		- [](#Apps#Apps#Docker%7CDocker)
+		- [](#Apps#Apps#iOS%7CiOS)
+		- [](#Apps#Apps#Linux%7CLinux)
+		- [](#Apps#Apps#MacOS%7CMacOS)
+		- [](#Apps#Apps#Online%7COnline)
+		- [](#Apps#Apps#Packages%7CPackages)
+		- [](#Apps#Apps#VS%20Code%7CVS%20Code)
+		- [](#Apps#Apps#Windows%7CWindows)
+	- [](#PKMS#PKMS#Communities%7CCommunities)
+	- [](#PKMS#PKMS#Glossaries%20and%20Dictionaries%7CGlossaries%20and%20Dictionaries)
+	- [](#PKMS#PKMS#Memex%7CMemex)
+	- [](#PKMS#PKMS#Notetaking%7CNotetaking)
+	- [](#PKMS#PKMS#Obsidian%7CObsidian)
+- [Programming](#Programming)
+	- [](#Programming#Programming#Code%20Editors%7CCode%20Editors)
+	- [](#Programming#Programming#Database%7CDatabase)
+	- [](#Programming#Programming#Developer%7CDeveloper)
+	- [](#Programming#Programming#Git%7CGit)
+		- [](#Git#Git#AWESOME%7CAWESOME)
+		- [](#Git#Git#github-stars%7Cgithub-stars)
+		- [](#Git#Git#Gitlab%7CGitlab)
+	- [](#Programming#Programming#Javascript%7CJavascript)
+	- [](#Programming#Programming#JSON%7CJSON)
+	- [](#Programming#Programming#Markdown%7CMarkdown)
+	- [](#Programming#Programming#Misc%7CMisc)
+	- [](#Programming#Programming#Python%7CPython)
+	- [](#Programming#Programming#Regex%7CRegex)
+	- [](#Programming#Programming#Snippets%7CSnippets)
+	- [](#Programming#Programming#Terminal%7CTerminal)
+		- [](#Terminal#Terminal#CLI%7CCLI)
+- [Data Related](#Data%20Related)
+	- [](#Data%20Related#Data%20Related#Data%20Integration%20and%20Visualisers%7CData%20Integration%20and%20Visualisers)
+		- [](#Data%20Integration%20and%20Visualisers#Data%20Integration%20and%20Visualisers#Charts%7CCharts)
+		- [](#Data%20Integration%20and%20Visualisers#Data%20Integration%20and%20Visualisers#Dashboards%7CDashboards)
+		- [](#Data%20Integration%20and%20Visualisers#Data%20Integration%20and%20Visualisers#Data%20Analysis%7CData%20Analysis)
+		- [](#Data%20Integration%20and%20Visualisers#Data%20Integration%20and%20Visualisers#Data%20Scrapers%7CData%20Scrapers)
+		- [](#Data%20Integration%20and%20Visualisers#Data%20Integration%20and%20Visualisers#Database%7CDatabase)
+		- [](#Data%20Integration%20and%20Visualisers#Data%20Integration%20and%20Visualisers#Graphs%7CGraphs)
+		- [](#Data%20Integration%20and%20Visualisers#Data%20Integration%20and%20Visualisers#Plots%7CPlots)
+		- [](#Data%20Integration%20and%20Visualisers#Data%20Integration%20and%20Visualisers#Spreadsheets%7CSpreadsheets)
+		- [](#Data%20Integration%20and%20Visualisers#Data%20Integration%20and%20Visualisers#Timelines%7CTimelines)
+	- [](#Data%20Related#Data%20Related#Facebook%7CFacebook)
+	- [](#Data%20Related#Data%20Related#Financial%7CFinancial)
+	- [](#Data%20Related#Data%20Related#iOS%7CiOS)
+	- [](#Data%20Related#Data%20Related#Journal%7CJournal)
+	- [](#Data%20Related#Data%20Related#Location%20History%7CLocation%20History)
+	- [](#Data%20Related#Data%20Related#Text%20Messages%7CText%20Messages)
+- [Reference](#Reference)
+	- [](#Reference#Reference#Academic%7CAcademic)
+	- [](#Reference#Reference#Academic%20and%20Grey%20Literature%20Research%20Tools%7CAcademic%20and%20Grey%20Literature%20Research%20Tools)
+	- [](#Reference#Reference#Adderall%7CAdderall)
+	- [](#Reference#Reference#Ancestry%20Research%7CAncestry%20Research)
+	- [](#Reference#Reference#Annotation%20and%20Highlighting%7CAnnotation%20and%20Highlighting)
+	- [](#Reference#Reference#Audio%20Books%7CAudio%20Books)
+	- [](#Reference#Reference#DocArticles%7CDocArticles)
+	- [](#Reference#Reference#Document%20Checking%7CDocument%20Checking)
+	- [](#Reference#Reference#Ebooks%7CEbooks)
+	- [](#Reference#Reference#EDU%7CEDU)
+	- [](#Reference#Reference#Grammer/Spelling/Etc%7CGrammer/Spelling/Etc)
+	- [](#Reference#Reference#Learning%7CLearning)
+	- [](#Reference#Reference#Newspaper%20Sites%7CNewspaper%20Sites)
+	- [](#Reference#Reference#Papers%20and%20Journals%7CPapers%20and%20Journals)
+	- [](#Reference#Reference#PDF%20Management%7CPDF%20Management)
+	- [](#Reference#Reference#PDF%20Sites%7CPDF%20Sites)
+	- [](#Reference#Reference#Publications%7CPublications)
+	- [](#Reference#Reference#Reference%20Tools%7CReference%20Tools)
+- [Resources](#Resources)
+	- [](#Resources#Resources#Dev%20Design%7CDev%20Design)
+	- [](#Resources#Resources#Dev%20Resources%7CDev%20Resources)
+	- [](#Resources#Resources#Dev%20Tools%7CDev%20Tools)
+	- [](#Resources#Resources#Dev%20Web%7CDev%20Web)
+	- [](#Resources#Resources#How-To's%20and%20Continious%20Learning%7CHow-To's%20and%20Continious%20Learning)
+		- [](#How-To's%20and%20Continious%20Learning#How-To's%20and%20Continious%20Learning#Cheetsheet%7CCheetsheet)
+		- [](#How-To's%20and%20Continious%20Learning#How-To's%20and%20Continious%20Learning#Git%7CGit)
+	- [](#Resources#Resources#WP%20Resources%7CWP%20Resources)
+- [Search Engines](#Search%20Engines)
+	- [](#Search%20Engines#Search%20Engines#Address%20and%20Contact%20Information%20Search%7CAddress%20and%20Contact%20Information%20Search)
+	- [](#Search%20Engines#Search%20Engines#Advanced%20Searching%7CAdvanced%20Searching)
+	- [](#Search%20Engines#Search%20Engines#Analytics%7CAnalytics)
+	- [](#Search%20Engines#Search%20Engines#Apps%7CApps)
+	- [](#Search%20Engines#Search%20Engines#Archived%20Pages%7CArchived%20Pages)
+	- [](#Search%20Engines#Search%20Engines#Audio%7CAudio)
+	- [](#Search%20Engines#Search%20Engines#Awesome%20Hacking%20Search%20Engines%7CAwesome%20Hacking%20Search%20Engines)
+	- [](#Search%20Engines#Search%20Engines#Blog%7CBlog)
+	- [](#Search%20Engines#Search%20Engines#Code%20&%20Repository%20Search%7CCode%20&%20Repository%20Search)
+		- [](#Code%20&%20Repository%20Search#Code%20&%20Repository%20Search#C0D3BL0CK%20Custom%20Search%20Engines%7CC0D3BL0CK%20Custom%20Search%20Engines)
+		- [](#Code%20&%20Repository%20Search#Code%20&%20Repository%20Search#Code%20&%20Dev%20&%20Tech%7CCode%20&%20Dev%20&%20Tech)
+	- [](#Search%20Engines#Search%20Engines#Custom-Search-Engines%7CCustom-Search-Engines)
+	- [](#Search%20Engines#Search%20Engines#CV%20and%20Resume%20Search%7CCV%20and%20Resume%20Search)
+	- [](#Search%20Engines#Search%20Engines#Decentralised%20Search%20Engines%7CDecentralised%20Search%20Engines)
+	- [](#Search%20Engines#Search%20Engines#Direct%20Download%7CDirect%20Download)
+	- [](#Search%20Engines#Search%20Engines#Documents%7CDocuments)
+	- [](#Search%20Engines#Search%20Engines#E-mail%20Search%7CE-mail%20Search)
+	- [](#Search%20Engines#Search%20Engines#Expert%20Search%7CExpert%20Search)
+	- [](#Search%20Engines#Search%20Engines#Files%7CFiles)
+		- [](#Files#Files#FTP%20&%20File%20Search%7CFTP%20&%20File%20Search)
+	- [](#Search%20Engines#Search%20Engines#Finding%20Data%20and%20Statistics%7CFinding%20Data%20and%20Statistics)
+	- [](#Search%20Engines#Search%20Engines#General%7CGeneral)
+	- [](#Search%20Engines#Search%20Engines#Google%20Custom%20Search%7CGoogle%20Custom%20Search)
+	- [](#Search%20Engines#Search%20Engines#Image%7CImage)
+	- [](#Search%20Engines#Search%20Engines#Infomation%7CInfomation)
+	- [](#Search%20Engines#Search%20Engines#Maps%7CMaps)
+	- [](#Search%20Engines#Search%20Engines#Medical%20Search%20Engines%7CMedical%20Search%20Engines)
+	- [](#Search%20Engines#Search%20Engines#Meta%7CMeta)
+	- [](#Search%20Engines#Search%20Engines#Misc%7CMisc)
+	- [](#Search%20Engines#Search%20Engines#More%20Custom%20Search%20Engines%7CMore%20Custom%20Search%20Engines)
+	- [](#Search%20Engines#Search%20Engines#Open%20DB,%20Directories,%20and%20Services%20Search%7COpen%20DB,%20Directories,%20and%20Services%20Search)
+	- [](#Search%20Engines#Search%20Engines#OS-Software%7COS-Software)
+	- [](#Search%20Engines#Search%20Engines#Pastebin%7CPastebin)
+	- [](#Search%20Engines#Search%20Engines#People%20Search%20Tools%7CPeople%20Search%20Tools)
+	- [](#Search%20Engines#Search%20Engines#Public%20Records%7CPublic%20Records)
+	- [](#Search%20Engines#Search%20Engines#Search%20Engines%7CSearch%20Engines)
+	- [](#Search%20Engines#Search%20Engines#Search%20Hacks%7CSearch%20Hacks)
+	- [](#Search%20Engines#Search%20Engines#Search%20Strings%7CSearch%20Strings)
+	- [](#Search%20Engines#Search%20Engines#Search%20Terms%20Expertise%7CSearch%20Terms%20Expertise)
+	- [](#Search%20Engines#Search%20Engines#Search%20Tools%7CSearch%20Tools)
+	- [](#Search%20Engines#Search%20Engines#SEO%20Search%20Engines%7CSEO%20Search%20Engines)
+	- [](#Search%20Engines#Search%20Engines#Similiar%20Sites%7CSimiliar%20Sites)
+	- [](#Search%20Engines#Search%20Engines#Specialized%7CSpecialized)
+	- [](#Search%20Engines#Search%20Engines#Specialty%20Search%20Engines%7CSpecialty%20Search%20Engines)
+	- [](#Search%20Engines#Search%20Engines#Technology%7CTechnology)
+	- [](#Search%20Engines#Search%20Engines#Tools%7CTools)
+	- [](#Search%20Engines#Search%20Engines#Torrents%7CTorrents)
+	- [](#Search%20Engines#Search%20Engines#UNIFIED%20SEARCH%7CUNIFIED%20SEARCH)
+	- [](#Search%20Engines#Search%20Engines#Video%7CVideo)
+		- [](#Video#Video#YouTube%7CYouTube)
+	- [](#Search%20Engines#Search%20Engines#Working%20with%20Document%20Metadata%7CWorking%20with%20Document%20Metadata)
+- [The World Wide Web](#The%20World%20Wide%20Web)
+	- [](#The%20World%20Wide%20Web#The%20World%20Wide%20Web#Adblock-Paywalls%7CAdblock-Paywalls)
+	- [](#The%20World%20Wide%20Web#The%20World%20Wide%20Web#Awesome%20Internet%20Finds%7CAwesome%20Internet%20Finds)
+	- [](#The%20World%20Wide%20Web#The%20World%20Wide%20Web#Browser%7CBrowser)
+		- [](#Browser#Browser#Bookmarks%7CBookmarks)
+			- [](#Bookmarks#Bookmarks#Start%20pages%7CStart%20pages)
+		- [](#Browser#Browser#Browser%20Extensions%7CBrowser%20Extensions)
+			- [](#Browser%20Extensions#Browser%20Extensions#BrainTool%7CBrainTool)
+			- [](#Browser%20Extensions#Browser%20Extensions#BrainTool%7CBrainTool)
+			- [](#Browser%20Extensions#Browser%20Extensions#Complementary%20Tools%7CComplementary%20Tools)
+			- [](#Browser%20Extensions#Browser%20Extensions#Contributions%7CContributions)
+			- [](#Browser%20Extensions#Browser%20Extensions#Resource%7CResource)
+			- [](#Browser%20Extensions#Browser%20Extensions#emacs%20and%20org-mode%7Cemacs%20and%20org-mode)
+			- [](#Browser%20Extensions#Browser%20Extensions#Personal%20Productivity%7CPersonal%20Productivity)
+			- [](#Browser%20Extensions#Browser%20Extensions#To%20Read%7CTo%20Read)
+			- [](#Browser%20Extensions#Browser%20Extensions#Chrome%7CChrome)
+			- [](#Browser%20Extensions#Browser%20Extensions#Firefox%7CFirefox)
+		- [](#Browser#Browser#Browser%20History%7CBrowser%20History)
+		- [](#Browser#Browser#Links%20&%20URLs%7CLinks%20&%20URLs)
+	- [](#The%20World%20Wide%20Web#The%20World%20Wide%20Web#Direct%20Documents%7CDirect%20Documents)
+		- [](#Direct%20Documents#Direct%20Documents#Important%20Documents%7CImportant%20Documents)
+	- [](#The%20World%20Wide%20Web#The%20World%20Wide%20Web#Divolt%7CDivolt)
+	- [](#The%20World%20Wide%20Web#The%20World%20Wide%20Web#Downloads%7CDownloads)
+		- [](#Downloads#Downloads#archive%7Carchive)
+		- [](#Downloads#Downloads#CRACKS%7CCRACKS)
+		- [](#Downloads#Downloads#Direct%20Download%7CDirect%20Download)
+		- [](#Downloads#Downloads#Drive%7CDrive)
+		- [](#Downloads#Downloads#Forums%7CForums)
+		- [](#Downloads#Downloads#iOS%7CiOS)
+		- [](#Downloads#Downloads#Media%20Download%7CMedia%20Download)
+			- [](#Media%20Download#Media%20Download#Movies%7CMovies)
+		- [](#Downloads#Downloads#MEGA%7CMEGA)
+		- [](#Downloads#Downloads#Nulled%7CNulled)
+			- [](#Nulled#Nulled#Wordpress%7CWordpress)
+		- [](#Downloads#Downloads#Open%20Directory%20Search%7COpen%20Directory%20Search)
+			- [](#Open%20Directory%20Search#Open%20Directory%20Search#Indexes%7CIndexes)
+		- [](#Downloads#Downloads#Premium%20Link%20Generaters%7CPremium%20Link%20Generaters)
+		- [](#Downloads#Downloads#Rentry%7CRentry)
+		- [](#Downloads#Downloads#Serials%20&%20Keygen%7CSerials%20&%20Keygen)
+		- [](#Downloads#Downloads#Sorted%7CSorted)
+		- [](#Downloads#Downloads#Telegram%20channels%7CTelegram%20channels)
+		- [](#Downloads#Downloads#Torrents%7CTorrents)
+		- [](#Downloads#Downloads#Warez%7CWarez)
+	- [](#The%20World%20Wide%20Web#The%20World%20Wide%20Web#Google%7CGoogle)
+		- [](#Google#Google#Google%20Cloud%20Platform%7CGoogle%20Cloud%20Platform)
+		- [](#Google#Google#Google%20Drive%7CGoogle%20Drive)
+		- [](#Google#Google#Google%20Drive%20Shared%20Indexes%7CGoogle%20Drive%20Shared%20Indexes)
+		- [](#Google#Google#Google%20Earth%7CGoogle%20Earth)
+	- [](#The%20World%20Wide%20Web#The%20World%20Wide%20Web#Links%20&%20Lists%7CLinks%20&%20Lists)
+	- [](#The%20World%20Wide%20Web#The%20World%20Wide%20Web#Pinboard%7CPinboard)
+	- [](#The%20World%20Wide%20Web#The%20World%20Wide%20Web#Product%20Hunt%7CProduct%20Hunt)
+	- [](#The%20World%20Wide%20Web#The%20World%20Wide%20Web#Real%20Shit%7CReal%20Shit)
+	- [](#The%20World%20Wide%20Web#The%20World%20Wide%20Web#Website%7CWebsite)
+- [Tools](#Tools)
+	- [](#Tools#Tools#Activity%20Logging%7CActivity%20Logging)
+	- [](#Tools#Tools#AI%20Systems%7CAI%20Systems)
+	- [](#Tools#Tools#API%20Tools%7CAPI%20Tools)
+	- [](#Tools#Tools#Cloud%20Services%7CCloud%20Services)
+	- [](#Tools#Tools#Conversion%7CConversion)
+		- [](#Conversion#Conversion#Online%20Conversation%7COnline%20Conversation)
+	- [](#Tools#Tools#Data%20Visualization%7CData%20Visualization)
+	- [](#Tools#Tools#Digital%20Forensics%7CDigital%20Forensics)
+	- [](#Tools#Tools#Generators%7CGenerators)
+	- [](#Tools#Tools#GItHub%20Tools%7CGItHub%20Tools)
+	- [](#Tools#Tools#Health%7CHealth)
+	- [](#Tools#Tools#HTML%7CHTML)
+	- [](#Tools#Tools#Java%7CJava)
+	- [](#Tools#Tools#JSON%7CJSON)
+	- [](#Tools#Tools#Keyword%20Discovery%20&%20Text%20Analysis%7CKeyword%20Discovery%20&%20Text%20Analysis)
+	- [](#Tools#Tools#Markdown%20Tools%7CMarkdown%20Tools)
+	- [](#Tools#Tools#Media%7CMedia)
+	- [](#Tools#Tools#Misc%7CMisc)
+	- [](#Tools#Tools#Multiple%7CMultiple)
+	- [](#Tools#Tools#PDF%7CPDF)
+	- [](#Tools#Tools#Productivity%7CProductivity)
+	- [](#Tools#Tools#Spreadsheet%7CSpreadsheet)
+	- [](#Tools#Tools#Text%7CText)
+		- [](#Text#Text#ASCII%7CASCII)
+	- [](#Tools#Tools#Timeline%7CTimeline)
+	- [](#Tools#Tools#Tools%7CTools)
+	- [](#Tools#Tools#Upload%7CUpload)
+	- [](#Tools#Tools#Viewers%7CViewers)
+	- [](#Tools#Tools#Writing%7CWriting)
+- [WebDev](#WebDev)
+	- [](#WebDev#WebDev#Backlinks%7CBacklinks)
+	- [](#WebDev#WebDev#Cloud%7CCloud)
+	- [](#WebDev#WebDev#Dashboards%7CDashboards)
+		- [](#Dashboards#Dashboards#Dashboard%20Tools%7CDashboard%20Tools)
+	- [](#WebDev#WebDev#Finding%20SSL%20Certificates%7CFinding%20SSL%20Certificates)
+	- [](#WebDev#WebDev#Host-Domains%7CHost-Domains)
+	- [](#WebDev#WebDev#HTML%20&%20CSS%7CHTML%20&%20CSS)
+	- [](#WebDev#WebDev#HTTP%7CHTTP)
+		- [](#HTTP#HTTP#APIs%7CAPIs)
+		- [](#HTTP#HTTP#Automation%7CAutomation)
+		- [](#HTTP#HTTP#IFTTT%7CIFTTT)
+		- [](#HTTP#HTTP#Resources%7CResources)
+		- [](#HTTP#HTTP#RSS%7CRSS)
+			- [](#RSS#RSS#RSS%20Tools%7CRSS%20Tools)
+			- [](#RSS#RSS#RSS%20indexes%20and%20Search%20tools%7CRSS%20indexes%20and%20Search%20tools)
+			- [](#RSS#RSS#RSS%20Readers%7CRSS%20Readers)
+		- [](#HTTP#HTTP#Webhooks%7CWebhooks)
+	- [](#WebDev#WebDev#Indexing-WebCrawling%7CIndexing-WebCrawling)
+	- [](#WebDev#WebDev#Inspiration%7CInspiration)
+	- [](#WebDev#WebDev#Self-Hosted%7CSelf-Hosted)
+	- [](#WebDev#WebDev#SEO%20Tools%7CSEO%20Tools)
+	- [](#WebDev#WebDev#Server%7CServer)
+	- [](#WebDev#WebDev#Site%20Mapping%20Tools%7CSite%20Mapping%20Tools)
+	- [](#WebDev#WebDev#Web%20Animation%7CWeb%20Animation)
+	- [](#WebDev#WebDev#Website%7CWebsite)
+		- [](#Website#Website#Landing%20Page%7CLanding%20Page)
+		- [](#Website#Website#Static%20Sites%7CStatic%20Sites)
+		- [](#Website#Website#Status%20Page%7CStatus%20Page)
+		- [](#Website#Website#Wordpress%20Builds%7CWordpress%20Builds)
+	- [](#WebDev#WebDev#Website%20Monitoring%7CWebsite%20Monitoring)
+		- [](#Website%20Monitoring#Website%20Monitoring#Monitoring%7CMonitoring)
 
 
 ---
@@ -2042,7 +2042,7 @@
 - [The OSINT Toolkit](https://medium.com/osint/the-osint-toolkit-3b9233d1cdf9)
 - [What The OSINT!](https://medium.com/what-the-osint)
 ##### OSINT Blogs
-- [[The OSINTions OSINT Wiki]](https://theosintion.com/wiki/doku.php?id=home)
+- [The OSINTions OSINT Wiki](The%20OSINTions%20OSINT%20Wiki)(https://theosintion.com/wiki/doku.php?id=home)
 - [@hatless1der | Blog](https://hatless1der.com/)
 - [0xrishabh](https://blog.0xrishabh.dev/)
 - [4n6link.com](https://4n6link.com/)
@@ -2224,7 +2224,7 @@
 - [Zero To Hero: Web3.0 and Solidity Development Roadmap](https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap)
 - [Zerodaylab.com](https://zerodaylab.com/)
 - [ZK Learning Resources](https://learn.0xparc.org/)
-- [[[index]] - anagora.org](https://anagora.org/index)
+- [[index](%5Bindex) - anagora.org](https://anagora.org/index)
 - [23 Tools To Make Your Life As A Developer A Lot Easier](https://link.medium.com/VyTBQY2S4mb)
 - [A Prototype of Pivot Searching - IEEE Spectrum](https://spectrum.ieee.org/a-prototype-of-pivot-searching)
 - [About the site | beepb00p](https://beepb00p.xyz/site.html)
@@ -8753,7 +8753,7 @@
 - [Using journalctl - The Ultimate Guide To Logging](https://www.loggly.com/ultimate-guide/using-journalctl)
 - [WorkFlowy](https://workflowy.com/)
 ### Obsidian
-- [[[@bbchase/obsidian resources]] - anagora.org](https://anagora.org/@bbchase/obsidian-resources)
+- [[@bbchase/obsidian resources](%5B@bbchase/obsidian%20resources) - anagora.org](https://anagora.org/@bbchase/obsidian-resources)
 - [A Guide to Obsidian: Local, Markdown-Powered Networked Notes - SitePoint](https://www.sitepoint.com/obsidian-beginner-guide/)
 - [agreatfool/obsidian-utils: Command line tools to help obsidian stuff](https://github.com/agreatfool/obsidian-utils)
 - [basilioss/obsidian-scrapers: Get information from link for Obsidian](https://github.com/basilioss/obsidian-scrapers)
@@ -17222,7 +17222,7 @@
 - [Vepp | Your Friendly Panel for Website & Server Management](https://www.vepp.com/)
 - [WHMCS Themes & Templates - WHMCS.Design](https://whmcs.design/)
 - [WordOps - High performance WordPress stack with a few keystrokes](https://wordops.net/)
-- [[Array Builder]](https://www.arraybuilder.com/)
+- [Array Builder](Array%20Builder)(https://www.arraybuilder.com/)
 - [3 tools to convert Markdown to lovely HTML | Web Production | Zatta - Production studio of web, video, and various things](https://zatta.link/en/web/top3-tools-for-convert-markdown-to-html.html)
 - [About weho.st | wehost](https://weho.st/)
 - [about.me | your personal homepage](https://about.me/)

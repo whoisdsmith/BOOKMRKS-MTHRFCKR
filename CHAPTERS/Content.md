@@ -1,6 +1,36 @@
-## Content
-### Communities
-#### Dev.to
+# TOC
+---
+---
+
+- [[#Content|Content]]
+	- [[#Content#Communities|Communities]]
+		- [[#Communities#Dev.to|Dev.to]]
+		- [[#Communities#Discord|Discord]]
+		- [[#Communities#Telegram|Telegram]]
+		- [[#Communities#Twitter|Twitter]]
+	- [[#Content#Content Blogs, RSS and Feeds|Content Blogs, RSS and Feeds]]
+		- [[#Content Blogs, RSS and Feeds#Blogs|Blogs]]
+			- [[#Blogs#Adderall|Adderall]]
+			- [[#Blogs#Data|Data]]
+			- [[#Blogs#Dev-Sites|Dev-Sites]]
+			- [[#Blogs#Medium Blogs|Medium Blogs]]
+			- [[#Blogs#OSINT Blogs|OSINT Blogs]]
+		- [[#Content Blogs, RSS and Feeds#Create Blog|Create Blog]]
+		- [[#Content Blogs, RSS and Feeds#Forums|Forums]]
+		- [[#Content Blogs, RSS and Feeds#People To Follow|People To Follow]]
+		- [[#Content Blogs, RSS and Feeds#Podcasts|Podcasts]]
+	- [[#Content#Social Media|Social Media]]
+		- [[#Social Media#Instagram|Instagram]]
+		- [[#Social Media#Reddit|Reddit]]
+
+---
+
+# Content
+
+---
+
+## Communities
+### Dev.to
 - [25 GitHub Repos you can't miss to bookmark - DEV Community](https://dev.to/devwriteups/25-github-repos-you-can-t-miss-to-bookmark-1ek1)
 - [axiom.ai | no-code browser automation](https://axiom.ai/)
 - [Base64 Image Encoder](https://www.base64-image.de/)
@@ -30,7 +60,7 @@
 - [Whatdoestheinternetthink.net - What does the internet think?](http://www.whatdoestheinternetthink.net/)
 - [Will It CORS?](https://httptoolkit.tech/will-it-cors)
 - [yoshuawuyts/vmd: preview markdown files](https://github.com/yoshuawuyts/vmd)
-#### Discord
+### Discord
 - [Browse Public Dutch Discord Servers](https://discordservers.com/search/dutch)
 - [DISBOARD](https://disboard.org/)
 - [disboard.org/nl/search](https://disboard.org/nl/search)
@@ -44,7 +74,7 @@
 - [Join the PiratePC Discord Server!](https://discord.com/invite/NZ976ZApBe)
 - [Join the The Megadrive Discord Server!](https://discord.gg/h2P5zsNMxZ)
 - [Public Discord Servers & Discord Channels](https://discord.me/servers)
-#### Telegram
+### Telegram
 - [OpenDirectories](https://t.me/r_OpenDirectories)
 - [r/Piracy - How many of you primarily rely on Telegram for all your piracy needs?](https://www.reddit.com/r/Piracy/comments/hpzcq3/how_many_of_you_primarily_rely_on_telegram_for/)
 - [Raymond Free Software • Main Discussion Group](https://t.me/raymondfreesoftware)
@@ -57,7 +87,7 @@
 - [Telegram: Contact @TGMoviesBot](https://t.me/TGMoviesBot)
 - [Transloader](https://t.me/transload)
 - [VK Files Bot](https://t.me/VKFiles_Bot)
-#### Twitter
+### Twitter
 - [100 Twitter Tools to Go to The Top – Ultimate Collection!](http://gnoted.com/100-twitter-tools-ultimate-power-collection)
 - [Favorite tweet by @Archarzel](https://twitter.com/Archarzel/status/1479171244721414149)
 - [Favorite tweet by @Archarzel](https://twitter.com/Archarzel/status/1479171243681239047)
@@ -72,9 +102,9 @@
 - [Nawvel](https://nawvel.com/discover)
 - [Reddit Favorites](https://redditfavorites.com/)
 - [The Devs Network](https://thedevs.network/)
-### Content Blogs, RSS and Feeds
-#### Blogs
-##### Adderall
+## Content Blogs, RSS and Feeds
+### Blogs
+#### Adderall
 - [A Letter to Adderall from the Asylum](https://humanparts.medium.com/a-letter-to-adderall-from-the-asylum-bf6a51a4f0c8)
 - [Adderall Ain’t Meth](https://medium.com/invisible-illness/adderall-aint-meth-c3a867157aa7)
 - [ADDitude](https://www.additudemag.com/)
@@ -94,7 +124,7 @@
 - [The Age of Distracti-pression](https://www.nytimes.com/2022/07/09/style/medication-depression-anxiety-adhd.html)
 - [What a Lifetime of Adderall Does to Your Brain](https://medium.com/mel-magazine/what-a-lifetime-of-adderall-does-to-your-brain-5beba7c2af7e)
 - [When Getting High Is a Hobby, Not a Habit (Published 2021)](https://www.nytimes.com/2021/01/12/books/review/drug-use-for-grown-ups-carl-l-hart.html?searchResultPosition=44)
-##### Data
+#### Data
 - [Everything you need to know about SMS analytics | Textline Blog](https://www.textline.com/blog/sms-analytics)
 - [frustrated robot | frustrated robot](https://www.frustratedrobot.com/)
 - [Insights Found By Analyzing My Text Messages](http://integritydatainsights.com/insights-found-by-analyzing-my-text-messages/)
@@ -102,7 +132,7 @@
 - [The romantic side of data science: Analyzing a relationship through a year worth of text messages](https://towardsdatascience.com/the-romantic-side-of-data-science-analyzing-a-relationship-through-a-year-worth-of-text-messages-be7e32d81fa9)
 - [What is Text Analysis? A Beginner’s Guide](https://monkeylearn.com/text-analysis/)
 - [YAiM — Yet Another iMessage Mining](https://medium.com/analytics-vidhya/https-medium-com-gss-yaim-yet-another-imessage-mining-1bb0d812b002)
-##### Dev-Sites
+#### Dev-Sites
 - [.NET Development Addict](http://dotnetdevaddict.co.za/)
 - [「日常」](http://yuuko.cn/)
 - [| a.programming.blog](https://who.ldelossa.is/)
@@ -833,7 +863,7 @@
 - [论野生技术&二次元 - 又一个wORdPRes5站点](https://yooooo.us/)
 - [轮子主义初级阶段 v0.0.1 - Write Less, Think More](https://www.1stg.me/)
 - [首页 | 陈凤元](https://chenfengyuan.com/)
-##### Medium Blogs
+#### Medium Blogs
 - [Argonyte](https://medium.com/@argonyte.cybersec)
 - [Hunchly](https://medium.com/@hunchly)
 - [Irfan Shakeel](https://irfaanshakeel.medium.com/)
@@ -845,8 +875,8 @@
 - [Steve Micallef](https://medium.com/@micallst)
 - [The OSINT Toolkit](https://medium.com/osint/the-osint-toolkit-3b9233d1cdf9)
 - [What The OSINT!](https://medium.com/what-the-osint)
-##### OSINT Blogs
-- [[The OSINTions OSINT Wiki]](https://theosintion.com/wiki/doku.php?id=home)
+#### OSINT Blogs
+- [The OSINTions OSINT Wiki](The%20OSINTions%20OSINT%20Wiki)(https://theosintion.com/wiki/doku.php?id=home)
 - [@hatless1der | Blog](https://hatless1der.com/)
 - [0xrishabh](https://blog.0xrishabh.dev/)
 - [4n6link.com](https://4n6link.com/)
@@ -1028,7 +1058,7 @@
 - [Zero To Hero: Web3.0 and Solidity Development Roadmap](https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap)
 - [Zerodaylab.com](https://zerodaylab.com/)
 - [ZK Learning Resources](https://learn.0xparc.org/)
-- [[[index]] - anagora.org](https://anagora.org/index)
+- [[index](%5Bindex) - anagora.org](https://anagora.org/index)
 - [23 Tools To Make Your Life As A Developer A Lot Easier](https://link.medium.com/VyTBQY2S4mb)
 - [A Prototype of Pivot Searching - IEEE Spectrum](https://spectrum.ieee.org/a-prototype-of-pivot-searching)
 - [About the site | beepb00p](https://beepb00p.xyz/site.html)
@@ -1093,7 +1123,7 @@
 - [What to do when iCloud gets stuck - Software - MPU Talk](https://talk.macpowerusers.com/t/what-to-do-when-icloud-gets-stuck/26657/2)
 - [When clouds break the sun doesn’t shine](https://eclecticlight.co/2022/02/04/when-clouds-break-the-sun-doesnt-shine/)
 - [Xe Iaso](https://christine.website/)
-#### Create Blog
+### Create Blog
 - ["Vortex](https://dimension.dev/vortex?ref=producthunt)
 - [Arbital](https://arbital.com/)
 - [Bludit - Flat-File CMS](https://www.bludit.com/)
@@ -1110,12 +1140,12 @@
 - [Upsitely](https://www.upsitely.com/?ref=producthunt)
 - [Welcome › Dotclear › Blog management made easy](https://dotclear.org/)
 - [Write.as Pro](https://write.as/pro)
-#### Forums
+### Forums
 - [Linus Tech Tips](https://linustechtips.com/)
-#### People To Follow
+### People To Follow
 - [Git better with fzf and Fish - BrettTerpstra.com](https://brettterpstra.com/2021/11/25/git-better-with-fzf-and-fish)
 - [Mark Koester Personal Blog | Mark Koester](http://www.markwk.com/)
-#### Podcasts
+### Podcasts
 - [Cybersecurity History Podcast | Malicious Life](https://malicious.life/)
 - [Darknet Diaries – True stories from the dark side of the Internet.](https://darknetdiaries.com/)
 - [Exponent](https://exponent.fm/)
@@ -1133,9 +1163,9 @@
 - [Pilgrim / Pilgrim](http://pilgrim.are.na/)
 - [RSS feeds for your Github releases, tags and activity](https://vilcins.medium.com/rss-feeds-for-your-github-releases-tags-and-activity-cbda2c51373)
 - [Volume: Reimagining Digital Magazines](https://www.volumestories.com/)
-### Social Media
-#### Instagram
+## Social Media
+### Instagram
 - [Bibliogram](https://bibliogram.art/)
-#### Reddit
+### Reddit
 - [- Reddit saved posts and comments manager](https://updoot.app/app#_)
 ---

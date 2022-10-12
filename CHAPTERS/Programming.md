@@ -1,5 +1,33 @@
-## Programming 
-### Code Editors
+
+# TOC
+---
+---
+
+- [[#Programming|Programming]]
+	- [[#Programming#Code Editors|Code Editors]]
+	- [[#Programming#Database|Database]]
+	- [[#Programming#Developer|Developer]]
+	- [[#Programming#Git|Git]]
+		- [[#Git#AWESOME|AWESOME]]
+		- [[#Git#github-stars|github-stars]]
+		- [[#Git#Gitlab|Gitlab]]
+	- [[#Programming#Javascript|Javascript]]
+	- [[#Programming#JSON|JSON]]
+	- [[#Programming#Markdown|Markdown]]
+	- [[#Programming#Misc|Misc]]
+	- [[#Programming#Python|Python]]
+	- [[#Programming#Regex|Regex]]
+	- [[#Programming#Snippets|Snippets]]
+	- [[#Programming#Terminal|Terminal]]
+		- [[#Terminal#CLI|CLI]]
+
+---
+
+# Programming
+
+---
+
+## Code Editors
 - [[Preview] README.md - conwnet/github1s - GitHub1s](https://github1s.com/)
 - [A modern, open source code editor that understands web design](https://brackets.io/)
 - [Atom text editor](https://atom.io/)
@@ -13,11 +41,11 @@
 - [The online code editor for web apps. Powered by Visual Studio Code.](https://stackblitz.com/)
 - [The place where your ideas comes true • Skriper](https://skriper.dev/)
 - [Vershd is the Effortless Git GUI](https://vershd.io/?ref=producthunt)
-### Database
+## Database
 - [Free Remote MySQL](https://www.remotemysql.com/)
 - [Navicat Data Modeler | Supreme Database Modeling and Design Tool](https://www.navicat.com/en/products/navicat-data-modeler)
 - [Tour - Topincs](https://www.topincs.com/tour)
-### Developer
+## Developer
 - [Babel · The compiler for next generation JavaScript](https://babeljs.io/repl)
 - [Closure Compiler Service](https://closure-compiler.appspot.com/home)
 - [Dev Fonts](https://devfonts.gafi.dev/)
@@ -30,8 +58,8 @@
 - [NotABug.org: Free code hosting](https://notabug.org/)
 - [Online JavaScript beautifier](https://beautifier.io/)
 - [OS.js](https://www.os-js.org/)
-### Git 
-#### AWESOME
+## Git
+### AWESOME
 - [Awesome Resources | A collection of awesome resources added by many contributors to help others find resources material about different programming langauges and frameworks.](https://shahednasser.github.io/awesome-resources)
 - [Awesome Search](https://awesomelists.top/#/)
 - [awesome-dataviz](https://github.com/fasouto/awesome-dataviz)
@@ -58,7 +86,7 @@
 - [r3mlab/datajournalism-resources](https://github.com/r3mlab/datajournalism-resources/blob/master/README.md)
 - [sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 - [Track your Favorite Github Awesome Repo | Track Awesome List](https://www.trackawesomelist.com/)
-#### github-stars
+### github-stars
 - [awakentrue/simple-resume-vue: Simple universal resume based on Vue](https://github.com/awakentrue/simple-resume-vue)
 - [azedo/raindrop-io-github-starred-repos: Add all of your starred repos to raindrop.io](https://github.com/azedo/raindrop-io-github-starred-repos)
 - [bedimcode/responsive-resume-cv-smith: Responsive Resume Cv Website Using HTML CSS And JavaScript](https://github.com/bedimcode/responsive-resume-cv-smith)
@@ -108,7 +136,7 @@
 - [welovedevs/react-ultimate-resume: 💼 🎨 A modern software developer resume built with React and JSONResume](https://github.com/welovedevs/react-ultimate-resume)
 - [YousufSSyed/Raindrop.io-Scripts: Python scripts to interact with the raindrop.io Bookmarking Service.](https://github.com/YousufSSyed/Raindrop.io-Scripts)
 - [zainaftab44/ResumeMaker: A Resume maker app developed in Vue.js to generate beautiful resumes free-of-cost.](https://github.com/zainaftab44/ResumeMaker)
-#### Gitlab
+### Gitlab
 - [GitLab Pages | GitLab](https://docs.gitlab.com/ee/user/project/pages)
 - [.scrpt](https://github.com/acdpnk/.scrpt)
 - [120days](https://github.com/fleshgordo/120days)
@@ -989,13 +1017,13 @@
 - [zerotab-old](https://github.com/thezeroalpha/zerotab-old)
 - [ZFDragableModalTransition](https://github.com/zoonooz/ZFDragableModalTransition)
 ---
-### Javascript
+## Javascript
 - [CodeSnippet.Run - JavaScript code snippet runner for Web](https://www.codesnippet.run/?ref=producthunt)
-### JSON
+## JSON
 - [JSON Storage & JSON Hosting Service - JSONBin.io](https://jsonbin.io/?ref=producthunt)
 - [JSONPlaceholder - Free Fake REST API](https://jsonplaceholder.typicode.com/)
 - [Smart JSON Editor](http://www.smartjsoneditor.com/)
-### Markdown
+## Markdown
 - ["Markdown - Blot](https://blot.im/how/posts/markdown)
 - [Creating Timelines in Markdown](https://chrisrosser.net/posts/2020/06/05/wwb-5-creating-timelines-in-markdown/)
 - [Deepdwn by billiam](https://billiam.itch.io/deepdwn?ref=producthunt)
@@ -1017,7 +1045,7 @@
 - [udacity-fsnd/markdown-guide.md at main · br3ndonland/udacity-fsnd](https://github.com/br3ndonland/udacity-fsnd/blob/main/info/markdown-guide.md)
 - [wrighter • wrighting](https://wrighter.vercel.app/wrighting?id=rvv113Je44fSEYCMT0tvz)
 - [Yehez-Markdown-Editor](https://markdown.yehezgun.com/?ref=producthunt)
-### Misc
+## Misc
 - [Add a Timeline to Your Vue.js App](https://thewebdev.info/2020/12/21/add-a-timeline-to-your-vuejs-app/)
 - [Building a Simple timeline React component](https://andresjpulido.medium.com/building-a-simple-timeline-react-component-5a782501fbb5)
 - [Carbon](https://carbon.now.sh/)
@@ -1040,11 +1068,11 @@
 - [Timeline Vue](https://codesandbox.io/s/n094ypklvl)
 - [Vertical timeline and json](https://processwire.com/talk/topic/5523-vertical-timeline-and-json/)
 - [What are the trending open source and SaaS tools that developers use in 2022?](https://stackshare.io/tools/trending)
-### Python
+## Python
 - [Extracting Song Data From the Spotify API Using Python](https://rsci.app.link/ik6jrRug4lb?_p=c71029c19f1c6df4fc1c87)
 - [Extracting Song Data From the Spotify API Using Python](https://link.medium.com/ik6jrRug4lb)
 - [Nuitka the Python Compiler](https://nuitka.net/)
-### Regex
+## Regex
 - [Debuggex: Online visual regex tester. JavaScript, Python, and PCRE.](https://www.debuggex.com/)
 - [RegEx Library](https://uibakery.io/regex-library)
 - [RegexBuddy: Learn, Create, Understand, Test, Use and Save Regular Expression](https://www.regexbuddy.com/)
@@ -1052,10 +1080,10 @@
 - [Rubular](https://rubular.com/)
 - [Setup | magic-regexp](https://regexp.dev/getting-started/setup)
 - [Welcome | magic-regexp](https://regexp.dev/)
-### Snippets
+## Snippets
 - [Lepton - A Lean Snippet Manager powered by GitHub Gist](https://hackjutsu.com/Lepton/)
-### Terminal
-#### CLI
+## Terminal
+### CLI
 - [🌈 Awesome CLI Workshoppers | LandOf.Dev](https://landof.dev/awesome/cli-workshoppers)
 - [Automated dependency updates with pull requests - Deps](https://www.dependencies.io/)
 - [awk - remove duplicate lines across multiple txt files - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/686377/remove-duplicate-lines-across-multiple-txt-files)

@@ -1,5 +1,51 @@
-## Design 
-### Design
+# TOC
+---
+---
+
+- [[#Design|Design]]
+	- [[#Design#Design|Design]]
+	- [[#Design#Fonts|Fonts]]
+	- [[#Design#Icons|Icons]]
+	- [[#Design#Images|Images]]
+	- [[#Design#Logos|Logos]]
+	- [[#Design#Mockup's|Mockup's]]
+	- [[#Design#Multimedia|Multimedia]]
+		- [[#Multimedia#Graphics|Graphics]]
+			- [[#Graphics#Download Packs|Download Packs]]
+			- [[#Graphics#Stock Footage|Stock Footage]]
+		- [[#Multimedia#Photoshop|Photoshop]]
+		- [[#Multimedia#Resources|Resources]]
+			- [[#Resources#Design Resources|Design Resources]]
+			- [[#Resources#Graphics Resources|Graphics Resources]]
+		- [[#Multimedia#Video Resource Toolbox|Video Resource Toolbox]]
+			- [[#Video Resource Toolbox#AE|AE]]
+			- [[#Video Resource Toolbox#Film Writing Software|Film Writing Software]]
+			- [[#Video Resource Toolbox#Lighting and Equipment resources|Lighting and Equipment resources]]
+			- [[#Video Resource Toolbox#Royalty Free Video and Images and music|Royalty Free Video and Images and music]]
+			- [[#Video Resource Toolbox#Shooting and Editing Tools|Shooting and Editing Tools]]
+			- [[#Video Resource Toolbox#SourceCon Blogs|SourceCon Blogs]]
+			- [[#Video Resource Toolbox#Tutorials & YouTube Channels|Tutorials & YouTube Channels]]
+			- [[#Video Resource Toolbox#Video Editing Communities and Forums|Video Editing Communities and Forums]]
+			- [[#Video Resource Toolbox#Video Hosting Platforms|Video Hosting Platforms]]
+			- [[#Video Resource Toolbox#Webcam|Webcam]]
+			- [[#Video Resource Toolbox#YouTube|YouTube]]
+	- [[#Design#Pallets|Pallets]]
+	- [[#Design#Patterns|Patterns]]
+	- [[#Design#Placeholder|Placeholder]]
+	- [[#Design#PNGs|PNGs]]
+	- [[#Design#Shutterstock|Shutterstock]]
+	- [[#Design#Stock Photos|Stock Photos]]
+	- [[#Design#SVG|SVG]]
+	- [[#Design#Templates|Templates]]
+	- [[#Design#Vectors|Vectors]]
+
+---
+
+# Design
+
+---
+
+## Design
 - [Archillect - Archive](https://archillect.com/archive)
 - [Artvee](https://artvee.com/)
 - [Behance](https://www.behance.net/collection/4860923/Free-Fonts)
@@ -12,7 +58,7 @@
 - [Stock Photo and Image Portfolio by Andrew Derr](https://www.shutterstock.com/g/hirohideki)
 - [Stock Photo and Image Portfolio by IRINA SHI](https://www.shutterstock.com/g/IRINA+SHI)
 - [Trello.com](https://trello.com/b/TCIgF8sF/design-br-vip)
-### Fonts
+## Fonts
 - [1001 Fonts](https://www.1001fonts.com/)
 - [1001 Free Fonts](https://www.1001freefonts.com/)
 - [Abstract Fonts](https://www.abstractfonts.com/)
@@ -59,7 +105,7 @@
 - [Vk.com](https://vk.com/topic-50911295_28400542?offset=3040)
 - [wordmark.it](https://wordmark.it/)
 - [Yellow Images Creative Fonts on Yellow Images Creative Fonts](https://yellowimages.com/creative-fonts/all)
-### Icons
+## Icons
 - [css.gg](https://css.gg/)
 - [everyday icons](https://everydayicons.jp/)
 - [Feather.netlify.app](https://feather.netlify.app/)
@@ -84,13 +130,13 @@
 - [System UIcons](https://systemuicons.com/)
 - [Tabler Icons](https://tabler-icons.io/)
 - [Vector Art & Graphics](https://dryicons.com/free-icons)
-### Images
+## Images
 - [Artbreeder](https://artbreeder.com/)
-### Logos
+## Logos
 - [Brands of the World™ | Download vector logos and logotypes](https://www.brandsoftheworld.com/)
 - [Company Logo Downloads - Vector Logos, Arms (AI, EPS, SVG, PNG )](http://www.logoeps.net/)
 - [Logodownload.org](https://logodownload.org/)
-### Mockup's
+## Mockup's
 - [1068+ Most-Popular Free Design Resources to Download (PSD, AI, SVG, PNG) - Medialoot](https://medialoot.com/free-resources)
 - [CreativeBooster](https://creativebooster.net/)
 - [DB Freebies Design Resources from Behance and Dribbble](https://designerly.com/)
@@ -121,11 +167,11 @@
 - [The Mockup Club](https://themockup.club/)
 - [UI Space: PSDs](https://uispace.net/)
 - [Unplast](https://unblast.com/mockups)
-### Multimedia
-#### Graphics
-##### Download Packs
+## Multimedia
+### Graphics
+#### Download Packs
 - [Gift4designer](https://gift4designer.com/)
-##### Stock Footage
+#### Stock Footage
 - [Coverr](https://coverr.co/)
 - [Dareful.com](https://dareful.com/)
 - [Download torrent](https://gw1.torlook.info/videohive)
@@ -141,7 +187,7 @@
 - [Videohive Folders download ‹ TopFiles.org](https://topfiles.org/list/bjwor3ifkm)
 - [VFXFuture.com](https://vfxfuture.com/)
 - [Vfxmed](https://www.vfxmed.com/)
-#### Photoshop
+### Photoshop
 - [16 Best Sites to Find Free PSD Templates for Photoshop](https://www.thebalance.com/free-psd-templates-for-adobe-photoshop-1358114)
 - [365psd](https://365psd.com/)
 - [Dlpsd](https://downloadpsd.cc/)
@@ -151,8 +197,8 @@
 - [Geração Criativa - Photoshop](https://geracaocriativa.com/conteudos/design/photoshop)
 - [ProDesignTools: Helping Adobe® Users Since 2009](https://prodesigntools.com/)
 - [PSDKeys](https://psdkeys.com/)
-#### Resources
-##### Design Resources
+### Resources
+#### Design Resources
 - [Creative VIP](https://creativevip.net/)
 - [Free Design Resources : Vector : Psd : Icons | Graphichive.Net](https://graphichive.net/)
 - [Free Print Templates - Graphic Design - Stock Vectors - Web Design Elements](https://graphicflux.com/)
@@ -162,7 +208,7 @@
 - [GraphicBurger](https://graphicburger.com/)
 - [Graphicsfamily.com](https://graphicsfamily.com/)
 - [NitroGFX - Download Unique Graphics For Creative Designers](https://nitrogfx.com/)
-##### Graphics Resources
+#### Graphics Resources
 - [Argfx](https://argfx.co/)
 - [Free After Effects for download](https://gfxpert.com/after-effects)
 - [Free Graphic GFX Sources, Graphic for Designers download](https://gfxpert.com/)
@@ -173,8 +219,8 @@
 - [Home](https://www.gfxnerds.com/)
 - [Massive List Of Tools To Enhance Your Flickr Experience - Tools & Scripts - OneHack.Us | Tutorials For Free, Guides, Articles & Community Forum](https://onehack.us/t/massive-list-of-tools-to-enhance-your-flickr-experience/214544)
 - [Photoshop, Mock-Up, Add-ons, Actions](https://gfxmountain.com/photoshop)
-#### Video Resource Toolbox
-##### AE
+### Video Resource Toolbox
+#### AE
 - [Adobe After Effects Free Templates](https://shareae.com/)
 - [Adobe After Effects&nbsp;Free&nbsp;Template - Videohive Projects...](https://vfxdownload.com/)
 - [Aedownload](https://aedownloadpro.com/)
@@ -186,20 +232,20 @@
 - [Freeae](https://www.lalal.ai/)
 - [Home - Free After Effects, Video Motion](https://aeriver.com/)
 - [Projects for After Effects | Motion Graphics | Stock Footage | Video Effects](https://videoswarm.net/)
-##### Film Writing Software
+#### Film Writing Software
 - [Hollywood Camera Work :: Causality Story Sequencer :: Main](https://www.hollywoodcamerawork.com/causality.html)
 - [Page 2 Stage](https://page2stage.sourceforge.net/)
 - [Plot](https://theplot.io/)
 - [Storyboard That: The World's Best FREE Online Storyboard Creator](https://www.storyboardthat.com/)
 - [StudioBinder: Free Shot List & Storyboard Software for Creatives](https://www.studiobinder.com/shot-list-storyboard)
 - [WriterDuet | Professional Screenwriting Software You'll Love](https://writerduet.com/?link=QJF56RRE)
-##### Lighting and Equipment resources
+#### Lighting and Equipment resources
 - [10 Best Video Equipment Rental Options for Filmmakers](https://www.studiobinder.com/blog/video-equipment-rental)
 - [Home - VER](https://www.ver.com/)
 - [Rent Cameras, Lenses, and Video Gear • LensProToGo](https://www.lensprotogo.com/)
 - [Shooting Solo: A Low Budget Filmmaker's Equipment List](https://www.desktop-documentaries.com/low-budget-filmmakers-equipment-list.html)
 - [Video Equipment Rental | Video Camera Rental | BorrowLenses](https://www.borrowlenses.com/video)
-##### Royalty Free Video and Images and music
+#### Royalty Free Video and Images and music
 - [Audio Library — Music for content creators](https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA)
 - [Distill](https://www.wedistill.io/)
 - [Download Aerials Stock Footage, Sfx, Texture](https://www.cutestockfootage.com/search/aerials)
@@ -212,7 +258,7 @@
 - [Totally Free Stock Footage Downloads HD Video](https://www.vidsplay.com/)
 - [Vlog No Copyright Music](https://www.youtube.com/channel/UCEickjZj99-JJIU8_IJ7J-Q)
 - [www.lifeofvids.com/](https://www.lifeofvids.com/)
-##### Shooting and Editing Tools
+#### Shooting and Editing Tools
 - [3d animation software | Learn how to make animations | Moviestorm for filmmakers](https://www.moviestorm.co.uk/)
 - [Altru- (paid employer brand video service)](https://www.altrulabs.com/)
 - [DaVinci Resolve 16](https://www.blackmagicdesign.com/products/davinciresolve)
@@ -228,13 +274,13 @@
 - [www.loom.com/](https://www.loom.com/)
 - [Www.transcriptionstar.com](https://www.transcriptionstar.com/free-captioning-tool)
 - [Zubtitle | Automatically Add Captions to Any Video Effortlessly](https://zubtitle.com/)
-##### SourceCon Blogs
+#### SourceCon Blogs
 - [DIY Sourcing like those Cheesy Make your own Slime Videos but way Nerdier- Greg Hawkes](https://www.sourcecon.com/diy-sourcing-like-those-cheesy-make-your-own-slime-videos-but-way-nerdier)
 - [Evolve of Die- Arron Daniels](https://www.sourcecon.com/evolve-or-die)
 - [I finally created my own video messaging for sourcing- Erin Mathew](https://www.sourcecon.com/i-finally-created-my-own-video-messaging-for-sourcing-heres-what-happened)
 - [Integrating Video into Outreach - Greg Hawkes](https://www.sourcecon.com/integrating-video-into-outreach)
 - [Using Videos to Source - Josef Kadlec](https://www.sourcecon.com/video-sourcing)
-##### Tutorials & YouTube Channels
+#### Tutorials & YouTube Channels
 - [Cinecom.net](https://www.youtube.com/user/YapperDesign/videos)
 - [Corel VideoStudio&#x000A; - YouTube](https://www.youtube.com/user/VideoStudioPro)
 - [Creative COW - Tutorials and Articles](https://www.creativecow.net/)
@@ -244,21 +290,21 @@
 - [Movavi Vlog&#x000A; - YouTube](https://www.youtube.com/channel/UCCv2d4YxZ4vrFuZou0W9L4A)
 - [PinnacleStudioLife&#x000A; - YouTube](https://www.youtube.com/user/PinnacleStudioLife)
 - [TechGumbo](https://www.youtube.com/channel/UCaSM4GqhbaVmRT7fmmFmR1w)
-##### Video Editing Communities and Forums
+#### Video Editing Communities and Forums
 - [NewTubers](https://www.reddit.com/r/NewTubers)
 - [r/videography](https://www.reddit.com/r/videography)
 - [The DV Info Net Forum](https://www.dvinfo.net/forum)
 - [Video Editing (non professionals)](https://www.reddit.com/r/VideoEditing)
 - [Video Editing Community](https://discordapp.com/invite/9WhN8bp)
 - [Video Editing Forums: Digital Director](https://www.videoforums.co.uk/)
-##### Video Hosting Platforms
+#### Video Hosting Platforms
 - [Dailymotion](https://www.dailymotion.com/us)
 - [Loom](https://chrome.google.com/webstore/detail/loom-video-recorder-scree/liecbddmkiiihnedobmlmillhodjkdmb?hl=en-US)
 - [Online Video Platform](https://www.brightcove.com/en/online-video-platform)
 - [Video Hosting for Business](https://sproutvideo.com/)
 - [Vimeo](https://vimeo.com/)
 - [Wix Video Overview | WIX App Market | Wix.comWix.comFacebookTwitterYouTubePinterestInstagramLinkedIn](https://www.wix.com/app-market/wix-video/overview)
-##### Webcam
+#### Webcam
 - [Airport Webcams.net - LIVE Airport Webcams from around the World](https://airportwebcams.net/)
 - [Explore webcams Worldwide](https://www.lookr.com/)
 - [Insecam - World biggest online cameras directory](https://www.insecam.org/en)
@@ -268,7 +314,7 @@
 - [The Webcam-Network](https://www.the-webcam-network.com/)
 - [Traffic Cameras and Reports Search Directory](https://publicrecords.onlinesearches.com/Traffic-Cameras-and-Reports.htm)
 - [webcam streaming video live views : 123cam directory of thousands of live webcams on the Internet: 123cam.com](https://123cam.com/)
-##### YouTube
+#### YouTube
 - [4K Download](https://4kdownload.com/)
 - [BitDownloader](https://bitdownloader.com/)
 - [DownSub.com | Download and save subtitles](https://downsub.com/)
@@ -291,7 +337,7 @@
 - [YouTube video upload time](https://www.aware-online.com/en/osint-tutorials/youtube-video-upload-time)
 - [youtube-dl](https://rg3.github.io/youtube-dl)
 - [youtube-dl](https://ytdl-org.github.io/youtube-dl/index.html)
-### Pallets
+## Pallets
 - [0to255](https://www.0to255.com/)
 - [100 brilliant color combinations and how to apply them to your designs – Learn](https://www.canva.com/learn/100-color-combinations)
 - [Color](https://color.adobe.com/pt/create)
@@ -301,7 +347,7 @@
 - [Colours](https://webcolourdata.com/)
 - [Colours](https://ww12.webcolourdata.com/)
 - [Www.canva.com](https://www.canva.com/colors/color-palettes)
-### Patterns
+## Patterns
 - [ava7 patterns /// 1899 free seamless background patterns](https://ava7patterns.com/)
 - [Burst](https://burst.shopify.com/textures)
 - [DinPattern – Free seamless patterns](https://www.dinpattern.com/)
@@ -317,13 +363,13 @@
 - [TextureKing](https://www.textureking.com/)
 - [Texturesforfree.com](https://texturesforfree.com/)
 - [Unsplash Backgrounds](https://unsplash.com/backgrounds)
-### Placeholder
+## Placeholder
 - [Fake images please?](https://fakeimg.pl/)
 - [Lorem Picsum](https://picsum.photos/)
 - [lorempixel](https://lorempixel.com/)
 - [Placeholder.pics](https://placeholder.pics/)
 - [Placemat](https://placem.at/)
-### PNGs
+## PNGs
 - [4-Designer | Free PSD,Code,Vector,FLASH,HD Pictures,3D,font,template download](https://4-designer.com/)
 - [Abstract & Fractal Backgrounds » page 28 » Free Download Photoshop Vector Stock image Via Torrent Zippyshare From psdkeys.com](https://psdkeys.com/stock-images/abstract-fractal-backgrounds/page/28)
 - [CleanPNG - HD png images and illustrations. Free unlimited download.](https://www.cleanpng.com/)
@@ -338,7 +384,7 @@
 - [PurePNG | Free transparent CC0 PNG Image Library](https://purepng.com/)
 - [vexels.com](https://www.vexels.com/)
 - [www.pngwing.com/pt](https://www.pngwing.com/pt)
-### Shutterstock
+## Shutterstock
 - [downloader.la](https://downloader.la/)
 - [Find Stock](https://png.is/tool/findstock)
 - [Find Stock](https://nohat.cc/tool/findstock)
@@ -350,7 +396,7 @@
 - [Shutterstock Downloader](https://shutterstock-downloader.beatsnoop.com/)
 - [Stock Photo and Image Portfolio by faestock | Shutterstock](https://www.shutterstock.com/g/faestock)
 - [Stock Photo Downloader](https://tomato.to/)
-### Stock Photos
+## Stock Photos
 - [[FREE] No Watermark Shutterstock Image | BlackHatWorld](https://www.blackhatworld.com/seo/free-no-watermark-shutterstock-image.942245)
 - [1 million free pictures](https://www.1millionfreepictures.com/)
 - [100k_models - Google Drive](https://drive.google.com/drive/folders/1wSy4TVjSvtXeRQ6Zr8W98YbSuZXrZrgY)
@@ -413,13 +459,13 @@
 - [Unsplash](https://unsplash.com/wallpapers/cool/abstract)
 - [Wunderstock.com](https://wunderstock.com/)
 - [www.freestockphotos.com](https://freestockphotos.com/)
-### SVG
+## SVG
 - [Create Customizable, Hi-Def, and Scalable Backgrounds](https://www.svgbackgrounds.com/)
 - [Svgrepo](https://www.svgrepo.com/)
-### Templates
+## Templates
 - [Gift 4 Designer](https://gift4designer.net/)
 - [Templates4share.com - Free Web Templates, Themes and Graphic for Designers](http://templates4share.com/)
-### Vectors
+## Vectors
 - [Blush.design](https://blush.design/)
 - [design.dev](https://design.dev/)
 - [Download Free Vector Art, Images & Vector Graphics](https://www.freevectors.net/)
