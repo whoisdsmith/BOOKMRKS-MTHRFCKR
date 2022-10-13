@@ -1,6 +1,7 @@
 # TOC
 ---
 
+- [BOOKMRKS-MOTHERFCKR](BOOKMRKS-MTHRFCKR.MD)
 - [Computer and OS Related](./Computer%20and%20OS%20Related.md)
 - [Content](/Content.md)
 - [Data Related](./Data%20Related.md)
