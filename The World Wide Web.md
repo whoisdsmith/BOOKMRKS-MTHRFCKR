@@ -1,11 +1,3 @@
-# TOC
----
----
-
-
-
----
-
 # The World Wide Web
 
 ---

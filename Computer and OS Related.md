@@ -1,5 +1,3 @@
-# TOC
-
 # Computer and OS Related
 
 ---
