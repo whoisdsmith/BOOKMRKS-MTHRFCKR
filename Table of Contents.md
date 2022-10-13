@@ -1,7 +1,7 @@
 # TOC
 ---
 
-- [BOOKMRKS-MOTHERFCKR](BOOKMRKS-MTHRFCKR.md)
+- [BOOKMRKS-MOTHERFCKR](BOOKMRKS-MTHRFCKR.md)  - Entire file (too big to view on Github)
 - [Computer and OS Related](./Computer%20and%20OS%20Related.md)
 - [Content](/Content.md)
 - [Data Related](./Data%20Related.md)

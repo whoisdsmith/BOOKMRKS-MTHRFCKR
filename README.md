@@ -11,18 +11,18 @@
 
 </div>
 
-  
 
 
 
 
 
-## Information and Inspiration 
+
+## Information and Inspiration
 
 
 Early Inspiration came from Webby of weboas.is (RIP)
 
-Lots of resources have come from FMHY Reddit and Divolt Channels (Shout out to @nbats) 
+Lots of resources have come from FMHY Reddit and Divolt Channels (Shout out to @nbats)
 
 Big Shoutout For The OSINT Reaources goes out to Dean Da Costa and technisette
 
@@ -36,13 +36,37 @@ Big Shoutout For The OSINT Reaources goes out to Dean Da Costa and technisette
 
 
 ### To-Do
+
 ----
 
 - [ ] Add HTML Export
 - [ ] Add CSV Export
 
 ---
-   
+
+#### TOC
+
+---
+
+- [BOOKMRKS-MOTHERFCKR](BOOKMRKS-MTHRFCKR.md)  - Entire file (too big to view on Github)
+- [Computer and OS Related](./Computer%20and%20OS%20Related.md)
+- [Content](/Content.md)
+- [Data Related](./Data%20Related.md)
+- [Design](/Design.md)
+- [DevOps](./DevOps.md)
+- [Music](/Music.md)
+- [OSINT](./OSINT.md)
+- [PKMS](./PKMS.md)
+- [Programming](/Programming.md)
+- [Reference](/Reference.md)
+- [Resources](/Resources.md)
+- [Search Engines](./Search%20Engines.md)
+- [The World Wide Web](./The%20World%20Wide%20Web.md)
+- [Tools](./Tools.md)
+- [WebDev](/WebDev.md)
+
+---
+
 <div align="center">
 
   <a href="">![raindrop](https://img.shields.io/badge/Raindrop.io-whoisdsmith-blue)</a>
