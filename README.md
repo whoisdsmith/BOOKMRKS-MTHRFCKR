@@ -7,22 +7,6 @@
 - My Goal Is To Turn This Into a Searchable and Visual Wiki/Digital Garden.
 
 
-- [[BOOKMRKS-MTHRFCKR]]
-- [[CHAPTERS]]
-- [[Content]]
-- [[Data Related]]
-- [[Design]]
-- [[DevOps]]
-- [[Music]]
-- [[OSINT]]
-- [[PKMS]]
-- [[Programming]]
-- [[Reference]]
-- [[Resources]]
-- [[Search Engines]]
-- [[The World Wide Web]]
-- [[Tools]]
-- [[WebDev]]
 
 
 ---
