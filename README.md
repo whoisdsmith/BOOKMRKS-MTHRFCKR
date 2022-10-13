@@ -5,9 +5,15 @@
 - This is very much an ongoing WIP, Theres Over 16,0000 Bookmarks I’ve Been Updating and Collecting Since 2008.
 - There’s Definitely Something Here For Everyone, If you Have Enough Time and Effort To Find It.
 - My Goal Is To Turn This Into a Searchable and Visual Wiki/Digital Garden.
+- All Bookmarks Have Been Exported From my Raindrop.io Account and exported into Obsidian.
+- Currently uploading from Obsidian directly to Github.
 
 
+## To-Do
+----
 
+- [ ] Add HTML Export
+- [ ] Add CSV Export
 
 ---
 
