@@ -42,5 +42,10 @@ Big Shoutout For The OSINT Reaources goes out to Dean Da Costa and technisette
 - [ ] Add CSV Export
 
 ---
+   
+<div align="center">
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/whoisdsmith/BOOKMRKS-MTHRFCKR)  
+  <a href="">![raindrop](https://img.shields.io/badge/Raindrop.io-whoisdsmith-blue)</a>
+  <a href="">![GitHub commit activity](https://img.shields.io/github/commit-activity/w/whoisdsmith/BOOKMRKS-MTHRFCKR)</a>
+
+</div>
