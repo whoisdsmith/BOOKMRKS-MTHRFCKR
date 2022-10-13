@@ -1,6 +1,19 @@
 ![image](https://user-images.githubusercontent.com/9169633/195195009-23cef4cb-e1ca-4d4b-831c-1f7145e66be3.png)
 
 # The Internet's Best BOOKMRKS, MTHERFCKR!
+----
+---
+
+## Information and Inspiration 
+
+
+Early Inspiration came from Webby of weboas.is (RIP)
+
+Lots of resources have come from FMHY Reddit and Divolt Channels (Shout out to @nbats) 
+
+Big Shoutout For The OSINT Reaources goes out to Dean Da Costa and texhnisette
+
+
 
 - This is very much an ongoing WIP, Theres Over 16,0000 Bookmarks I’ve Been Updating and Collecting Since 2008.
 - There’s Definitely Something Here For Everyone, If you Have Enough Time and Effort To Find It.
@@ -9,7 +22,7 @@
 - Currently uploading from Obsidian directly to Github.
 
 
-## To-Do
+### To-Do
 ----
 
 - [ ] Add HTML Export
