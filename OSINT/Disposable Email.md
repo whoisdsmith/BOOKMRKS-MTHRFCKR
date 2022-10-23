@@ -1,0 +1,11 @@
+## Disposable Email
+- [10 Minute Mail Disposable Email](https://10minutemail.com/10MinuteMail/index.html?dswid=9138)
+- [Anonymous Disposable Email](https://anonymousemail.me/)
+- [Guerrilla Mail Disposable Email](https://www.guerrillamail.com/)
+- [Inbox Bear Disposable Email](https://inboxbear.com/)
+- [Mail Gutter Disposable Email](https://mailgutter.com/)
+- [Mail Null Disposable Email](https://mailnull.com/)
+- [Mailinator Disposable Email](https://www.mailinator.com/)
+- [MailTester Email Validator](http://www.mailtester.com/)
+- [Tempr Disposable Email](https://tempr.email/)
+- [Volto Disposable Email](https://www.volto.io/)
