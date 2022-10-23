@@ -10,6 +10,8 @@
   <a href="">![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)</a>
   <a href="">![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)</a>
   <a href="">![Google Chrome Badge](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=googlechrome&logoColor=fff&style=for-the-badge)</a>
+  <a href="">![Firefox Badge](https://img.shields.io/badge/Firefox-FF7139?logo=firefox&logoColor=fff&style=for-the-badge)</a>
+  <a href="">![Safari Badge](https://img.shields.io/badge/Safari-000?logo=safari&logoColor=fff&style=for-the-badge)</a>
 
 
 </div>
@@ -73,8 +75,6 @@ Big Shoutout For The OSINT Resources goes out to Dean Da Costa and technisette
 <div align="center">
 
   <a href="">![raindrop](https://img.shields.io/badge/Raindrop.io-whoisdsmith-blue)</a>
-  <a href=""></a>
-  <a href=""></a>
   <a href="">![GitHub commit activity](https://img.shields.io/github/commit-activity/w/whoisdsmith/BOOKMRKS-MTHRFCKR)</a>
 
 
