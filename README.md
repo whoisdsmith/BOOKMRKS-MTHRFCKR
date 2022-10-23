@@ -24,7 +24,7 @@ Early Inspiration came from Webby of weboas.is (RIP)
 
 Lots of resources have come from FMHY Reddit and Divolt Channels (Shout out to @nbats)
 
-Big Shoutout For The OSINT Reaources goes out to Dean Da Costa and technisette
+Big Shoutout For The OSINT Resources goes out to Dean Da Costa and technisette
 
 
 
