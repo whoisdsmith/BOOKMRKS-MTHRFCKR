@@ -20,7 +20,7 @@
 
 
 
-## Information and Inspiration
+<h2 align="center">Information and Inspiration</h2>
 
 
 Early Inspiration came from Webby of weboas.is (RIP)
