@@ -37,8 +37,8 @@ Big Shoutout For The OSINT Resources goes out to Dean Da Costa and technisette
 - All Bookmarks Have Been Exported From my Raindrop.io Account and Imported into Obsidian.
 - Currently uploading from Obsidian directly to Github.
 
-
-### To-Do
+---
+<h3 align="center">To-Do</h3>
 
 ----
 
@@ -47,7 +47,7 @@ Big Shoutout For The OSINT Resources goes out to Dean Da Costa and technisette
 
 ---
 
-#### TOC
+<h4 align="center">TOC</h4>
 
 ---
 
