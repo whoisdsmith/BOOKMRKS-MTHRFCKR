@@ -1,4 +1,5 @@
 ## Facial Recognition
+
 - [Amazon Rekognition – Video and Image - AWS](https://aws.amazon.com/rekognition)
 - [Betaface API](https://www.betafaceapi.com/)
 - [Face Comparing - Face++ Cognitive Services](https://www.faceplusplus.com/face-comparing)

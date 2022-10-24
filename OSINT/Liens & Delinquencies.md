@@ -1,4 +1,5 @@
 ## Liens & Delinquencies
+
 - [Alabama Delinquent Tax Sales](https://revenue.alabama.gov/property-tax/delinquent-search)
 - [Alabama UCC Lien Search](https://sos.alabama.gov/government-records/ucc-records?area=UCC)
 - [Alaska Delinquent Tax Sales](http://dnr.alaska.gov/mlw/landsale)

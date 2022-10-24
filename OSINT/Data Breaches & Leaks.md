@@ -1,4 +1,5 @@
 ## Data Breaches & Leaks
+
 - [BreachAlarm](https://breachalarm.com/)
 - [Hashes.org Leaks](https://hashes.org/leaks.php)
 - [Have I Been Sold?](https://haveibeensold.app/)

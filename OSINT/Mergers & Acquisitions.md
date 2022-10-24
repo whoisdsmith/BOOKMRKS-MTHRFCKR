@@ -1,4 +1,5 @@
 ## Mergers & Acquisitions
+
 - [Anthony Wayne Business Exchange](https://anthonywayne.com/)
 - [BizBuySell](https://www.bizbuysell.com/)
 - [BizQuest](https://www.bizquest.com/)

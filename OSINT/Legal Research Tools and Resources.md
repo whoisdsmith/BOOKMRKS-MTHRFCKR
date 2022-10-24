@@ -1,4 +1,5 @@
 ## Legal Research Tools and Resources
+
 - [Acat.act.gov.au](https://acat.act.gov.au/)
 - [Arrests.org](https://arrests.org/)
 - [AsianLII](https://www.asianlii.org/)

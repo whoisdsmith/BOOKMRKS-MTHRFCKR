@@ -1,4 +1,5 @@
 ## Messaging and Chat Tools
+
 - [Adium](https://adium.im/)
 - [Band](https://band.us/)
 - [Chanty – simple AI-powered business messenger](https://www.chanty.com/)

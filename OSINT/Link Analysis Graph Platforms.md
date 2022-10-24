@@ -1,4 +1,5 @@
 ## Link Analysis Graph Platforms
+
 - [Maltego Cyber Weapons Lab YouTube Video](https://www.youtube.com/watch?feature=youtu.be&v=46st98FUf8s)
 - [Neo4j Beginning Neo4j Book](http://file.allitebooks.com/20160202/Beginning%20Neo4j.pdf)
 - [Neo4j Cookbook Book](http://file.allitebooks.com/20150807/Neo4j%20Cookbook.pdf)

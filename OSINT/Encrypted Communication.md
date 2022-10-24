@@ -1,4 +1,5 @@
 ## Encrypted Communication
+
 - [AES Crypt File Encryption](https://www.aescrypt.com/)
 - [CryptoCat Encrypted Communication](https://crypto.cat/)
 - [FreeFormatter SHA-256 Generator String Encryptor](https://www.freeformatter.com/sha256-generator.html)

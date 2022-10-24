@@ -1,4 +1,5 @@
 ## Discover other OSINT Frameworks
+
 - [Boolean Strings Irina Shamaeva](https://booleanstrings.com/)
 - [DiRT Directory](https://dirtdirectory.org/)
 - [i-intelligence Chris Pallaris](https://www.i-intelligence.eu/osint-tools-and-resources-handbook-2018)
