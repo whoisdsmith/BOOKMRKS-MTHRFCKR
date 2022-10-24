@@ -1,4 +1,5 @@
 ## Business Entity Filings
+
 - [Alabama SOS Business Entity Search](https://sos.alabama.gov/government-records/business-entity-records)
 - [Alaska SOS Business Entity Search](https://www.commerce.alaska.gov/web/cbpl)
 - [Arizona SOS Business Entity Search](https://azsos.gov/)

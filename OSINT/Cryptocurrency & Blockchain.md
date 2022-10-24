@@ -1,4 +1,5 @@
 ## Cryptocurrency & Blockchain
+
 - [Bitcoin For The Befuddled Book](http://file.allitebooks.com/20150723/Bitcoin%20for%20the%20Befuddled.pdf)
 - [BitRef Bitcoin Address Balance Tool](https://bitref.com/)
 - [BlockExplorer Bitcoin Block Explorer](https://blockexplorer.com/)
