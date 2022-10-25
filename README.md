@@ -37,6 +37,16 @@ Big Shoutout For The OSINT Resources goes out to Dean Da Costa and technisette
 - My Goal Is To Turn This Into a Searchable and Visual Wiki/Digital Garden.
 - All Bookmarks Have Been Exported From my Raindrop.io Account and Imported into Obsidian.
 - Currently uploading from Obsidian directly to Github.
+---
+<h2 align="center">Notes</h2>
+
+**My Current Bookmarking Workflow is:**
+
+- Save URL to [Raindrop.io — All-in-one bookmark manager](https://raindrop.io/)
+- Save URL to **Google Chrome Bookmarks**
+- Export Chrome Bookmarks to Markdown Links Using The Chrome Extension [Improved Potato](https://chrome.google.com/webstore/detail/improved-potato/kjnippnbinaiaophckfmlbicclieefpf)
+- Import Markdown Export Into [Obsidian](https://obsidian.md/)
+
 
 ---
 <h3 align="center">To-Do</h3>
