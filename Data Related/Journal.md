@@ -1,4 +1,4 @@
-## Journal
+# Journal
 ---
 - [glimpses - A simple and minimal journal app for windows](https://getglimpses.com/)
 - [JournalFlow - Keep a journal in your favorite messaging app.](https://www.journalflow.com/#features)

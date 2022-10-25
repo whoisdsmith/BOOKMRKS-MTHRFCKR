@@ -1,8 +1,8 @@
-## Content Blogs, RSS and Feeds
+# Content Blogs, RSS and Feeds
 ---
-### Blogs
+## Blogs
 ---
-#### Adderall
+### Adderall
 ---
 - [A Letter to Adderall from the Asylum](https://humanparts.medium.com/a-letter-to-adderall-from-the-asylum-bf6a51a4f0c8)
 - [Adderall Ain’t Meth](https://medium.com/invisible-illness/adderall-aint-meth-c3a867157aa7)
@@ -24,7 +24,7 @@
 - [What a Lifetime of Adderall Does to Your Brain](https://medium.com/mel-magazine/what-a-lifetime-of-adderall-does-to-your-brain-5beba7c2af7e)
 - [When Getting High Is a Hobby, Not a Habit (Published 2021)](https://www.nytimes.com/2021/01/12/books/review/drug-use-for-grown-ups-carl-l-hart.html?searchResultPosition=44)
 ---
-#### Data
+### Data
 ---
 - [Everything you need to know about SMS analytics | Textline Blog](https://www.textline.com/blog/sms-analytics)
 - [frustrated robot | frustrated robot](https://www.frustratedrobot.com/)
@@ -34,7 +34,7 @@
 - [What is Text Analysis? A Beginner’s Guide](https://monkeylearn.com/text-analysis/)
 - [YAiM — Yet Another iMessage Mining](https://medium.com/analytics-vidhya/https-medium-com-gss-yaim-yet-another-imessage-mining-1bb0d812b002)
 ---
-#### Dev-Sites
+### Dev-Sites
 ---
 - [.NET Development Addict](http://dotnetdevaddict.co.za/)
 - [「日常」](http://yuuko.cn/)
@@ -767,7 +767,7 @@
 - [轮子主义初级阶段 v0.0.1 - Write Less, Think More](https://www.1stg.me/)
 - [首页 | 陈凤元](https://chenfengyuan.com/)
 ---
-#### Medium Blogs
+### Medium Blogs
 ---
 - [Argonyte](https://medium.com/@argonyte.cybersec)
 - [Hunchly](https://medium.com/@hunchly)
@@ -781,7 +781,7 @@
 - [The OSINT Toolkit](https://medium.com/osint/the-osint-toolkit-3b9233d1cdf9)
 - [What The OSINT!](https://medium.com/what-the-osint)
 ---
-#### OSINT Blogs
+### OSINT Blogs
 ---
 - [The OSINTions OSINT Wiki](The%20OSINTions%20OSINT%20Wiki)(https://theosintion.com/wiki/doku.php?id=home)
 - [@hatless1der | Blog](https://hatless1der.com/)
@@ -1031,7 +1031,7 @@
 - [When clouds break the sun doesn’t shine](https://eclecticlight.co/2022/02/04/when-clouds-break-the-sun-doesnt-shine/)
 - [Xe Iaso](https://christine.website/)
 ---
-### Create Blog
+## Create Blog
 ---
 - [Vortex](https://dimension.dev/vortex)
 - [Arbital](https://arbital.com/)
@@ -1050,16 +1050,16 @@
 - [Welcome › Dotclear › Blog management made easy](https://dotclear.org/)
 - [Write.as Pro](https://write.as/pro)
 ---
-### Forums
+## Forums
 ---
 - [Linus Tech Tips](https://linustechtips.com/)
 ---
-### People To Follow
+## People To Follow
 ---
 - [Git better with fzf and Fish - BrettTerpstra.com](https://brettterpstra.com/2021/11/25/git-better-with-fzf-and-fish)
 - [Mark Koester Personal Blog | Mark Koester](http://www.markwk.com/)
 ---
-### Podcasts
+## Podcasts
 ---
 - [Cybersecurity History Podcast | Malicious Life](https://malicious.life/)
 - [Darknet Diaries – True stories from the dark side of the Internet.](https://darknetdiaries.com/)

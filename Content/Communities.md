@@ -1,6 +1,6 @@
-## Communities
+# Communities
 ---
-### Dev.to
+## Dev.to
 ----
 - [25 GitHub Repos you can't miss to bookmark - DEV Community](https://dev.to/devwriteups/25-github-repos-you-can-t-miss-to-bookmark-1ek1)
 - [axiom.ai | no-code browser automation](https://axiom.ai/)
@@ -32,7 +32,7 @@
 - [Will It CORS?](https://httptoolkit.tech/will-it-cors)
 - [yoshuawuyts/vmd: preview markdown files](https://github.com/yoshuawuyts/vmd)
 ---
-### Discord
+## Discord
 ---
 - [Browse Public Dutch Discord Servers](https://discordservers.com/search/dutch)
 - [DISBOARD](https://disboard.org/)
@@ -48,7 +48,7 @@
 - [Join the The Megadrive Discord Server!](https://discord.gg/h2P5zsNMxZ)
 - [Public Discord Servers & Discord Channels](https://discord.me/servers)
 ---
-### Telegram
+## Telegram
 ----
 - [OpenDirectories](https://t.me/r_OpenDirectories)
 - [r/Piracy - How many of you primarily rely on Telegram for all your piracy needs?](https://www.reddit.com/r/Piracy/comments/hpzcq3/how_many_of_you_primarily_rely_on_telegram_for/)
@@ -63,7 +63,7 @@
 - [Transloader](https://t.me/transload)
 - [VK Files Bot](https://t.me/VKFiles_Bot)
 ---
-### Twitter
+## Twitter
 ---
 - [100 Twitter Tools to Go to The Top – Ultimate Collection!](http://gnoted.com/100-twitter-tools-ultimate-power-collection)
 - [CodeProject - For those who code](https://www.codeproject.com/)

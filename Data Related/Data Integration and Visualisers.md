@@ -1,6 +1,6 @@
-## Data Integration and Visualisers
+# Data Integration and Visualisers
 ---
-### Charts
+## Charts
 ---
 - [AnyChart is a lightweight and robust JavaScript charting library](https://www.anychart.com/?utm_source=saashub&utm_medium=marketplace&utm_campaign=saashub)
 - [ApexCharts.js - Open Source JavaScript Charts for your website](https://apexcharts.com/?utm_source=saashub&utm_medium=marketplace&utm_campaign=saashub)
@@ -10,13 +10,13 @@
 - [Charts.css](https://chartscss.org/)
 - [CSV2Chart Online - Turn any CSV into a nice looking chart](https://csv2chart.com/)
 ---
-### Dashboards
+## Dashboards
 ---
 - [Dashana | Visualize Your Data In Less Than a Minute](https://dashana.com/)
 - [Use a toolkit to build your Excel dashboards 5x faster](https://exceldashboardtemplate.com/)
 - [Webdash](https://webdash.xyz/?ref=producthunt)
 ---
-### Data Analysis
+## Data Analysis
 ---
 - [Analytics Tools & Solutions for Your Business](https://www.google.com/analytics?gclid=CjwKEAiAh7WkBR)
 - [AWStats](https://www.awstats.org/)
@@ -75,7 +75,7 @@
 - [www.exmerg.com](https://www.exmerg.com/)
 - [Yellowfinbi.com](https://www.yellowfinbi.com/)
 ---
-### Data Scrapers
+## Data Scrapers
 ---
 - [80legs – Customizable Web Scraping](https://80legs.com/)
 - [Agenty®](https://www.agenty.com/)
@@ -120,7 +120,7 @@
 - [Web Scraping Software](https://www.webharvy.com/)
 - [Webrobots.io](https://webrobots.io/)
 ---
-### Database
+## Database
 ---
 - [Cascade.io - transform data and trigger actions, without code](https://www.cascade.io/?ref=producthunt)
 - [Draxlr](https://www.draxlr.com/?ref=producthunt)
@@ -131,7 +131,7 @@
 - [SchemaCrawler](https://www.schemacrawler.com/)
 - [State of Databases 2022](https://stateofdb.com/)
 ---
-### Graphs
+## Graphs
 ---
 - [Datacopia - Data Visualization Reimagined.](https://datacopia.com/#/)
 - [Gephi - The Open Graph Viz Platform](https://gephi.github.io/)
@@ -140,14 +140,14 @@
 - [RAWGraphs 2.0](https://app.rawgraphs.io/)
 - [Visual Mapping Software - Plectica](https://www.plectica.com/)
 ---
-### Plots
+## Plots
 ---
 - [CSV Plot - Online CSV plots](https://www.csvplot.com/)
 - [Online Pivot CSV Tool](https://www.convertcsv.com/pivot-csv.htm)
 - [PlotDigitizer: Extract Data from Graph Image Online](https://plotdigitizer.com/)
 - [Plotly: The front end for ML and data science models](https://plotly.com/)
 ---
-### Spreadsheets
+## Spreadsheets
 ---
 - [All your live data in a spreadsheet](https://www.actiondesk.io/)
 - [Convert Excel time to UTC time](https://gist.github.com/erikvullings/825283249a5b4617d0f36bcba4fa8be8)
@@ -172,7 +172,7 @@
 - [Vertex42 - Excel Templates, Calendars, Calculators and Spreadsheets](https://www.vertex42.com/)
 - [Visualize data from CSV file in Python](https://www.geeksforgeeks.org/visualize-data-from-csv-file-in-python/amp/)
 ---
-### Timelines
+## Timelines
 ---
 - [Timeline Hero](https://timelinehero.app/)
 - [{{fbMetaData.fbTitle}}](https://statpedia.com/)

@@ -1,4 +1,4 @@
-## Location History
+# Location History
 ---
 - [CSV to GeoJSON converter](https://odileeds.github.io/CSV2GeoJSON/)
 - [Doing more with your Google Location History](https://scarygami.medium.com/doing-more-with-your-google-location-history-a93e0205f0f1)

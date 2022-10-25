@@ -1,10 +1,10 @@
-## Social Media
+# Social Media
 ---
-### Instagram
+## Instagram
 ---
 - [Bibliogram](https://bibliogram.art/)
 ---
-### Reddit
+## Reddit
 ---
 - [- Reddit saved posts and comments manager](https://updoot.app/app#_)
 ---
