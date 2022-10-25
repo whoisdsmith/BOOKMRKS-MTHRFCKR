@@ -22,7 +22,6 @@
 
 <h2 align="center">Information and Inspiration</h2>
 
-<p align="center">
 
 
 Early Inspiration came from Webby of weboas.is (RIP)
@@ -39,18 +38,15 @@ Big Shoutout For The OSINT Resources goes out to Dean Da Costa and technisette
 - All Bookmarks Have Been Exported From my Raindrop.io Account and Imported into Obsidian.
 - Currently uploading from Obsidian directly to Github.
 
-</p>
 ---
 <h3 align="center">To-Do</h3>
 
 ----
 
-<p align="center">
 
 - [ ] Add HTML Export
 - [ ] Add CSV Export
 
-</p>
 
 ---
 
