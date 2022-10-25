@@ -1,6 +1,9 @@
 ## Content Blogs, RSS and Feeds
+---
 ### Blogs
+---
 #### Adderall
+---
 - [A Letter to Adderall from the Asylum](https://humanparts.medium.com/a-letter-to-adderall-from-the-asylum-bf6a51a4f0c8)
 - [Adderall Ain’t Meth](https://medium.com/invisible-illness/adderall-aint-meth-c3a867157aa7)
 - [ADDitude](https://www.additudemag.com/)
@@ -20,7 +23,9 @@
 - [The Age of Distracti-pression](https://www.nytimes.com/2022/07/09/style/medication-depression-anxiety-adhd.html)
 - [What a Lifetime of Adderall Does to Your Brain](https://medium.com/mel-magazine/what-a-lifetime-of-adderall-does-to-your-brain-5beba7c2af7e)
 - [When Getting High Is a Hobby, Not a Habit (Published 2021)](https://www.nytimes.com/2021/01/12/books/review/drug-use-for-grown-ups-carl-l-hart.html?searchResultPosition=44)
+---
 #### Data
+---
 - [Everything you need to know about SMS analytics | Textline Blog](https://www.textline.com/blog/sms-analytics)
 - [frustrated robot | frustrated robot](https://www.frustratedrobot.com/)
 - [Insights Found By Analyzing My Text Messages](http://integritydatainsights.com/insights-found-by-analyzing-my-text-messages/)
@@ -28,7 +33,9 @@
 - [The romantic side of data science: Analyzing a relationship through a year worth of text messages](https://towardsdatascience.com/the-romantic-side-of-data-science-analyzing-a-relationship-through-a-year-worth-of-text-messages-be7e32d81fa9)
 - [What is Text Analysis? A Beginner’s Guide](https://monkeylearn.com/text-analysis/)
 - [YAiM — Yet Another iMessage Mining](https://medium.com/analytics-vidhya/https-medium-com-gss-yaim-yet-another-imessage-mining-1bb0d812b002)
+---
 #### Dev-Sites
+---
 - [.NET Development Addict](http://dotnetdevaddict.co.za/)
 - [「日常」](http://yuuko.cn/)
 - [| a.programming.blog](https://who.ldelossa.is/)
@@ -759,7 +766,9 @@
 - [论野生技术&二次元 - 又一个wORdPRes5站点](https://yooooo.us/)
 - [轮子主义初级阶段 v0.0.1 - Write Less, Think More](https://www.1stg.me/)
 - [首页 | 陈凤元](https://chenfengyuan.com/)
+---
 #### Medium Blogs
+---
 - [Argonyte](https://medium.com/@argonyte.cybersec)
 - [Hunchly](https://medium.com/@hunchly)
 - [Irfan Shakeel](https://irfaanshakeel.medium.com/)
@@ -771,7 +780,9 @@
 - [Steve Micallef](https://medium.com/@micallst)
 - [The OSINT Toolkit](https://medium.com/osint/the-osint-toolkit-3b9233d1cdf9)
 - [What The OSINT!](https://medium.com/what-the-osint)
+---
 #### OSINT Blogs
+---
 - [The OSINTions OSINT Wiki](The%20OSINTions%20OSINT%20Wiki)(https://theosintion.com/wiki/doku.php?id=home)
 - [@hatless1der | Blog](https://hatless1der.com/)
 - [0xrishabh](https://blog.0xrishabh.dev/)
@@ -1019,8 +1030,10 @@
 - [What to do when iCloud gets stuck - Software - MPU Talk](https://talk.macpowerusers.com/t/what-to-do-when-icloud-gets-stuck/26657/2)
 - [When clouds break the sun doesn’t shine](https://eclecticlight.co/2022/02/04/when-clouds-break-the-sun-doesnt-shine/)
 - [Xe Iaso](https://christine.website/)
+---
 ### Create Blog
-- ["Vortex](https://dimension.dev/vortex?ref=producthunt)
+---
+- [Vortex](https://dimension.dev/vortex)
 - [Arbital](https://arbital.com/)
 - [Bludit - Flat-File CMS](https://www.bludit.com/)
 - [Ghost: Turn your audience into a business](https://ghost.org/)
@@ -1036,12 +1049,18 @@
 - [Upsitely](https://www.upsitely.com/?ref=producthunt)
 - [Welcome › Dotclear › Blog management made easy](https://dotclear.org/)
 - [Write.as Pro](https://write.as/pro)
+---
 ### Forums
+---
 - [Linus Tech Tips](https://linustechtips.com/)
+---
 ### People To Follow
+---
 - [Git better with fzf and Fish - BrettTerpstra.com](https://brettterpstra.com/2021/11/25/git-better-with-fzf-and-fish)
 - [Mark Koester Personal Blog | Mark Koester](http://www.markwk.com/)
+---
 ### Podcasts
+---
 - [Cybersecurity History Podcast | Malicious Life](https://malicious.life/)
 - [Darknet Diaries – True stories from the dark side of the Internet.](https://darknetdiaries.com/)
 - [Exponent](https://exponent.fm/)
@@ -1059,3 +1078,4 @@
 - [Pilgrim / Pilgrim](http://pilgrim.are.na/)
 - [RSS feeds for your Github releases, tags and activity](https://vilcins.medium.com/rss-feeds-for-your-github-releases-tags-and-activity-cbda2c51373)
 - [Volume: Reimagining Digital Magazines](https://www.volumestories.com/)
+---

@@ -1,5 +1,7 @@
 ## Communities
+---
 ### Dev.to
+----
 - [25 GitHub Repos you can't miss to bookmark - DEV Community](https://dev.to/devwriteups/25-github-repos-you-can-t-miss-to-bookmark-1ek1)
 - [axiom.ai | no-code browser automation](https://axiom.ai/)
 - [Base64 Image Encoder](https://www.base64-image.de/)
@@ -29,7 +31,9 @@
 - [Whatdoestheinternetthink.net - What does the internet think?](http://www.whatdoestheinternetthink.net/)
 - [Will It CORS?](https://httptoolkit.tech/will-it-cors)
 - [yoshuawuyts/vmd: preview markdown files](https://github.com/yoshuawuyts/vmd)
+---
 ### Discord
+---
 - [Browse Public Dutch Discord Servers](https://discordservers.com/search/dutch)
 - [DISBOARD](https://disboard.org/)
 - [disboard.org/nl/search](https://disboard.org/nl/search)
@@ -43,7 +47,9 @@
 - [Join the PiratePC Discord Server!](https://discord.com/invite/NZ976ZApBe)
 - [Join the The Megadrive Discord Server!](https://discord.gg/h2P5zsNMxZ)
 - [Public Discord Servers & Discord Channels](https://discord.me/servers)
+---
 ### Telegram
+----
 - [OpenDirectories](https://t.me/r_OpenDirectories)
 - [r/Piracy - How many of you primarily rely on Telegram for all your piracy needs?](https://www.reddit.com/r/Piracy/comments/hpzcq3/how_many_of_you_primarily_rely_on_telegram_for/)
 - [Raymond Free Software • Main Discussion Group](https://t.me/raymondfreesoftware)
@@ -56,18 +62,16 @@
 - [Telegram: Contact @TGMoviesBot](https://t.me/TGMoviesBot)
 - [Transloader](https://t.me/transload)
 - [VK Files Bot](https://t.me/VKFiles_Bot)
+---
 ### Twitter
+---
 - [100 Twitter Tools to Go to The Top – Ultimate Collection!](http://gnoted.com/100-twitter-tools-ultimate-power-collection)
-- [Favorite tweet by @Archarzel](https://twitter.com/Archarzel/status/1479171244721414149)
-- [Favorite tweet by @Archarzel](https://twitter.com/Archarzel/status/1479171243681239047)
-- [Favorite tweet by @elonmusk](https://twitter.com/elonmusk/status/1499976967105433600)
 - [CodeProject - For those who code](https://www.codeproject.com/)
 - [Codeshare - Share code in real-time with developers in your browser](https://codeshare.io/?ref=devresourc.es)
-- [Dashboard | Latest](https://ltst.xyz/dashboard)
-- [Dustin Smith | Openbase](https://openbase.com/user/whoisdsmith)
 - [Eddy](https://editeddy.com/dashboard)
 - [Gitter — Where developers come to talk.](https://gitter.im/?ref=freeStuffDev)
 - [Indie Hackers: Work Together to Build Profitable…](https://www.indiehackers.com/?ref=freeStuffDev)
 - [Nawvel](https://nawvel.com/discover)
 - [Reddit Favorites](https://redditfavorites.com/)
 - [The Devs Network](https://thedevs.network/)
+---
