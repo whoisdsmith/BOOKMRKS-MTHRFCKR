@@ -9,3 +9,5 @@
 [Journal](Journal.md)
 [Location History](Location%20History.md)
 [Text Messages](Text%20Messages.md)
+
+---
