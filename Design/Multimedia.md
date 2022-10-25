@@ -1,8 +1,13 @@
-## Multimedia
-### Graphics
-#### Download Packs
+# Multimedia
+---
+## Graphics
+---
+### Download Packs
+---
 - [Gift4designer](https://gift4designer.com/)
-#### Stock Footage
+---
+### Stock Footage
+---
 - [Coverr](https://coverr.co/)
 - [Dareful.com](https://dareful.com/)
 - [Download torrent](https://gw1.torlook.info/videohive)
@@ -18,7 +23,9 @@
 - [Videohive Folders download ‹ TopFiles.org](https://topfiles.org/list/bjwor3ifkm)
 - [VFXFuture.com](https://vfxfuture.com/)
 - [Vfxmed](https://www.vfxmed.com/)
-### Photoshop
+---
+## Photoshop
+---
 - [16 Best Sites to Find Free PSD Templates for Photoshop](https://www.thebalance.com/free-psd-templates-for-adobe-photoshop-1358114)
 - [365psd](https://365psd.com/)
 - [Dlpsd](https://downloadpsd.cc/)
@@ -28,8 +35,11 @@
 - [Geração Criativa - Photoshop](https://geracaocriativa.com/conteudos/design/photoshop)
 - [ProDesignTools: Helping Adobe® Users Since 2009](https://prodesigntools.com/)
 - [PSDKeys](https://psdkeys.com/)
-### Resources
-#### Design Resources
+---
+## Resources
+---
+### Design Resources
+---
 - [Creative VIP](https://creativevip.net/)
 - [Free Design Resources : Vector : Psd : Icons | Graphichive.Net](https://graphichive.net/)
 - [Free Print Templates - Graphic Design - Stock Vectors - Web Design Elements](https://graphicflux.com/)
@@ -39,7 +49,9 @@
 - [GraphicBurger](https://graphicburger.com/)
 - [Graphicsfamily.com](https://graphicsfamily.com/)
 - [NitroGFX - Download Unique Graphics For Creative Designers](https://nitrogfx.com/)
-#### Graphics Resources
+---
+### Graphics Resources
+---
 - [Argfx](https://argfx.co/)
 - [Free After Effects for download](https://gfxpert.com/after-effects)
 - [Free Graphic GFX Sources, Graphic for Designers download](https://gfxpert.com/)
@@ -50,8 +62,11 @@
 - [Home](https://www.gfxnerds.com/)
 - [Massive List Of Tools To Enhance Your Flickr Experience - Tools & Scripts - OneHack.Us | Tutorials For Free, Guides, Articles & Community Forum](https://onehack.us/t/massive-list-of-tools-to-enhance-your-flickr-experience/214544)
 - [Photoshop, Mock-Up, Add-ons, Actions](https://gfxmountain.com/photoshop)
-### Video Resource Toolbox
-#### AE
+---
+## Video Resource Toolbox
+---
+### AE
+---
 - [Adobe After Effects Free Templates](https://shareae.com/)
 - [Adobe After Effects&nbsp;Free&nbsp;Template - Videohive Projects...](https://vfxdownload.com/)
 - [Aedownload](https://aedownloadpro.com/)
@@ -63,20 +78,26 @@
 - [Freeae](https://www.lalal.ai/)
 - [Home - Free After Effects, Video Motion](https://aeriver.com/)
 - [Projects for After Effects | Motion Graphics | Stock Footage | Video Effects](https://videoswarm.net/)
-#### Film Writing Software
+---
+### Film Writing Software
+---
 - [Hollywood Camera Work :: Causality Story Sequencer :: Main](https://www.hollywoodcamerawork.com/causality.html)
 - [Page 2 Stage](https://page2stage.sourceforge.net/)
 - [Plot](https://theplot.io/)
 - [Storyboard That: The World's Best FREE Online Storyboard Creator](https://www.storyboardthat.com/)
 - [StudioBinder: Free Shot List & Storyboard Software for Creatives](https://www.studiobinder.com/shot-list-storyboard)
 - [WriterDuet | Professional Screenwriting Software You'll Love](https://writerduet.com/?link=QJF56RRE)
-#### Lighting and Equipment resources
+---
+### Lighting and Equipment resources
+---
 - [10 Best Video Equipment Rental Options for Filmmakers](https://www.studiobinder.com/blog/video-equipment-rental)
 - [Home - VER](https://www.ver.com/)
 - [Rent Cameras, Lenses, and Video Gear • LensProToGo](https://www.lensprotogo.com/)
 - [Shooting Solo: A Low Budget Filmmaker's Equipment List](https://www.desktop-documentaries.com/low-budget-filmmakers-equipment-list.html)
 - [Video Equipment Rental | Video Camera Rental | BorrowLenses](https://www.borrowlenses.com/video)
-#### Royalty Free Video and Images and music
+---
+### Royalty Free Video and Images and music
+---
 - [Audio Library — Music for content creators](https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA)
 - [Distill](https://www.wedistill.io/)
 - [Download Aerials Stock Footage, Sfx, Texture](https://www.cutestockfootage.com/search/aerials)
@@ -89,7 +110,9 @@
 - [Totally Free Stock Footage Downloads HD Video](https://www.vidsplay.com/)
 - [Vlog No Copyright Music](https://www.youtube.com/channel/UCEickjZj99-JJIU8_IJ7J-Q)
 - [www.lifeofvids.com/](https://www.lifeofvids.com/)
-#### Shooting and Editing Tools
+---
+### Shooting and Editing Tools
+---
 - [3d animation software | Learn how to make animations | Moviestorm for filmmakers](https://www.moviestorm.co.uk/)
 - [Altru- (paid employer brand video service)](https://www.altrulabs.com/)
 - [DaVinci Resolve 16](https://www.blackmagicdesign.com/products/davinciresolve)
@@ -105,13 +128,17 @@
 - [www.loom.com/](https://www.loom.com/)
 - [Www.transcriptionstar.com](https://www.transcriptionstar.com/free-captioning-tool)
 - [Zubtitle | Automatically Add Captions to Any Video Effortlessly](https://zubtitle.com/)
-#### SourceCon Blogs
+---
+### SourceCon Blogs
+---
 - [DIY Sourcing like those Cheesy Make your own Slime Videos but way Nerdier- Greg Hawkes](https://www.sourcecon.com/diy-sourcing-like-those-cheesy-make-your-own-slime-videos-but-way-nerdier)
 - [Evolve of Die- Arron Daniels](https://www.sourcecon.com/evolve-or-die)
 - [I finally created my own video messaging for sourcing- Erin Mathew](https://www.sourcecon.com/i-finally-created-my-own-video-messaging-for-sourcing-heres-what-happened)
 - [Integrating Video into Outreach - Greg Hawkes](https://www.sourcecon.com/integrating-video-into-outreach)
 - [Using Videos to Source - Josef Kadlec](https://www.sourcecon.com/video-sourcing)
-#### Tutorials & YouTube Channels
+---
+### Tutorials & YouTube Channels
+---
 - [Cinecom.net](https://www.youtube.com/user/YapperDesign/videos)
 - [Corel VideoStudio&#x000A; - YouTube](https://www.youtube.com/user/VideoStudioPro)
 - [Creative COW - Tutorials and Articles](https://www.creativecow.net/)
@@ -121,21 +148,27 @@
 - [Movavi Vlog&#x000A; - YouTube](https://www.youtube.com/channel/UCCv2d4YxZ4vrFuZou0W9L4A)
 - [PinnacleStudioLife&#x000A; - YouTube](https://www.youtube.com/user/PinnacleStudioLife)
 - [TechGumbo](https://www.youtube.com/channel/UCaSM4GqhbaVmRT7fmmFmR1w)
-#### Video Editing Communities and Forums
+---
+### Video Editing Communities and Forums
+--–
 - [NewTubers](https://www.reddit.com/r/NewTubers)
 - [r/videography](https://www.reddit.com/r/videography)
 - [The DV Info Net Forum](https://www.dvinfo.net/forum)
 - [Video Editing (non professionals)](https://www.reddit.com/r/VideoEditing)
 - [Video Editing Community](https://discordapp.com/invite/9WhN8bp)
 - [Video Editing Forums: Digital Director](https://www.videoforums.co.uk/)
-#### Video Hosting Platforms
+---
+### Video Hosting Platforms
+---
 - [Dailymotion](https://www.dailymotion.com/us)
 - [Loom](https://chrome.google.com/webstore/detail/loom-video-recorder-scree/liecbddmkiiihnedobmlmillhodjkdmb?hl=en-US)
 - [Online Video Platform](https://www.brightcove.com/en/online-video-platform)
 - [Video Hosting for Business](https://sproutvideo.com/)
 - [Vimeo](https://vimeo.com/)
 - [Wix Video Overview | WIX App Market | Wix.comWix.comFacebookTwitterYouTubePinterestInstagramLinkedIn](https://www.wix.com/app-market/wix-video/overview)
-#### Webcam
+---
+### Webcam
+---
 - [Airport Webcams.net - LIVE Airport Webcams from around the World](https://airportwebcams.net/)
 - [Explore webcams Worldwide](https://www.lookr.com/)
 - [Insecam - World biggest online cameras directory](https://www.insecam.org/en)
@@ -145,7 +178,9 @@
 - [The Webcam-Network](https://www.the-webcam-network.com/)
 - [Traffic Cameras and Reports Search Directory](https://publicrecords.onlinesearches.com/Traffic-Cameras-and-Reports.htm)
 - [webcam streaming video live views : 123cam directory of thousands of live webcams on the Internet: 123cam.com](https://123cam.com/)
-#### YouTube
+---
+### YouTube
+---
 - [4K Download](https://4kdownload.com/)
 - [BitDownloader](https://bitdownloader.com/)
 - [DownSub.com | Download and save subtitles](https://downsub.com/)
@@ -168,3 +203,4 @@
 - [YouTube video upload time](https://www.aware-online.com/en/osint-tutorials/youtube-video-upload-time)
 - [youtube-dl](https://rg3.github.io/youtube-dl)
 - [youtube-dl](https://ytdl-org.github.io/youtube-dl/index.html)
+---

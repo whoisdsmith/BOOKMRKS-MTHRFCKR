@@ -19,9 +19,9 @@
 [Templates](Templates.md)
 [Vectors](Vectors.md)
 
-
-
+----
 ## Design
+---
 - [Archillect - Archive](https://archillect.com/archive)
 - [Artvee](https://artvee.com/)
 - [Behance](https://www.behance.net/collection/4860923/Free-Fonts)
@@ -34,3 +34,4 @@
 - [Stock Photo and Image Portfolio by Andrew Derr](https://www.shutterstock.com/g/hirohideki)
 - [Stock Photo and Image Portfolio by IRINA SHI](https://www.shutterstock.com/g/IRINA+SHI)
 - [Trello.com](https://trello.com/b/TCIgF8sF/design-br-vip)
+---
