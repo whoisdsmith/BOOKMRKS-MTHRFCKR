@@ -34,7 +34,7 @@ Big Shoutout For The OSINT Resources goes out to Dean Da Costa and technisette
 
 - This is very much an ongoing WIP, Theres Over 16,0000 Bookmarks I’ve Been Updating and Collecting Since 2008.
 - There’s Definitely Something Here For Everyone, If you Have Enough Time and Effort To Find It.
-- My Goal Is To Turn This Into a Searchable and Visual Wiki/Digital Garden. **Official Wiki has been started [Here](https://mthrfckr.netlify.app)**
+- My Goal Is To Turn This Into a Searchable and Visual Wiki/Digital Garden.
 - All Bookmarks Have Been Exported From my Raindrop.io Account and Imported into Obsidian.
 - Currently uploading from Obsidian directly to Github.
 
