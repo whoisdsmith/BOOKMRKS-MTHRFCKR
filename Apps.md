@@ -1,3 +1,20 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Apps](#apps)
+  - [Cross-Platform](#cross-platform)
+  - [Docker](#docker)
+  - [iOS](#ios)
+  - [Linux](#linux)
+  - [MacOS](#macos)
+  - [Online](#online)
+  - [Packages](#packages)
+  - [VS Code](#vs-code)
+  - [Windows](#windows)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Apps
 
 - [A Markdown Editor for the 21st Century - Zettlr](https://zettlr.com/)

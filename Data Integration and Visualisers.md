@@ -1,3 +1,21 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Data Integration and Visualisers](#data-integration-and-visualisers)
+  - [Charts](#charts)
+  - [Dashboards](#dashboards)
+  - [Data Analysis](#data-analysis)
+  - [Data Logins](#data-logins)
+  - [Data Scrapers](#data-scrapers)
+  - [Database](#database)
+  - [Graphs](#graphs)
+  - [Plots](#plots)
+  - [Spreadsheets](#spreadsheets)
+  - [Timelines](#timelines)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Data Integration and Visualisers
 
 - [Virgilio](https://virgili0.github.io/Virgilio/#table-of-contents)

@@ -1,3 +1,23 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Programming](#programming)
+  - [Code Editors](#code-editors)
+  - [Database](#database)
+  - [Developer](#developer)
+  - [Javascript](#javascript)
+  - [JSON](#json)
+  - [Markdown](#markdown)
+  - [Misc](#misc)
+  - [Python](#python)
+  - [Regex](#regex)
+  - [Snippets](#snippets)
+  - [Terminal](#terminal)
+    - [CLI](#cli)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Programming
 
 - [NewReleases.io](https://newreleases.io/)

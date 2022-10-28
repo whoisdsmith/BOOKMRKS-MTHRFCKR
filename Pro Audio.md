@@ -1,3 +1,12 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Pro Audio](#pro-audio)
+  - [Audio-FX](#audio-fx)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Pro Audio
 
 - [AudioStrip - The Best Online Vocal Isolator for Free](https://audiostrip.co.uk/)

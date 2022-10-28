@@ -1,3 +1,40 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Tools](#tools)
+  - [Activity Logging](#activity-logging)
+  - [AI Systems](#ai-systems)
+  - [API Tools](#api-tools)
+  - [Cloud Services](#cloud-services)
+  - [Conversion](#conversion)
+    - [Online Conversation](#online-conversation)
+  - [Data Visualization](#data-visualization)
+  - [Digital Forensics](#digital-forensics)
+  - [Generators](#generators)
+  - [GItHub Tools](#github-tools)
+  - [Health](#health)
+  - [HTML](#html)
+  - [Java](#java)
+  - [JSON](#json)
+  - [Keyword Discovery & Text Analysis](#keyword-discovery--text-analysis)
+  - [Markdown Tools](#markdown-tools)
+  - [Media](#media)
+  - [Misc](#misc)
+  - [Multiple](#multiple)
+  - [PDF](#pdf)
+  - [Productivity](#productivity)
+  - [Spreadsheet](#spreadsheet)
+  - [Text](#text)
+    - [ASCII](#ascii)
+  - [Timeline](#timeline)
+  - [Tools](#tools-1)
+  - [Upload](#upload)
+  - [Viewers](#viewers)
+  - [Writing](#writing)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Tools
 ---
 

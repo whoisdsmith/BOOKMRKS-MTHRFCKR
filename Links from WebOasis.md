@@ -1,3 +1,20 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Links From WebOasis](#links-from-weboasis)
+  - [Torrent](#torrent)
+  - [Downloads](#downloads)
+  - [Stream](#stream)
+  - [Reddit](#reddit)
+  - [Code](#code)
+  - [News](#news)
+  - [Cloud](#cloud)
+  - [More](#more)
+  - [Cyber Security](#cyber-security)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Links From WebOasis
 
 ---

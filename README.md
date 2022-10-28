@@ -1,3 +1,15 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [BOOKMRKS-MTHRFCKR](#bookmrks-mthrfckr)
+  - [Information and Inspiration](#information-and-inspiration)
+  - [Notes](#notes)
+    - [To-Do](#to-do)
+      - [TOC](#toc)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ![](Pasted%20image%2020221028120944.png)
 
 <h1 align="center">BOOKMRKS-MTHRFCKR</h1>

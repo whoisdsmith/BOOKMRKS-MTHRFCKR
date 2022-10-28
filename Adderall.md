@@ -1,3 +1,11 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Adderall](#adderall)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Adderall
 
 - [Enhancement stimulants: perceived motivational and cognitive advantages](https://www.frontiersin.org/articles/10.3389/fnins.2013.00198/full)

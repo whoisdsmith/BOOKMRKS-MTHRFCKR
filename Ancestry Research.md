@@ -1,3 +1,11 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Ancestry Research](#ancestry-research)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Ancestry Research
 
 - [MapMy23 Ancestry DNA File Converter](http://www.mapmy23.com/tools/ancestry_ftdna_fix.php)

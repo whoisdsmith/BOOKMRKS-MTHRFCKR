@@ -1,3 +1,34 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Downloads](#downloads)
+  - [Archive](#archive)
+  - [CRACKS](#cracks)
+  - [Direct Documents](#direct-documents)
+    - [Important Documents](#important-documents)
+    - [Direct Download](#direct-download)
+    - [Drive](#drive)
+      - [Google Drive Shared Indexes](#google-drive-shared-indexes)
+    - [Forums](#forums)
+    - [Links & Lists](#links--lists)
+    - [Media Download](#media-download)
+      - [Movies](#movies)
+    - [MEGA](#mega)
+    - [Nulled](#nulled)
+      - [Wordpress](#wordpress)
+    - [Open Directory Search](#open-directory-search)
+      - [Indexes](#indexes)
+    - [Premium Link Generaters](#premium-link-generaters)
+    - [Rentry](#rentry)
+    - [Serials & Keygen](#serials--keygen)
+    - [Sorted](#sorted)
+    - [Telegram Channels](#telegram-channels)
+    - [Torrents](#torrents)
+    - [Warez](#warez)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Downloads
 
 ## Archive

@@ -1,39 +1,42 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [UI Graphics](#ui-graphics)
+  - [UI Graphics](#ui-graphics-1)
+  - [Fonts](#fonts)
+  - [Colors](#colors)
+  - [Icons](#icons)
+  - [Logos](#logos)
+  - [Icon Fonts](#icon-fonts)
+  - [Stock Photos](#stock-photos)
+  - [Stock Videos](#stock-videos)
+  - [Stock Music & Sound Effects](#stock-music--sound-effects)
+  - [Vectors & Clip Art](#vectors--clip-art)
+  - [Product & Image Mockups](#product--image-mockups)
+  - [HTML & CSS Templates](#html--css-templates)
+  - [CSS Frameworks](#css-frameworks)
+  - [CSS Methodologies](#css-methodologies)
+  - [CSS Animations](#css-animations)
+  - [Javascript Animation Libraries](#javascript-animation-libraries)
+  - [Javascript Chart Libraries](#javascript-chart-libraries)
+  - [UI Components & Kits](#ui-components--kits)
+  - [React UI Libraries](#react-ui-libraries)
+  - [Vue UI Libraries](#vue-ui-libraries)
+  - [Angular UI Libraries](#angular-ui-libraries)
+  - [Svelte UI Libraries](#svelte-ui-libraries)
+  - [React Native UI Libraries](#react-native-ui-libraries)
+  - [Design Systems & Style Guides](#design-systems--style-guides)
+  - [Online Design Tools](#online-design-tools)
+  - [Downloadable Design Software](#downloadable-design-software)
+  - [Design Inspiration](#design-inspiration)
+  - [Image Compression](#image-compression)
+  - [Chrome Extensions](#chrome-extensions)
+  - [Others](#others)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # UI Graphics
-
----
-**TOC**
-
-- [[#UI Graphics|UI Graphics]]
-- [[#Fonts|Fonts]]
-- [[#Colors|Colors]]
-- [[#Icons|Icons]]
-- [[#Logos|Logos]]
-- [[#Icon Fonts|Icon Fonts]]
-- [[#Stock Photos|Stock Photos]]
-- [[#Stock Videos|Stock Videos]]
-- [[#Stock Music & Sound Effects|Stock Music & Sound Effects]]
-- [[#Vectors & Clip Art|Vectors & Clip Art]]
-- [[#Product & Image Mockups|Product & Image Mockups]]
-- [[#HTML & CSS Templates|HTML & CSS Templates]]
-- [[#CSS Frameworks|CSS Frameworks]]
-- [[#CSS Methodologies|CSS Methodologies]]
-- [[#CSS Animations|CSS Animations]]
-- [[#Javascript Animation Libraries|Javascript Animation Libraries]]
-- [[#Javascript Chart Libraries|Javascript Chart Libraries]]
-- [[#UI Components & Kits|UI Components & Kits]]
-- [[#React UI Libraries|React UI Libraries]]
-- [[#Vue UI Libraries|Vue UI Libraries]]
-- [[#Angular UI Libraries|Angular UI Libraries]]
-- [[#Svelte UI Libraries|Svelte UI Libraries]]
-- [[#React Native UI Libraries|React Native UI Libraries]]
-- [[#Design Systems & Style Guides|Design Systems & Style Guides]]
-- [[#Online Design Tools|Online Design Tools]]
-- [[#Downloadable Design Software|Downloadable Design Software]]
-- [[#Design Inspiration|Design Inspiration]]
-- [[#Image Compression|Image Compression]]
-- [[#Chrome Extensions|Chrome Extensions]]
-- [[#Others|Others]]
-
 
 ---
 

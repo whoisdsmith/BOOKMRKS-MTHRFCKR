@@ -1,3 +1,45 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [WebDev](#webdev)
+  - [Backlinks](#backlinks)
+  - [Cloud](#cloud)
+  - [Dashboards](#dashboards)
+    - [Dashboard Tools](#dashboard-tools)
+    - [Finding SSL Certificates](#finding-ssl-certificates)
+    - [Host-Domains](#host-domains)
+    - [HTML & CSS](#html--css)
+    - [HTTP](#http)
+      - [APIs](#apis)
+      - [Automation](#automation)
+      - [IFTTT](#ifttt)
+      - [Resources](#resources)
+      - [RSS](#rss)
+      - [RSS Tools](#rss-tools)
+      - [RSS Indexes and Search Tools](#rss-indexes-and-search-tools)
+      - [RSS Readers](#rss-readers)
+      - [Webhooks](#webhooks)
+    - [Indexing-WebCrawling](#indexing-webcrawling)
+    - [Inspiration](#inspiration)
+    - [Self-Hosted](#self-hosted)
+    - [SEO Tools](#seo-tools)
+    - [Server](#server)
+    - [Site Mapping Tools](#site-mapping-tools)
+    - [Web Animation](#web-animation)
+    - [Website](#website)
+      - [Ctrlaltback-space](#ctrlaltback-space)
+      - [BlueHost](#bluehost)
+      - [Project-Audio](#project-audio)
+      - [Landing Page](#landing-page)
+      - [Static Sites](#static-sites)
+      - [Status Page](#status-page)
+      - [Wordpress Builds](#wordpress-builds)
+    - [Website Monitoring](#website-monitoring)
+      - [Monitoring](#monitoring)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # WebDev
 
 ---

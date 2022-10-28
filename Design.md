@@ -1,3 +1,49 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Design](#design)
+  - [Art](#art)
+  - [3D](#3d)
+  - [Animation](#animation)
+  - [Design](#design-1)
+  - [Fonts](#fonts)
+  - [Icons](#icons)
+  - [Images](#images)
+  - [Logos](#logos)
+  - [Mockup's](#mockups)
+  - [Multimedia](#multimedia)
+    - [Graphics](#graphics)
+    - [Download Packs](#download-packs)
+    - [Stock Footage](#stock-footage)
+    - [Photoshop](#photoshop)
+    - [Resources](#resources)
+    - [Design Resources](#design-resources)
+    - [Graphics Resources](#graphics-resources)
+    - [Video Resource Toolbox](#video-resource-toolbox)
+    - [AE](#ae)
+    - [Film Writing Software](#film-writing-software)
+    - [Lighting and Equipment Resources](#lighting-and-equipment-resources)
+    - [Royalty Free Video and Images and Music](#royalty-free-video-and-images-and-music)
+    - [Shooting and Editing Tools](#shooting-and-editing-tools)
+    - [SourceCon Blogs](#sourcecon-blogs)
+    - [Tutorials & YouTube Channels](#tutorials--youtube-channels)
+    - [Video Editing Communities and Forums](#video-editing-communities-and-forums)
+    - [Video Hosting Platforms](#video-hosting-platforms)
+    - [Webcam](#webcam)
+    - [YouTube](#youtube)
+    - [Pallets](#pallets)
+    - [Patterns](#patterns)
+    - [Placeholder](#placeholder)
+    - [PNGs](#pngs)
+    - [Shutterstock](#shutterstock)
+    - [Stock Photos](#stock-photos)
+    - [SVG](#svg)
+    - [Templates](#templates)
+    - [Vectors](#vectors)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Design
 
 - [Thingiverse - Digital Designs for Physical Objects](https://www.thingiverse.com/)

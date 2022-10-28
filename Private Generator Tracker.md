@@ -1,3 +1,29 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Private Generator Tracker](#private-generator-tracker)
+  - [Updates / To-do](#updates--to-do)
+  - [Guides](#guides)
+    - [Simplified Pathways for Newbies ★](#simplified-pathways-for-newbies-%E2%98%85)
+    - [Introducing RED](#introducing-red)
+    - [Private Tracker List](#private-tracker-list)
+      - [Best Private Trackers ★](#best-private-trackers-%E2%98%85)
+      - [Connected trackers](#connected-trackers)
+      - [Notable Private trackers](#notable-private-trackers)
+        - [Movies / TV](#movies--tv)
+        - [HD](#hd)
+        - [Music](#music)
+        - [General](#general)
+        - [Other](#other)
+    - [Chinese PT Guide ★](#chinese-pt-guide-%E2%98%85)
+    - [Glossary](#glossary)
+      - [Cabal](#cabal)
+      - [Treeban](#treeban)
+      - [Dead End trackers](#dead-end-trackers)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Private Generator Tracker
 
 ---

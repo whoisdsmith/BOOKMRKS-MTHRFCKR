@@ -1,3 +1,14 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Awesome Internet Finds](#awesome-internet-finds)
+  - [Product Hunt](#product-hunt)
+  - [Real Shit](#real-shit)
+  - [Website](#website)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Awesome Internet Finds
 
 - [Who Pays Writers?](http://whopayswriters.com/#/results)

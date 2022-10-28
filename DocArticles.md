@@ -1,3 +1,11 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [DocArticles](#docarticles)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # DocArticles
 
 - [Treatment for amphetamine withdrawal - Shoptaw, SJ - 2009 | Cochrane Library](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003021.pub2/full)

@@ -1,3 +1,11 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Academic and Grey Literature Research Tools](#academic-and-grey-literature-research-tools)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Academic and Grey Literature Research Tools
 
 - [ASCE Library](https://ascelibrary.org/)

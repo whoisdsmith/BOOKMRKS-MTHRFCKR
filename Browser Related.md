@@ -1,3 +1,31 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Browser Related](#browser-related)
+  - [Browser](#browser)
+    - [Proxies and VPN](#proxies-and-vpn)
+    - [Adblock-Paywalls](#adblock-paywalls)
+    - [Browser Extensions](#browser-extensions)
+    - [BrainTool](#braintool)
+    - [BrainTool](#braintool-1)
+    - [Complementary Tools](#complementary-tools)
+    - [Contributions](#contributions)
+    - [Resource](#resource)
+    - [Emacs and Org-mode](#emacs-and-org-mode)
+    - [Personal Productivity](#personal-productivity)
+    - [To Read](#to-read)
+    - [Chrome](#chrome)
+    - [Firefox](#firefox)
+    - [Browser History](#browser-history)
+    - [Links & URLs](#links--urls)
+    - [Bookmarks](#bookmarks)
+    - [Start Pages](#start-pages)
+    - [Plain Text Hosting](#plain-text-hosting)
+    - [Pinboard](#pinboard)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Browser Related
 
 ## Browser

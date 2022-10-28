@@ -1,22 +1,26 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Awesome Design Tools](#awesome-design-tools)
+  - [Collaboration Tools](#collaboration-tools)
+  - [Color Picker Tools](#color-picker-tools)
+  - [Design Feedback Tools](#design-feedback-tools)
+  - [Design System Tools](#design-system-tools)
+  - [Design to Code Tools](#design-to-code-tools)
+  - [Information Architecture](#information-architecture)
+  - [Prototyping Tools](#prototyping-tools)
+  - [Sound Design](#sound-design)
+  - [Stock Videos](#stock-videos)
+  - [Tools for Learning Design](#tools-for-learning-design)
+  - [UI Design Tools](#ui-design-tools)
+  - [User Research Tools](#user-research-tools)
+  - [Visual Debugging Tools](#visual-debugging-tools)
+  - [Three D Modeling Software](#three-d-modeling-software)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Awesome Design Tools
----
-
-**TOC**
-
-- [Collaboration Tools](#Collaboration%20Tools)
-- [Color Picker Tools](#Color%20Picker%20Tools)
-- [Design Feedback Tools](#Design%20Feedback%20Tools)
-- [Design System Tools](#Design%20System%20Tools)
-- [Design to Code Tools](#Design%20to%20Code%20Tools)
-- [Information Architecture](#Information%20Architecture)
-- [Prototyping Tools](#Prototyping%20Tools)
-- [Sound Design](#Sound%20Design)
-- [Stock Videos](#Stock%20Videos)
-- [Tools for Learning Design](#Tools%20for%20Learning%20Design)
-- [UI Design Tools](#UI%20Design%20Tools)
-- [User Research Tools](#User%20Research%20Tools)
-- [Visual Debugging Tools](#Visual%20Debugging%20Tools)
-- [Three D Modeling Software](#Three%20D%20Modeling%20Software)
 
 ---
 

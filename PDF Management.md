@@ -1,3 +1,11 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [PDF Management](#pdf-management)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # PDF Management
 
 - [[OFFICIAL] Cisdem PDF Converter OCR for Mac | OCR Normal and Scanned PDF on Mac](https://www.cisdem.com/pdf-converter-ocr-mac.html)

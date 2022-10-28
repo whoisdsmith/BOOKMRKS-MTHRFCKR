@@ -1,3 +1,18 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [DevOps](#devops)
+  - [Apps](#apps)
+  - [Audio](#audio)
+  - [Cloud Dev](#cloud-dev)
+  - [Decentralized](#decentralized)
+  - [Deployment](#deployment)
+  - [Search](#search)
+  - [Tools](#tools)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # DevOps
 
 - [Hugging Face – The AI community building the future.](https://huggingface.co/)

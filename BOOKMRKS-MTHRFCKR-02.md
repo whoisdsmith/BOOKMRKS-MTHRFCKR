@@ -2,7 +2,6 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [Table of Contents](#table-of-contents)
 - [BOOKMRKS-MTHRFCKR](#bookmrks-mthrfckr)
   - [Audio and Music](#audio-and-music)
     - [Music DL](#music-dl)
