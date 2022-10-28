@@ -70,6 +70,8 @@ Big Shoutout For The OSINT Resources goes out to Dean Da Costa and technisette
 
 
 - [Awesome Design Tools](Awesome%20Design%20Tools.md)
+- [BOOKMRKS-MTHRFCKR](BOOKMRKS-MTHRFCKR.md)
+- [BOOKMRKS-MTHRFCKR-02](BOOKMRKS-MTHRFCKR-02.md)
 - [Content](Content.md)
 	- [Communities](Communities.md)
 	- [Content Blogs, RSS and Feeds](Content%20Blogs,%20RSS%20and%20Feeds.md)
