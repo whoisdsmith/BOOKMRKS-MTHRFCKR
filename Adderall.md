@@ -1,8 +1,3 @@
----
-dg-publish: true
-dg-show-backlinks: true
-dg-show-local-graph: true
----
 # Adderall
 
 - [Enhancement stimulants: perceived motivational and cognitive advantages](https://www.frontiersin.org/articles/10.3389/fnins.2013.00198/full)

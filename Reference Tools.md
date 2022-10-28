@@ -1,8 +1,3 @@
----
-dg-publish: true
-dg-show-backlinks: true
-dg-show-local-graph: true
----
 # Reference Tools
 
 - [RemovePaywall | Free online paywall remover](https://www.removepaywall.com/)

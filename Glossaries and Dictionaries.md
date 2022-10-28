@@ -1,8 +1,3 @@
----
-dg-publish: true
-dg-show-backlinks: true
-dg-show-local-graph: true
----
 # Glossaries and Dictionaries
 
 - [AML Glossary of Terms | ACAMS Trending TopicsACAMS Logo_TM_RGB_DarkACAMS Logo_TM_RGB_Dark](https://www.acams.org/en/resources/aml-glossary-of-terms)

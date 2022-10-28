@@ -1,8 +1,3 @@
----
-dg-publish: true
-dg-show-backlinks: true
-dg-show-local-graph: true
----
 # DevOps
 
 - [Hugging Face – The AI community building the future.](https://huggingface.co/)

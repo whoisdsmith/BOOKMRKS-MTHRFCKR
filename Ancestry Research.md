@@ -1,8 +1,3 @@
----
-dg-publish: true
-dg-show-backlinks: true
-dg-show-local-graph: true
----
 # Ancestry Research
 
 - [MapMy23 Ancestry DNA File Converter](http://www.mapmy23.com/tools/ancestry_ftdna_fix.php)

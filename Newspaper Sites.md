@@ -1,8 +1,3 @@
----
-dg-publish: true
-dg-show-backlinks: true
-dg-show-local-graph: true
----
 # Newspaper Sites
 
 - [Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine](http://archive.org/)

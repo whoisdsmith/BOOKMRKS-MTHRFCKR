@@ -1,8 +1,3 @@
----
-dg-publish: true
-dg-show-backlinks: true
-dg-show-local-graph: true
----
 # Resources
 
 - [the biggest directory of tools on the web (updated daily)](https://tools.et/)

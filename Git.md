@@ -1,8 +1,3 @@
----
-dg-publish: true
-dg-show-backlinks: true
-dg-show-local-graph: true
----
 # Git
 
 - [Shields.io: Quality metadata badges for open source projects](https://shields.io/)

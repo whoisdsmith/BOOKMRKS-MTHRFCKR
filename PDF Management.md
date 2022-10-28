@@ -1,8 +1,3 @@
----
-dg-publish: true
-dg-show-backlinks: true
-dg-show-local-graph: true
----
 # PDF Management
 
 - [[OFFICIAL] Cisdem PDF Converter OCR for Mac | OCR Normal and Scanned PDF on Mac](https://www.cisdem.com/pdf-converter-ocr-mac.html)

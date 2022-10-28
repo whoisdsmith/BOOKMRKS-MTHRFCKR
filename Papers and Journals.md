@@ -1,8 +1,3 @@
----
-dg-publish: true
-dg-show-backlinks: true
-dg-show-local-graph: true
----
 # Papers and Journals
 
 - [cb2Bib | MOLspaces](https://www.molspaces.com/cb2bib/)

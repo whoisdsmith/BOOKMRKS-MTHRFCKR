@@ -1,8 +1,3 @@
----
-dg-publish: true
-dg-show-backlinks: true
-dg-show-local-graph: true
----
 # Academic
 
 - [StuDocu - Free summaries, lecture notes & exam prep](https://www.studocu.com/en-us)

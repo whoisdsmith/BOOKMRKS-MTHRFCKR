@@ -1,8 +1,3 @@
----
-dg-publish: true
-dg-show-backlinks: true
-dg-show-local-graph: true
----
 # Academic and Grey Literature Research Tools
 
 - [ASCE Library](https://ascelibrary.org/)

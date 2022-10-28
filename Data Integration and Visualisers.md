@@ -1,8 +1,3 @@
----
-dg-publish: true
-dg-show-backlinks: true
-dg-show-local-graph: true
----
 # Data Integration and Visualisers
 
 - [Virgilio](https://virgili0.github.io/Virgilio/#table-of-contents)

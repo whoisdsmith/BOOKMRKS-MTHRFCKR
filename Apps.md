@@ -1,8 +1,3 @@
----
-dg-publish: true
-dg-show-backlinks: true
-dg-show-local-graph: true
----
 # Apps
 
 - [A Markdown Editor for the 21st Century - Zettlr](https://zettlr.com/)

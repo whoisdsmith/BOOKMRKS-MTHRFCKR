@@ -1,8 +1,3 @@
----
-dg-publish: true
-dg-show-backlinks: true
-dg-show-local-graph: true
----
 # Ebooks
 
 - [Electronic library. Download books free. Finding books](https://b-ok.xyz/)

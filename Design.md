@@ -1,8 +1,3 @@
----
-dg-publish: true
-dg-show-backlinks: true
-dg-show-local-graph: true
----
 # Design
 
 - [Thingiverse - Digital Designs for Physical Objects](https://www.thingiverse.com/)

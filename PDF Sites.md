@@ -1,8 +1,3 @@
----
-dg-publish: true
-dg-show-backlinks: true
-dg-show-local-graph: true
----
 # PDF Sites
 
 - [Index of /PDF Books](http://ntslibrary.com/PDF%20Books)

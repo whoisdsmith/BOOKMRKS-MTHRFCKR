@@ -1,8 +1,3 @@
----
-dg-publish: true
-dg-show-backlinks: true
-dg-show-local-graph: true
----
 # Grammer/Spelling/Etc
 
 - [Search results for "%s" - Wiktionary](https://en.wiktionary.org/wiki/Special:Search?go=Go&search=%25s)

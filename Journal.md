@@ -1,8 +1,3 @@
----
-dg-publish: true
-dg-show-backlinks: true
-dg-show-local-graph: true
----
 # Journal
 
 - [JournalFlow - Keep a journal in your favorite messaging app.](https://www.journalflow.com/#features)

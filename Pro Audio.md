@@ -1,8 +1,3 @@
----
-dg-publish: true
-dg-show-backlinks: true
-dg-show-local-graph: true
----
 # Pro Audio
 
 - [AudioStrip - The Best Online Vocal Isolator for Free](https://audiostrip.co.uk/)

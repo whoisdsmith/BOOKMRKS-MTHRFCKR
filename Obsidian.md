@@ -1,8 +1,3 @@
----
-dg-publish: true
-dg-show-backlinks: true
-dg-show-local-graph: true
----
 # Obsidian
 
 - [Zerokei/TextConverter: A tool to convert text from obsidian markdown format into mkdocs markfown format.](https://github.com/Zerokei/TextConverter)

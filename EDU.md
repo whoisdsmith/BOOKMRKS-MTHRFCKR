@@ -1,8 +1,3 @@
----
-dg-publish: true
-dg-show-backlinks: true
-dg-show-local-graph: true
----
 # EDU
 
 - [Memory of the World Library](https://library.memoryoftheworld.org/)
