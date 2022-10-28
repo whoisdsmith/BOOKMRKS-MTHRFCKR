@@ -1,5 +1,45 @@
 # WebDev
+---
 
+**TOC**
+
+- [[#Backlinks|Backlinks]]
+- [[#Cloud|Cloud]]
+- [[#Dashboards|Dashboards]]
+	- [[#Dashboards#Dashboard Tools|Dashboard Tools]]
+	- [[#Dashboards#Finding SSL Certificates|Finding SSL Certificates]]
+	- [[#Dashboards#Host-Domains|Host-Domains]]
+	- [[#Dashboards#HTML & CSS|HTML & CSS]]
+	- [[#Dashboards#HTTP|HTTP]]
+		- [[#HTTP#APIs|APIs]]
+		- [[#HTTP#Automation|Automation]]
+		- [[#HTTP#IFTTT|IFTTT]]
+		- [[#HTTP#Resources|Resources]]
+		- [[#HTTP#RSS|RSS]]
+		- [[#HTTP#RSS Tools|RSS Tools]]
+		- [[#HTTP#RSS Indexes and Search Tools|RSS Indexes and Search Tools]]
+		- [[#HTTP#RSS Readers|RSS Readers]]
+		- [[#HTTP#Webhooks|Webhooks]]
+	- [[#Dashboards#Indexing-WebCrawling|Indexing-WebCrawling]]
+	- [[#Dashboards#Inspiration|Inspiration]]
+	- [[#Dashboards#Self-Hosted|Self-Hosted]]
+	- [[#Dashboards#SEO Tools|SEO Tools]]
+	- [[#Dashboards#Server|Server]]
+	- [[#Dashboards#Site Mapping Tools|Site Mapping Tools]]
+	- [[#Dashboards#Web Animation|Web Animation]]
+	- [[#Dashboards#Website|Website]]
+		- [[#Website#Ctrlaltback-space|Ctrlaltback-space]]
+		- [[#Website#BlueHost|BlueHost]]
+		- [[#Website#Project-Audio|Project-Audio]]
+		- [[#Website#Landing Page|Landing Page]]
+		- [[#Website#Static Sites|Static Sites]]
+		- [[#Website#Status Page|Status Page]]
+		- [[#Website#Wordpress Builds|Wordpress Builds]]
+	- [[#Dashboards#Website Monitoring|Website Monitoring]]
+		- [[#Website Monitoring#Monitoring|Monitoring]]
+
+
+---
 - [DEVURL](https://devurl.netlify.app/)
 
 - [WebDev Resources](https://siegblink.github.io/webdev-resources/)

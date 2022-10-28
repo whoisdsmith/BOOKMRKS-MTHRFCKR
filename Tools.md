@@ -1,4 +1,40 @@
 # Tools
+---
+
+**TOC**
+
+- [[#Activity Logging|Activity Logging]]
+- [[#AI Systems|AI Systems]]
+- [[#API Tools|API Tools]]
+- [[#Cloud Services|Cloud Services]]
+- [[#Conversion|Conversion]]
+	- [[#Conversion#Online Conversation|Online Conversation]]
+- [[#Data Visualization|Data Visualization]]
+- [[#Digital Forensics|Digital Forensics]]
+- [[#Generators|Generators]]
+- [[#GItHub Tools|GItHub Tools]]
+- [[#Health|Health]]
+- [[#HTML|HTML]]
+- [[#Java|Java]]
+- [[#JSON|JSON]]
+- [[#Keyword Discovery & Text Analysis|Keyword Discovery & Text Analysis]]
+- [[#Markdown Tools|Markdown Tools]]
+- [[#Media|Media]]
+- [[#Misc|Misc]]
+- [[#Multiple|Multiple]]
+- [[#PDF|PDF]]
+- [[#Productivity|Productivity]]
+- [[#Spreadsheet|Spreadsheet]]
+- [[#Text|Text]]
+	- [[#Text#ASCII|ASCII]]
+- [[#Timeline|Timeline]]
+- [[#Tools|Tools]]
+- [[#Upload|Upload]]
+- [[#Viewers|Viewers]]
+- [[#Writing|Writing]]
+
+
+---
 
 ## Activity Logging
 

@@ -1,4 +1,19 @@
 # Resources
+---
+
+**TOC**
+
+- [[#Dev Design|Dev Design]]
+- [[#Dev Resources|Dev Resources]]
+- [[#Dev Tools|Dev Tools]]
+- [[#Dev Web|Dev Web]]
+- [[#How-To's and Continious Learning|How-To's and Continious Learning]]
+	- [[#How-To's and Continious Learning#Cheetsheet|Cheetsheet]]
+	- [[#How-To's and Continious Learning#Git|Git]]
+	- [[#How-To's and Continious Learning#WP Resources|WP Resources]]
+
+
+---
 
 - [the biggest directory of tools on the web (updated daily)](https://tools.et/)
 
