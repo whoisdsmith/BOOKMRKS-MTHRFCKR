@@ -1,18 +1,13 @@
----
-dg-publish: true
-dg-show-backlinks: true
-dg-show-local-graph: true
----
 # Projects
 
 ---
 
-[[Data Integration and Visualisers]]
+[Data Integration and Visualisers](Data%20Integration%20and%20Visualisers.md)
 
-[[Financial]]
+[Financial](Financial.md)
 
-[[Journal]]
+[Journal](Journal.md)
 
-[[Lifeline Development]]
+[Lifeline Development](Lifeline%20Development.md)
 
 ---

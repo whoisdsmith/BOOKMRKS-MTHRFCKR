@@ -1,18 +1,13 @@
----
-dg-publish: true
-dg-show-backlinks: true
-dg-show-local-graph: true
----
 # The World Wide Web
 
 ---
 
-[[Awesome Internet Finds]]
+[Awesome Internet Finds](Awesome%20Internet%20Finds.md)
 
-[[Browser Related]]
+[Browser Related](Browser%20Related.md)
 
-[[Downloads]]
+[Downloads](Downloads.md)
 
-[[Google]]
+[Google](Google.md)
 
 ---

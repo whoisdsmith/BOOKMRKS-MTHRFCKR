@@ -1,8 +1,3 @@
----
-dg-publish: true
-dg-show-backlinks: true
-dg-show-local-graph: true
----
 # Programming
 
 - [NewReleases.io](https://newreleases.io/)

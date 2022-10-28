@@ -1,46 +1,41 @@
----
-dg-publish: true
-dg-show-backlinks: true
-dg-show-local-graph: true
----
 # Reference
 
 ---
 
-[[Academic]]
+[Academic](Academic.md)
 
-[[Academic and Grey Literature Research Tools]]
+[Academic and Grey Literature Research Tools](Academic%20and%20Grey%20Literature%20Research%20Tools.md)
 
-[[Adderall]]
+[Adderall](Adderall.md)
 
-[[Ancestry Research]]
+[Ancestry Research](Ancestry%20Research.md)
 
-[[Annotation and Highlighting]]
+[Annotation and Highlighting](Annotation%20and%20Highlighting.md)
 
-[[Audio Books]]
+[Audio Books](Audio%20Books.md)
 
-[[DocArticles]]
+[DocArticles](DocArticles.md)
 
-[[Document Checking]]
+[Document Checking](Document%20Checking.md)
 
-[[Ebooks]]
+[Ebooks](Ebooks.md)
 
-[[EDU]]
+[EDU](EDU.md)
 
-[[GrammerSpellingEtc]]
+[GrammerSpellingEtc](GrammerSpellingEtc.md)
 
-[[Learning]]
+[Learning](Learning.md)
 
-[[Newspaper Sites]]
+[Newspaper Sites](Newspaper%20Sites.md)
 
-[[Papers and Journals]]
+[Papers and Journals](Papers%20and%20Journals.md)
 
-[[PDF Management]]
+[PDF Management](PDF%20Management.md)
 
-[[PDF Sites]]
+[PDF Sites](PDF%20Sites.md)
 
-[[Publications]]
+[Publications](Publications.md)
 
-[[Reference Tools]]
+[Reference Tools](Reference%20Tools.md)
 
 ----

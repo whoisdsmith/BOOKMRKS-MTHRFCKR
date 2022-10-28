@@ -1,27 +1,22 @@
----
-dg-publish: true
-dg-show-backlinks: true
-dg-show-local-graph: true
----
 # Awesome Design Tools
 ---
 
 **TOC**
 
-- [[#Collaboration Tools|Collaboration Tools]]
-- [[#Color Picker Tools|Color Picker Tools]]
-- [[#Design Feedback Tools|Design Feedback Tools]]
-- [[#Design System Tools|Design System Tools]]
-- [[#Design to Code Tools|Design to Code Tools]]
-- [[#Information Architecture|Information Architecture]]
-- [[#Prototyping Tools|Prototyping Tools]]
-- [[#Sound Design|Sound Design]]
-- [[#Stock Videos|Stock Videos]]
-- [[#Tools for Learning Design|Tools for Learning Design]]
-- [[#UI Design Tools|UI Design Tools]]
-- [[#User Research Tools|User Research Tools]]
-- [[#Visual Debugging Tools|Visual Debugging Tools]]
-- [[#Three D Modeling Software|Three D Modeling Software]]
+- [Collaboration Tools](#Collaboration%20Tools)
+- [Color Picker Tools](#Color%20Picker%20Tools)
+- [Design Feedback Tools](#Design%20Feedback%20Tools)
+- [Design System Tools](#Design%20System%20Tools)
+- [Design to Code Tools](#Design%20to%20Code%20Tools)
+- [Information Architecture](#Information%20Architecture)
+- [Prototyping Tools](#Prototyping%20Tools)
+- [Sound Design](#Sound%20Design)
+- [Stock Videos](#Stock%20Videos)
+- [Tools for Learning Design](#Tools%20for%20Learning%20Design)
+- [UI Design Tools](#UI%20Design%20Tools)
+- [User Research Tools](#User%20Research%20Tools)
+- [Visual Debugging Tools](#Visual%20Debugging%20Tools)
+- [Three D Modeling Software](#Three%20D%20Modeling%20Software)
 
 ---
 

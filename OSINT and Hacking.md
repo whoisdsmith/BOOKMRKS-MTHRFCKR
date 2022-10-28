@@ -1,9 +1,3 @@
----
-dg-publish: true
-dg-show-backlinks: true
-dg-show-local-graph: true
----
-
 # OSINT and Hacking 
 
 ## OSINT

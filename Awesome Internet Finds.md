@@ -1,8 +1,3 @@
----
-dg-publish: true
-dg-show-backlinks: true
-dg-show-local-graph: true
----
 # Awesome Internet Finds
 
 - [Who Pays Writers?](http://whopayswriters.com/#/results)

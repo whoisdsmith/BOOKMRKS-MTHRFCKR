@@ -1,12 +1,3 @@
----
-dg-publish: true
-dg-home: true
-dg-show-local-graph: true
----
-
-
-
-
 <h1 align="center">BOOKMRKS-MTHRFCKR</h1>
 
 <div align="center">
@@ -73,69 +64,69 @@ Big Shoutout For The OSINT Resources goes out to Dean Da Costa and technisette
 ---
 
 
-- [[Awesome Design Tools]]
-- [[Content]]
-	- [[Communities]]
-	- [[Content Blogs, RSS and Feeds]]
-	- [[Social Media]]
-- [[Development]]
-	- [[Design]]
-	- [[DevOps]]
-	- [[Git]]
-	- [[Programming]]
-	- [[Resources]]
-	- [[WebDev]]
-[[Links from WebOasis]]
-- [[MTHRFCKR]]
-- [[Music]]
-	- [[Music DL]]
-	- [[Pro Audio]]
-- [[OSINT and Hacking]]
-- [[PKMS]]
-	- [[Acronyms and Abbreviations]] 
-	- [[Apps]] 
-	- [[Glossaries and Dictionaries]] 
-	- [[Memex]]
-	- [[Notetaking]]
-	- [[Obsidian]]
-- [[Private Generator Tracker]]
-- [[Projects]]
-	- [[Data Integration and Visualisers]] 
-	- [[Financial]] 
-	- [[Journal]] 
-	- [[Lifeline Development]]
-- [[Raindrops]]
-- [[Reference]]
-	- [[Academic]]
-	- [[Academic and Grey Literature Research Tools]]
-	- [[Adderall]]
-	- [[Ancestry Research]]
-	- [[Annotation and Highlighting]]
-	- [[Audio Books]]
-	- [[DocArticles]]
-	- [[Document Checking]]
-	- [[Ebooks]]
-	- [[EDU]]
-	- [[GrammerSpellingEtc]]
-	- [[Learning]] 
-	- [[Newspaper Sites]]
-	- [[Papers and Journals]]
-	- [[PDF Management]]
-	- [[PDF Sites]] 
-	- [[Publications]]
-	- [[Reference Tools]]
-- [[Search Engines]]
-- [[Social media and photos]]
-- [[Technology]]
-- [[The World Wide Web]]
-	- [[Awesome Internet Finds]]
-	- [[Browser Related]]
-	- [[Downloads]]
-	- [[Google]]
-- [[Tools]]
-- [[UI Graphics]]
-- [[WebDev]]
-- [[YouTube Video  Audio Downloaders]]
+- [Awesome Design Tools](Awesome%20Design%20Tools.md)
+- [Content](Content.md)
+	- [Communities](Communities.md)
+	- [Content Blogs, RSS and Feeds](Content%20Blogs,%20RSS%20and%20Feeds.md)
+	- [Social Media](Social%20Media.md)
+- [Development](Development.md)
+	- [Design](Design.md)
+	- [DevOps](DevOps.md)
+	- [Git](Git.md)
+	- [Programming](Programming.md)
+	- [Resources](Resources.md)
+	- [WebDev](WebDev.md)
+- [Links from WebOasis](Links%20from%20WebOasis.md)
+- [MTHRFCKR](MTHRFCKR.md)
+- [Music](Music.md)
+	- [Music DL](Music%20DL.md)
+	- [Pro Audio](Pro%20Audio.md)
+- [OSINT and Hacking](OSINT%20and%20Hacking.md)
+- [PKMS](PKMS.md)
+	- [Acronyms and Abbreviations](Acronyms%20and%20Abbreviations.md)
+	- [Apps](Apps.md)
+	- [Glossaries and Dictionaries](Glossaries%20and%20Dictionaries.md)
+	- [Memex](Memex.md)
+	- [Notetaking](Notetaking.md)
+	- [Obsidian](Obsidian.md)
+- [Private Generator Tracker](Private%20Generator%20Tracker.md)
+- [Projects](Projects.md)
+	- [Data Integration and Visualisers](Data%20Integration%20and%20Visualisers.md)
+	- [Financial](Financial.md)
+	- [Journal](Journal.md)
+	- [Lifeline Development](Lifeline%20Development.md)
+- [Raindrops](Raindrops.md)
+- [Reference](Reference.md)
+	- [Academic](Academic.md)
+	- [Academic and Grey Literature Research Tools](Academic%20and%20Grey%20Literature%20Research%20Tools.md)
+	- [Adderall](Adderall.md)
+	- [Ancestry Research](Ancestry%20Research.md)
+	- [Annotation and Highlighting](Annotation%20and%20Highlighting.md)
+	- [Audio Books](Audio%20Books.md)
+	- [DocArticles](DocArticles.md)
+	- [Document Checking](Document%20Checking.md)
+	- [Ebooks](Ebooks.md)
+	- [EDU](EDU.md)
+	- [GrammerSpellingEtc](GrammerSpellingEtc.md)
+	- [Learning](Learning.md)
+	- [Newspaper Sites](Newspaper%20Sites.md)
+	- [Papers and Journals](Papers%20and%20Journals.md)
+	- [PDF Management](PDF%20Management.md)
+	- [PDF Sites](PDF%20Sites.md)
+	- [Publications](Publications.md)
+	- [Reference Tools](Reference%20Tools.md)
+- [Search Engines](Search%20Engines.md)
+- [Social media and photos](Social%20media%20and%20photos.md)
+- [Technology](Technology.md)
+- [The World Wide Web](The%20World%20Wide%20Web.md)
+	- [Awesome Internet Finds](Awesome%20Internet%20Finds.md)
+	- [Browser Related](Browser%20Related.md)
+	- [Downloads](Downloads.md)
+	- [Google](Google.md)
+- [Tools](Tools.md)
+- [UI Graphics](UI%20Graphics.md)
+- [WebDev](WebDev.md)
+- [YouTube Video  Audio Downloaders](YouTube%20Video%20%20Audio%20Downloaders.md)
 
 ---
 

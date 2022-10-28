@@ -1,24 +1,19 @@
----
-dg-publish: true
-dg-show-backlinks: true
-dg-show-local-graph: true
----
 # PKMS
 
 ---
 
-[[Acronyms and Abbreviations]]
+[Acronyms and Abbreviations](Acronyms%20and%20Abbreviations.md)
 
-[[Apps]]
+[Apps](Apps.md)
 
-[[Communities]]
+[Communities](Communities.md)
 
-[[Glossaries and Dictionaries]]
+[Glossaries and Dictionaries](Glossaries%20and%20Dictionaries.md)
 
-[[Memex]]
+[Memex](Memex.md)
 
-[[Notetaking]]
+[Notetaking](Notetaking.md)
 
-[[Obsidian]]
+[Obsidian](Obsidian.md)
 
 ---

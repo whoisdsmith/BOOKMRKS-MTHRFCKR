@@ -1,14 +1,9 @@
----
-dg-publish: true
-dg-show-backlinks: true
-dg-show-local-graph: true
----
 # Music
 
 ---
 
-[[Music DL]]
+[Music DL](Music%20DL.md)
 
-[[Pro Audio]]
+[Pro Audio](Pro%20Audio.md)
 
 ----
