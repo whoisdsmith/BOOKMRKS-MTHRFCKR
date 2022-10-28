@@ -1,28 +1,26 @@
+---
+dg-publish: true
+dg-home: true
+dg-show-local-graph: true
+---
 
-![image](https://user-images.githubusercontent.com/9169633/195195009-23cef4cb-e1ca-4d4b-831c-1f7145e66be3.png)
+
+
 
 <h1 align="center">BOOKMRKS-MTHRFCKR</h1>
 
 <div align="center">
 
-  <a href="">![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)</a>
-  <a href="">![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)</a>
-  <a href="">![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)</a>
-  <a href="">![Google Chrome Badge](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=googlechrome&logoColor=fff&style=for-the-badge)</a>
-  <a href="">![Firefox Badge](https://img.shields.io/badge/Firefox-FF7139?logo=firefox&logoColor=fff&style=for-the-badge)</a>
-  <a href="">![Safari Badge](https://img.shields.io/badge/Safari-000?logo=safari&logoColor=fff&style=for-the-badge)</a>
+  <a href="">![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)</a> <a href="">![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)</a> <a href="">![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)</a> <a href="">![Google Chrome Badge](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=googlechrome&logoColor=fff&style=for-the-badge)</a> <a href="">![Firefox Badge](https://img.shields.io/badge/Firefox-FF7139?logo=firefox&logoColor=fff&style=for-the-badge)</a> <a href="">![Safari Badge](https://img.shields.io/badge/Safari-000?logo=safari&logoColor=fff&style=for-the-badge)</a>
 
 
 </div>
 
-
-
-
-
-
+---
 
 <h2 align="center">Information and Inspiration</h2>
 
+---
 
 
 Early Inspiration came from Webby of weboas.is (RIP)
@@ -42,6 +40,8 @@ Big Shoutout For The OSINT Resources goes out to Dean Da Costa and technisette
 
 ---
 <h2 align="center">Notes</h2>
+
+---
 
 **My Old Bookmarking Workflow Was:**
 
@@ -72,29 +72,76 @@ Big Shoutout For The OSINT Resources goes out to Dean Da Costa and technisette
 
 ---
 
-- [BOOKMRKS-MOTHERFCKR](BOOKMRKS-MTHRFCKR.md)  - Entire file (too big to view on Github)
-- [Computer and OS Related](./Computer%20and%20OS%20Related.md)
-- [Content](/Content.md)
-- [Data Related](./Data%20Related.md)
-- [Design](/Design.md)
-- [DevOps](./DevOps.md)
-- [Music](/Music.md)
-- [OSINT](./OSINT.md)
-- [PKMS](./PKMS.md)
-- [Programming](/Programming.md)
-- [Reference](/Reference.md)
-- [Resources](/Resources.md)
-- [Search Engines](./Search%20Engines.md)
-- [The World Wide Web](./The%20World%20Wide%20Web.md)
-- [Tools](./Tools.md)
-- [WebDev](/WebDev.md)
+
+- [[Awesome Design Tools]]
+- [[Content]]
+	- [[Communities]]
+	- [[Content Blogs, RSS and Feeds]]
+	- [[Social Media]]
+- [[Development]]
+	- [[Design]]
+	- [[DevOps]]
+	- [[Git]]
+	- [[Programming]]
+	- [[Resources]]
+	- [[WebDev]]
+[[Links from WebOasis]]
+- [[MTHRFCKR]]
+- [[Music]]
+	- [[Music DL]]
+	- [[Pro Audio]]
+- [[OSINT and Hacking]]
+- [[PKMS]]
+	- [[Acronyms and Abbreviations]] 
+	- [[Apps]] 
+	- [[Glossaries and Dictionaries]] 
+	- [[Memex]]
+	- [[Notetaking]]
+	- [[Obsidian]]
+- [[Private Generator Tracker]]
+- [[Projects]]
+	- [[Data Integration and Visualisers]] 
+	- [[Financial]] 
+	- [[Journal]] 
+	- [[Lifeline Development]]
+- [[Raindrops]]
+- [[Reference]]
+	- [[Academic]]
+	- [[Academic and Grey Literature Research Tools]]
+	- [[Adderall]]
+	- [[Ancestry Research]]
+	- [[Annotation and Highlighting]]
+	- [[Audio Books]]
+	- [[DocArticles]]
+	- [[Document Checking]]
+	- [[Ebooks]]
+	- [[EDU]]
+	- [[GrammerSpellingEtc]]
+	- [[Learning]] 
+	- [[Newspaper Sites]]
+	- [[Papers and Journals]]
+	- [[PDF Management]]
+	- [[PDF Sites]] 
+	- [[Publications]]
+	- [[Reference Tools]]
+- [[Search Engines]]
+- [[Social media and photos]]
+- [[Technology]]
+- [[The World Wide Web]]
+	- [[Awesome Internet Finds]]
+	- [[Browser Related]]
+	- [[Downloads]]
+	- [[Google]]
+- [[Tools]]
+- [[UI Graphics]]
+- [[WebDev]]
+- [[YouTube Video  Audio Downloaders]]
 
 ---
 
 <div align="center">
 
-  <a href="">![raindrop](https://img.shields.io/badge/Raindrop.io-whoisdsmith-blue)</a>
-  <a href="">![GitHub commit activity](https://img.shields.io/github/commit-activity/w/whoisdsmith/BOOKMRKS-MTHRFCKR)</a>
+  <a href="">![raindrop](https://img.shields.io/badge/Raindrop.io-whoisdsmith-blue)</a> <a href="">![GitHub commit activity](https://img.shields.io/github/commit-activity/w/whoisdsmith/BOOKMRKS-MTHRFCKR)</a>
 
 
 </div>
