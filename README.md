@@ -1,15 +1,3 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
-
-- [BOOKMRKS-MTHRFCKR](#bookmrks-mthrfckr)
-  - [Information and Inspiration](#information-and-inspiration)
-  - [Notes](#notes)
-    - [To-Do](#to-do)
-      - [TOC](#toc)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 ![](Pasted%20image%2020221028120944.png)
 
 <h1 align="center">BOOKMRKS-MTHRFCKR</h1>
@@ -158,20 +146,7 @@ Big Shoutout For The OSINT Resources goes out to Dean Da Costa and technisette
 
 ---
 
-<div align="center">
 
-  <a href="">[![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Recent activity [![Time period](https://images.repography.com/28057144/whoisdsmith/BOOKMRKS-MTHRFCKR/recent-activity/830a4a45c6e247eaec363ba774478d52_badge.svg)](https://repography.com)
-[![Timeline graph](https://images.repography.com/28057144/whoisdsmith/BOOKMRKS-MTHRFCKR/recent-activity/830a4a45c6e247eaec363ba774478d52_timeline.svg)](https://github.com/whoisdsmith/BOOKMRKS-MTHRFCKR/commits)
-[![Issue status graph](https://images.repography.com/28057144/whoisdsmith/BOOKMRKS-MTHRFCKR/recent-activity/830a4a45c6e247eaec363ba774478d52_issues.svg)](https://github.com/whoisdsmith/BOOKMRKS-MTHRFCKR/issues)
-[![Pull request status graph](https://images.repography.com/28057144/whoisdsmith/BOOKMRKS-MTHRFCKR/recent-activity/830a4a45c6e247eaec363ba774478d52_prs.svg)](https://github.com/whoisdsmith/BOOKMRKS-MTHRFCKR/pulls)
-[![Trending topics](https://images.repography.com/28057144/whoisdsmith/BOOKMRKS-MTHRFCKR/recent-activity/830a4a45c6e247eaec363ba774478d52_words.svg)](https://github.com/whoisdsmith/BOOKMRKS-MTHRFCKR/commits)
-[![Top contributors](https://images.repography.com/28057144/whoisdsmith/BOOKMRKS-MTHRFCKR/recent-activity/830a4a45c6e247eaec363ba774478d52_users.svg)](https://github.com/whoisdsmith/BOOKMRKS-MTHRFCKR/graphs/contributors)
-[![Activity map](https://images.repography.com/28057144/whoisdsmith/BOOKMRKS-MTHRFCKR/recent-activity/830a4a45c6e247eaec363ba774478d52_map.svg)](https://github.com/whoisdsmith/BOOKMRKS-MTHRFCKR/commits)
-
-</a>
-
-
-</div>
 
 
 ## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Recent activity [![Time period](https://images.repography.com/28057144/whoisdsmith/BOOKMRKS-MTHRFCKR/recent-activity/830a4a45c6e247eaec363ba774478d52_badge.svg)](https://repography.com)
