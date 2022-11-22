@@ -1,0 +1,12 @@
+name: URL Check
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check URLs
+        uses: paramt/url-checker@master
+        with:
+          files: "README.md"
