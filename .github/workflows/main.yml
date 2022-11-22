@@ -7,6 +7,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check URLs
-        uses: paramt/url-checker@main
+        uses: paramt/url-checker@master
         with:
           files: "Academic and Grey Literature Research Tools.md, Academic.md, Acronyms and Abbreviations.md, Adderall.md, Ancestry Research.md, Annotation and Highlighting.md, Apps.md, Audio Books.md, Awesome Design Tools.md, Awesome Internet Finds.md, BOOKMRKS-MTHRFCKR-02.md, BOOKMRKS-MTHRFCKR.md, Browser Related.md, Communities.md, Content Blogs, RSS and Feeds.md, Content.md, Data Integration and Visualisers.md, Design.md, Development.md, DevOps.md, DocArticles.md, Document Checking.md, Downloads.md, Ebooks.md, EDU.md, Financial.md, Git.md, Glossaries and Dictionaries.md"
