@@ -70,7 +70,7 @@ Big Shoutout For The OSINT Resources goes out to Dean Da Costa and technisette
 - [Development](Development.md)
   - [Design](Design.md)
   - [DevOps](DevOps.md)
-  - [Github Related](Github Related.md)
+  - [Github Related](Github%20Related.md)
   - [Programming](Programming.md)
   - [Resources](Resources.md)
   - [WebDev](WebDev.md)
