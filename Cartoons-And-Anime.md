@@ -1,0 +1,151 @@
+---
+title: Cartoons and Anime
+sidebar_label: Anime
+---
+
+- [r/animepiracy](https://www.reddit.com/r/animepiracy) - This sub is about streaming and torrent websites for anime.
+  - [r/animepiracy wiki](https://www.reddit.com/r/animepiracy/wiki/index) - Lists for sourcing Anime streaming sites, manga sites, and more.
+  - [r/AnimePiracy Index](https://docs.zoho.com.au/sheet/open/stzn58acc24611fea414e8901724ff4510fe8/sheets/Anime/ranges/A1) - A Google Docs sheet for Anime websites including background information if page x contains ads, anti-adblock & more.
+- [Nyaa.si](https://nyaa.si/) - Anime torrent search engine with many fansub/fandub groups actively sharing torrents. No ads, no malware, nothing but clean.
+- [Nyaa Pantsu](https://nyaa.net/) - No ads. Very similar to nyaa website.
+  - [Nyaa Pantsu Mirror](https://nyaa.pt/) - No ads. Very similar to nyaa website.
+- [AnYme](https://github.com/zunjae/anYme) - Unofficial Anime App for MyAnimeList.
+- [r/KissCommunitySupport](https://reddit.com/r/KissCommunitySupport) - Official Kiss Community subreddit.
+- [Alternatives to Kiss websites](https://www.removeddit.com/r/KissCartoon/wiki/alternatives) - Wiki page of r/KissCartoon with lots of anime sites.
+- [anime-sharing](http://www.anime-sharing.com/forum/) - Forum for sharing anime.
+- [AniDex](https://anidex.info) - Torrent tracker and indexer, primarily for English fansub groups of anime.
+- [Search via Google for new Animes](https://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8)
+- [r/AnimePiracy BCSE Search](https://ui.customsearch.ai/hosted-page?customconfig=12619b8a-0cac-4a38-b20b-04c79ddb616d&version=latest&market=en-US&q=) - A custom search engine for Anime content.
+- [HakuNeko](https://github.com/manga-download/hakuneko) - A cross-platform downloader for manga and anime from +400 websites. Manga and anime in multiple languages and formats (cbz, folder with images, epub).
+- [YMP4](https://ymp4.download/) - Download videos from YouTube to mp4 & mp3 files, including from places like e.g. Crunchroll.
+- [animetosho](https://animetosho.org/) - AnimeTosho (AT) - is an automated service that mirrors torrents posted on Tokyo Tosho and Nyaa Torrents AniDex onto various file hosting services.
+- [AniRena](https://www.anirena.com/) - Anime torrent website, no ads.
+- [Play Anime](http://127.0.0.1:43110/1AnimePihDhcbVdK1nvnbSEtH4oKU8RAYG/) - You need [ZeroNet](https://zeronet.io/) to see the "website".
+- [Erai-Raws](https://www.erai-raws.info/) - Provides similar service like HorribleSubs.
+- [Beatrice](https://beatrice-raws.org/) - Raw Anime BD rips.
+- [Shana Project](https://www.shanaproject.com/) - Automate your anime downloads.
+- [AnimeDL](https://archive.org/details/animedl4.0_202004) - Stream and download anime in VLC or MPC.
+- [MyAnime.Space](https://myanime.space/) - Anime piracy forum.
+- [Anime OST Packages](http://koe.anime-sharing.com/Packlist/) - Provides anime soundtracks and series.
+- [Anime OST search](https://themes.moe/) - A search engine for anime stuff.
+- [SittingonClouds](https://www.sittingonclouds.net/) - Game & Anime-Soundtracks.
+- [Anime-Loards.org](ttps://www.anime-loads.org) - Anime sharing page.
+
+## streaming
+
+- [9Anime](https://9anime.to) - Watch anime online. English anime, dubbed, subbed.
+- [4anime](https://4anime.to/) - A relatively new site, clean interface, Subs and dubs, many ads, many player alternatives.
+- [Anime8](https://anime8.me/) - Watch & download online in high quality.
+- [GoGoAnime.io](https://www18.gogoanime.io/) - Subs and dubs, many ads, many player alternatives.
+  - [GoGoAnime.video](https://www2.gogoanime.video/) - Popular website for watching anime.
+  - [GoGoAnime.co](https://gogoanimes.co/) - Subs and dubs, many ads, many player alternatives.
+  - [GoGoAnime.in](https://www3.gogoanime.in/) - Popular website for watching anime.
+- [AniLinkz](https://anilinkz.to/) - Large database of streaming anime episodes.
+- [KissCartoon.info](https://kisscartoon.info) - Another site for streaming cartoons with a huge catalog.
+  - [KissCartoon.ac](https://kisscartoon.ac/) - Popular cartoon streaming site.
+    - [Kisscartoon.love](https://www1.kisscartoon.love/) - Kisscartoon alternatives website _made by fans_. Watch HQ cartoons online both cartoon movies and cartoon series online for free.
+- [KissAnime.nz](http://kissanime.nz/) - One of the best places for Animes.
+  - [Kissanime.ac](https://kissanime.ac/) - Large cartoon collection that uses RapidVideo.
+- [KissAsian](http://kissasian.ch/) - Yet another website for Animes.
+- [watchcartoononline.com](https://www.watchcartoononline.com/) - Cartoons, dubbed/subbed anime streaming site.
+  - [watchcartoononline.io](https://www.watchcartoononline.io/) - Outdated site layout, still active.
+  - [WatchCartoonsOnline.la](https://watchcartoonsonline.la/)
+- [Toonova](http://www.toonova.net/) - Another site for streaming cartoons.
+- [AnimePahe](https://animepahe.com/) - A minimilistic anime streaming/download website, subs only.
+- [AnimeRam](https://ww2.animeram.cc/) - A streaming website for dubbed/subbed anime.
+- [AnimeSeries](https://animeseries.co/) - Yet another anime streaming provider website.
+- [AniméVibe](http://animevibe.tv/) - Watch Anime Online Stream Ad-Free.
+- [animetoon](http://www.animetoon.org/) - Lots of streaming via premium hosts for cartoons.
+- [WatchAnime.info](https://www9.watchanime.info/) - Subs and dubs, banner and pop-up ads, multiple sources.
+- [Anime Kisa](https://animekisa.tv/) - Subs and dubs, no ads, funded by donations, self-hosted.
+- [Anime Simple](https://ww1.animesimple.com/) - Subs and dubs, banner ads, multiple sources.
+- [Anime Streams](https://www.anime2you.de/streams/) - Sub and dub, banner ads.
+- [Anime Take](https://animetake.tv/) - Subs and sometimes dubs, banner and pre-roll ads, one source.
+- [AnimeBam.net](https://www.animebam.net/) - Subs only, banner ads, only one source.
+  - [animebam.se](https://www.animebam.se/) - Subs only, banner ads, only one source.
+- [AnimeBorn](http://www.animereborn.io/) - Subs only, banner ads, pop-ins, pop-ups, videos hosted by Google (proxy), only 1 source, downloadable.
+- [AnimeBoys](https://animeboys.net/) - Sometimes offline - Subs and sometimes dubs, banner and pre-roll ads, one source.
+- [Kaze Online](https://www.kaze-online.de/) - Subs and dubs, banner and pop-up ads, multiple sources.
+- [AnimeDao](https://animedao.com/) - No ads, subs only, multiple sources, videos hosted by Google.
+- [Animefever](https://www.animefever.tv/) - Subs only, multilingual, banner ads, self-hosted.
+- [AnimeFlix](https://animeflix.io/nimeflix.io) - Zero ads, streams, background info.
+- [Animeflv](https://animeflv.net/) - (`SP`) - Spanish anime site, subs, dubs and other lewd stuff.
+- [AnimeFreak.TV](https://www.animefreak.tv/) - Subs and sometimes dubs, banner and pre-roll ads, one source.
+- [AnimeHub](https://animehub.ac/) - Sub and dub, banner ads.
+- [AnimeKisa](https://animekisa.com/) - Subs and dubs, no ads, funded by donations, self-hosted.
+- [Animelon](https://animelon.com/) - Subs only, multilingual, no ads, funded by donations, only one source, videos hosted by Google, aimed for Japanese learners.
+- [AnimeRush](https://www.animerush.tv/genres/) - Subs only, pop-ins, one source.
+- [AnimeTV](https://animetv.ge/) - Subs and dubs, banner ads, many player alternatives.
+- [animeultima.eu](https://animeultima.eu/) - Subs and dubs, banner and pop-up ads, multiple sources.
+  - [animeultima.to](https://www1.animeultima.to/) - Yet another good place for Animes.
+  - [animeultima twitter](https://twitter.com/animeultimav2?lang=en) - For latest updates.
+- [AnimeWatch](https://aniwatch.me/) - We are Aniwatch and here you will find an anime haven, including the best user experience you will ever have.
+- [AnimeWorldBD](https://animeworldbd.com/) - Banner ads, some videos can only be downloaded, small list.
+- [Aniwatcher](https://aniwatcher.com/) - Subs and dubs, pop-up ads on video player, downloadable, multiple sources.
+- [Anime Twist](https://twist.moe/) - An anime direct streaming site with a decent UI and video player.
+- [Cartoon Crazy](https://www.cartooncrazy.tv/)
+- [CartoonWire](https://cartoonwire.to/)
+- [Chia-anime](https://www2.chia-anime.cc/)
+- [DaiWEEB](https://www.daiweeb.org/) - Subs only (EN and JP), no ads, only one source, self-hosted, aimed for Japanese learners.
+- [DubbedAnime.net](https://ww5.dubbedanime.net/) - Subs and dubs, banner and pop-up ads, multiple sources.
+  - [DubbedAnime.biz](https://dubbedanime.biz/) - Dubbed animes, large collecction.
+- [EyeOnAnime](https://eyeonanime.tv/) - Subs and dubs, banner ads, uses multiple uploaders/players.
+- [Kawaiifu](https://kawaiifu.com/) - Videos hosted by Google, only one source, style similar to niconico, missing multiple anime.
+- [KickAssAnime.io](https://www11.kickassanime.io/) - Subs and dubs, banner ads, some sources.
+  - [KickAssAnime.rs](https://www.kickassanime.rs/) - (`RU`).
+- [MoviesEver](https://moviesever.com/)
+- [NineAnime](https://www.nineanime.com/)
+- [Randaris Anime](http://randaris.app) - Banner ads, multiple sources, eng & german subs, captcha.
+- [RyuAnime](https://www4.ryuanime.com/) - Dubbed animes.
+- [Serienjunkies](http://serienjunkies.org/) - (GER) - Provides german tv episodes.
+- [SGAnime](https://sganime.org/) - Subs only, no ads, few sources.
+- [NovelPlanet](http://novelplanet.com/)
+- [Tokyo Tosho](https://www.tokyotosho.info/) - Referral banner ads.
+- [TVBox](https://tvbox.unblocked.gdn/)
+- [Your-Anime](https://www.your-anime.com/) - Arabish animes dubbed.
+- [KimCartoon](https://kimcartoon.co/) - Large cartoon collection.
+- [TopCartoons](https://www.topcartoons.tv/) - Watch Online Cartoon Shows for Free. Best Episodes from Childhood Memories Hanna-Barbera, Warner Bros, Walt Disney and More.
+- [Supercartoons](https://www.supercartoons.net/) - Watch Cartoons Online. Here you can Watch old Classical Cartoons like Bugs Bunny, Mickey Mouse, Pink Panther, Tom and Jerry and Many Many More!
+- [b98](https://www.b98.tv/) - Watch Free Classic Cartoons Online (Merrie Melodies, Looney Tunes, Bugs Bunny, Mickey Mouse, Tom and Jerry, Pink Panther and More...)
+- [Full Episodes](http://fullepisodes.biz/) - A alternative to WatchSeries.
+- [serieslan](https://serieslan.com/) - cartoons in Spanish.
+
+## downloading
+
+- [Hi10 Anime](https://hi10anime.com/) - High-Quality 10-bit Anime Encodes.
+- [Anime Kayo](https://animekayo.com/) - Up to 1080p DDL links, mostly Google Drive.
+- [animeEncodes](https://www.animencodes.com/) - High-Quality Anime Encodes.
+- [AnimeOut](https://www.animeout.xyz/) - Over 1000's of Encoded Anime with DDL links.
+- [HorribleSubs](https://horriblesubs.info/) - Download anime via torrent files, magnet links, XDCC, and premium link hosts.
+- [AnimeVibe](https://animevibe.xyz/) - Subs and dubs, no ads, multiple sources, downloadable, funded by donations.
+- [DarkAnime.stream](https://darkanime.stream/) - Subs, no ads, downloadable, some sources.
+- [anime-downloader](https://github.com/vn-ki/anime-downloader) - A simple but powerful anime downloader and streamer.
+- [TheHylia](https://anime.thehylia.com/) - TH's download section offers anime series with all their episodes for download in a very otherwise difficult to get AVI and MKV file forms.
+- [MegatronEncodes](https://www.megatronencodes.com/) - Provides HQ Animes.
+- [AnimK](https://animk.info/) - HQ, BDrips & more.
+- [AnimeKaizoku](https://animekaizoku.com/) - Onclick pop-up ads (NSFW), banner ads, no torrents, GDrive as download source (encodes for donators), has torrent version on nyaa.si tagged as `[AnimeKaizoku]`.
+- [Anime Dimension](https://animedimension.me/)
+- [Animes.so](https://www.animes.so) - (needs registration to see content) - Downloads, DL-Links for all sorts of Animes.
+
+## Apps and Tools
+
+- [9Anime Downloader](https://anonembed.xyz/9anime/) - Download Full Seasons from 9anime.
+- [Monimo](https://monimoapp.netlify.com/) - Netflix like web app for watching animes.
+- [Crunchyroll Downloader/Scraper (Windows/Linux)](https://github.com/ThePBone/CrunchyrollDownloader#crunchyroll-scraper) - Crunchyroll Downloader written (from scratch) - in C++ for Windows and Linux, it uses FFmpeg to download/convert MP4 files and a US proxy to bypass GeoIP blocks.
+- [AnimeGlare](https://animeglare.xyz/) + _[Discord](https://discord.gg/tN8hDNd)_
+- [FireAnime](https://github.com/XenTeckzX/FireAnime) - Chromecast
+- [AnimeXStream](https://github.com/mukul500/AnimeXStream/)
+- [AnimeTwistFlut](https://github.com/simrat39/AnimeTwistFlut/releases)
+- [AnimeDLR](https://cyberneticlifeform.wixsite.com/cylonu87/animedlr) + _[Discord](https://discord.com/invite/wKxRqKc)_
+- [AnimeUltima](https://www1.animeultima.to/app) + _[Discord](https://discord.gg/T3sDrtf)_
+- [AnimeBoya](https://github.com/Tu2l/AnimeBoya)
+- [Animebay](https://animebay.tech/)
+- [AnimeFanz Tube](https://apkpure.com/anime-fanz-tube/com.animefanzapp.tube) - Anime
+- [Animezone](https://animezone.info/) - Anime / [GitHub](https://github.com/spyderbibek/Anime-Zone)
+- [KATSU](https://katsu.pw/) + [Discord](https://discord.gg/gjcy6MQ)
+- [Anime HD 3.0](https://archive.org/details/anime-hd.-3.0)
+- [Anime-DL](https://github.com/sharn25/Anime-DL-Android-Verison) - Download Anime / [Discord](https://discord.gg/Ee3fegN)
+- [NineAnimator](https://nineanimator.marcuszhou.com/) + _[Discord](https://discord.gg/dzTVzeW)_
+- [AnimeGlare](https://apps.apple.com/us/app/animeglare/id1472011019)
+- [AnimeHub](https://apps.apple.com/ca/app/animehub-an-anime-fan-haven/id882620151)
+- [TaiYaKiAnime](https://github.com/Michael24884/TaiYaKiAnime) + _[Discord](https://discord.com/invite/8fzmNSB)_

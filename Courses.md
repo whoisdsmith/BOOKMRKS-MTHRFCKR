@@ -1,0 +1,44 @@
+---
+title: Courses and Tutorials
+sidebar_label: Courses
+---
+
+- [FreeTutorials.eu](https://www.freetutorials.eu/) - Lots of Udemy courses for free; Has Adblock detector.
+- [GFXDomain.net Tutorials board](http://forum.gfxdomain.net/forums/others-tutorials.42/) - Forum with free tutorials for graphic design, mostly via premium file hosts but some torrents.
+- [tpget](https://github.com/0x6a73/tpget) - Tutorialspoint downloader tool.
+- [0Day releases](https://0dayreleases.com/category/video-tutorial/) - 0Day releases for Games, Video Tutorials, TV Shows & more.
+- [CG Persia Forum](https://cgpersia.com/) - EBooks, tutorials & courses.
+- [CGPeers](https://www.cgpeers.com/) - Ebooks, courses and trainings.
+- [Coderprog](https://coderprog.com/) - Developer courses, trainings and books among some tutorial related books.
+- [CourseClub](https://courseclub.me/) - CourseClub provides courses which you can download for e.g. Lynda, Pluralsight, CBG Nuggets & more.
+- [CourseHunter](https://coursehunters.net/) - Free tutorials and video tutorials.
+- [Desire Course](https://desirecourse.net/) - Download Premium Udemy Courses for free.
+- [DownDuck](https://downduck.eu/video-tutorials/) - Various video tutorials for developers.
+- [DownTurk.eu](https://downturk.eu/video-tutorials/) - Developer tutorials and other eBook related stuff.
+- [Ebizcourses.com](https://ebizcourses.com) - A membership site that sharing all the MMO courses from big authors around of the world, all in one place.
+- [eLearning](https://www.torontopubliclibrary.ca) - Cisco, Mango, HSTalks and other eBook courses for free.
+- [ForCoder.su](https://forcoder.su/) - Coding related courses and tutorials.
+- [FreeCourseLab](https://freecourselab.com/) - Download Paid Udemy Courses Free.
+  - [Mirror](https://www.freecoursesonline.me/)
+- [freecoursesite.us](https://freecoursesite.us/) - Download All Udemy Paid Courses And Tutorials Free.
+- [FreeCourse.tech](https://freecourse.tech/) - Alternative to freetutorials.us, provides similar service.
+- [FreeCourses](http://freecoursesite.com/) - Alternative to freetutorials.us, provides similar service.
+- [FTU Forum](https://ftuforum.com/) - Forum for eBooks, Udemy courses and tutorials.
+- [Gigacourse](https://gigacourse.com/) - Gigacourse provides coding courses.
+- [NulledPremium](https://nulledpremium.com/) - Paid Graphics, Themes, Plugins, Music For Free – Premium Graphics, Themes, Plugins, Music for free.
+- [O’Reilly](http://www.oreilly.com/?cmp=af-npa--home_cj_11246204_7018660) - A platform to download books, magazines, and tutorials for free.
+- [s10 BitDownload](http://s10.bitdownload.ir/Learning.2/) - Tutorials, Udemy & and others.
+- [ScanLibs](https://scanlibs.com/) - Provides Android, Assembler, Books, C & other courses.
+- [The Online Books Page](http://digital.library.upenn.edu/books/) - You'll be able to access over 35,000 free ebooks from this site, powered by the University of Pennsylvania.
+- [TutsGalaxy](https://tutsgalaxy.com/) - Free Courses & Tutorials.
+- [udemy-dl](https://github.com/r0oth3x49/udemy-dl) - Udemy course downloader script.
+- [udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) - A cross platform (Windows, Mac, Linux) - desktop application for downloading Udemy Courses.
+- [Tut4dl](https://tut4dl.com/) - Download tutorial and training courses from many paid MOOCs, with categories ranging from Cuisine to Cryptography.
+- [Skillshare-DL](https://github.com/K-E-N-W-A-Y/Skillshare-DL) - Download courses from Skillshare.
+- [skillshare-downloader](https://github.com/kallqvist/skillshare-downloader) - Download courses from Skillshare.
+- [Skill-Share-Crawler---DL](https://github.com/tharyckgusmao/Skill-Share-Crawler---DL) - Crawler to Download videos from the skillshare platform Suport Automatic auth and Manual.
+- [Haxnode](https://haxnode.com/) - Replacement for TutsGalaxy, learn HTML5 and CSS3 fundamentals.
+- [BookFlare](https://bookflare.org/) - Replacement for TutsGalaxy, learn HTML5 and CSS3 fundamentals.
+- [Traning Circle](https://trainingcircle.in/) - (EN-US) - Coding, reversing & other tutorials.
+- [coursera-dl](https://github.com/coursera-dl/coursera-dl) - Script for downloading Coursera.org videos and naming them.
+- [edx-dl](https://github.com/coursera-dl/edx-dl) - A simple tool to download video lectures from edx.org and other openedx sites.

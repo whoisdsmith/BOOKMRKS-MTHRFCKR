@@ -1,0 +1,169 @@
+## ▷ File Tools
+
+- **[File Hosting / Cloud Storage](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_sharing_tools)** - _Share, Store & Sync Files_
+- **[Multi-Site Cloud Storage Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_site_cloud_storage_managers)** - _Manage Cloud Files on Multiple Sites_
+- **[File Download Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_download_managers)**, **[2](https://en.wikipedia.org/wiki/Comparison_of_download_managers)** - _Programs to Help Manage Downloads_
+- **[Windows File Explorers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_file_explorers)** - _Improved Windows File Explorers_
+- **[File Conversion Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_conversion_tools)** - _Tools to convert files_
+- **[Unzip / Compress Files](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_compression_programs)** - _File Unzippers / Compression Programs_
+- **[OneClickRun](https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb)** or [MiXLab](https://colab.research.google.com/github/shirooo39/MiXLab/blob/master/MiXLab.ipynb) - _Google Drive Tools Colab / [GitHub](https://github.com/biplobsd/OneClickRun) / [Features](https://i.imgur.com/hEHM7Vy.png)_
+- **[Mega-to-Google-Drive](https://github.com/cheems/Mega-to-Google-Drive)** - _Transfer Files from Mega to GDrive_
+- **[OpenWith](https://www.openwith.org/)** or [File.org](https://file.org/) - _Programs to Open any File Extension_
+- **[Cyberduck](https://cyberduck.io/)** - _Libre Server / Cloud Storage Browser_
+- **[TeamDrive Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_teamdrive_generators)** - _Create google teamdrives_
+- **[Onedrive Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_onedrive_generators)** - _Generate Microsoft 1tb Onedrives / Free Office 365_
+- **[UDS](https://github.com/stewartmcgown/uds)** - _Unlimited Google Drive storage_
+- **[PDF Editors / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_pdf_editors_.2F_toolkits)**
+- [downloader](https://downloader.la/) or [Hitomi](https://github.com/KurtBestor/Hitomi-Downloader) - _Multi-Site Downloaders_
+- [Telegram File Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_file_tools) - _File Tools for Telegram_
+- [FreeOnlineEditor](https://freeonlineeditor.com/) or [TinyWow](https://tinywow.com/) - _Multiple File Tools_
+- [horsicq](https://horsicq.github.io/) - _Multiple File Programs / [GitHub](https://github.com/horsicq/)_
+- [Pandoc](https://pandoc.org/) or [CometDocs](https://www.cometdocs.com/) - _Document Converter_
+- [Interior Generator](https://powerkdp.com/interior-generator/) / [2](https://designer.bookbolt.io/interior-generator.php) - _Document Interior Generator_
+- [ConvertCSV](https://www.convertcsv.com/) - _CSV Data Conversion_
+- [Encoding Converter](https://encoding-converter.netlify.app/) - _File Encoding Converter_
+- [Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding) - _DataHoarding Tools Index_
+
+- [FileInfo](https://fileinfo.com/) or [File-Extensions](https://www.file-extensions.org/) - _File Extension Library_
+- [download](https://github.com/kevva/download) - _File Download Tool / Extractor / [CLI](https://github.com/kevva/download-cli)_
+- [DropIt](http://www.dropitproject.com/) - _Automated File Management_
+- [What](https://github.com/bee-san/pyWhat) - _Text & File Analyzer_
+- [Download Proxy](https://download-proxy.zhaofengying.com/) - _File Proxy Server Downloader_
+- [Files 2 Folder](https://www.dcmembers.com/skwire/download/files-2-folder/) - _Create / Copy to Folders Created by File Name_
+- [File-Examples](https://file-examples.com/) - _File Examples_
+- [MyPhoneExplorer](https://www.fjsoft.at/) - _Manage / Sync Your Phone with PC_
+- [RollMyFile](https://rollmyfile.com/) - _Open Files Online_
+- [Tmp.Ninja](https://tmp.ninja/) - _Temp File Host (48hrs)_
+- [ozzillate](https://www.ozzillate.com/) - _Transfer Files via Sound_
+- [Cloud Storage Archiving Guide](https://pastebin.com/kLhLHsXg) - _How-to Safely Archive Files on Cloud Storage Sites_
+- [TCPDF](https://tcpdf.org/) / [Git](https://github.com/tecnickcom/tcpdf) or [CrownPDF](https://www.crownpdf.com/) - _PDF Creator_
+- [PDF Host](https://pdfhost.io/) - _Upload, Store and Share PDF Files_
+- [PDFx](https://www.metachris.com/pdfx/) or [Tabula](https://tabula.technology/) - _Extract Info / URLs from PDF_
+- [online2pdf](https://online2pdf.com/), [ToPDF](https://topdf.org/) or [2PDFConverter](https://www.2pdfconverter.com/) - _Convert Files to PDF_
+- [PDFConverter](https://www.pdfconverter.com/) or [PDFconvert](https://docupub.com/pdfconvert/) - _PDF File Convters_
+- [Adobe Compress PDF](https://www.adobe.com/acrobat/online/compress-pdf.html) - _PDF Compressor_
+- [PDF Mergy](https://pdfmerge.w69b.com/) - _Merge PDF Files_
+- [Adobe Word Converter](https://www.adobe.com/acrobat/online/word-to-pdf.html) - _Word to PDF Converter_
+- [VancedPDF](https://vancepdf.com/) or [PDFtoWordConverter](https://www.pdftowordconverter.org/) - _PDF to Word Converter_
+- [Scanned PDF to Doc](https://www.scannedpdftoword.com/) - _Scanned PDF to Doc Converter_
+- [Adobe Excel to PDF](https://www.adobe.com/acrobat/online/excel-to-pdf.html) - _Convert Excel Files to PDF_
+- [JPG-to-PDF](https://github.com/praneetk2704/JPG-to-PDF) [Images to PDF](https://github.com/Swati4star/Images-to-PDF), [JPG2PDFBot](https://t.me/JPG2PDFBot), [Adobe Converter](https://www.adobe.com/acrobat/online/jpg-to-pdf.html) or [img2pdf](https://pypi.org/project/img2pdf/) - _Image to PDF Converter_
+- [PDFmyURL](https://pdfmyurl.com/) - _Convert Web Page to PDF_
+- [PDFCrowd](https://pdfcrowd.com/) or [wkhtmltopdf](https://wkhtmltopdf.org/) - _HTML to PDF / Image Converter_
+- [ShowPDF](http://showpdf.com/) - _PDF to HTML Converter_
+- [PSTOEdit](http://pstoedit.net/) - _Convert PDF to other Vector Formats_
+- [Issuu](https://issuu.com/) - _Convert PDF Files to Webpages, Flipbooks, Brochures & More / [Downloader](https://docdownloader.com/), [2](https://vebuka.com/), [3](https://docdownload.net/)_
+- [WebToPDF](https://webtopdf.com/) - _Webpage to PDF Converter_
+- [PPT To PDF](https://www.adobe.com/acrobat/online/ppt-to-pdf.html) - _Convert PowerPoint to PDF Adobe_
+- [Protect PDF](https://chrome.google.com/webstore/detail/protect-pdf-by-pdfliteco/ehiinfpgjdeejgicaecceplicndinpgb) - _PDF Watermarks_
+- [watermark-remover](https://github.com/cpappen/watermark-remover), [pdf-remove-watermarks](https://github.com/matthiasbock/pdf-remove-watermarks) or [pdf-unstamper](https://github.com/hwding/pdf-unstamper) - _PDF Watermark Remover_
+- [Scan Your PDF](https://www.scanyourpdf.com/) - _Make a PDF look like it was Scanned_
+- [PDF Fixer](https://pdffixer.com/) - _Repair Damaged PDFs_
+- [Google Drive PDF Downloader](https://github.com/zeltox/Google-Drive-PDF-Downloader) - _Download Protected GDrive PDFs_
+- [PDFCoffee](https://pdfcoffee.com/) - _Upload PDF, Word or PowerPoint Files_
+- [Adobe Sign](https://www.adobe.com/acrobat/online/sign-pdf.html) - _Fill & sign a PDF_
+- [megabasterd](https://github.com/tonikelope/megabasterd) - _MEGA Downloader / Uploader / Streaming / Quota Bypass_
+- [megatools](https://megatools.megous.com/) - _Mega.nz CLI_
+- [Mega-Downloader](https://github.com/ZonD80/mega-downloader) - _Mega Download Script_
+- [Mega.nz-Rclone-Index-Heroku](https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku) - _Mega to HTTP_
+- [Keep Mega Alive](https://github.com/3ncod3/keep-mega-alive) - _Mega Account Auto-Login_
+- [MegaKeep](https://github.com/xCryptic/MegaKeep) - _Login to Multiple Mega Accounts_
+- [Mega Checker](https://github.com/Titoot/mega-checker) - _Mega Link Checker_
+- [Unlimited Mega Storage](https://redd.it/ffrkf3) - _Unlimited Mega Storage Guide_
+- [MegaBox](https://github.com/ALIILAPRO/megabox) or [GetMega](http://getmega.net/) - _Direct Mega Links_
+- [MEGA Uploader X](https://t.me/MegaUploadXbot) - _Remote Mega File Upload Bot_
+- [GDrive Guides](https://t.me/gdriveguides) - _GDrive Guides / Discussion / [Support](https://t.me/CloneSupport)_
+- [Torrent2Drive](https://t.me/torrent_2_drive), [Any File to GDrive](https://github.com/cheems/Any-file-to-Google-Drive) or [Bhadoo Cloud Drive](https://github.com/adarsha2003/Bhadoo-Cloud-Drive) - _DDL to GDrive Tool_
+- [Jybe.gg](https://jybe.gg/) - _GDrive File Sync_
+- [GDriveCLI](https://github.com/prasmussen/gdrive) - _GDrive CLI_
+- [GDriveDL](https://github.com/ariakm25/GDriveDL) - _Google Drive Bulk Downloader_
+- [gdrivedl](https://github.com/matthuisman/gdrivedl) - _Google Drive Python Download Script_
+- [GoIndex Downloader](https://github.com/atlonxp/recursive-goIndex-downloader) - _GoIndex to GDrive Downloader_
+- [GDUploadBot](https://t.me/gduploadbot) - _Telegram GDrive Upload Bot_
+- [GDriveSearcherBot](https://github.com/TheHamkerCat/GdriveSearcherBot) - _GDrive Search Bot_
+- [gd-utils](https://github.com/roshanconnor123/gd-utils) / [2](https://nenokkadine.github.io/GD-Utils/) or [Bypass-GDrive](https://yuudrive.me/tools/bypass-gdrive) - _Google Drive Limit Bypass_
+- [G-Index](https://github.com/LeeluPradhan/G-Index), [goindex](https://github.com/alx-xlx/goindex), [GDI](https://github.com/anymeofu/GDI) or [gdrive-index](https://github.com/alx-xlx/gdrive-index) - _Google Drive Index_
+- [Decrypt.Hashhackers](https://decrypt.hashhackers.com/) - _Encrypt / Decrypt GDrive_
+- [GDLeech](https://github.com/AdithyanNellickal/GDLeech), [Direct.GDrive](https://direct.gdrive.vip/en/), [Maulvi](https://maulvi.github.io/), [Google Drive Direct Links](https://greasyfork.org/en/scripts/10052) or [Sharer](https://sharer.pw/) - _Host Direct Links on GDrive_
+- [Copy Google Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_copy_google_drives) - _Make GDrive Copies_
+- [gd-efc](https://anadius.github.io/gd-efc/) - _Copy Encrypted Google Drive_
+- [GD-EFC Link Encryptor](https://rekulous.github.io/gd-efc-encryptor/) - _Google Drive Link Encryptor for GD-EFC_
+- [goodls](https://github.com/tanaikech/goodls) - _Google Drive Downloader_
+- [GDirect](https://www.gdirect.link/), [gdurl](https://gdurl.com/) or [google-drive-direct-link-generator/](https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/) - _Direct GDrive Link Generator_
+- [Folder.GDrive](https://folder.gdrive.vip/) - _GDrive Folder Link Generator_
+- [GDToT](https://gdtot.eu/), [2](https://new.gdtot.eu/) - _GDrive Manager_
+- [GoogleDriveManagerBot](https://t.me/GoogleDriveManagerBo) - _Telegram GDrive Manager_
+- [Backup System](https://github.com/danielpy108/BackUpMySystem) - _Backup Google Drive_
+- [OneDrive CF Index](https://github.com/spencerwooo/onedrive-cf-index) - _OneDrive Index_
+- [OneDrive X](https://t.me/onedrivexbot) - _Remote OneDrive File Upload Bot_
+- [Fix-OneDrive-Zip](https://github.com/pmqs/Fix-OneDrive-Zip) - _Fix OneDrive Zip Files >4gb_
+- [1fichier-dl](https://github.com/manuGMG/1fichier-dl) - _1Fichier Download Manager_
+- [mf-dl](https://gitgud.io/Pyxia/mf-dl/) - _Mediafire Bulk File Downloader_
+- [Treasure Hunt](https://github.com/xuac/treasure-hunt) - _Unlimited Treasure Cloud Storage_
+- [InfiniDrive](https://github.com/nicomda/InfiniDrive) - _Unlimited Cloud Drive using Amazon Prime Photos_
+- [Nextcloud](https://nextcloud.com/) - _Safe data storage / [Unofficial Providers](https://nextcloud.com/signup/)_
+- [Shared Drives Creator Website](https://github.com/MsGsuite/Shared-Drives-Creator-Website) - _Create & host a Shared Drive Generator Website_
+- [File Recovery Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_recovery_tools) - _Data Recovery Tools_
+- [EXIFTool](https://exiftool.org/), [ExtractMetadata](https://www.extractmetadata.com/), [Metadata2Go](https://www.metadata2go.com/) or [Metashield](https://metashieldclean-up.elevenpaths.com/) - _Metadata Viewer / Editor_
+- [IPFS](https://ipfs.io/) - _P2P Hypermedia Protocol / [Extension](https://github.com/ipfs-shipyard/ipfs-companion)_
+- [Awesome-IPFS](https://github.com/ipfs/awesome-ipfs) - _IPFS Resource Index_
+- [IPFS Desktop](https://github.com/ipfs/ipfs-desktop) or [Orion](https://orion.qm64.tech/) - _IPFS Desktop Client_
+- [IPFS Cluster](https://cluster.ipfs.io/) - _Automated data availability and redundancy on IPFS_
+- [AutoRclone](https://drive.google.com/file/d/11yrXPUfWEP6bAeIw0fibjr-JxeWa-1Da/) - _Create Google Service Accounts for RClone / [GitHub](https://github.com/xyou365/AutoRclone) / [Colab](https://github.com/Rekulous/AutoRClone-Colab), [2](https://colab.research.google.com/github/Rekulous/AutoRClone-Colab/blob/main/AutoRClone.ipynb)_
+- [rclone-colab](https://github.com/Pavithran-R/rclone-colab) - _Run Rclone in Colab_
+- [EasyClone](https://github.com/xd003/easyclone) - _Improved RClone Operations Script_
+- [myDrive](https://mydrive-storage.com/) - _Cloud File Storage_
+- [HTTPDirfs](https://github.com/fangfufu/httpdirfs) - _HTTP File System_
+- [FolderClone](http://www.folderclone.com/) - _Clone / Backup Folders_
+- [File Backup Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_backup_tools) - _File / Data Backup Tools_
+- [WebFileBrowser](http://cgdave.github.io/webfilebrowser/) or [filebrowser](https://github.com/filebrowser/filebrowser/) - _Web File Browser_
+- [DocDroid](https://www.docdroid.net/), [DLScrib](https://dlscrib.com/) or [Securedrop](https://securedrop.org/) - _Document File Sharing_
+- [OpenPaper](https://openpaper.work/en/) or [DataShare](https://datashare.icij.org/) - _Document Manager_
+- [Browsemonkey](https://github.com/shukriadams/browsemonkey) - _Take Snapshots of File Systems_
+- [Gdrive Guide-Noob Friendly](https://telegra.ph/Gdrive-Guide-Noob-Friendly-04-10) - _GDrive Guide_
+- [Save to Drive](https://savetogoogledrive.herokuapp.com/) - _Save Files to GDrive without account_
+
+- [gDrive-DirectLink](https://github.com/jagrit007/gDrive-DirectLink) or [google-drive-direct-link-generator](https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/) - _GDrive File Direct Link Generator_
+- [Google Drivac](https://github.com/Data-Horde/gdrivac) - _Associate Gdrive Account with URL List_
+- [Attribute Changer](https://www.petges.lu/) - _Edit File & Folder Properties_
+- [TagSpaces](https://www.tagspaces.org/) - _Add Tags to File and Folders_
+- [Duplicate File Finder](https://www.auslogics.com/en/software/duplicate-file-finder/), [Fast-Duplicate-File-Finder](https://www.mindgems.com/products/Fast-Duplicate-File-Finder/Fast-Duplicate-File-Finder-About.htm), [ashisoft](https://www.ashisoft.com/), [dupscout](https://www.dupscout.com/dupscout_search_duplicate_files.html), [wisecleaner](https://www.wisecleaner.com/wise-duplicate-finder.html), [clonespy](https://www.clonespy.com/), [AllDup](http://www.alldup.info/) or [dupeGuru](https://dupeguru.voltaicideas.net/) - _Duplicate File Finder_
+- [TMSU](https://github.com/oniony/TMSU) or [SuperTag](https://github.com/amoffat/supertag) - _Tag-Based Filesystem_
+- [Bulk File Renamers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_bulk_file_renamers) - _Easily Rename Multiple Files_
+- [MediaMonkey](https://www.mediamonkey.com/), [tinyMediaManager](https://www.tinymediamanager.org/), [Bruji](https://www.bruji.com/) or [MediaInfo](https://mediaarea.net/en/MediaInfo) - _Get Media Info for Video & Audio Files / [Web App](https://overbits.herokuapp.com/mediainfo/)_
+- [File Juggler](https://www.filejuggler.com/) - _Organize Files Automatically_
+- [Shoko](https://github.com/shokoanime) - _Anime Catalog Automation_
+- [Phockup](https://github.com/ivandokov/phockup) - _Organize Photo / Video Files by Date_
+- [WeCompress](https://www.wecompress.com/) or [YouCompress](https://www.youcompress.com/) - _Online File Compressor_
+- [czkawka](https://github.com/qarmin/czkawka) - _Remove Unnecessary Files_
+- [DBAN](https://dban.org/) or [KillDisk](http://killdisk.com/killdisk-home.htm) - _Data Removal Tool_
+- [UnLock IT](https://emcosoftware.com/unlock-it/download), [Lock Hunter](https://lockhunter.com/) or [FileExile](https://sourceforge.net/projects/filexile/) - _File Unlocker / Deleter_
+- [rm\_empty\_subdir](https://gist.github.com/simon987/f5c2cd7602898615ac9bc8c762d9fe1d) - _Remove Empty Sub Directories_
+- [BZSHUT](https://github.com/arunkumartdr/BZSHUT) - _Temp File Deletion Script_
+- [WinMerge](https://winmerge.org/) - _Compare / Merge Files & Folders_
+- [FilesMerge](https://www.filesmerge.com/) - _Online File Merger_
+- [Windows compact](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/compact) - _Displays or alters the compression of files or directories on NTFS partitions + [GUI 1](https://github.com/ImminentFate/CompactGUI) or [GUI 2](https://github.com/Freaky/Compactor)_
+- [Snap2HTML](https://rlvision.com/snap2html/about.php) - _Take HTML Snapshots of Folder / File Structures_
+- [Corrupt My File](http://www.corruptmyfile.com/) or [Corrupt-A-File](https://corrupt-a-file.net/) - _Intentionally Corrupt your Files_
+- [Minissign](https://jedisct1.github.io/minisign/) - _Sign and Verify Signatures_
+- [HashTab](http://implbits.com/products/hashtab/), [HashCheck](https://github.com/idrassi/HashCheck) or [OpenHashTab](https://github.com/namazso/OpenHashTab) - _Calculate / Check File Hashes_
+- [QuickSFV](https://quicksfv.org/), [RapidCRC](http://rapidcrc.sourceforge.net/) or [QuickDash](https://github.com/AndreVuillemot160/QuickDash/) / [Discord](https://discord.gg/ZuxmMXdGpm) - _File Hashing / Verification Tools_
+- [Hashes](https://hashes.com/) - _Decrypt Hashes_
+- [MD5 Hash Changer](https://github.com/ewwink/MD5-Hash-Changer) - _Change a Files MD5 Hash_
+- [SQLite Viewer](https://inloop.github.io/sqlite-viewer/) - _View SQLite Files Online_
+- [MediaInfoOnline](https://mediaarea.net/MediaInfoOnline) - _Media File Info_
+- [Xartifex](http://xartifex.com/) - _Word & Excel File Unlocker_
+- [CalameoDownload](https://calameodownload.com/) - _Download Calameo Docs PDF or Image files_
+- [DFD](https://dfd.inf.tu-dresden.de/) - _Duplicate Document Forensics Test_
+- [filetree](https://github.com/roboyoshi/datacurator-filetree) - _Data Filetree_
+- [Fucking weeb](https://github.com/cosarara/fucking-weeb) - _Anime / TV File Library Manager_
+- [Random Executor](https://sneakysnail.net/random-executor/) - _Random File Executor_
+- [HeavenTools](http://www.heaventools.net/) - _PE File Editor_
+- [AXEL](https://github.com/axel-download-accelerator/axel) - _Lightweight CLI Download Accelerator_
+- [HxD](https://mh-nexus.de/en/hxd/), [Hex Works](https://hex-works.com/eng) or [Hexinator](https://hexinator.com/) - _Hex Editor_
+- [webhex.net](https://en.webhex.net/) - _Online Hex Viewer_
+- [HexEd.it](https://hexed.it/) or [Online Hex Editor](https://www.onlinehexeditor.com/) - _Online Hex Editor_
+- [infekt](https://infekt.ws/) or [NFOmation](https://nfomation.net/) - _NFO File Viewer_
+- [text2img](https://master.ayra.ch/text2img/) - _NFO Files to Image Converter_
+- [Linx Server](https://github.com/andreimarcu/linx-server), [FileCream](https://filecream.com/) or [FileStash](http://www.filestash.app/) - _Self-Hosted Cloud Storage / [Fork](https://github.com/ZizzyDizzyMC/linx-server/)_
+- [Linux Reader](https://www.diskinternals.com/linux-reader/) - _Access Linux Files on Windows_
