@@ -44,6 +44,7 @@ Big Shoutout For The OSINT Resources goes out to Dean Da Costa and technisette
 
 **Update!! I Created a Set of Gitbooks From a Few of My Favorite Bookmarking Sites**
 
+- [AI-MTHRFCKR](https://whoisdsmith.gitbook.io/ai-mf/)
 - [BOOKMRKS-MTHRFCKR](https://fckr.gitbook.io/marx/)
 - [DEV-STAX](https://fckr.gitbook.io/marx/v/dev-stax/)
 - [FMHY](https://fckr.gitbook.io/marx/v/fmhy/)
@@ -60,6 +61,7 @@ Big Shoutout For The OSINT Resources goes out to Dean Da Costa and technisette
 
 ---
 
+- [AI](AI.md)
 - [Awesome Design Tools](Awesome%20Design%20Tools.md)
 - [BOOKMRKS-MTHRFCKR](BOOKMRKS-MTHRFCKR.md)
 - [BOOKMRKS-MTHRFCKR-02](BOOKMRKS-MTHRFCKR-02.md)
