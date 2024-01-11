@@ -26,6 +26,7 @@
 * [netclix](https://github.com/ston3o/netclix) A simple CLI tool to get movie streaming premium links from VodLocker's API
 * [FilePursuit](https://filepursuit.com) ![:star2:](/static/twemoji/1f31f.png) FilePursuit provides a very powerful file indexing and search service allowing you to find a file among millions of files located on web servers.
 * [grayhatwarfare S3 bucket search](https://buckets.grayhatwarfare.com/) Not likely to find much with this one but interesting nonetheless
+* [OpenBuckets](https://openbuckets.io/) - Search public or misconfigured buckets and its contents from all cloud providers (AWS, GCP, IBM, Linode etc).
 * [annie](https://github.com/iawia002/annie) Fast, simple and clean video downloader
 * [aria2](https://aria2.github.io/) a lightweight multi-protocol & multi-source command-line download utility.
 * [Persepolis](https://persepolisdm.github.io/) Front-end for aria2.
